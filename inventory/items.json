@@ -294,25 +294,25 @@
     {
       "id": "HW-0013",
       "category": "electronics_material",
-      "name": "Copper-colored metallic foil tape roll (tentative)",
+      "name": "Conductive tape for paper circuits",
       "manufacturer": null,
       "model": null,
-      "variant": null,
+      "variant": "Adhesive metallic-looking tape used to make conductive traces on paper",
       "quantity": 1,
       "condition": "unknown",
       "location": null,
-      "verification_status": "photo_tentative",
-      "identification_confidence": "medium",
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
       "photo_ids": [
         "P-20261122-003"
       ],
       "connectivity": [],
       "interfaces": [],
       "accessories": [],
-      "notes": "One copper-colored flat metallic-looking tape roll in a zip bag. Likely copper foil tape, possibly for EMI shielding or electronics craft. Copper composition, conductive adhesive, backing, width, and length cannot be confirmed from photograph. Could instead be a related copper-colored material; check packaging or a close-up.",
+      "notes": "One roll of electrically conductive tape for applying onto paper to create conductive paths (paper electronics/paper circuits), as specifically identified by owner. The photo shows a copper-colored roll in a zip bag. Exact metal composition (e.g. copper), tape width, brand, and whether the adhesive itself is electrically conductive remain unknown. Electrical performance was not tested.",
       "source": {
-        "type": "photo",
-        "reference": "P-20261122-003"
+        "type": "user_report",
+        "reference": "User clarified use and type of photographed item P-20261122-003"
       },
       "updated_on": "2026-11-22"
     }

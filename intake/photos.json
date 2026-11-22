@@ -32,11 +32,11 @@
       "processed_on": "2026-11-22",
       "file": null,
       "asset_status": "not_stored",
-      "source_description": "Third uploaded image (image-1795388456392.jpg): copper-colored foil tape-looking roll in zip-top bag.",
+      "source_description": "Third uploaded image (image-1795388456392.jpg): roll of conductive tape intended for paper circuits, as later clarified by owner.",
       "item_ids": [
         "HW-0013"
       ],
-      "notes": "Original image remains a conversation upload; photo binary not committed. Precise material and electrically conductive adhesive are not verified."
+      "notes": "Original image remains a conversation upload; photo binary not committed. Owner confirmed tape is conductive and usable to make paper conductive; composition, adhesive conductivity and width are not established."
     }
   ]
 }

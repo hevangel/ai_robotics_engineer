@@ -1,6 +1,6 @@
 # Hardware inventory — 2026-11-22
 
-**3 records supported by photographs** (2 visually confirmed item types, 1 tentative identification); **10 additional previously reported devices** await photographs. The exact manufacturer's model is not yet confirmed for any of the 3 newly photographed entries.
+**3 records supported by photographs** (2 visually confirmed item types, 1 additionally identified by the owner); **10 additional previously reported devices** await photographs. The exact manufacturer's model is not yet confirmed for any of the 3 newly photographed entries.
 
 ## Photo inventory — batch 001
 
@@ -8,11 +8,11 @@
 | --- | --- | --- | ---: | --- |
 | HW-0011 | Robotics platform | Transparent acrylic 4WD robot car chassis with 4 TT-style geared DC motors and 4 treaded wheels | 1 assembled chassis | Photo verified (generic type; brand unknown) |
 | HW-0012 | Electromechanical component | Quartz clock movement, hand(s) and mounting parts | 1 kit | Photo verified (generic type; brand unknown) |
-| HW-0013 | Electronics material | Copper-colored metallic foil tape roll | 1 roll | Tentative (exact material and adhesive unknown) |
+| HW-0013 | Electronics material | Conductive tape for paper circuits | 1 roll | Owner-confirmed type; material and adhesive specification unknown |
 
 - **Robot component accounting:** Four motors and four wheels are components of HW-0011, **not** eight separate inventory entries. Their presence does not prove they work.
 - **Photo originals:** The images were supplied in the conversation; the GitHub repository has text metadata only. Photo binary files are not stored in GitHub yet.
-- **Next details:** Chassis model and motor supply voltage; clock movement model and battery compartment; tape packaging, width, and whether adhesive is electrically conductive.
+- **Next details:** Chassis model and motor supply voltage; clock movement model and battery compartment; tape brand, metal composition, width, and whether the adhesive itself is conductive.
 
 [Detailed batch notes](batches/2026-11-22-001.md) · [Photo log](../intake/photos.json)
 
@@ -34,8 +34,8 @@
 ## Intake status
 
 - Photos logged: **3**
-- Photo-verified item types: **2**
-- Tentative photo identifications: **1**
+- Photo-verified / owner-confirmed item types: **3**
+- Tentative photo identifications: **0**
 - Previously reported, not yet photo-verified: **10**
 - Total distinct item/lot records: **13**
 - Confirmed in these photos: **3 items/lots** (one chassis containing four visible motors and four wheels)
