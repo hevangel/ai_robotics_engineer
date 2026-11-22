@@ -2,16 +2,33 @@
 
 ## Status at a glance
 
-- **Inventory records:** 25 distinct hardware item/lot records
-- **Records associated with photographs:** 18
-- **Photo-verified / owner-confirmed visible hardware:** 11
-- **Photo-supported but packaging only / tentative:** 7
+- **Inventory records:** 33 distinct hardware item/lot records
+- **Records associated with photographs:** 26
+- **Photo-verified / owner-confirmed visible hardware:** 18
+- **Photo-supported but packaging only / tentative:** 8
 - **Previously reported, not yet photographed:** 7
-- **Photo intake records:** 17
+- **Photo intake records:** 25
 
 These are **record and photo counts**, not counts of verified working devices. A photographed retail box does not establish that electronic contents are present unless separately confirmed.
 
-## Latest batch — 004 (5 photos)
+## Latest batch — 005 (8 photos)
+
+| ID | Item | Quantity | Identification |
+| --- | --- | --- | --- |
+| HW-0026 | Luxonis OpenCV AI Kit (OAK-D probable) | 1 kit | Physical multi-camera board; exact SKU uncertain |
+| HW-0027 | Assorted 4-cell battery holders | 9 holders | Mixed size, empty, wires attached |
+| HW-0028 | Raspberry Pi in black case | 1 board | Exact board model unknown; hosts Sense HAT |
+| HW-0029 | Official Raspberry Pi Sense HAT | 1 HAT | 8×8 RGB LEDs, joystick, environmental/motion sensors |
+| HW-0030 | Raspberry Pi in transparent case | 1 board | Exact board model unknown |
+| HW-0031 | AstroAI DM6000AR multimeter | 1 | Physically photographed; untested |
+| HW-0032 | Raspberry Pi Camera V2, 8MP | 1 box | Package only; module uninspected |
+| HW-0033 | Iomega Zip 250 USB drive | 1 | Physical device with cable; untested |
+
+The **official Sense HAT HW-0029** is fitted to **Raspberry Pi HW-0028**. Another board **HW-0030** is in a fully transparent case. Exact Pi model numbers are unconfirmed until silkscreen or `cat /proc/device-tree/model` can be read; neither unit is presumed to be a previously inventoried Pi.
+
+[Batch 005 detailed evidence](batches/2026-11-22-005.md)
+
+## Earlier batch — 004 (5 photos)
 
 | ID | Item | Quantity | Evidence |
 | --- | --- | --- | --- |

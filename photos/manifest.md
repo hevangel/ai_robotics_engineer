@@ -1,6 +1,6 @@
 # Photo evidence index
 
-**Last updated:** 2026-11-22. **Photos logged: 17.** This file indexes the actual photographs received in the ChatGPT conversation, but **does not contain the JPG images**. Original image assets have not been copied to GitHub. The canonical relationship between photo IDs and hardware IDs is in [the JSON intake log](../intake/photos.json).
+**Last updated:** 2026-11-22. **Photos logged: 25.** This file indexes the actual photographs received in the ChatGPT conversation, but **does not contain the JPG images**. Original image assets have not been copied to GitHub. The canonical relationship between photo IDs and hardware IDs is in [the JSON intake log](../intake/photos.json).
 
 | Photo ID | Conversation image filename | Related hardware ID(s) | Description |
 | --- | --- | --- | --- |
@@ -22,9 +22,18 @@
 | `P-20261122-016` | `1000063148.jpg` | `HW-0022` | BACK of same WiFi Camera HD Video Camera carton, barcode and certification symbols. |
 | `P-20261122-017` | `1000063149.jpg` | `HW-0023`, `HW-0024`, `HW-0025` | two white solderless breadboards of different sizes, smaller one fitted with YwRobot breadboard power module. |
 
+| `P-20261122-018` | `1000063150.jpg` | `HW-0026` | Luxonis / OpenCV AI KIT / DepthAI camera development board, instruction materials, retail box, clear tray |
+| `P-20261122-019` | `1000063151.jpg` | `HW-0027` | Nine black 4-cell battery holders in three-by-three arrangement with red/black leads |
+| `P-20261122-020` | `1000063154.jpg` | `HW-0028`, `HW-0029` | Raspberry Pi in black case with transparent window; fitted Sense HAT array visible at angle |
+| `P-20261122-021` | `1000063153.jpg` | `HW-0028`, `HW-0029` | Top-down image of same Raspberry Pi Sense HAT inside clear-top black case; LEDs, joystick and sensor silkscreen visible |
+| `P-20261122-022` | `1000063152.jpg` | `HW-0030` | Second Raspberry Pi in fully transparent plastic case showing 40-pin GPIO, original-style connectors and internal board |
+| `P-20261122-023` | `1000063157.jpg` | `HW-0031` | AstroAI DM6000AR True RMS 6000-count digital multimeter front face |
+| `P-20261122-024` | `1000063156.jpg` | `HW-0032` | Element14 Raspberry Pi Camera V2 8MP retail package |
+| `P-20261122-025` | `1000063155.jpg` | `HW-0033` | Blue Iomega Zip 250 USB powered drive and attached USB cable |
+
 ## Batch notes
 
-[Batch 001](../inventory/batches/2026-11-22-001.md) · [Batch 002](../inventory/batches/2026-11-22-002.md) · [Batch 003](../inventory/batches/2026-11-22-003.md) · [Batch 004](../inventory/batches/2026-11-22-004.md)
+[Batch 001](../inventory/batches/2026-11-22-001.md) · [Batch 002](../inventory/batches/2026-11-22-002.md) · [Batch 003](../inventory/batches/2026-11-22-003.md) · [Batch 004](../inventory/batches/2026-11-22-004.md) · [Batch 005](../inventory/batches/2026-11-22-005.md)
 
 ## Next action to make the catalog self-contained
 

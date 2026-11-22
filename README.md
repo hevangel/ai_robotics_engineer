@@ -4,15 +4,15 @@ A photo-driven catalog for IoT hardware, Arduino-compatible boards, Raspberry Pi
 
 ## Current inventory snapshot (2026-11-22)
 
-- **25** hardware inventory entries, including kits, enclosures, prototyping equipment and power accessories
-- **17** photographs inspected and logged (some photos show multiple items; some items appear in multiple photos)
-- **18** catalog entries linked to photographs; **7** previously reported items still await photos
-- **Next available hardware ID: `HW-0026`**
-- **Latest update:** Kria KV260, PYNQ-Z2, generic Wi-Fi camera package, two solderless breadboards and YwRobot power module
+- **33** hardware inventory entries, including kits, enclosures, prototyping equipment and power accessories
+- **25** photographs inspected and logged (some photos show multiple items; some items appear in multiple photos)
+- **26** catalog entries linked to photographs; **7** previously reported items still await photos
+- **Next available hardware ID: `HW-0034`**
+- **Latest update:** Luxonis OpenCV AI Kit, nine battery holders, two older Raspberry Pis, official Sense HAT, AstroAI multimeter, Pi Camera V2 and Iomega Zip 250
 
-[Batch 001](inventory/batches/2026-11-22-001.md) · [Batch 002](inventory/batches/2026-11-22-002.md) · [Batch 003](inventory/batches/2026-11-22-003.md) · [Batch 004](inventory/batches/2026-11-22-004.md)
+[Batch 001](inventory/batches/2026-11-22-001.md) · [Batch 002](inventory/batches/2026-11-22-002.md) · [Batch 003](inventory/batches/2026-11-22-003.md) · [Batch 004](inventory/batches/2026-11-22-004.md) · [Batch 005](inventory/batches/2026-11-22-005.md)
 
-**Photo-storage note:** All 17 JPGs are still conversation attachments; the repository currently stores their descriptive evidence log, not their original image binaries. Do not treat filenames in the log as GitHub-hosted images.
+**Photo-storage note:** All 25 JPGs are still conversation attachments; the repository currently stores their descriptive evidence log, not their original image binaries. Do not treat filenames in the log as GitHub-hosted images.
 
 ## Inventory
 

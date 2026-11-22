@@ -207,6 +207,104 @@
         "HW-0025"
       ],
       "notes": "2 breadboards plus 1 independent removable power supply board identified. Approximate breadboard tie point counts; no electrical testing. Original JPG remains chat attachment."
+    },
+    {
+      "id": "P-20261122-018",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Uploaded photo 1000063150.jpg: Luxonis / OpenCV AI KIT / DepthAI camera development board, instruction materials, retail box, clear tray.",
+      "item_ids": [
+        "HW-0026"
+      ],
+      "notes": "Three apparent camera lenses; exact OAK-D board revision unverified. Original conversation JPG not stored in GitHub."
+    },
+    {
+      "id": "P-20261122-019",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Uploaded photo 1000063151.jpg: Nine black 4-cell battery holders in three-by-three arrangement with red/black leads.",
+      "item_ids": [
+        "HW-0027"
+      ],
+      "notes": "All 9 holders have no batteries; exact individual cell sizes not fully legible. Original conversation JPG not stored in GitHub."
+    },
+    {
+      "id": "P-20261122-020",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Uploaded photo 1000063154.jpg: Raspberry Pi in black case with transparent window; fitted Sense HAT array visible at angle.",
+      "item_ids": [
+        "HW-0028",
+        "HW-0029"
+      ],
+      "notes": "Host Raspberry Pi model obscured by case/HAT. Original conversation JPG not stored in GitHub."
+    },
+    {
+      "id": "P-20261122-021",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Uploaded photo 1000063153.jpg: Top-down image of same Raspberry Pi Sense HAT inside clear-top black case; LEDs, joystick and sensor silkscreen visible.",
+      "item_ids": [
+        "HW-0028",
+        "HW-0029"
+      ],
+      "notes": "Same Pi/HAT assembly as photo 020. Official Sense HAT identifiable; host Pi version not legible. Original conversation JPG not stored in GitHub."
+    },
+    {
+      "id": "P-20261122-022",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Uploaded photo 1000063152.jpg: Second Raspberry Pi in fully transparent plastic case showing 40-pin GPIO, original-style connectors and internal board.",
+      "item_ids": [
+        "HW-0030"
+      ],
+      "notes": "No exact model version or RAM marked visibly enough to identify confidently. Original conversation JPG not stored in GitHub."
+    },
+    {
+      "id": "P-20261122-023",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Uploaded photo 1000063157.jpg: AstroAI DM6000AR True RMS 6000-count digital multimeter front face.",
+      "item_ids": [
+        "HW-0031"
+      ],
+      "notes": "Power off, leads not visible; no test performed. Original conversation JPG not stored in GitHub."
+    },
+    {
+      "id": "P-20261122-024",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Uploaded photo 1000063156.jpg: Element14 Raspberry Pi Camera V2 8MP retail package.",
+      "item_ids": [
+        "HW-0032"
+      ],
+      "notes": "Box only; contents not inspected. Original conversation JPG not stored in GitHub."
+    },
+    {
+      "id": "P-20261122-025",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Uploaded photo 1000063155.jpg: Blue Iomega Zip 250 USB powered drive and attached USB cable.",
+      "item_ids": [
+        "HW-0033"
+      ],
+      "notes": "One device in view; condition unknown. Background micro:bit packaging not inventoried. Original conversation JPG not stored in GitHub."
     }
   ]
 }

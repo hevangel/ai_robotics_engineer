@@ -659,6 +659,248 @@
         "reference": "P-20261122-017"
       },
       "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0026",
+      "category": "ai_accelerator",
+      "name": "Luxonis OpenCV AI Kit — stereo AI camera board",
+      "manufacturer": "Luxonis / OpenCV",
+      "model": "OpenCV AI Kit (OAK); OAK-D family probable",
+      "variant": "DepthAI development camera with stereo/depth layout; exact SKU and board revision unverified",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-018"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Three visible camera modules on elongated PCB; exact sensors not confirmed"
+      ],
+      "accessories": [
+        "Brown AI KIT branded cardboard box",
+        "OpenCV AI KIT instruction cards/stickers",
+        "Clear plastic packaging tray"
+      ],
+      "notes": "Physical green camera/AI PCB with 3 apparent camera modules is visible in a molded tray beside OAK/OpenCV AI Kit branding and Luxonis / DepthAI information card. Appearance is consistent with original Luxonis OAK-D (OpenCV AI Kit with Depth), but the PCB model label is not readable. Do not upgrade probable OAK-D to confirmed until close-up reveals board revision. No computer, power supply or operating condition verified. The outer kit and inner components constitute one device/kit record. Product family source: https://github.com/luxonis/oak-hardware.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-018"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0027",
+      "category": "power",
+      "name": "Assorted four-cell battery holders with leads",
+      "manufacturer": null,
+      "model": null,
+      "variant": "Mixed black plastic AA/AAA style spring-contact holders; exact sizes differ/uncertain",
+      "quantity": 9,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-019"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Multiple spring contacts for cylindrical cells",
+        "Red/black two-wire leads; some leads appear stripped"
+      ],
+      "accessories": [],
+      "notes": "Nine distinct empty plastic battery trays counted from photograph (three across top, three center, three bottom). Each appears to have approximately four cell bays. Some molded size text looks like AA and/or AAA; inspect each label before using. Mixed orientations/sizes, several attached red-and-black wires. Count 9 holders, NOT 36 batteries; no batteries are installed. Condition of leads, continuity and polarity untested. Different sizes may warrant splitting into separate lots after inspection.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-019"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0028",
+      "category": "single_board_computer",
+      "name": "Raspberry Pi (older Model B-family) in black Sense HAT case",
+      "manufacturer": "Raspberry Pi",
+      "model": null,
+      "variant": "40-pin GPIO and full-size HDMI Model B-family board; exact Raspberry Pi version/RAM unknown",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-020",
+        "P-20261122-021"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Full-size HDMI and analog AV jack visible at case cutouts",
+        "USB/Ethernet openings",
+        "40-pin GPIO header occupied by Sense HAT"
+      ],
+      "accessories": [
+        "Black Raspberry Pi-logo protective case with clear HAT window",
+        "Official Sense HAT (separately inventoried as HW-0029)"
+      ],
+      "notes": "Physical Raspberry Pi assembled in black case with clear top and an official 8x8 LED Sense HAT. The front and side ports match older Pi Model B-family generations (e.g., B+, 2B or 3B); exact generation is NOT reliably identifiable with HAT and case obstructing the silkscreen. Not a Pi 4/5 based on visible full-size HDMI and micro-USB era connectors. Not assumed to be the SUPERPi unit HW-0016, boxed Pi 4 HW-0001 or unphotographed Pi 5 HW-0002. Need `cat /proc/device-tree/model` or board silkscreen to resolve. Photographed unpowered; no functional claims.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-020; P-20261122-021"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0029",
+      "category": "expansion_board",
+      "name": "Raspberry Pi official Sense HAT",
+      "manufacturer": "Raspberry Pi",
+      "model": "Sense HAT",
+      "variant": "Original-style 2015 8x8 RGB LED / sensor board",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-020",
+        "P-20261122-021"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "40-pin Raspberry Pi GPIO connector",
+        "8×8 RGB LED matrix",
+        "Five-way miniature joystick"
+      ],
+      "accessories": [
+        "Currently fitted to HW-0028"
+      ],
+      "notes": "Official Raspberry Pi Sense HAT confirmed from 8x8 array of white LED packages, five-way joystick, Pi logo and board silkscreen including HUMIDITY, PRESSURE and ACCEL/GYRO/MAG. Contains temperature, pressure, humidity, accelerometer, gyroscope and magnetometer functions. The HAT is a detachable board and has its own inventory ID, while the host Pi remains HW-0028. Functional operation untested. Official docs: https://www.raspberrypi.com/documentation/accessories/sense-hat.html",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-020; P-20261122-021"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0030",
+      "category": "single_board_computer",
+      "name": "Raspberry Pi (older Model B-family) in transparent case",
+      "manufacturer": "Raspberry Pi",
+      "model": null,
+      "variant": "40-pin GPIO, one full-size HDMI, Ethernet and USB; exact board/RAM unverified",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-022"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "40-pin GPIO header",
+        "Full-size HDMI",
+        "3.5 mm audio/video jack",
+        "Camera/display ribbon connector sockets",
+        "USB/Ethernet connector bank"
+      ],
+      "accessories": [
+        "Clear plastic Raspberry Pi enclosure"
+      ],
+      "notes": "Second physically distinct older-generation Raspberry Pi photographed through transparent enclosure, with green board, 40-pin header and classic Model B-family ports. No exact model text or RAM capacity legible, so do not assert Pi 2B, Pi 3B or Pi 1B+. No HAT fitted in image; do not conflate with HW-0028 or existing Pi 4 HW-0001, Pi 5 HW-0002, or SUPERPi HW-0016. Identify later using `cat /proc/device-tree/model` or a photo of PCB model silkscreen. No power-on test.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-022"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0031",
+      "category": "tool",
+      "name": "AstroAI DM6000AR digital multimeter",
+      "manufacturer": "AstroAI",
+      "model": "DM6000AR",
+      "variant": "True-RMS, 6000 counts (front-label markings)",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-023"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "LCD readout",
+        "Rotary selector",
+        "4 input sockets: 10A, µA/mA, COM, voltage/other",
+        "Select, Hold/Backlight, Max/Min, Range, Relative, Hz/Duty buttons"
+      ],
+      "accessories": [],
+      "notes": "One red-and-black AstroAI DM6000AR multimeter directly photographed; name and model legible. Front states True RMS, 6000 counts, CAT III 600V, CAT II 1000V, and input jack safety markings. Test probes are not in the photo and are not assumed included. Device appears off; accuracy, fuses, batteries and safety status untested. Do not infer calibration.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-023"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0032",
+      "category": "camera",
+      "name": "Raspberry Pi Camera Module V2 (8 MP)",
+      "manufacturer": "Raspberry Pi",
+      "model": "Camera V2",
+      "variant": "8 megapixel; element14 retail box",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_tentative",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-024"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "CSI camera ribbon interface (product family; physical module unseen)"
+      ],
+      "accessories": [],
+      "notes": "One element14 retail package clearly printed 'Raspberry Pi Camera V2' and '8MP'. Camera hardware, ribbon cable and contents are not visible; do not assert actual module present or working. Distinct from the unbranded WiFi Camera carton HW-0022 and camera included in Google AIY Vision Kit HW-0006.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-024"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0033",
+      "category": "storage",
+      "name": "Iomega Zip 250 USB external removable-disk drive",
+      "manufacturer": "Iomega",
+      "model": "Zip 250",
+      "variant": "Blue translucent case, USB powered",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-025"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Attached USB cable (plug visible)",
+        "Zip disk cartridge slot/eject area"
+      ],
+      "accessories": [],
+      "notes": "One blue translucent Iomega Zip 250 USB Powered drive photographed, USB lead connected/attached. No Zip disk/media visibly inserted; adapter or cartridges not verified. Exact drive compatibility, working status and contents unknown. Legacy removable storage hardware, not a Raspberry Pi board. An out-of-focus BBC micro:bit package is visible in the background, but not entered because it is incidental and no board is shown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-025"
+      },
+      "updated_on": "2026-11-22"
     }
   ]
 }
