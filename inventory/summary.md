@@ -1,45 +1,56 @@
 # Hardware inventory — 2026-11-22
 
-**3 records supported by photographs** (2 visually confirmed item types, 1 additionally identified by the owner); **10 additional previously reported devices** await photographs. The exact manufacturer's model is not yet confirmed for any of the 3 newly photographed entries.
+## Inventory counts
 
-## Photo inventory — batch 001
+- **Total records:** 17 distinct item/lot records (assemblies and boxed kits are counted once)
+- **Records linked to at least one photo:** 9
+- **Photo-verified visible device or owner-confirmed hardware type:** 5
+- **Photo-supported but only retail packaging seen:** 4
+- **Previously reported, no photo yet:** 8
+- **Photo intake records:** 9
 
-| ID | Category | Hardware / kit | Quantity | Identification |
-| --- | --- | --- | ---: | --- |
-| HW-0011 | Robotics platform | Transparent acrylic 4WD robot car chassis with 4 TT-style geared DC motors and 4 treaded wheels | 1 assembled chassis | Photo verified (generic type; brand unknown) |
-| HW-0012 | Electromechanical component | Quartz clock movement, hand(s) and mounting parts | 1 kit | Photo verified (generic type; brand unknown) |
-| HW-0013 | Electronics material | Conductive tape for paper circuits | 1 roll | Owner-confirmed type; material and adhesive specification unknown |
+**Interpretation:** A retail box establishes the packaging/product label, not proof the box is complete or a device has been tested. No claim is made that any pictured electronic device is working.
 
-- **Robot component accounting:** Four motors and four wheels are components of HW-0011, **not** eight separate inventory entries. Their presence does not prove they work.
-- **Photo originals:** The images were supplied in the conversation; the GitHub repository has text metadata only. Photo binary files are not stored in GitHub yet.
-- **Next details:** Chassis model and motor supply voltage; clock movement model and battery compartment; tape brand, metal composition, width, and whether the adhesive itself is conductive.
+## Latest photo batch — 002
 
-[Detailed batch notes](batches/2026-11-22-001.md) · [Photo log](../intake/photos.json)
-
-## Previously reported, awaiting photo verification
-
-| ID | Category | Previously reported hardware | Status |
+| ID | Item | Evidence | Scope |
 | --- | --- | --- | --- |
-| HW-0001 | SBC | Raspberry Pi 4 Model B, 2 GB | Unverified |
-| HW-0002 | SBC | Raspberry Pi 5, 1 GB | Unverified |
-| HW-0003 | AI accelerator | Coral USB Accelerator | Unverified |
-| HW-0004 | FPGA board | AMD Kria KV260 | Unverified |
-| HW-0005 | Kit | Google AIY Voice Kit | Unverified |
-| HW-0006 | Kit | Google AIY Vision Kit | Unverified |
-| HW-0007 | Drone | Ryze Tello | Unverified |
-| HW-0008 | Controller | Logitech flight joystick (model TBD) | Unverified |
-| HW-0009 | Smart home | Google Nest doorbell (model TBD) | Unverified |
-| HW-0010 | Smart home | Google Nest Wi-Fi camera (model TBD) | Unverified |
+| HW-0006 | Google AIY Vision Kit | Retail box; claims Raspberry Pi included | Package only |
+| HW-0014 | Intel Neural Compute Stick 2 | Retail box; Movidius Myriad X | Package only |
+| HW-0001 | Raspberry Pi 4 Model B, 2 GB RAM | Element14 retail box | Package only |
+| HW-0015 | LCD electronic component / transistor tester | Device visible; blue ZIF socket, display and acrylic enclosure | Device photographed |
+| HW-0016 | Retroflag SUPERPi CASE retro-gaming system | Case visible; owner reports internal Pi 3, '2G' uncertain | Case photographed; internal board unverified |
+| HW-0017 | NXP Rapid IoT Prototyping Kit | Retail box | Package only |
 
-## Intake status
+**Deduplication:** HW-0001 and HW-0006 were already in the inventory; those entries were enriched instead of creating duplicates. The Raspberry Pi mentioned on the AIY Vision Kit package is a component of that kit, **not** counted as a separate owned Raspberry Pi.
 
-- Photos logged: **3**
-- Photo-verified / owner-confirmed item types: **3**
-- Tentative photo identifications: **0**
-- Previously reported, not yet photo-verified: **10**
-- Total distinct item/lot records: **13**
-- Confirmed in these photos: **3 items/lots** (one chassis containing four visible motors and four wheels)
-- Unverified prior-report quantities are **not** counted in physical item totals.
-- Arduino/microcontroller and sensor modules: **awaiting photos** (not assumed absent).
+**SUPERPi CASE:** Owner believes there is a Raspberry Pi 3 with "2G" memory installed, set up for retro gaming. The case is visible but the Pi board is not. Official Raspberry Pi 3 B and B+ models have 1 GB RAM; confirm by checking the internal board or device-reported model before assigning a memory size. [Pi 3 B](https://www.raspberrypi.com/products/raspberry-pi-3-model-b/) · [Pi 3 B+](https://www.raspberrypi.com/products/raspberry-pi-3-model-b-plus/).
 
-See [master JSON](items.json) and [photo log](../intake/photos.json).
+[Detailed batch 002 notes](batches/2026-11-22-002.md) · [Full photo log](../intake/photos.json)
+
+## Earlier photo batch — 001
+
+| ID | Item | Status |
+| --- | --- | --- |
+| HW-0011 | 4WD acrylic robot car chassis kit | Photo/owner-confirmed |
+| HW-0012 | Quartz analog clock movement with hands | Photo/owner-confirmed |
+| HW-0013 | Conductive tape for paper circuits | Photo/owner-confirmed |
+
+[Detailed batch 001 notes](batches/2026-11-22-001.md)
+
+## Previously reported, awaiting photos
+
+| ID | Item | Status |
+| --- | --- | --- |
+| HW-0002 | Raspberry Pi 5 | Awaiting photograph |
+| HW-0003 | Coral USB Accelerator | Awaiting photograph |
+| HW-0004 | Kria KV260 Vision AI Starter Kit | Awaiting photograph |
+| HW-0005 | AIY Voice Kit | Awaiting photograph |
+| HW-0007 | Tello drone | Awaiting photograph |
+| HW-0008 | Flight joystick | Awaiting photograph |
+| HW-0009 | Nest doorbell | Awaiting photograph |
+| HW-0010 | Nest Wi-Fi camera | Awaiting photograph |
+
+## Data and asset handling
+
+Canonical source of truth: [items.json](items.json). Photographs have been inspected in conversation but **original image bytes are not yet stored in the GitHub repository**; see [photos.json](../intake/photos.json) for image filename references and batch mappings. Quantity is recorded as 1 for each visibly present box/device/assembly; unverified accessory counts and standalone component ownership are not inferred.

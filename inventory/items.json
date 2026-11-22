@@ -9,19 +9,21 @@
       "manufacturer": "Raspberry Pi",
       "model": "Raspberry Pi 4 Model B",
       "variant": "2 GB RAM",
-      "quantity": null,
+      "quantity": 1,
       "condition": "unknown",
       "location": null,
-      "verification_status": "reported_unverified",
-      "identification_confidence": "not_assessed",
-      "photo_ids": [],
+      "verification_status": "photo_tentative",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-006"
+      ],
       "connectivity": [],
       "interfaces": [],
       "accessories": [],
-      "notes": "Previously mentioned as owned; visually verify board revision and RAM.",
+      "notes": "One Raspberry Pi 4 Computer Model B 2GB RAM retail box, marked element14, photographed. Previously reported as owned with 2 GB RAM. The retail package label verifies product/variant but no physical board or contents are visible. Quantity one box is confirmed; internal unit presence and operation remain unchecked. Do not count the Raspberry Pi advertised inside HW-0006 as a separate Raspberry Pi 4.",
       "source": {
-        "type": "prior_conversation",
-        "reference": null
+        "type": "photo",
+        "reference": "P-20261122-006"
       },
       "updated_on": "2026-11-22"
     },
@@ -124,19 +126,21 @@
       "manufacturer": "Google",
       "model": "AIY Vision Kit",
       "variant": null,
-      "quantity": null,
+      "quantity": 1,
       "condition": "unknown",
       "location": null,
-      "verification_status": "reported_unverified",
-      "identification_confidence": "not_assessed",
-      "photo_ids": [],
+      "verification_status": "photo_tentative",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-004"
+      ],
       "connectivity": [],
       "interfaces": [],
       "accessories": [],
-      "notes": "Previously mentioned; confirm revision and whether kit is complete.",
+      "notes": "One Google AIY Vision Kit retail package photographed with exact text 'AIY Vision Kit', 'Do-it-yourself intelligent camera', 'Made by you with Google', and 'Raspberry Pi Included'. Previously reported by owner. Packaging is visible, but internal hardware/parts, Raspberry Pi model, completeness and working condition have not been checked. Raspberry Pi advertised inside the kit is counted as part of this kit, not as another standalone Raspberry Pi.",
       "source": {
-        "type": "prior_conversation",
-        "reference": null
+        "type": "photo",
+        "reference": "P-20261122-004"
       },
       "updated_on": "2026-11-22"
     },
@@ -313,6 +317,119 @@
       "source": {
         "type": "user_report",
         "reference": "User clarified use and type of photographed item P-20261122-003"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0014",
+      "category": "ai_accelerator",
+      "name": "Intel Neural Compute Stick 2",
+      "manufacturer": "Intel",
+      "model": "Neural Compute Stick 2",
+      "variant": "Powered by Intel Movidius Myriad X VPU",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_tentative",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-005"
+      ],
+      "connectivity": [
+        "USB (product family; connector not directly observed)"
+      ],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "One blue retail box photographed, clearly printed Intel NEURAL COMPUTE STICK 2 and 'Powered by Intel Movidius Myriad X VPU'. Package only; the compute stick itself, accessories, completeness and functionality are not visible. Distinct from Google's Coral USB Accelerator HW-0003.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-005"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0015",
+      "category": "tool",
+      "name": "LCD multipurpose electronic component tester",
+      "manufacturer": null,
+      "model": null,
+      "variant": "LCR-T4-style tester with ZIF socket, blue pushbutton and LCD display",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-007"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Blue lever-operated ZIF test socket",
+        "LCD display",
+        "Pushbutton"
+      ],
+      "accessories": [
+        "Transparent acrylic case",
+        "Black battery holder (empty in photo)"
+      ],
+      "notes": "One unpowered electronic component/transistor tester assembled in a clear acrylic enclosure. Visible rectangular LCD, blue ZIF test socket with lever, single blue button, and empty battery holder. An LCR-T4 / generic multifunction tester style; exact printed PCB model is not legible and is not confirmed. Measurement capability, battery specification and working condition not tested.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-007"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0016",
+      "category": "retro_gaming_system",
+      "name": "Retro-gaming Raspberry Pi system in SUPERPi CASE",
+      "manufacturer": "Retroflag (case branding)",
+      "model": "SUPERPi CASE (case)",
+      "variant": "Owner thinks Raspberry Pi 3 with 2 GB RAM; Pi model and RAM unverified",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-008"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Front case Power / Eject / Reset controls"
+      ],
+      "accessories": [
+        "SNES-style SUPERPi CASE enclosure"
+      ],
+      "notes": "One grey SNES-inspired SUPERPi CASE with 'RETROFLAG FOR ALL OF US' branding photographed. Owner says a Raspberry Pi is installed and the machine is currently set up for retro gaming; user tentatively recalls 'raspberry pi 3 2G'. Board is NOT visible. Official Raspberry Pi 3 Model B/B+ RAM is 1 GB, so the stated 2 GB may reflect another board or mistaken recollection; do not claim verified Pi 3 or 2 GB. Treat case plus internally reported Raspberry Pi as one assembled device, not two separate inventory units. Operating system/emulator distribution and operational condition have not been observed. References: https://www.raspberrypi.com/products/raspberry-pi-3-model-b/ ; https://www.raspberrypi.com/products/raspberry-pi-3-model-b-plus/ .",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-008"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0017",
+      "category": "electronics_kit",
+      "name": "NXP Rapid IoT Prototyping Kit",
+      "manufacturer": "NXP",
+      "model": "Rapid IoT Prototyping Kit",
+      "variant": null,
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_tentative",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-009"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "One white NXP retail package labeled 'RAPID IOT prototyping kit' photographed, with pictured blue handheld device. Packaging confirms product family only; kit hardware, exact SKU, battery, accessories, completeness and operation not inspected.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-009"
       },
       "updated_on": "2026-11-22"
     }

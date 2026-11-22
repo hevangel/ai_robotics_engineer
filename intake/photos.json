@@ -37,6 +37,78 @@
         "HW-0013"
       ],
       "notes": "Original image remains a conversation upload; photo binary not committed. Owner confirmed tape is conductive and usable to make paper conductive; composition, adhesive conductivity and width are not established."
+    },
+    {
+      "id": "P-20261122-004",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Uploaded photo 1000063141.jpg: Google AIY Vision Kit retail box, Raspberry Pi Included marking.",
+      "item_ids": [
+        "HW-0006"
+      ],
+      "notes": "Contents of box not shown; existing inventory entry reused; kit's included Raspberry Pi is not a standalone board count. Chat image bytes have not been stored in the GitHub repo."
+    },
+    {
+      "id": "P-20261122-005",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Uploaded photo 1000063140.jpg: Intel Neural Compute Stick 2 blue retail box, Movidius Myriad X VPU labeling.",
+      "item_ids": [
+        "HW-0014"
+      ],
+      "notes": "Retail packaging only; stick not visible inside. Chat image bytes have not been stored in the GitHub repo."
+    },
+    {
+      "id": "P-20261122-006",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Uploaded photo 1000063139.jpg: Element14 Raspberry Pi 4 Computer Model B 2GB RAM retail box.",
+      "item_ids": [
+        "HW-0001"
+      ],
+      "notes": "Existing Raspberry Pi 4 2GB entry reused; physical board not visible. Chat image bytes have not been stored in the GitHub repo."
+    },
+    {
+      "id": "P-20261122-007",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Uploaded photo 1000063138.jpg: Generic LCR-T4-style LCD electronic component tester in transparent acrylic enclosure.",
+      "item_ids": [
+        "HW-0015"
+      ],
+      "notes": "ZIF socket, display, button, empty battery holder directly visible; untested. Chat image bytes have not been stored in the GitHub repo."
+    },
+    {
+      "id": "P-20261122-008",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Uploaded photo 1000063137.jpg: Retroflag SUPERPi CASE retro game console enclosure.",
+      "item_ids": [
+        "HW-0016"
+      ],
+      "notes": "Owner reports Raspberry Pi 3 (thinks 2GB) inside; not opened, so board/RAM unverified. Current use: retro gaming. Chat image bytes have not been stored in the GitHub repo."
+    },
+    {
+      "id": "P-20261122-009",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Uploaded photo 1000063136.jpg: NXP Rapid IoT prototyping kit retail box.",
+      "item_ids": [
+        "HW-0017"
+      ],
+      "notes": "Kit pictured on packaging, but hardware itself not visible. Chat image bytes have not been stored in the GitHub repo."
     }
   ]
 }
