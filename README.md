@@ -2,11 +2,24 @@
 
 A photo-driven catalog for IoT hardware, Arduino-compatible boards, Raspberry Pi computers, microcontrollers, sensors, actuators, robotics kits, FPGA boards, development tools, and smart-home devices.
 
+## Current inventory snapshot (2026-11-22)
+
+- **25** hardware inventory entries, including kits, enclosures, prototyping equipment and power accessories
+- **17** photographs inspected and logged (some photos show multiple items; some items appear in multiple photos)
+- **18** catalog entries linked to photographs; **7** previously reported items still await photos
+- **Next available hardware ID: `HW-0026`**
+- **Latest update:** Kria KV260, PYNQ-Z2, generic Wi-Fi camera package, two solderless breadboards and YwRobot power module
+
+[Batch 001](inventory/batches/2026-11-22-001.md) · [Batch 002](inventory/batches/2026-11-22-002.md) · [Batch 003](inventory/batches/2026-11-22-003.md) · [Batch 004](inventory/batches/2026-11-22-004.md)
+
+**Photo-storage note:** All 17 JPGs are still conversation attachments; the repository currently stores their descriptive evidence log, not their original image binaries. Do not treat filenames in the log as GitHub-hosted images.
+
 ## Inventory
 
 - **[Master inventory](inventory/items.json)** — canonical machine-readable item records (one record per distinct item/lot, with quantity when established).
 - **[Inventory summary](inventory/summary.md)** — human-readable index; updated as devices are identified.
 - **[Photo intake log](intake/photos.json)** — links each inspected photo to the IDs found in it.
+- **[Photo evidence index](photos/manifest.md)** — human-readable index of all 17 image filenames and associated inventory records.
 - **[Item data rules](inventory/README.md)** — fields, categories, verification and duplicate handling.
 - **[Photo handling guide](photos/README.md)** — evidence, filenames, privacy and photo storage.
 - **[Agent instructions](AGENTS.md)** — rules for adding new images and updating the catalog.
