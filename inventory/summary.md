@@ -9,7 +9,7 @@
 - **Previously reported, no photo yet:** 8
 - **Photo intake records:** 9
 
-**Interpretation:** A retail box establishes the packaging/product label, not proof the box is complete or a device has been tested. No claim is made that any pictured electronic device is working.
+**Interpretation:** A retail box establishes the packaging/product label, not proof the box is complete or a device has been tested. For HW-0001, the owner specifically checked that the Raspberry Pi 4 board is inside; the other boxes remain unchecked. No claim is made that any pictured electronic device is working.
 
 ## Latest photo batch — 002
 
@@ -17,14 +17,14 @@
 | --- | --- | --- | --- |
 | HW-0006 | Google AIY Vision Kit | Retail box; claims Raspberry Pi included | Package only |
 | HW-0014 | Intel Neural Compute Stick 2 | Retail box; Movidius Myriad X | Package only |
-| HW-0001 | Raspberry Pi 4 Model B, 2 GB RAM | Element14 retail box | Package only |
+| HW-0001 | Raspberry Pi 4 Model B, 2 GB RAM | Element14 retail box; owner checked board is inside | Board presence owner-confirmed; board unphotographed |
 | HW-0015 | LCD electronic component / transistor tester | Device visible; blue ZIF socket, display and acrylic enclosure | Device photographed |
-| HW-0016 | Retroflag SUPERPi CASE retro-gaming system | Case visible; owner reports internal Pi 3, '2G' uncertain | Case photographed; internal board unverified |
+| HW-0016 | Retroflag SUPERPi CASE retro-gaming system | Case visible; owner reports internal Pi 3, 1 GB RAM | Case photographed; Pi model revision uninspected |
 | HW-0017 | NXP Rapid IoT Prototyping Kit | Retail box | Package only |
 
 **Deduplication:** HW-0001 and HW-0006 were already in the inventory; those entries were enriched instead of creating duplicates. The Raspberry Pi mentioned on the AIY Vision Kit package is a component of that kit, **not** counted as a separate owned Raspberry Pi.
 
-**SUPERPi CASE:** Owner believes there is a Raspberry Pi 3 with "2G" memory installed, set up for retro gaming. The case is visible but the Pi board is not. Official Raspberry Pi 3 B and B+ models have 1 GB RAM; confirm by checking the internal board or device-reported model before assigning a memory size. [Pi 3 B](https://www.raspberrypi.com/products/raspberry-pi-3-model-b/) · [Pi 3 B+](https://www.raspberrypi.com/products/raspberry-pi-3-model-b-plus/).
+**SUPERPi CASE:** Owner reports a Raspberry Pi 3 with **1 GB RAM** installed, configured for retro gaming (correcting an earlier '2G' recollection). The case is visible, but the installed Pi PCB/revision has not been inspected. Raspberry Pi 3 B and B+ models are specified with 1 GB RAM. [Pi 3 B](https://www.raspberrypi.com/products/raspberry-pi-3-model-b/) · [Pi 3 B+](https://www.raspberrypi.com/products/raspberry-pi-3-model-b-plus/).
 
 [Detailed batch 002 notes](batches/2026-11-22-002.md) · [Full photo log](../intake/photos.json)
 

@@ -72,7 +72,7 @@
       "item_ids": [
         "HW-0001"
       ],
-      "notes": "Existing Raspberry Pi 4 2GB entry reused; physical board not visible. Chat image bytes have not been stored in the GitHub repo."
+      "notes": "Photograph shows the Raspberry Pi 4 Model B 2GB retail carton, not the PCB. Owner subsequently checked the box and confirmed the board is inside. Chat image bytes have not been stored in the GitHub repo."
     },
     {
       "id": "P-20261122-007",
@@ -96,7 +96,7 @@
       "item_ids": [
         "HW-0016"
       ],
-      "notes": "Owner reports Raspberry Pi 3 (thinks 2GB) inside; not opened, so board/RAM unverified. Current use: retro gaming. Chat image bytes have not been stored in the GitHub repo."
+      "notes": "Photo shows Retroflag SUPERPi CASE, not internal board. Owner reports Pi 3, corrected RAM recollection to 1GB, and retro-gaming configuration. Internal board revision still uninspected. Chat image bytes have not been stored in GitHub."
     },
     {
       "id": "P-20261122-009",

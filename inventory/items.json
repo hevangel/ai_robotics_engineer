@@ -20,10 +20,10 @@
       "connectivity": [],
       "interfaces": [],
       "accessories": [],
-      "notes": "One Raspberry Pi 4 Computer Model B 2GB RAM retail box, marked element14, photographed. Previously reported as owned with 2 GB RAM. The retail package label verifies product/variant but no physical board or contents are visible. Quantity one box is confirmed; internal unit presence and operation remain unchecked. Do not count the Raspberry Pi advertised inside HW-0006 as a separate Raspberry Pi 4.",
+      "notes": "One element14 Raspberry Pi 4 Computer Model B 2GB RAM retail box photographed. Owner subsequently checked that the box contains the board (user-confirmed presence; board not directly photographed). Accessories and operating condition have not been checked. This is the existing HW-0001 board, not a new inventory unit. The Raspberry Pi advertised inside HW-0006 is included with that kit and not counted as a separate standalone Raspberry Pi.",
       "source": {
-        "type": "photo",
-        "reference": "P-20261122-006"
+        "type": "user_report",
+        "reference": "Owner confirmed Raspberry Pi 4 Model B 2GB board is physically inside photographed box P-20261122-006; box association assumed from context"
       },
       "updated_on": "2026-11-22"
     },
@@ -385,7 +385,7 @@
       "name": "Retro-gaming Raspberry Pi system in SUPERPi CASE",
       "manufacturer": "Retroflag (case branding)",
       "model": "SUPERPi CASE (case)",
-      "variant": "Owner thinks Raspberry Pi 3 with 2 GB RAM; Pi model and RAM unverified",
+      "variant": "Raspberry Pi 3, 1 GB RAM (owner-corrected; internal board not visually inspected)",
       "quantity": 1,
       "condition": "unknown",
       "location": null,
@@ -401,10 +401,10 @@
       "accessories": [
         "SNES-style SUPERPi CASE enclosure"
       ],
-      "notes": "One grey SNES-inspired SUPERPi CASE with 'RETROFLAG FOR ALL OF US' branding photographed. Owner says a Raspberry Pi is installed and the machine is currently set up for retro gaming; user tentatively recalls 'raspberry pi 3 2G'. Board is NOT visible. Official Raspberry Pi 3 Model B/B+ RAM is 1 GB, so the stated 2 GB may reflect another board or mistaken recollection; do not claim verified Pi 3 or 2 GB. Treat case plus internally reported Raspberry Pi as one assembled device, not two separate inventory units. Operating system/emulator distribution and operational condition have not been observed. References: https://www.raspberrypi.com/products/raspberry-pi-3-model-b/ ; https://www.raspberrypi.com/products/raspberry-pi-3-model-b-plus/ .",
+      "notes": "One grey SNES-inspired Retroflag SUPERPi CASE photographed. Owner reports Raspberry Pi 3 installed, corrected earlier 2 GB recollection to 1 GB RAM, and says it is currently configured for retro gaming. Raspberry Pi board remains unphotographed; exact Pi 3 revision (Model B vs B+), operating system/emulators and working status untested. Official Raspberry Pi 3 B/B+ models specify 1 GB RAM. Treat case and internal Pi as one assembled system, not two distinct inventory units. References: https://www.raspberrypi.com/products/raspberry-pi-3-model-b/ ; https://www.raspberrypi.com/products/raspberry-pi-3-model-b-plus/ .",
       "source": {
-        "type": "photo",
-        "reference": "P-20261122-008"
+        "type": "user_report",
+        "reference": "Owner corrected memory to 1 GB for SUPERPi housed Pi 3; photo P-20261122-008 shows the case"
       },
       "updated_on": "2026-11-22"
     },
