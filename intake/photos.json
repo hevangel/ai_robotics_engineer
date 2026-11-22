@@ -109,6 +109,42 @@
         "HW-0017"
       ],
       "notes": "Kit pictured on packaging, but hardware itself not visible. Chat image bytes have not been stored in the GitHub repo."
+    },
+    {
+      "id": "P-20261122-010",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Photo 1000063144.jpg shows a RETROFLAG SUPERPi CASE Deluxe Edition retail carton with SNES-like case image, front USB-port depiction and Deluxe Edition marking.",
+      "item_ids": [
+        "HW-0018"
+      ],
+      "notes": "Owner says the newly shown Pi cases are empty (no boards). The actual case is represented by the carton; hardware not shown separately. Treat separately from photographed installed-Pi SUPERPi system HW-0016 provisionally; avoid silently counting the carton as a computer. Original JPG not yet stored in repo."
+    },
+    {
+      "id": "P-20261122-011",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Photo 1000063143.jpg shows a white Raspberry Pi logo plastic enclosure with red lower shell and visible side/front cutouts.",
+      "item_ids": [
+        "HW-0019"
+      ],
+      "notes": "Owner confirms enclosure empty, with no Raspberry Pi board. Adjacent partially visible retail box not sufficiently identified to inventory. Original JPG not yet stored in repo."
+    },
+    {
+      "id": "P-20261122-012",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Photo 1000063142.jpg shows black adjustable universal AC/DC wall adapter with red voltage dial, cable, boxed '18W AC Adapter' and bag of interchangeable DC connector tips.",
+      "item_ids": [
+        "HW-0020"
+      ],
+      "notes": "Adapter is photographed directly; no functional electrical verification. Voltage/polarity/current and plug compatibility not yet verified. Original JPG not yet stored in repo."
     }
   ]
 }

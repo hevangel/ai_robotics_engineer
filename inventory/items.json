@@ -401,7 +401,7 @@
       "accessories": [
         "SNES-style SUPERPi CASE enclosure"
       ],
-      "notes": "One grey Retroflag SUPERPi CASE photographed, housing a Raspberry Pi reportedly configured for retro gaming. Owner believes internal board is Raspberry Pi 3 Model B with 1 GB RAM. Exact model is TENTATIVE, as internal board was not visually inspected. Owner previously corrected RAM recollection from 2 GB to 1 GB; the latter is consistent with Raspberry Pi 3 Model B specification. Operating system, emulator distribution, and physical working status are not independently tested. Do not count case and Pi as separate inventory items.",
+      "notes": "One grey Retroflag SUPERPi CASE photographed, housing a Raspberry Pi reportedly configured for retro gaming. Owner believes internal board is Raspberry Pi 3 Model B with 1 GB RAM. Exact model is TENTATIVE, as internal board was not visually inspected. Owner previously corrected RAM recollection from 2 GB to 1 GB; the latter is consistent with Raspberry Pi 3 Model B specification. Operating system, emulator distribution, and physical working status are not independently tested. Do not count case and Pi as separate inventory items. A later photograph shows a boxed SUPERPi CASE Deluxe Edition that the owner reports is empty, provisionally recorded as separate HW-0018; do not treat that box as proof this earlier retro-gaming unit is empty or double-count without reconciliation.",
       "source": {
         "type": "user_report",
         "reference": "Owner 2026-11-22 tentative correction: 'I think the pi 3 is a b model'; earlier confirmed/revised 1 GB RAM; photo P-20261122-008 is case only"
@@ -430,6 +430,92 @@
       "source": {
         "type": "photo",
         "reference": "P-20261122-009"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0018",
+      "category": "accessory",
+      "name": "Retroflag SUPERPi CASE Deluxe Edition — empty Raspberry Pi enclosure",
+      "manufacturer": "Retroflag",
+      "model": "SUPERPi CASE Deluxe Edition",
+      "variant": "SNES-inspired enclosure; no Raspberry Pi board included in this particular case (owner-confirmed)",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-010"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Front USB port cutouts depicted on packaging (2)"
+      ],
+      "accessories": [],
+      "notes": "One SUPERPi CASE Deluxe Edition retail carton photographed, label visible. Owner confirms this case is EMPTY and contains no Raspberry Pi board. Do not count it as a separate Raspberry Pi computer. Tentatively cataloged as a separate spare case from the earlier pictured retro-gaming SUPERPi setup HW-0016, which the owner previously described as containing a Pi 3 Model B (1GB); whether the boxed deluxe case is related to or duplicates the earlier pictured enclosure can be reconciled in a future photo. The box illustration itself is not evidence that hardware is present or working.",
+      "source": {
+        "type": "user_report",
+        "reference": "Photo P-20261122-010 and owner clarification: 'The two pi case are empty. No board in it'."
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0019",
+      "category": "accessory",
+      "name": "Official-style Raspberry Pi white-and-red case — empty",
+      "manufacturer": "Raspberry Pi (logo/branding)",
+      "model": null,
+      "variant": "White top with red lower shell; exact compatible Raspberry Pi model unverified",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-011"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Visible exterior cutouts for Raspberry Pi ports; precise cutout mapping not confirmed"
+      ],
+      "accessories": [],
+      "notes": "One small white Raspberry Pi-logo case with red lower shell is photographed. Owner confirms it is EMPTY with no Raspberry Pi computer installed. Exact version, compatibility (Pi 3 versus other Pi boards), and completeness of case parts unknown; classify as enclosure only, not an SBC. An adjacent partly visible product box marked USB controller is NOT cataloged because model/count/ownership is unclear.",
+      "source": {
+        "type": "user_report",
+        "reference": "Photo P-20261122-011 and owner clarification: 'The two pi case are empty. No board in it'."
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0020",
+      "category": "power",
+      "name": "18 W adjustable universal AC/DC adapter kit",
+      "manufacturer": null,
+      "model": null,
+      "variant": "Wall-plug power adapter, selectable output voltage, assorted interchangeable tips",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-012"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "North American two-prong wall plug",
+        "Barrel-style DC output lead / connector",
+        "Red rotary voltage-selection switch"
+      ],
+      "accessories": [
+        "Bag of interchangeable output connector tips (count not confidently established)",
+        "Cardboard retail box marked '18W AC Adapter'"
+      ],
+      "notes": "One black wall-plug adjustable-output universal adapter labeled 'UNIVERSAL AC ADAPTER' with red voltage selection dial, attached lead and several plug tips in a clear bag. Box marked '18W AC Adapter'. Exact output voltage settings, polarity, current rating, manufacturer and working condition must be verified directly from clear label photos before powering anything. Do not treat 18 W as a fixed voltage or infer compatibility with Raspberry Pi devices. Black adapter and tips photographed directly.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-012"
       },
       "updated_on": "2026-11-22"
     }

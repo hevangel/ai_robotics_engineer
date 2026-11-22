@@ -2,55 +2,65 @@
 
 ## Inventory counts
 
-- **Total records:** 17 distinct item/lot records (assemblies and boxed kits are counted once)
-- **Records linked to at least one photo:** 9
-- **Photo-verified visible device or owner-confirmed hardware type:** 5
-- **Photo-supported but only retail packaging seen:** 4
-- **Previously reported, no photo yet:** 8
-- **Photo intake records:** 9
+- **Total records:** 20 item/lot records (includes a provisional potential duplicate case; see HW-0018)
+- **Records associated with photographs:** 12
+- **Photo-verified/owner-confirmed item types:** 8
+- **Tentative/packaging-only identification records:** 4
+- **Previously reported, not yet photographed:** 8
+- **Photos logged:** 12
 
-**Interpretation:** A retail box establishes the packaging/product label, not proof the box is complete or a device has been tested. For HW-0001, the owner specifically checked that the Raspberry Pi 4 board is inside; the other boxes remain unchecked. No claim is made that any pictured electronic device is working.
+These counts are **inventory record counts**, not a reliable total of functional computers. A pictured box does not establish that contents are complete or working.
 
-## Latest photo batch — 002
+## Latest batch — 003 (3 new photos)
 
-| ID | Item | Evidence | Scope |
-| --- | --- | --- | --- |
-| HW-0006 | Google AIY Vision Kit | Retail box; claims Raspberry Pi included | Package only |
-| HW-0014 | Intel Neural Compute Stick 2 | Retail box; Movidius Myriad X | Package only |
-| HW-0001 | Raspberry Pi 4 Model B, 2 GB RAM | Element14 retail box; owner checked board is inside | Board presence owner-confirmed; board unphotographed |
-| HW-0015 | LCD electronic component / transistor tester | Device visible; blue ZIF socket, display and acrylic enclosure | Device photographed |
-| HW-0016 | Retroflag SUPERPi CASE retro-gaming system | Case visible; owner tentatively identifies internal Pi 3 Model B, 1 GB RAM | Case photographed; Pi 3B model not visually verified |
-| HW-0017 | NXP Rapid IoT Prototyping Kit | Retail box | Package only |
+| ID | Item | Count | Status |
+| --- | --- | ---: | --- |
+| HW-0018 | Retroflag SUPERPi CASE Deluxe Edition | 1 case | Owner confirms **empty; no Pi board**; box shown; possible overlap with HW-0016 |
+| HW-0019 | White/red Raspberry Pi-branded case | 1 case | Owner confirms **empty; no Pi board** |
+| HW-0020 | 18 W adjustable AC/DC adapter kit with connector tips | 1 kit | Adapter and tips photographed; electrical operation untested |
 
-**Deduplication:** HW-0001 and HW-0006 were already in the inventory; those entries were enriched instead of creating duplicates. The Raspberry Pi mentioned on the AIY Vision Kit package is a component of that kit, **not** counted as a separate owned Raspberry Pi.
+**Important:** HW-0016 is the older SUPERPi retro-gaming system, which the owner previously described as containing a Raspberry Pi 3 Model B (tentative) with 1 GB RAM. The newly boxed HW-0018 case is **not** assumed to be that same unit, and its emptiness is not used to erase the earlier report. If the boxed case is actually the same physical enclosure as HW-0016, merge/reconcile those records after confirmation.
 
-**SUPERPi CASE:** Owner believes the installed board is a **Raspberry Pi 3 Model B, 1 GB RAM**, configured for retro gaming (correcting an earlier '2G' recollection). The **Model B** identification remains tentative until the board markings or OS-reported model are checked; only the enclosure is photographed. [Pi 3 B](https://www.raspberrypi.com/products/raspberry-pi-3-model-b/) · [Pi 3 B+](https://www.raspberrypi.com/products/raspberry-pi-3-model-b-plus/).
+[Detailed batch 003 notes](batches/2026-11-22-003.md)
 
-[Detailed batch 002 notes](batches/2026-11-22-002.md) · [Full photo log](../intake/photos.json)
+## Earlier batch — 002
 
-## Earlier photo batch — 001
-
-| ID | Item | Status |
+| ID | Item | Evidence / caveat |
 | --- | --- | --- |
-| HW-0011 | 4WD acrylic robot car chassis kit | Photo/owner-confirmed |
-| HW-0012 | Quartz analog clock movement with hands | Photo/owner-confirmed |
-| HW-0013 | Conductive tape for paper circuits | Photo/owner-confirmed |
+| HW-0006 | Google AIY Vision Kit | Retail box, contents unchecked |
+| HW-0014 | Intel Neural Compute Stick 2 | Retail box, stick unverified inside |
+| HW-0001 | Raspberry Pi 4 Model B 2 GB | Owner checked board is inside box |
+| HW-0015 | LCD electronic component tester | Device photographed, untested |
+| HW-0016 | SUPERPi retro-gaming system | Case photographed, internal Pi 3 Model B 1 GB reported, board uninspected |
+| HW-0017 | NXP Rapid IoT Prototyping Kit | Retail box, kit contents unchecked |
+
+[Detailed batch 002 notes](batches/2026-11-22-002.md)
+
+## Earlier batch — 001
+
+| ID | Item | Evidence |
+| --- | --- | --- |
+| HW-0011 | 4WD acrylic robot chassis | Photo verified |
+| HW-0012 | Quartz analog clock movement | Photo verified |
+| HW-0013 | Conductive tape for paper circuits | Owner-confirmed function, photographed roll |
 
 [Detailed batch 001 notes](batches/2026-11-22-001.md)
 
 ## Previously reported, awaiting photos
 
-| ID | Item | Status |
-| --- | --- | --- |
-| HW-0002 | Raspberry Pi 5 | Awaiting photograph |
-| HW-0003 | Coral USB Accelerator | Awaiting photograph |
-| HW-0004 | Kria KV260 Vision AI Starter Kit | Awaiting photograph |
-| HW-0005 | AIY Voice Kit | Awaiting photograph |
-| HW-0007 | Tello drone | Awaiting photograph |
-| HW-0008 | Flight joystick | Awaiting photograph |
-| HW-0009 | Nest doorbell | Awaiting photograph |
-| HW-0010 | Nest Wi-Fi camera | Awaiting photograph |
+| ID | Item |
+| --- | --- |
+| HW-0002 | Raspberry Pi 5 |
+| HW-0003 | Coral USB Accelerator |
+| HW-0004 | Kria KV260 Vision AI Starter Kit |
+| HW-0005 | AIY Voice Kit |
+| HW-0007 | Tello drone |
+| HW-0008 | Flight joystick |
+| HW-0009 | Nest doorbell |
+| HW-0010 | Nest Wi-Fi camera |
 
 ## Data and asset handling
 
-Canonical source of truth: [items.json](items.json). Photographs have been inspected in conversation but **original image bytes are not yet stored in the GitHub repository**; see [photos.json](../intake/photos.json) for image filename references and batch mappings. Quantity is recorded as 1 for each visibly present box/device/assembly; unverified accessory counts and standalone component ownership are not inferred.
+[Canonical inventory JSON](items.json) · [Photo intake log](../intake/photos.json)
+
+The original photos are still conversation uploads; this GitHub commit records item IDs, descriptions, and photo filenames **without copying the original JPG binaries**. Accessories and components belonging to a kit are not counted as separate complete computers or kits.
