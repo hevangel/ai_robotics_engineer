@@ -1,5 +1,42 @@
 {
   "schema_version": "1.0",
   "updated_on": "2026-11-22",
-  "photos": []
+  "photos": [
+    {
+      "id": "P-20261122-001",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "First uploaded image (image-1795388441404.jpg): transparent 4WD robot car chassis with mounted yellow geared motors and black/yellow wheels.",
+      "item_ids": [
+        "HW-0011"
+      ],
+      "notes": "Original image remains a conversation upload; photo binary not committed. Chassis and motor/wheel counts can be seen; no controller/power unit visible."
+    },
+    {
+      "id": "P-20261122-002",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Second uploaded image (image-1795388451458.jpg): black quartz analog clock movement and associated hands and mount parts in clear bag.",
+      "item_ids": [
+        "HW-0012"
+      ],
+      "notes": "Original image remains a conversation upload; photo binary not committed. Printed model details not visible."
+    },
+    {
+      "id": "P-20261122-003",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Third uploaded image (image-1795388456392.jpg): copper-colored foil tape-looking roll in zip-top bag.",
+      "item_ids": [
+        "HW-0013"
+      ],
+      "notes": "Original image remains a conversation upload; photo binary not committed. Precise material and electrically conductive adhesive are not verified."
+    }
+  ]
 }

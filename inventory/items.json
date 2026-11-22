@@ -231,6 +231,90 @@
         "reference": null
       },
       "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0011",
+      "category": "robotics_platform",
+      "name": "4WD acrylic robot car chassis kit",
+      "manufacturer": null,
+      "model": null,
+      "variant": "Four-wheel-drive robot car platform with TT-style gearmotors",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-001"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [
+        "4 × mounted yellow TT-style brushed DC gearmotors",
+        "4 × black treaded tires with yellow plastic wheel hubs",
+        "Transparent acrylic chassis plates",
+        "Metal standoffs, screws, and motor mounting hardware (exact counts unknown)"
+      ],
+      "notes": "One partially assembled 4-wheel robot chassis is visible. Counted as a single assembled platform rather than adding motors/wheels as independent owned devices. No batteries, controller, motor driver, or wiring harness is visibly installed. Brand and exact motor specifications unverified. No powered test performed.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-001"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0012",
+      "category": "electromechanical_component",
+      "name": "Quartz analog clock movement with hands",
+      "manufacturer": null,
+      "model": null,
+      "variant": "Battery-powered clock movement mechanism, maker/project kit",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-002"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [
+        "Clock hands / hand-like parts visible in the bag",
+        "Threaded central mounting shaft",
+        "Mounting hardware / hanger and small parts visible"
+      ],
+      "notes": "Black square quartz-style clock mechanism photographed in a plastic bag, with visible hand-mounting spindle and loose hardware. Exact supplied hands, battery type, shaft length, brand, and function are unverified. Not a microcontroller board.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-002"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0013",
+      "category": "electronics_material",
+      "name": "Copper-colored metallic foil tape roll (tentative)",
+      "manufacturer": null,
+      "model": null,
+      "variant": null,
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_tentative",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-003"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "One copper-colored flat metallic-looking tape roll in a zip bag. Likely copper foil tape, possibly for EMI shielding or electronics craft. Copper composition, conductive adhesive, backing, width, and length cannot be confirmed from photograph. Could instead be a related copper-colored material; check packaging or a close-up.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-003"
+      },
+      "updated_on": "2026-11-22"
     }
   ]
 }
