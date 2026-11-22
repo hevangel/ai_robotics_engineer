@@ -96,7 +96,7 @@
       "item_ids": [
         "HW-0016"
       ],
-      "notes": "Photo shows Retroflag SUPERPi CASE, not internal board. Owner reports Pi 3, corrected RAM recollection to 1GB, and retro-gaming configuration. Internal board revision still uninspected. Chat image bytes have not been stored in GitHub."
+      "notes": "Case photographed; installed Pi board not visible. Owner reports it is configured for retro gaming, has 1 GB RAM, and thinks it is Raspberry Pi 3 Model B (not yet verified from board markings). Chat photo bytes not stored in GitHub."
     },
     {
       "id": "P-20261122-009",

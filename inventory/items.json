@@ -385,7 +385,7 @@
       "name": "Retro-gaming Raspberry Pi system in SUPERPi CASE",
       "manufacturer": "Retroflag (case branding)",
       "model": "SUPERPi CASE (case)",
-      "variant": "Raspberry Pi 3, 1 GB RAM (owner-corrected; internal board not visually inspected)",
+      "variant": "Raspberry Pi 3 Model B (owner's tentative identification), 1 GB RAM",
       "quantity": 1,
       "condition": "unknown",
       "location": null,
@@ -401,10 +401,10 @@
       "accessories": [
         "SNES-style SUPERPi CASE enclosure"
       ],
-      "notes": "One grey SNES-inspired Retroflag SUPERPi CASE photographed. Owner reports Raspberry Pi 3 installed, corrected earlier 2 GB recollection to 1 GB RAM, and says it is currently configured for retro gaming. Raspberry Pi board remains unphotographed; exact Pi 3 revision (Model B vs B+), operating system/emulators and working status untested. Official Raspberry Pi 3 B/B+ models specify 1 GB RAM. Treat case and internal Pi as one assembled system, not two distinct inventory units. References: https://www.raspberrypi.com/products/raspberry-pi-3-model-b/ ; https://www.raspberrypi.com/products/raspberry-pi-3-model-b-plus/ .",
+      "notes": "One grey Retroflag SUPERPi CASE photographed, housing a Raspberry Pi reportedly configured for retro gaming. Owner believes internal board is Raspberry Pi 3 Model B with 1 GB RAM. Exact model is TENTATIVE, as internal board was not visually inspected. Owner previously corrected RAM recollection from 2 GB to 1 GB; the latter is consistent with Raspberry Pi 3 Model B specification. Operating system, emulator distribution, and physical working status are not independently tested. Do not count case and Pi as separate inventory items.",
       "source": {
         "type": "user_report",
-        "reference": "Owner corrected memory to 1 GB for SUPERPi housed Pi 3; photo P-20261122-008 shows the case"
+        "reference": "Owner 2026-11-22 tentative correction: 'I think the pi 3 is a b model'; earlier confirmed/revised 1 GB RAM; photo P-20261122-008 is case only"
       },
       "updated_on": "2026-11-22"
     },
