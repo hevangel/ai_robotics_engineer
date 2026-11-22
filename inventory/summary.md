@@ -2,7 +2,7 @@
 
 ## Inventory counts
 
-- **Total records:** 20 item/lot records (includes a provisional potential duplicate case; see HW-0018)
+- **Total records:** 20 distinct item/lot records (owner confirmed the two SUPERPi cases are different physical items)
 - **Records associated with photographs:** 12
 - **Photo-verified/owner-confirmed item types:** 8
 - **Tentative/packaging-only identification records:** 4
@@ -15,11 +15,11 @@ These counts are **inventory record counts**, not a reliable total of functional
 
 | ID | Item | Count | Status |
 | --- | --- | ---: | --- |
-| HW-0018 | Retroflag SUPERPi CASE Deluxe Edition | 1 case | Owner confirms **empty; no Pi board**; box shown; possible overlap with HW-0016 |
+| HW-0018 | Retroflag SUPERPi CASE Deluxe Edition | 1 case | Owner confirms **new, separate and empty**; no Pi board |
 | HW-0019 | White/red Raspberry Pi-branded case | 1 case | Owner confirms **empty; no Pi board** |
 | HW-0020 | 18 W adjustable AC/DC adapter kit with connector tips | 1 kit | Adapter and tips photographed; electrical operation untested |
 
-**Important:** HW-0016 is the older SUPERPi retro-gaming system, which the owner previously described as containing a Raspberry Pi 3 Model B (tentative) with 1 GB RAM. The newly boxed HW-0018 case is **not** assumed to be that same unit, and its emptiness is not used to erase the earlier report. If the boxed case is actually the same physical enclosure as HW-0016, merge/reconcile those records after confirmation.
+**Owner-confirmed distinction:** HW-0016 is the existing assembled SUPERPi retro-gaming system (reported internal Pi 3 Model B, tentatively identified, 1 GB RAM). HW-0018 is a **new, separate, empty SUPERPi CASE Deluxe Edition**. These are two physically distinct inventory items and must not be merged.
 
 [Detailed batch 003 notes](batches/2026-11-22-003.md)
 
