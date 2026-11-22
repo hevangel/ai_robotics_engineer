@@ -77,22 +77,24 @@
       "id": "HW-0004",
       "category": "fpga_development_board",
       "name": "Kria KV260 Vision AI Starter Kit",
-      "manufacturer": "AMD",
-      "model": "Kria KV260",
+      "manufacturer": "Xilinx (now AMD)",
+      "model": "Kria KV260 Vision AI Starter Kit",
       "variant": null,
-      "quantity": null,
+      "quantity": 1,
       "condition": "unknown",
       "location": null,
-      "verification_status": "reported_unverified",
-      "identification_confidence": "not_assessed",
-      "photo_ids": [],
+      "verification_status": "photo_tentative",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-013"
+      ],
       "connectivity": [],
       "interfaces": [],
       "accessories": [],
-      "notes": "Previously mentioned as owned; record K26 SoM details and accessories from photos.",
+      "notes": "One box photographed with exact text 'XILINX Kria KV260 Vision AI Starter Kit'. Owner previously reported this kit as owned. One retail package is present; board and K26 SoM are not shown, so contents, accessories, revision and operating condition remain unverified. This updates existing HW-0004 rather than adding a second KV260.",
       "source": {
-        "type": "prior_conversation",
-        "reference": null
+        "type": "photo",
+        "reference": "P-20261122-013"
       },
       "updated_on": "2026-11-22"
     },
@@ -516,6 +518,145 @@
       "source": {
         "type": "photo",
         "reference": "P-20261122-012"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0021",
+      "category": "fpga_development_board",
+      "name": "PYNQ-Z2 Zynq development board kit",
+      "manufacturer": "TUL",
+      "model": "PYNQ-Z2",
+      "variant": "Xilinx Zynq-7020 family; 'Python Productivity for Zynq' printed on carton",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_tentative",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-014"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "One orange/white TUL PYNQ-Z2 retail box photographed, with pictured red PYNQ-Z2 board, Xilinx logos and 'Python Productivity for Zynq' wording. Product and maker branding confirmed from package, but physical board and included accessories are not visible; completeness and working condition unknown. FPGA/SoC board is distinct from existing Kria KV260 HW-0004.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-014"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0022",
+      "category": "camera",
+      "name": "Unbranded Wi-Fi HD video camera (boxed)",
+      "manufacturer": null,
+      "model": null,
+      "variant": "WiFi Camera / HD Video Camera; exact device type and model unknown",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_tentative",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-015",
+        "P-20261122-016"
+      ],
+      "connectivity": [
+        "Wi-Fi (printed on carton only; device not inspected)"
+      ],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "Two photographs show the FRONT and BACK of the SAME generic white/blue retail box, labeled 'WIFI CAMERA' and 'HD VIDEO CAMERA' with video, Wi-Fi and camera icons; barcode and regulatory symbols on reverse. Product image suggests small wireless camera, but exact camera form factor, brand, model, features, imaging quality and contents cannot be established. Count ONE product carton, not two cameras. Box is opened/damaged at top; actual camera is not photographed, so presence, completeness and operation remain unknown. Barcode text not transcribed because not confidently legible.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-015; P-20261122-016"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0023",
+      "category": "prototyping_board",
+      "name": "Solderless breadboard, medium size (~400 tie points)",
+      "manufacturer": null,
+      "model": null,
+      "variant": "About 30 numbered rows, dual red/blue power rails, small board",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-017"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Solderless 0.1-inch pitch plug-in tie points",
+        "Red/blue power distribution rails"
+      ],
+      "accessories": [],
+      "notes": "One smaller white solderless breadboard directly visible, left side of photo. About 30 numbered rows; common 400-point size is likely but precise tie-point count not manually verified. A black YwRobot breadboard power supply module HW-0025 is inserted at the lower end; that module is recorded separately as removable/reusable hardware. No electronics under power.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-017"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0024",
+      "category": "prototyping_board",
+      "name": "Solderless breadboard, full size (~830 tie points)",
+      "manufacturer": null,
+      "model": null,
+      "variant": "About 63 numbered rows and side power rails; full-size board",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-017"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Solderless 0.1-inch pitch plug-in tie points",
+        "Red/blue power distribution rails"
+      ],
+      "accessories": [],
+      "notes": "One larger white solderless breadboard directly visible, right side of photo. Appears to have 63 numbered rows and dual side power rails, commonly sold as an 830-point board; approximate point-count not verified. Distinct from smaller breadboard HW-0023. Untested.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-017"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0025",
+      "category": "power",
+      "name": "YwRobot breadboard power supply module",
+      "manufacturer": "YwRobot (board silkscreen)",
+      "model": null,
+      "variant": "MB102-style selectable 3.3 V / 5 V breadboard power supply (exact revision unconfirmed)",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-017"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "USB-A connector",
+        "DC-IN barrel jack",
+        "Power on/off switch",
+        "Power rail selector jumper headers (3.3 V / 5 V markings)"
+      ],
+      "accessories": [],
+      "notes": "One black plug-in breadboard supply module directly visible on smaller board HW-0023, with 'YwRobot' silkscreen, USB-A female output, DC-IN barrel connector, power switch, status LED, and jumper rails marked 3.3 V / 5 V. Generic MB102-type form factor but exact board model, input range, rail output capability, voltage, and working condition not confirmed. Counted as an independently removable module, not a third breadboard. Verify input voltage and output jumper position before powering circuits.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-017"
       },
       "updated_on": "2026-11-22"
     }

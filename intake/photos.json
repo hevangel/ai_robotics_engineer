@@ -145,6 +145,68 @@
         "HW-0020"
       ],
       "notes": "Adapter is photographed directly; no functional electrical verification. Voltage/polarity/current and plug compatibility not yet verified. Original JPG not yet stored in repo."
+    },
+    {
+      "id": "P-20261122-013",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Uploaded photo 1000063145.jpg: Xilinx Kria KV260 Vision AI Starter Kit retail box.",
+      "item_ids": [
+        "HW-0004"
+      ],
+      "notes": "Existing previously reported Kria entry updated; box and branding visible, hardware inside uninspected. Original JPG remains chat attachment."
+    },
+    {
+      "id": "P-20261122-014",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Uploaded photo 1000063146.jpg: TUL PYNQ-Z2 (Xilinx Zynq) development board retail carton with red board picture.",
+      "item_ids": [
+        "HW-0021"
+      ],
+      "notes": "One boxed PYNQ-Z2 development kit; real FPGA PCB not directly photographed. Original JPG remains chat attachment."
+    },
+    {
+      "id": "P-20261122-015",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Uploaded photo 1000063147.jpg: FRONT of generic WiFi Camera HD Video Camera retail box.",
+      "item_ids": [
+        "HW-0022"
+      ],
+      "notes": "Same physical camera package as P-20261122-016; count one camera product, contents uninspected. Original JPG remains chat attachment."
+    },
+    {
+      "id": "P-20261122-016",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Uploaded photo 1000063148.jpg: BACK of same WiFi Camera HD Video Camera carton, barcode and certification symbols.",
+      "item_ids": [
+        "HW-0022"
+      ],
+      "notes": "This is another angle of P-20261122-015, not a separate camera. Product SKU not confidently legible. Original JPG remains chat attachment."
+    },
+    {
+      "id": "P-20261122-017",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Uploaded photo 1000063149.jpg: two white solderless breadboards of different sizes, smaller one fitted with YwRobot breadboard power module.",
+      "item_ids": [
+        "HW-0023",
+        "HW-0024",
+        "HW-0025"
+      ],
+      "notes": "2 breadboards plus 1 independent removable power supply board identified. Approximate breadboard tie point counts; no electrical testing. Original JPG remains chat attachment."
     }
   ]
 }
