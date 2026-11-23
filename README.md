@@ -4,22 +4,22 @@ A photo-driven catalog for IoT hardware, Arduino-compatible boards, Raspberry Pi
 
 ## Current inventory snapshot (2026-11-22)
 
-- **56** hardware inventory entries, including kits, enclosures, prototyping equipment and power accessories
-- **49** unique photographs inspected and logged (some photos show multiple items; some items appear in multiple photos)
-- **50** catalog entries linked to photographs; **6** previously reported items still await photos
-- **Next available hardware ID: `HW-0057`**
-- **Latest update:** clamp-on helping-hands magnifier, Kester and MG Chemicals leaded solder, Hakko soldering station, Husky socket set and two crimping tools
+- **70** inventory records, including installed modules and kit subcomponents
+- **59** unique photographs inspected and logged
+- **62** catalog entries linked to photographs; **8** items lack a direct photo (including 2 owner-confirmed enclosed/installed components)
+- **Next available hardware ID: `HW-0071`**
+- **Latest update:** three owned BBC micro:bit boards (one inside GO kit), three Arduino Uno boards, three BreadShields, Optane M10, Waveshare ESP32-S3 AMOLED box, Azure Sphere MT3620, krtkl piSmasher with installed Zynq-7020 FPGA board
 
-[Batch 001](inventory/batches/2026-11-22-001.md) · [Batch 002](inventory/batches/2026-11-22-002.md) · [Batch 003](inventory/batches/2026-11-22-003.md) · [Batch 004](inventory/batches/2026-11-22-004.md) · [Batch 005](inventory/batches/2026-11-22-005.md) · [Batch 006](inventory/batches/2026-11-22-006.md) · [Batch 007](inventory/batches/2026-11-22-007.md) · [Batch 008](inventory/batches/2026-11-22-008.md) · [Batch 009](inventory/batches/2026-11-22-009.md)
+[Batch 001](inventory/batches/2026-11-22-001.md) · [Batch 002](inventory/batches/2026-11-22-002.md) · [Batch 003](inventory/batches/2026-11-22-003.md) · [Batch 004](inventory/batches/2026-11-22-004.md) · [Batch 005](inventory/batches/2026-11-22-005.md) · [Batch 006](inventory/batches/2026-11-22-006.md) · [Batch 007](inventory/batches/2026-11-22-007.md) · [Batch 008](inventory/batches/2026-11-22-008.md) · [Batch 009](inventory/batches/2026-11-22-009.md) · [Batch 010](inventory/batches/2026-11-22-010.md)
 
-**Photo-storage note:** All 49 unique JPGs are still conversation attachments; the repository currently stores their descriptive evidence log, not their original image binaries. Do not treat filenames in the log as GitHub-hosted images.
+**Photo-storage note:** All 59 logged JPGs are still conversation attachments; the repository currently stores their descriptive evidence log, not their original image binaries. Do not treat filenames in the log as GitHub-hosted images.
 
 ## Inventory
 
 - **[Master inventory](inventory/items.json)** — canonical machine-readable item records (one record per distinct item/lot, with quantity when established).
 - **[Inventory summary](inventory/summary.md)** — human-readable index; updated as devices are identified.
 - **[Photo intake log](intake/photos.json)** — links each inspected photo to the IDs found in it.
-- **[Photo evidence index](photos/manifest.md)** — human-readable index of all 17 image filenames and associated inventory records.
+- **[Photo evidence index](photos/manifest.md)** — human-readable index of logged photo references and associated inventory records.
 - **[Item data rules](inventory/README.md)** — fields, categories, verification and duplicate handling.
 - **[Photo handling guide](photos/README.md)** — evidence, filenames, privacy and photo storage.
 - **[Agent instructions](AGENTS.md)** — rules for adding new images and updating the catalog.

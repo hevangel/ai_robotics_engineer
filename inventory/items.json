@@ -1570,6 +1570,364 @@
         "reference": "P-20261122-049"
       },
       "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0057",
+      "category": "microcontroller_kit",
+      "name": "BBC micro:bit GO kit with one board inside",
+      "manufacturer": "BBC",
+      "model": "micro:bit GO",
+      "variant": "Green retail carton; owner confirms an additional board inside",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-050"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "Green BBC micro:bit GO box photographed; owner explicitly confirms one physical additional micro:bit board in box, tracked as child HW-0069. Other contents are unknown. This is packaging/kit record and must not itself be counted as another board beyond the child.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-050"
+      },
+      "updated_on": "2026-11-22",
+      "installed_component_ids": [
+        "HW-0069"
+      ]
+    },
+    {
+      "id": "HW-0058",
+      "category": "microcontroller_board",
+      "name": "BBC micro:bit V1.5",
+      "manufacturer": "BBC",
+      "model": "micro:bit V1.5",
+      "variant": "Upper photographed bare black PCB",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-051"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "Upper BBC micro:bit board photographed with v1.5 text visible, USB, gold edge contacts, battery connector and reset. Distinct from lower HW-0059 and boxed board HW-0069. Untested.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-051"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0059",
+      "category": "microcontroller_board",
+      "name": "BBC micro:bit V1.3B",
+      "manufacturer": "BBC",
+      "model": "micro:bit V1.3B",
+      "variant": "Lower photographed bare black PCB",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-051"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "Lower micro:bit printed V1.3B; one separate board. Distinct from HW-0058 and board HW-0069 inside kit. Untested.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-051"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0060",
+      "category": "speaker",
+      "name": "JBL compact circular speaker",
+      "manufacturer": "JBL",
+      "model": null,
+      "variant": "Black round cloth grille and orange JBL square logo",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-052"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "One real black circular JBL speaker photographed. Exact speaker model, connections, power and pairing are not established from top view.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-052"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0061",
+      "category": "microcontroller_board",
+      "name": "Arduino Uno-family board in case labeled FIRMATA",
+      "manufacturer": "Arduino (board family)",
+      "model": "Uno family",
+      "variant": "Top clear acrylic-cased blue board; handwritten FIRMATA label",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-053"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "One cased blue Uno-class board. FIRMATA label handwritten on case, not verified firmware state. Distinct from lower cased HW-0062 and loose HW-0063. Board revision unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-053"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0062",
+      "category": "microcontroller_board",
+      "name": "Arduino Uno in clear acrylic case",
+      "manufacturer": "Arduino",
+      "model": "Uno (revision unverified)",
+      "variant": "Lower clear-cased blue PCB with DIP microcontroller",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-053"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "One Arduino UNO board physically visible inside case, DIP package processor, USB-B and power jack. Separate from HW-0061 and HW-0063. Untested.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-053"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0063",
+      "category": "microcontroller_board",
+      "name": "Arduino Uno board (loose)",
+      "manufacturer": "Arduino",
+      "model": "Uno (revision unverified)",
+      "variant": "Separate blue unboxed Arduino with DIP processor",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-054"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "One additional uncased blue Arduino UNO board with USB-B, power socket, I/O headers, Made in Italy print. Third physically distinct Uno-class board, not a repeat of cased units.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-054"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0064",
+      "category": "microcontroller_kit",
+      "name": "Waveshare ESP32-S3-Touch-AMOLED-1.75-B (boxed)",
+      "manufacturer": "Waveshare",
+      "model": "ESP32-S3-Touch-AMOLED-1.75-B",
+      "variant": "SKU 31262, retail carton",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_tentative",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-055"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "Waveshare box shows exact model and SKU 31262. Development board itself not seen; packaging-only record, unconfirmed contents and function.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-055"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0065",
+      "category": "expansion_board",
+      "name": "LOSER LLC BreadShield v0.4 Arduino adapters",
+      "manufacturer": "LOSER LLC",
+      "model": "BreadShield v0.4",
+      "variant": "Three green Arduino-to-breadboard shield adapter PCBs",
+      "quantity": 3,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-056"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "THREE separate green BreadShield v0.4 PCBs directly visible. Markings include Bao et al. 2019, LOSER LLC, '750 mils'. Arduino-to-breadboard adapters, not plain solderless breadboards and not microcontroller boards. One lot quantity 3.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-056"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0066",
+      "category": "storage",
+      "name": "Intel Optane Memory M10 32 GB M.2 module",
+      "manufacturer": "Intel",
+      "model": "Optane Memory M10",
+      "variant": "32 GB module",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-057"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "M.2 edge connector"
+      ],
+      "accessories": [],
+      "notes": "One physical M.2 Intel Optane Memory M10 32 GB card in clear packaging. This is storage/cache, not DRAM. Serial not copied; health untested.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-057"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0067",
+      "category": "iot_development_board",
+      "name": "Avnet Azure Sphere MT3620 Starter Kit 2",
+      "manufacturer": "Avnet",
+      "model": "Azure Sphere MT3620 Starter Kit 2",
+      "variant": "MT3620 IoT development board",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-058"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "One black PCB marked Azure Sphere Starter Kit 2 and Avnet with MT3620 module, mikroBUS expansion connectors, USB and buttons. No MAC/serial transcribed; untested.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-058"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0068",
+      "category": "fpga_development_board",
+      "name": "krtkl piSmasher rev 4.1 with installed Zynq-7020 FPGA board",
+      "manufacturer": "krtkl",
+      "model": "piSmasher rev 4.1",
+      "variant": "Carrier board assembly populated with FPGA module HW-0070",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-059"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [
+        "Zynq-7020 FPGA module HW-0070 installed (owner-confirmed)"
+      ],
+      "notes": "One krtkl piSmasher carrier rev 4.1 directly photographed in anti-static bag. Owner confirms FPGA board is installed, specifically the Zynq-7020 variant. This record is the assembled carrier/host, not a second FPGA module. Child HW-0070 describes the installed module, exact snickerdoodle board SKU/revision unconfirmed. No operational test.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-059"
+      },
+      "updated_on": "2026-11-22",
+      "installed_component_ids": [
+        "HW-0070"
+      ]
+    },
+    {
+      "id": "HW-0069",
+      "category": "microcontroller_board",
+      "name": "BBC micro:bit inside GO kit (revision unknown)",
+      "manufacturer": "BBC",
+      "model": "micro:bit (revision unverified)",
+      "variant": "Third micro:bit; physically inside box HW-0057",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "Owner explicitly confirms one additional real board inside BBC micro:bit GO box HW-0057. Not directly photographed, so model/revision unknown. Two other physically photographed boards are HW-0058 v1.5 and HW-0059 v1.3B. Total actual owned micro:bit boards = 3. Kit/box record is not a fourth board.",
+      "source": {
+        "type": "user_report",
+        "reference": "Owner corrections to inventory batch 010, 2026-11-22"
+      },
+      "updated_on": "2026-11-22",
+      "parent_id": "HW-0057"
+    },
+    {
+      "id": "HW-0070",
+      "category": "fpga_module",
+      "name": "krtkl FPGA compute board with Xilinx Zynq-7020 SoC",
+      "manufacturer": "krtkl (carrier brand; module exact branding unconfirmed)",
+      "model": "Zynq-7020 / XC7Z020 (chip family owner-confirmed)",
+      "variant": "Installed on piSmasher rev 4.1 HW-0068; exact module PCB SKU/revision unverified",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "Owner confirms the FPGA board installed on krtkl piSmasher HW-0068 is the 7020 version (Xilinx Zynq-7020 programmable-logic + Arm processing SoC). The precise krtkl daughterboard brand, SKU, board revision, RAM size and power-on status remain unverified. This is a CHILD component of HW-0068, not another standalone complete piSmasher. Associated assembly photo P-20261122-059 shows carrier; no direct close-up of daughterboard marking.",
+      "source": {
+        "type": "user_report",
+        "reference": "Owner corrections to inventory batch 010, 2026-11-22"
+      },
+      "updated_on": "2026-11-22",
+      "parent_id": "HW-0068"
     }
   ]
 }

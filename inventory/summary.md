@@ -2,16 +2,41 @@
 
 ## Status at a glance
 
-- **Inventory records:** 56 distinct hardware item/lot records
-- **Records associated with photographs:** 50
-- **Photo-verified / owner-confirmed visible hardware:** 38
-- **Photo-supported but packaging only / tentative:** 12
+- **Inventory records:** 70 item/lot/component records (parent assemblies and their installed components are linked)
+- **Records associated with photographs:** 62
+- **Photo-verified / owner-confirmed hardware:** 51 (includes 2 owner-confirmed boards not directly photographed)
+- **Photo-supported but packaging only / tentative:** 13
 - **Previously reported, not yet photographed:** 6
-- **Photo intake records:** 49
+- **Photo intake records:** 59
 
 These are **record and photo counts**, not counts of verified working devices. A photographed retail box does not establish that electronic contents are present unless separately confirmed.
 
-## Latest batch — 009 (7 photos)
+- **Records lacking direct item photographs:** 8 (including the two owner-confirmed components inside/attached to other items)
+
+## Latest batch — 010 (10 photographs; 2 owner corrections)
+
+| ID | Item | Quantity | Evidence |
+| --- | --- | --- | --- |
+| HW-0057 | BBC micro:bit GO box | 1 | Contains HW-0069 confirmed |
+| HW-0058 | BBC micro:bit v1.5 | 1 | Physical PCB |
+| HW-0059 | BBC micro:bit v1.3B | 1 | Physical PCB |
+| HW-0060 | JBL round compact speaker | 1 | Exact model unknown |
+| HW-0061 | Arduino Uno-family (FIRMATA-labeled case) | 1 | Actual firmware unverified |
+| HW-0062 | Arduino Uno in clear case | 1 | Physical PCB |
+| HW-0063 | Arduino Uno loose board | 1 | Third separate Uno |
+| HW-0064 | Waveshare ESP32-S3-Touch-AMOLED-1.75-B | 1 | Retail box only; SKU 31262 |
+| HW-0065 | LOSER LLC BreadShield v0.4 | 3 | Three separate adapters |
+| HW-0066 | Intel Optane Memory M10 32 GB | 1 | Physical M.2 storage module |
+| HW-0067 | Avnet Azure Sphere MT3620 Starter Kit 2 | 1 | IoT development PCB |
+| HW-0068 | krtkl piSmasher rev 4.1 | 1 | Carrier assembled with HW-0070 |
+| HW-0069 | Additional micro:bit in GO kit | 1 | Owner-confirmed, version unknown |
+| HW-0070 | Installed krtkl Zynq-7020 FPGA compute board | 1 | Owner-confirmed chipset; exact module SKU unverified |
+
+**BBC micro:bits:** three boards total, one still inside the GO box. **krtkl piSmasher:** populated with a Zynq-7020 FPGA board. The two enclosed/installed boards are modeled as child components, not duplicate machines.
+
+[Batch 010 details](batches/2026-11-22-010.md)
+
+## Earlier batch — 009 (7 photos)
 
 | ID | Item | Quantity | Evidence |
 | --- | --- | --- | --- |

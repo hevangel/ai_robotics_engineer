@@ -594,6 +594,128 @@
         "HW-0056"
       ],
       "notes": "Two physical crimpers share one image and carrying case; not duplicates. Original JPG not committed to GitHub; chat upload only."
+    },
+    {
+      "id": "P-20261122-050",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 010, image 1/10: micro:bit GO green retail box. Original attachment filename not verified.",
+      "item_ids": [
+        "HW-0057"
+      ],
+      "notes": "Box marked BBC micro:bit GO. Owner confirms one board inside, separate child HW-0069. Original image binaries not yet transferred to GitHub."
+    },
+    {
+      "id": "P-20261122-051",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 010, image 2/10: two black BBC micro:bit boards, v1.5 upper and v1.3B lower. Original attachment filename not verified.",
+      "item_ids": [
+        "HW-0058",
+        "HW-0059"
+      ],
+      "notes": "Two visible boards, not the additional boxed board. Original image binaries not yet transferred to GitHub."
+    },
+    {
+      "id": "P-20261122-052",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 010, image 3/10: black circular JBL portable speaker with square orange badge. Original attachment filename not verified.",
+      "item_ids": [
+        "HW-0060"
+      ],
+      "notes": "Exact model not legible. Original image binaries not yet transferred to GitHub."
+    },
+    {
+      "id": "P-20261122-053",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 010, image 4/10: two distinct blue Arduino Uno-style boards in transparent cases, one case marked FIRMATA. Original attachment filename not verified.",
+      "item_ids": [
+        "HW-0061",
+        "HW-0062"
+      ],
+      "notes": "Case label not proof of installed firmware. Original image binaries not yet transferred to GitHub."
+    },
+    {
+      "id": "P-20261122-054",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 010, image 5/10: third, uncased blue Arduino UNO board. Original attachment filename not verified.",
+      "item_ids": [
+        "HW-0063"
+      ],
+      "notes": "One physically distinct loose board. Original image binaries not yet transferred to GitHub."
+    },
+    {
+      "id": "P-20261122-055",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 010, image 6/10: Waveshare ESP32-S3-Touch-AMOLED-1.75-B retail carton, SKU 31262. Original attachment filename not verified.",
+      "item_ids": [
+        "HW-0064"
+      ],
+      "notes": "Boxed kit only; internal hardware not seen. Original image binaries not yet transferred to GitHub."
+    },
+    {
+      "id": "P-20261122-056",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 010, image 7/10: three green LOSER LLC BreadShield v0.4 adapter PCBs. Original attachment filename not verified.",
+      "item_ids": [
+        "HW-0065"
+      ],
+      "notes": "Confirmed three physical boards, inventory lot quantity 3. Original image binaries not yet transferred to GitHub."
+    },
+    {
+      "id": "P-20261122-057",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 010, image 8/10: Intel Optane Memory M10 32 GB M.2 module in plastic tray. Original attachment filename not verified.",
+      "item_ids": [
+        "HW-0066"
+      ],
+      "notes": "One physical SSD/cache module. Original image binaries not yet transferred to GitHub."
+    },
+    {
+      "id": "P-20261122-058",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 010, image 9/10: Avnet Azure Sphere MT3620 Starter Kit 2 board. Original attachment filename not verified.",
+      "item_ids": [
+        "HW-0067"
+      ],
+      "notes": "Physical IoT development PCB, identifiers not retained. Original image binaries not yet transferred to GitHub."
+    },
+    {
+      "id": "P-20261122-059",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 010, image 10/10: krtkl piSmasher rev 4.1 carrier assembly. Original attachment filename not verified.",
+      "item_ids": [
+        "HW-0068"
+      ],
+      "notes": "Owner confirms Zynq-7020 FPGA daughterboard HW-0070 installed; direct module marking not in photo. Original image binaries not yet transferred to GitHub."
     }
   ]
 }

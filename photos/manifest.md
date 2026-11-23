@@ -1,6 +1,6 @@
 # Photo evidence index
 
-**Last updated:** 2026-11-22. **Photos logged: 49.** This file indexes the actual photographs received in the ChatGPT conversation, but **does not contain the JPG images**. Original image assets have not been copied to GitHub. The canonical relationship between photo IDs and hardware IDs is in [the JSON intake log](../intake/photos.json).
+**Last updated:** 2026-11-22. **Photos logged: 59.** This file indexes the actual photographs received in the ChatGPT conversation, but **does not contain the JPG images**. Original image assets have not been copied to GitHub. The canonical relationship between photo IDs and hardware IDs is in [the JSON intake log](../intake/photos.json).
 
 | Photo ID | Conversation image filename | Related hardware ID(s) | Description |
 | --- | --- | --- | --- |
@@ -59,9 +59,22 @@
 | `P-20261122-048` | `1000063176.jpg` | `HW-0054` | Husky 38-PC STUBBY SOCKET SET retail/storage case with ratchet and sockets visible |
 | `P-20261122-049` | `1000063175.jpg` | `HW-0055`, `HW-0056` | Two separate crimping tools in black/blue zip case: HSC8 6-6 ferrule crimper and blue-handled ratchet terminal crimper with bagged accessories |
 
+| `P-20261122-050` | Batch 010 upload 1/10 | `HW-0057` | micro:bit GO green retail box |
+| `P-20261122-051` | Batch 010 upload 2/10 | `HW-0058`, `HW-0059` | two black BBC micro:bit boards, v1.5 upper and v1.3B lower |
+| `P-20261122-052` | Batch 010 upload 3/10 | `HW-0060` | black circular JBL portable speaker with square orange badge |
+| `P-20261122-053` | Batch 010 upload 4/10 | `HW-0061`, `HW-0062` | two distinct blue Arduino Uno-style boards in transparent cases, one case marked FIRMATA |
+| `P-20261122-054` | Batch 010 upload 5/10 | `HW-0063` | third, uncased blue Arduino UNO board |
+| `P-20261122-055` | Batch 010 upload 6/10 | `HW-0064` | Waveshare ESP32-S3-Touch-AMOLED-1.75-B retail carton, SKU 31262 |
+| `P-20261122-056` | Batch 010 upload 7/10 | `HW-0065` | three green LOSER LLC BreadShield v0.4 adapter PCBs |
+| `P-20261122-057` | Batch 010 upload 8/10 | `HW-0066` | Intel Optane Memory M10 32 GB M.2 module in plastic tray |
+| `P-20261122-058` | Batch 010 upload 9/10 | `HW-0067` | Avnet Azure Sphere MT3620 Starter Kit 2 board |
+| `P-20261122-059` | Batch 010 upload 10/10 | `HW-0068` | krtkl piSmasher rev 4.1 carrier assembly |
+
+**Owner-confirmed without a separate close-up:** HW-0069 is the third micro:bit inside HW-0057; HW-0070 is the installed Zynq-7020 FPGA board inside/on HW-0068. Their parent photos do not directly establish board markings.
+
 ## Batch notes
 
-[Batch 001](../inventory/batches/2026-11-22-001.md) · [Batch 002](../inventory/batches/2026-11-22-002.md) · [Batch 003](../inventory/batches/2026-11-22-003.md) · [Batch 004](../inventory/batches/2026-11-22-004.md) · [Batch 005](../inventory/batches/2026-11-22-005.md) · [Batch 006](../inventory/batches/2026-11-22-006.md) · [Batch 007](../inventory/batches/2026-11-22-007.md) · [Batch 008](../inventory/batches/2026-11-22-008.md) · [Batch 009](../inventory/batches/2026-11-22-009.md)
+[Batch 001](../inventory/batches/2026-11-22-001.md) · [Batch 002](../inventory/batches/2026-11-22-002.md) · [Batch 003](../inventory/batches/2026-11-22-003.md) · [Batch 004](../inventory/batches/2026-11-22-004.md) · [Batch 005](../inventory/batches/2026-11-22-005.md) · [Batch 006](../inventory/batches/2026-11-22-006.md) · [Batch 007](../inventory/batches/2026-11-22-007.md) · [Batch 008](../inventory/batches/2026-11-22-008.md) · [Batch 009](../inventory/batches/2026-11-22-009.md) · [Batch 010](../inventory/batches/2026-11-22-010.md)
 
 ## Next action to make the catalog self-contained
 
