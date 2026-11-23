@@ -182,19 +182,20 @@
       "name": "Logitech Extreme 3D Pro flight joystick",
       "manufacturer": "Logitech",
       "model": "Extreme 3D Pro",
-      "variant": "Single-stick USB flight joystick with twist rudder, 12 programmable buttons, 8-way hat switch and throttle slider (manufacturer's specification for the model; the owner's unit has not been photographed)",
-      "quantity": null,
+      "variant": "Single-stick USB flight joystick with twist rudder, hat switch, trigger, thumb buttons, six base buttons and a throttle wheel on a silver-and-black weighted base; the owner's actual unit photographed on a desk (P-20261123-034)",
+      "quantity": 1,
       "condition": "unknown",
       "location": null,
-      "verification_status": "reported_unverified",
+      "verification_status": "photo_verified",
       "identification_confidence": "high",
       "photo_ids": [
-        "P-20261123-001"
+        "P-20261123-001",
+        "P-20261123-034"
       ],
       "connectivity": [],
       "interfaces": [],
       "accessories": [],
-      "notes": "Owner identified the model on 2026-11-23 as the Logitech Extreme 3D Pro. The owner's unit itself has not been photographed, so the record remains reported/unverified; at the owner's request a retailer product photo is filed as P-20261123-001 and clearly labelled as a reference image of the model, not of the owner's unit.",
+      "notes": "Owner identified the model on 2026-11-23 as the Logitech Extreme 3D Pro. Later the same day the owner's actual unit was photographed (P-20261123-034, desk photo showing the stick, base buttons and throttle wheel), upgrading this record from reported_unverified to photo_verified. The retailer product photo P-20261123-001 is retained as a labelled reference image of the model. Working condition unknown.",
       "source": {
         "type": "prior_conversation",
         "reference": null
@@ -7303,6 +7304,115 @@
       "source": {
         "type": "photo",
         "reference": "P-20261123-032"
+      },
+      "updated_on": "2026-11-23"
+    },
+    {
+      "id": "HW-0267",
+      "category": "microcontroller_board",
+      "name": "Soldered Inkplate 13 Spectra e-paper display (with enclosure)",
+      "manufacturer": "Soldered Electronics",
+      "model": "Inkplate 13 Spectra",
+      "variant": "13.3-inch 6-colour e-Paper display board in a black enclosure, ESP32-S3 based; the factory screen printed on the panel lists Arduino, LVGL, MicroPython and ESPHome support, WiFi, Bluetooth, Qwiic, Li-Ion battery support, RTC, deep sleep and MicroSD",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261123-036"
+      ],
+      "connectivity": [
+        "WiFi",
+        "Bluetooth"
+      ],
+      "interfaces": [
+        "WiFi",
+        "Bluetooth",
+        "Qwiic (I2C)",
+        "MicroSD",
+        "USB (charging/programming)"
+      ],
+      "accessories": [],
+      "notes": "One unit photographed in its shipping box in 1000063583.jpg, displaying the factory 'Peripheral mode active' screen, so the panel is demonstrably alive; no functional testing beyond that is claimed. Battery presence is per the product's printed 'Li-Ion battery support' - the cell itself is inside the enclosure and not separately photographed.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261123-036"
+      },
+      "updated_on": "2026-11-23"
+    },
+    {
+      "id": "HW-0268",
+      "category": "microcontroller_board",
+      "name": "Soldered Inkplate 6 MOTION with enclosure and battery (boxed)",
+      "manufacturer": "Soldered Electronics",
+      "model": "Inkplate 6 MOTION",
+      "variant": "Retail box only: purple Soldered box labelled 'Inkplate 6 MOTION with enclosure and battery', SKU 333324, variant B2-4",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_tentative",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261123-035"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "Only the retail box is photographed (1000063582.jpg); the device itself has not been photographed, so per the inventory rules the record is photo_tentative - a box does not by itself establish the contents. Distinct from the Inkplate 13 Spectra (HW-0267) photographed in the same batch.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261123-035"
+      },
+      "updated_on": "2026-11-23"
+    },
+    {
+      "id": "HW-0269",
+      "category": "display_component",
+      "name": "Six-tube Nixie clock (blue case)",
+      "manufacturer": null,
+      "model": null,
+      "variant": "A desktop clock with six mesh-cage Nixie tubes in a row on a black top plate over a blue (apparently 3D-printed) case; no branding or model marking visible; photographed unpowered",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261123-033"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "One clock in 1000063580.jpg. The tubes are classic wire-mesh Nixie types (IN-12 family form) but no tube type or kit maker is marked visibly, so neither is recorded. Unpowered in the photo; working condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261123-033"
+      },
+      "updated_on": "2026-11-23"
+    },
+    {
+      "id": "HW-0270",
+      "category": "fpga_development_board",
+      "name": "Xilinx Kria starter kit (second unit, boxed)",
+      "manufacturer": "Xilinx / AMD",
+      "model": null,
+      "variant": "Retail box only: black Xilinx-branded box (red chevron lid art) of a Kria starter kit, stacked on a plain carton; the small side label is not legible at this resolution, so the exact kit (KV260 vs KR260) is not determinable",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_tentative",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261123-037"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "Owner reported on 2026-11-23 'I have another Kria' alongside this box photograph. Filed as a second Kria starter kit, distinct from HW-0004 (Kria KV260, also box-only/tentative). Only the box is photographed, so the record is photo_tentative; if the owner confirms the kit variant, the record can be named precisely.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261123-037"
       },
       "updated_on": "2026-11-23"
     }

@@ -3010,6 +3010,66 @@
         "HW-0266"
       ],
       "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261123-033",
+      "captured_on": "2026-11-23",
+      "processed_on": "2026-11-23",
+      "file": "photos/2026/11/P-20261123-033.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 042: 1000063580.jpg (EXIF 2026-11-23 09:57). Six-tube Nixie clock with blue case, unpowered, on a desk.",
+      "item_ids": [
+        "HW-0269"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261123-034",
+      "captured_on": "2026-11-23",
+      "processed_on": "2026-11-23",
+      "file": "photos/2026/11/P-20261123-034.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 042: 1000063581.jpg (EXIF 2026-11-23 09:57). The owner's actual Logitech Extreme 3D Pro joystick on a desk - first direct photograph of HW-0008.",
+      "item_ids": [
+        "HW-0008"
+      ],
+      "notes": "First direct photo of the owner's unit; the earlier P-20261123-001 remains a labelled retailer reference image. Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261123-035",
+      "captured_on": "2026-11-23",
+      "processed_on": "2026-11-23",
+      "file": "photos/2026/11/P-20261123-035.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 042: 1000063582.jpg (EXIF 2026-11-23 09:57). Purple Soldered retail box labelled 'Inkplate 6 MOTION with enclosure and battery', SKU 333324 - box only.",
+      "item_ids": [
+        "HW-0268"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261123-036",
+      "captured_on": "2026-11-23",
+      "processed_on": "2026-11-23",
+      "file": "photos/2026/11/P-20261123-036.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 042: 1000063583.jpg (EXIF 2026-11-23 09:58). Soldered Inkplate 13 Spectra in its shipping box, factory screen displayed.",
+      "item_ids": [
+        "HW-0267"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261123-037",
+      "captured_on": "2026-11-23",
+      "processed_on": "2026-11-23",
+      "file": "photos/2026/11/P-20261123-037.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 042: fdff88b7 image (EXIF 2026-11-23 11:41). Black Xilinx Kria starter-kit box stacked on a carton - box only, side label illegible.",
+      "item_ids": [
+        "HW-0270"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
     }
   ]
 }

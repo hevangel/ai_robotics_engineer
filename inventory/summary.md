@@ -2,18 +2,32 @@
 
 ## Status at a glance
 
-- **Inventory records:** 264 item/lot/component records (parent assemblies and installed components linked)
-- **Records associated with photographs:** 259
-- **Photo-verified / owner-confirmed hardware:** 231 (some enclosed items owner-confirmed; no working-status implied)
-- **Photo-supported / tentative identifications or packaging only:** 28
-- **Previously reported, not yet photographed:** 5
-- **Photo intake records:** 247
+- **Inventory records:** 268 item/lot/component records (parent assemblies and installed components linked)
+- **Records associated with photographs:** 263
+- **Photo-verified / owner-confirmed hardware:** 234 (some enclosed items owner-confirmed; no working-status implied)
+- **Photo-supported / tentative identifications or packaging only:** 30
+- **Previously reported, not yet photographed:** 4
+- **Photo intake records:** 252
 
 These are **record and photo counts**, not counts of verified working devices. A photographed retail box does not establish that electronic contents are present unless separately confirmed.
 
-- **Records lacking direct item photographs:** 8 (some contents independently confirmed by owner; HW-0008 carries a labelled web reference image of its model, not a photo of the owner's unit)
+- **Records lacking direct item photographs:** 5 — HW-0002 (Raspberry Pi 5), HW-0003 (Coral USB Accelerator), HW-0005 (AIY Voice Kit), HW-0069 (micro:bit inside its sealed GO kit box HW-0057) and HW-0128 (USB-A to USB-B adapter). (HW-0008's joystick was photographed in batch 042; the earlier count of 8 was stale.)
 
-## Latest batch — 041 (9 photographs, 8 new records + 1 re-photograph; more adapters and cables)
+## Latest batch — 042 (5 photographs, 4 new records + HW-0008's first real photo)
+
+| ID | Item | Quantity | Photo |
+| --- | --- | ---: | --- |
+| HW-0267 | Soldered Inkplate 13 Spectra e-paper display (with enclosure) | 1 | `1000063583.jpg` |
+| HW-0268 | Soldered Inkplate 6 MOTION with enclosure and battery (boxed) | 1 | `1000063582.jpg` |
+| HW-0008 | Logitech Extreme 3D Pro — owner's unit photographed at last | 1 | `1000063581.jpg` |
+| HW-0269 | Six-tube Nixie clock (blue case) | 1 | `1000063580.jpg` |
+| HW-0270 | Xilinx Kria starter kit (second unit, boxed) | 1 | `fdff88b7….jpg` |
+
+**Confidence notes:** The Inkplate 13 Spectra is photographed running its factory screen (high). The Inkplate 6 MOTION and the second Kria are retail boxes only, so both stay photo_tentative — the 6 MOTION's model is certain from its label, while the Kria's variant (KV260 vs KR260) is illegible and the record rests on the owner's "another Kria" report (medium). The Nixie clock has no visible markings, so no tube type or maker is recorded (medium). All five photo binaries are stored in the repo (`photos/2026/11/`, EXIF stripped).
+
+[Batch 042 detail](batches/2026-11-23-042.md).
+
+## Earlier batch — 041 (9 photographs, 8 new records + 1 re-photograph; more adapters and cables)
 
 | ID | Item | Quantity | Photo |
 | --- | --- | ---: | --- |
