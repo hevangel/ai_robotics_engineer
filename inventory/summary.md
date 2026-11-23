@@ -2,18 +2,38 @@
 
 ## Status at a glance
 
-- **Inventory records:** 158 item/lot/component records (parent assemblies and installed components linked)
-- **Records associated with photographs:** 149
-- **Photo-verified / owner-confirmed hardware:** 128 (some enclosed items owner-confirmed; no working-status implied)
+- **Inventory records:** 169 item/lot/component records (parent assemblies and installed components linked)
+- **Records associated with photographs:** 160
+- **Photo-verified / owner-confirmed hardware:** 139 (some enclosed items owner-confirmed; no working-status implied)
 - **Photo-supported / tentative identifications or packaging only:** 23
 - **Previously reported, not yet photographed:** 7
-- **Photo intake records:** 142
+- **Photo intake records:** 151
 
 These are **record and photo counts**, not counts of verified working devices. A photographed retail box does not establish that electronic contents are present unless separately confirmed.
 
 - **Records lacking direct item photographs:** 9 (some contents independently confirmed by owner)
 
-## Latest batch — 021 (9 photographs; 11 new records, 2 LED-bar records enriched)
+## Latest batch — 022 (9 photographs; 11 new item/variant records, 1 existing item enriched)
+
+| ID | Item | Quantity | Photo |
+| --- | --- | ---: | --- |
+| HW-0159 | Small white-plunger tactile switches | 3 | `1000063284.jpg` |
+| HW-0160 | Larger black-center square tactile switches | 6 | `1000063284.jpg` |
+| HW-0161 | 4×4 sixteen-key membrane keypad | 1 | `1000063290.jpg` |
+| HW-0162 | Spare glass fuse, T3.15A label | 1 | `1000063291.jpg` |
+| HW-0163 | Keyes KY-040-type rotary encoder module | 1 | `1000063292.jpg` |
+| HW-0164 | B100K (100 kΩ nominal) rotary potentiometers | 2 | `1000063293.jpg` |
+| HW-0165 | B10K (10 kΩ nominal) rotary potentiometers | 2 | `1000063293.jpg` |
+| HW-0166 | B50K (50 kΩ nominal) rotary potentiometer | 1 | `1000063293.jpg` |
+| HW-0167 | CanaKit PiSwitch inline pushbutton power switch | 1 | `1000063294.jpg` |
+| HW-0168 | Olympus VF-RM7 wired REC/PAUSE remote | 1 | `1000063295.jpg` |
+| HW-0169 | Apple Remote A1156 IR controller | 1 | `1000063296.jpg`, `1000063297.jpg` |
+
+**Deduplication:** The two Apple Remote photographs are opposite sides of one device; the LCD Keypad Shield cropped in `1000063284.jpg` is an existing HW-0151 unit, not another shield. The nine new tactile switches are loose hardware, not integrated buttons on any shield. The five potentiometers are kept in three separate resistance groups. No assumptions of tested working status.
+
+**Unverified:** Exact caps for the larger switches, fuse body/rating independent of packaging, potentiometer resistance measured values, PiSwitch USB connector details, remote compatibility and operation. The image binaries are referenced but not uploaded to GitHub. [Batch 022 details](batches/2026-11-22-022.md).
+
+## Earlier batch — 021 (9 photographs; 11 new records, 2 LED-bar records enriched)
 
 | ID | Item | Quantity | Photo |
 | --- | --- | ---: | --- |
