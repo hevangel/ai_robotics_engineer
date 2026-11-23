@@ -3321,6 +3321,263 @@
         "reference": "P-20261122-108"
       },
       "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0119",
+      "category": "accessory",
+      "name": "Laser-cut brown fiberboard mechanical enclosure / mounting kit (unassembled)",
+      "manufacturer": null,
+      "model": null,
+      "variant": "Four laser-cut fiberboard pieces with small bag of machine screws and nuts",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_tentative",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-118"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Tabbed/notched panels",
+        "Mounting holes and slots"
+      ],
+      "accessories": [
+        "Small bag of metal screws and nuts (quantity not individually verified)"
+      ],
+      "notes": "One unassembled laser-cut brown fiberboard/MDF-like kit: 4 flat pieces (1 large rectangle, 1 long narrow tabbed bar, 2 curved/sector-like panels) and one bag of metal fasteners visible on transparent zip bag. Intended finished device not identifiable; likely a small mounting stand or enclosure, but exact function, manufacturer, material composition, and completeness unknown. Do not confuse with the laser-cut parts of the previously inventoried robot arm or existing cases without further evidence.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-118"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0120",
+      "category": "accessory",
+      "name": "Black double-ended compact USB plug adapter (connector types unverified)",
+      "manufacturer": null,
+      "model": null,
+      "variant": "One black ridged in-line coupler with two different-size male metal connectors, photographed from two angles",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_tentative",
+      "identification_confidence": "low",
+      "photo_ids": [
+        "P-20261122-114",
+        "P-20261122-117"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "One larger USB-family male connector (exact type uncertain)",
+        "One smaller USB-family male connector (exact type uncertain)"
+      ],
+      "accessories": [],
+      "notes": "Photos 1000063258.jpg and 1000063255.jpg appear to show TWO VIEWS of the SAME black ribbed adapter, not two units. It has one wider and one narrower exposed metal plug. Exact standards (USB Type-B, Mini-B, Micro-B, Type-C etc.) cannot be definitively verified from side views; do not claim data transfer, charging, OTG support, or 5V voltage compatibility. Need face-on photo of both plug tips for authoritative identification.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-114"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0121",
+      "category": "interface_module",
+      "name": "CanaKit miniature USB Wi-Fi wireless adapter",
+      "manufacturer": "CanaKit",
+      "model": "Raspberry Pi WiFi Adapter family (exact SKU/chipset unverified)",
+      "variant": "Black USB Type-A stick labeled 'CanaKit', 'WiFi', and www.canakit.com",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-116"
+      ],
+      "connectivity": [
+        "Wi-Fi; band, standard and chipset unverified on this unit"
+      ],
+      "interfaces": [
+        "USB Type-A male"
+      ],
+      "accessories": [],
+      "notes": "One actual black CanaKit Wi-Fi dongle, USB Type-A male. Brand and Wi-Fi intent are directly marked on case. CanaKit sells Raspberry Pi Wi-Fi adapters and older kits mention RT5370, but this specific photographed unit's chip, revision, wireless standard, transfer rate, and functioning status are NOT verified. No additional Raspberry Pi computer counted. Public reference: https://www.canakit.com/raspberry-pi-wifi.html.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-116"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0122",
+      "category": "accessory",
+      "name": "White two-ended compact USB-family plug adapter (exact connector standards unknown)",
+      "manufacturer": null,
+      "model": null,
+      "variant": "Single white short inline adapter with wider USB-family plug on one end and a smaller plug on other",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_tentative",
+      "identification_confidence": "low",
+      "photo_ids": [
+        "P-20261122-115"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Wider metal plug, possibly USB-C or related form factor (unverified)",
+        "Narrow metal plug, exact type not identifiable"
+      ],
+      "accessories": [],
+      "notes": "One white rigid short male-to-male adapter photographed. Both plug ends visible from oblique side but not head-on, so cannot reliably establish whether these are USB-C, Micro-USB, Lightning or another connection standard. Separate unit from HW-0120 black adapter. No power/data function tested.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-115"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0123",
+      "category": "power",
+      "name": "3.7 V 1000 mAh lithium-polymer pouch battery, 523450 marking, bare leads",
+      "manufacturer": null,
+      "model": "523450 (printed cell marking)",
+      "variant": "Silver foil pouch cell with yellow tape, red and black bare wire leads; printed 3.7V 1000mAh",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-113"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Red wire lead — exposed stripped end",
+        "Black wire lead — exposed stripped end"
+      ],
+      "accessories": [],
+      "notes": "UPPER/LEFT in photo 1000063254.jpg, distinct from second smaller connector-equipped pouch cell HW-0124. Printing includes cell code 523450, nominal 3.7V and 1000mAh, plus date-like 20150321 marking (not independently dated). Lithium cell has bare red/black wire ends and nearby foil/tape: preserve insulated leads separately to prevent short circuits; age, health, charge level and suitability for reuse are unknown. Do not charge without assessing cell and charger compatibility.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-113"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0124",
+      "category": "power",
+      "name": "Lithium-ion polymer rechargeable pouch battery with two-pin connector (capacity unknown)",
+      "manufacturer": null,
+      "model": "1ICP4/43/55 (partially legible marking; unverified)",
+      "variant": "Second flatter silver polymer pouch cell with yellow edging, black top wrap, red/black leads terminating in a small 2-pin plug",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-113"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Small two-wire/two-pin connector, pinout and pitch unverified"
+      ],
+      "accessories": [],
+      "notes": "LOWER/RIGHT in photo 1000063254.jpg. Printed 'Lithium Ion Polymer Rechargeable Battery', 'Red: +' and 'Black: -'; size/type characters resemble 1ICP4/43/55 but are not fully readable. Cell capacity and voltage not legible in image, do not assume same 1000mAh capacity as HW-0123. Distinct physically from HW-0123; health, age and charge unknown. Avoid short circuits or directly attaching to unverified battery shields.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-113"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0125",
+      "category": "accessory",
+      "name": "Two white cabled dual-prong contact / clip assemblies, function unknown",
+      "manufacturer": null,
+      "model": null,
+      "variant": "Pair of separate white plastic-end wires terminating in split/forked metallic contacts",
+      "quantity": 2,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_tentative",
+      "identification_confidence": "low",
+      "photo_ids": [
+        "P-20261122-112"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Metallic fork/two-prong exposed contact at the end of each short white lead",
+        "White molded rectangular plastic end/holder"
+      ],
+      "accessories": [],
+      "notes": "Exactly TWO visually similar white corded plastic assemblies in the photo. Each has a rectangular white housing or clip at one end and a split/two-forked metal contact at the other. Do not infer power supply, ECG/TENS, device compatibility, function, or pinout; unknown purpose needs contextual packaging or close-up. Stored as one lot of quantity two; not an additional microcontroller.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-112"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0126",
+      "category": "interface_module",
+      "name": "Unbranded nano USB dongle with handwritten 'BT' label (Bluetooth presumed)",
+      "manufacturer": null,
+      "model": null,
+      "variant": "Very small black half-round USB Type-A dongle with white side tape marked 'BT'",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_tentative",
+      "identification_confidence": "low",
+      "photo_ids": [
+        "P-20261122-111"
+      ],
+      "connectivity": [
+        "Bluetooth presumed from handwritten label; not electronically verified"
+      ],
+      "interfaces": [
+        "USB Type-A male"
+      ],
+      "accessories": [],
+      "notes": "One USB Type-A mini/nano plug, black rounded body, with side adhesive tape handwritten 'BT'. Likely Bluetooth USB adapter, but handwritten label is not manufacturer identification or protocol verification. Chipset, Bluetooth version, profile support and functionality are unknown; retain as independent dongle, not part of D01 ring or CanaKit Wi-Fi adapter until proven otherwise.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-111"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0127",
+      "category": "interface_module",
+      "name": "IrJACK USB infrared IrDA adapter (lavender)",
+      "manufacturer": "Actisys (IrJACK product association; maker not separately visible on case)",
+      "model": "IrJACK (exact USB IrDA model / revision unverified)",
+      "variant": "Lavender/violet elongated USB Type-A dongle with IrJACK wordmark and stylized radio-wave lines",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-110"
+      ],
+      "connectivity": [
+        "IrDA infrared data interface (product family inferred from branding; protocol rate unverified)"
+      ],
+      "interfaces": [
+        "USB Type-A male"
+      ],
+      "accessories": [],
+      "notes": "One physical purple USB Type-A device clearly labeled 'IrJACK'. Third-party product listings associate Actisys IrJACK with miniature USB IrDA (infrared data) adaptors, not necessarily an ordinary TV remote IR blaster; exact variant, hardware ID, IrDA speed/OS support, and IR transmit/receive capability are not demonstrated by the image. No test. External identification reference: https://www.wexim.com/cgi-bin/shop/IR-JK.html.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-110"
+      },
+      "updated_on": "2026-11-22"
     }
   ]
 }

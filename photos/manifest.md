@@ -1,6 +1,6 @@
 # Photo evidence index
 
-**Last updated:** 2026-11-22. **Photos logged: 109.** This file indexes the actual photographs received in the ChatGPT conversation, but **does not contain the JPG images**. Original image assets have not been copied to GitHub. The canonical relationship between photo IDs and hardware IDs is in [the JSON intake log](../intake/photos.json).
+**Last updated:** 2026-11-22. **Photos logged: 118.** This file indexes the actual photographs received in the ChatGPT conversation, but **does not contain the JPG images**. Original image assets have not been copied to GitHub. The canonical relationship between photo IDs and hardware IDs is in [the JSON intake log](../intake/photos.json).
 
 | Photo ID | Conversation image filename | Related hardware ID(s) | Description |
 | --- | --- | --- | --- |
@@ -128,10 +128,19 @@
 | `P-20261122-107` | `1000063248.jpg` | `HW-0116` | Small green ULN2003-style stepper driver board with LEDs, DIP IC and motor connector |
 | `P-20261122-108` | `1000063249.jpg` | `HW-0117`, `HW-0118` | Rear of two modular interlinked and two integrated/continuous-PCB 4×8×8 LED matrix strips (two styles). |
 | `P-20261122-109` | `1000063250.jpg` | `HW-0117`, `HW-0118` | Front of same 4 strips; two LED matrix styles, 16 total 8×8 display tiles. |
+| `P-20261122-110` | `1000063251.jpg` | `HW-0127` | Purple IrJACK-branded USB infrared adapter; single USB Type-A plug. |
+| `P-20261122-111` | `1000063252.jpg` | `HW-0126` | Small USB nano dongle with handwritten BT label, likely Bluetooth. |
+| `P-20261122-112` | `1000063253.jpg` | `HW-0125` | Two distinct white cabled contact/clip leads with forked tips. |
+| `P-20261122-113` | `1000063254.jpg` | `HW-0123`, `HW-0124` | Two distinct Li-ion polymer pouch cells; one bare-lead 3.7V 1000mAh 523450, one with connector and unknown capacity. |
+| `P-20261122-114` | `1000063255.jpg` | `HW-0120` | Black inline USB-family adapter, second view of the same adapter in photo 1000063258.jpg. |
+| `P-20261122-115` | `1000063256.jpg` | `HW-0122` | White inline compact dual-ended metal plug adapter. |
+| `P-20261122-116` | `1000063257.jpg` | `HW-0121` | CanaKit-branded black USB Wi-Fi dongle. |
+| `P-20261122-117` | `1000063258.jpg` | `HW-0120` | Black inline dual-ended male plug adapter, alternate view of same unit as photo 1000063255.jpg. |
+| `P-20261122-118` | `1000063259.jpg` | `HW-0119` | Four unassembled brown laser-cut structural panels and small bag of metal screws and nuts. |
 
 ## Batch notes
 
-[Batch 001](../inventory/batches/2026-11-22-001.md) · [Batch 002](../inventory/batches/2026-11-22-002.md) · [Batch 003](../inventory/batches/2026-11-22-003.md) · [Batch 004](../inventory/batches/2026-11-22-004.md) · [Batch 005](../inventory/batches/2026-11-22-005.md) · [Batch 006](../inventory/batches/2026-11-22-006.md) · [Batch 007](../inventory/batches/2026-11-22-007.md) · [Batch 008](../inventory/batches/2026-11-22-008.md) · [Batch 009](../inventory/batches/2026-11-22-009.md) · [Batch 010](../inventory/batches/2026-11-22-010.md) · [Batch 011](../inventory/batches/2026-11-22-011.md) · [Batch 012](../inventory/batches/2026-11-22-012.md) · [Batch 013](../inventory/batches/2026-11-22-013.md) · [Batch 014](../inventory/batches/2026-11-22-014.md) · [Batch 015](../inventory/batches/2026-11-22-015.md) · [Batch 016](../inventory/batches/2026-11-22-016.md) · [Batch 017](../inventory/batches/2026-11-22-017.md)
+[Batch 001](../inventory/batches/2026-11-22-001.md) · [Batch 002](../inventory/batches/2026-11-22-002.md) · [Batch 003](../inventory/batches/2026-11-22-003.md) · [Batch 004](../inventory/batches/2026-11-22-004.md) · [Batch 005](../inventory/batches/2026-11-22-005.md) · [Batch 006](../inventory/batches/2026-11-22-006.md) · [Batch 007](../inventory/batches/2026-11-22-007.md) · [Batch 008](../inventory/batches/2026-11-22-008.md) · [Batch 009](../inventory/batches/2026-11-22-009.md) · [Batch 010](../inventory/batches/2026-11-22-010.md) · [Batch 011](../inventory/batches/2026-11-22-011.md) · [Batch 012](../inventory/batches/2026-11-22-012.md) · [Batch 013](../inventory/batches/2026-11-22-013.md) · [Batch 014](../inventory/batches/2026-11-22-014.md) · [Batch 015](../inventory/batches/2026-11-22-015.md) · [Batch 016](../inventory/batches/2026-11-22-016.md) · [Batch 017](../inventory/batches/2026-11-22-017.md) · [Batch 018](../inventory/batches/2026-11-22-018.md)
 
 ## Next action to make the catalog self-contained
 

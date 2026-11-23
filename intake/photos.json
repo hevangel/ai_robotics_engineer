@@ -1320,6 +1320,115 @@
         "HW-0118"
       ],
       "notes": "One of two photographs of the SAME four LED matrix strips (two per PCB style). LEFT TWO strips: modular short-PCB design with black intermodule headers (HW-0117). RIGHT TWO strips: continuous long-PCB design with end connectors only (HW-0118). Total remains 4 strips × 4 displays = 16 matrices. Photo binary not stored on GitHub; image is a conversation attachment."
+    },
+    {
+      "id": "P-20261122-110",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 018 photo 1/9; uploaded filename 1000063251.jpg: Purple IrJACK-branded USB infrared adapter; single USB Type-A plug",
+      "item_ids": [
+        "HW-0127"
+      ],
+      "notes": "Actual photograph inspected in conversation; image binary has not been uploaded to GitHub. Quantity reflects unique physical items across multiple photos; do not double-count photo views."
+    },
+    {
+      "id": "P-20261122-111",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 018 photo 2/9; uploaded filename 1000063252.jpg: Small USB nano dongle with handwritten BT label, likely Bluetooth",
+      "item_ids": [
+        "HW-0126"
+      ],
+      "notes": "Actual photograph inspected in conversation; image binary has not been uploaded to GitHub. Quantity reflects unique physical items across multiple photos; do not double-count photo views."
+    },
+    {
+      "id": "P-20261122-112",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 018 photo 3/9; uploaded filename 1000063253.jpg: Two distinct white cabled contact/clip leads with forked tips",
+      "item_ids": [
+        "HW-0125"
+      ],
+      "notes": "Actual photograph inspected in conversation; image binary has not been uploaded to GitHub. Quantity reflects unique physical items across multiple photos; do not double-count photo views."
+    },
+    {
+      "id": "P-20261122-113",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 018 photo 4/9; uploaded filename 1000063254.jpg: Two distinct Li-ion polymer pouch cells; one bare-lead 3.7V 1000mAh 523450, one with connector and unknown capacity",
+      "item_ids": [
+        "HW-0123",
+        "HW-0124"
+      ],
+      "notes": "Actual photograph inspected in conversation; image binary has not been uploaded to GitHub. Quantity reflects unique physical items across multiple photos; do not double-count photo views."
+    },
+    {
+      "id": "P-20261122-114",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 018 photo 5/9; uploaded filename 1000063255.jpg: Black inline USB-family adapter, second view of the same adapter in photo 1000063258.jpg",
+      "item_ids": [
+        "HW-0120"
+      ],
+      "notes": "Actual photograph inspected in conversation; image binary has not been uploaded to GitHub. Quantity reflects unique physical items across multiple photos; do not double-count photo views."
+    },
+    {
+      "id": "P-20261122-115",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 018 photo 6/9; uploaded filename 1000063256.jpg: White inline compact dual-ended metal plug adapter",
+      "item_ids": [
+        "HW-0122"
+      ],
+      "notes": "Actual photograph inspected in conversation; image binary has not been uploaded to GitHub. Quantity reflects unique physical items across multiple photos; do not double-count photo views."
+    },
+    {
+      "id": "P-20261122-116",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 018 photo 7/9; uploaded filename 1000063257.jpg: CanaKit-branded black USB Wi-Fi dongle",
+      "item_ids": [
+        "HW-0121"
+      ],
+      "notes": "Actual photograph inspected in conversation; image binary has not been uploaded to GitHub. Quantity reflects unique physical items across multiple photos; do not double-count photo views."
+    },
+    {
+      "id": "P-20261122-117",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 018 photo 8/9; uploaded filename 1000063258.jpg: Black inline dual-ended male plug adapter, alternate view of same unit as photo 1000063255.jpg",
+      "item_ids": [
+        "HW-0120"
+      ],
+      "notes": "Actual photograph inspected in conversation; image binary has not been uploaded to GitHub. Quantity reflects unique physical items across multiple photos; do not double-count photo views."
+    },
+    {
+      "id": "P-20261122-118",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 018 photo 9/9; uploaded filename 1000063259.jpg: Four unassembled brown laser-cut structural panels and small bag of metal screws and nuts",
+      "item_ids": [
+        "HW-0119"
+      ],
+      "notes": "Actual photograph inspected in conversation; image binary has not been uploaded to GitHub. Quantity reflects unique physical items across multiple photos; do not double-count photo views."
     }
   ]
 }
