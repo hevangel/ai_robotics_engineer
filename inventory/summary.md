@@ -4,16 +4,30 @@
 
 - **Inventory records:** 193 item/lot/component records (parent assemblies and installed components linked)
 - **Records associated with photographs:** 184
-- **Photo-verified / owner-confirmed hardware:** 155 (some enclosed items owner-confirmed; no working-status implied)
-- **Photo-supported / tentative identifications or packaging only:** 31
+- **Photo-verified / owner-confirmed hardware:** 158 (some enclosed items owner-confirmed; no working-status implied)
+- **Photo-supported / tentative identifications or packaging only:** 28
 - **Previously reported, not yet photographed:** 7
-- **Photo intake records:** 159
+- **Photo intake records:** 161
 
 These are **record and photo counts**, not counts of verified working devices. A photographed retail box does not establish that electronic contents are present unless separately confirmed.
 
 - **Records lacking direct item photographs:** 9 (some contents independently confirmed by owner)
 
-## Latest batch — 024 (7 photographs including one follow-up, 11 new records; exact DIP markings prioritized)
+## Latest batch — 025 (2 follow-up photographs, 0 new records; last three unidentified DIP ICs resolved)
+
+Two close-ups (`1000063309.jpg`, `1000063310.jpg`) resolve the three black DIP ICs left unidentified in batch 024 photo `1000063301.jpg`. The records keep their existing IDs; nothing was added or double-counted.
+
+| ID | Resolved item | Quantity | Photo |
+| --- | --- | ---: | --- |
+| HW-0189 | STMicroelectronics `M74HC04B1` hex inverter IC, DIP-14 | 1 | `1000063301.jpg`, `1000063309.jpg` |
+| HW-0190 | STMicroelectronics `L293D` motor driver IC, DIP-16 | 1 | `1000063301.jpg`, `1000063310.jpg` |
+| HW-0191 | Texas Instruments `NE555P` timer IC, DIP-8 | 1 | `1000063301.jpg`, `1000063310.jpg` |
+
+**Identification basis:** ST logo + `M74HC04B1` legible after rotating `1000063309.jpg` 180°; ST logo + `L293D` and TI logo + `NE555P` legible in `1000063310.jpg`; pin counts match each part (14 / 16 / 8). All seven loose DIPs in `1000063301.jpg` are now identified. Still unresolved from batch 024: the exact chip count inside the two `MAX7219CNG` tubes (HW-0192, quantity null). No working condition claimed. Unlike batches 001–024, these two photo binaries are stored in the repo (`photos/2026/11/`, EXIF stripped).
+
+[Batch 025 detail](batches/2026-11-22-025.md).
+
+## Earlier batch — 024 (7 photographs including one follow-up, 11 new records; exact DIP markings prioritized)
 
 | IDs | Item or lot | Quantity | Photo |
 | --- | --- | ---: | --- |
@@ -23,15 +37,15 @@ These are **record and photo counts**, not counts of verified working devices. A
 | HW-0186 | Three-pin infrared remote receiver breakout module with jumper leads | 1 | `1000063304.jpg` |
 | HW-0187 | 4N35 phototransistor optocouplers, DIP-6 white package | 2 | `1000063301.jpg` |
 | HW-0188 | NXP `74HC595N` 8-bit shift-register ICs, DIP-16 | 2 | `1000063301.jpg`, `1000063308.jpg` |
-| HW-0189 | Unidentified black DIP integrated circuit, lower foam horizontal | 1 | `1000063301.jpg` |
-| HW-0190 | Unidentified black DIP integrated circuit, lower foam vertical | 1 | `1000063301.jpg` |
-| HW-0191 | Unidentified small black 8-pin DIP integrated circuit, lower foam | 1 | `1000063301.jpg` |
+| HW-0189 | STMicroelectronics `M74HC04B1` hex inverter IC, DIP-14 (resolved in batch 025) | 1 | `1000063301.jpg`, `1000063309.jpg` |
+| HW-0190 | STMicroelectronics `L293D` motor driver IC, DIP-16 (resolved in batch 025) | 1 | `1000063301.jpg`, `1000063310.jpg` |
+| HW-0191 | Texas Instruments `NE555P` timer IC, DIP-8 (resolved in batch 025) | 1 | `1000063301.jpg`, `1000063310.jpg` |
 | HW-0192 | MAX7219CNG LED-matrix driver integrated circuits in two storage tubes | Unknown (2 tubes) | `1000063303.jpg` |
 | HW-0193 | Texas Instruments SN74HC595N 8-bit shift register ICs, DIP-16 | 10 | `1000063302.jpg` |
 
 **Definite part markings:** Two NXP `74HC595N` DIP-16 shift registers (HW-0188); ten TI `SN74HC595N` DIP-16 shift registers (HW-0193); two `4N35` optocouplers (HW-0187); and `MAX7219CNG` DIP-24 display-driver chips in two plastic tubes (HW-0192). The exact MAX7219 chip count remains **unknown** because the two tubes conceal/overlap individual chips, so the quantity is null, not two.
 
-**Three remaining unreadable black DIP chips:** one lower horizontal (HW-0189), one lower long/vertical (HW-0190), and one small DIP-8 (HW-0191). The two upper-foam ICs are now verified as NXP `74HC595N` from close-up `1000063308.jpg` (HW-0188). No speculative chip IDs were entered.
+**Three black DIP chips unreadable in this batch** — one lower horizontal (HW-0189), one lower long/vertical (HW-0190), and one small DIP-8 (HW-0191) — **were resolved in batch 025** as `M74HC04B1`, `L293D` and `NE555P` respectively. The two upper-foam ICs are now verified as NXP `74HC595N` from close-up `1000063308.jpg` (HW-0188). No speculative chip IDs were entered.
 
 **Other photographic hardware:** ten 3-pin optical slotted modules (HW-0183), two UART-style TX/RX level interface boards (HW-0184), one IR remote (HW-0185), one IR receiver board with adjacent jumper lead accessories (HW-0186).
 

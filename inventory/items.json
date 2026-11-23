@@ -5171,75 +5171,78 @@
     {
       "id": "HW-0189",
       "category": "electronics_material",
-      "name": "Unidentified black DIP integrated circuit, lower foam horizontal",
-      "manufacturer": null,
-      "model": null,
-      "variant": "One horizontal black DIP IC with STMicroelectronics-like logo on upper part of lower foam pad",
+      "name": "STMicroelectronics M74HC04B1 hex inverter IC, DIP-14",
+      "manufacturer": "STMicroelectronics",
+      "model": "M74HC04B1",
+      "variant": "One black DIP-14 IC (7 pins per side), ST logo, top marking M74HC04B1; additional lines GK606033 / VW GK / CHN are trace codes, not the model",
       "quantity": 1,
       "condition": "unknown",
       "location": null,
-      "verification_status": "photo_tentative",
-      "identification_confidence": "low",
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
       "photo_ids": [
-        "P-20261122-155"
+        "P-20261122-155",
+        "P-20261122-160"
       ],
       "connectivity": [],
       "interfaces": [],
       "accessories": [],
-      "notes": "One dark DIP IC just below upper foam pair in 1000063301.jpg. A manufacturer-style ST logo is visible, but the model number is not readable. Do not assert it is ST-branded until clear enough, and do not infer chip function or pin count from package alone. Needs close-up.",
+      "notes": "Resolved from close-up 1000063309.jpg (P-20261122-160): ST logo and M74HC04B1 marking are legible when the photo is rotated 180 degrees. The M74HC04 is a hex inverter (six independent inverters) in a 14-pin DIP. This is the same single horizontal black DIP in the lower foam of 1000063301.jpg provisionally logged as HW-0189, based on its ST logo, horizontal placement and the immediate follow-up sequence; it is not an additional chip. Operational condition unknown.",
       "source": {
         "type": "photo",
-        "reference": "P-20261122-155"
+        "reference": "P-20261122-160"
       },
       "updated_on": "2026-11-22"
     },
     {
       "id": "HW-0190",
       "category": "electronics_material",
-      "name": "Unidentified black DIP integrated circuit, lower foam vertical",
-      "manufacturer": null,
-      "model": null,
-      "variant": "One vertically positioned longer black DIP with faint multi-line printing and ST-like logo",
+      "name": "STMicroelectronics L293D motor driver IC, DIP-16",
+      "manufacturer": "STMicroelectronics",
+      "model": "L293D",
+      "variant": "One black DIP-16 IC (8 pins per side), ST logo, top marking L293D; additional lines 99HXL VU / MYS 99 178 are trace codes, not the model",
       "quantity": 1,
       "condition": "unknown",
       "location": null,
-      "verification_status": "photo_tentative",
-      "identification_confidence": "low",
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
       "photo_ids": [
-        "P-20261122-155"
+        "P-20261122-155",
+        "P-20261122-161"
       ],
       "connectivity": [],
       "interfaces": [],
       "accessories": [],
-      "notes": "One separate long black DIP IC below the horizontal lower-foam IC in 1000063301.jpg. Even rotated/enhanced, part-number letters and digits cannot be reliably established. Do not treat as same as HW-0189 merely because their package logos look similar. Needs straight-on close-up.",
+      "notes": "Resolved from close-up 1000063310.jpg (P-20261122-161): ST logo and L293D marking are legible. The L293D is a quadruple half-H driver used for inductive loads such as DC and bipolar stepper motors. This is the same single longer vertical black DIP in the lower foam of 1000063301.jpg provisionally logged as HW-0190, based on package size, ST logo, vertical placement beside the small DIP-8, and the immediate follow-up sequence; it is not an additional chip. Operational condition unknown.",
       "source": {
         "type": "photo",
-        "reference": "P-20261122-155"
+        "reference": "P-20261122-161"
       },
       "updated_on": "2026-11-22"
     },
     {
       "id": "HW-0191",
       "category": "electronics_material",
-      "name": "Unidentified small black 8-pin DIP integrated circuit, lower foam",
-      "manufacturer": null,
-      "model": null,
-      "variant": "One small black DIP-8 oriented vertically to the right of longer black chip in lower foam pad",
+      "name": "Texas Instruments NE555P timer IC, DIP-8",
+      "manufacturer": "Texas Instruments",
+      "model": "NE555P",
+      "variant": "One small black DIP-8 IC (4 pins per side), TI logo, top marking NE555P; second line is a lot/date trace code, not the model",
       "quantity": 1,
       "condition": "unknown",
       "location": null,
-      "verification_status": "photo_tentative",
-      "identification_confidence": "low",
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
       "photo_ids": [
-        "P-20261122-155"
+        "P-20261122-155",
+        "P-20261122-161"
       ],
       "connectivity": [],
       "interfaces": [],
       "accessories": [],
-      "notes": "One distinct short black eight-pin DIP in 1000063301.jpg, top marking extremely faint. No reliable exact model identification. A close-up with directional side lighting required.",
+      "notes": "Resolved from close-up 1000063310.jpg (P-20261122-161): TI logo and NE555P marking are legible. The NE555 is a general-purpose timer IC; the P suffix denotes the plastic DIP-8 package. This is the same single small DIP-8 to the right of the longer black chip in the lower foam of 1000063301.jpg provisionally logged as HW-0191, based on package size, position beside the L293D, and the immediate follow-up sequence; it is not an additional chip. Operational condition unknown.",
       "source": {
         "type": "photo",
-        "reference": "P-20261122-155"
+        "reference": "P-20261122-161"
       },
       "updated_on": "2026-11-22"
     },

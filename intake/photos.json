@@ -1952,6 +1952,31 @@
         "HW-0188"
       ],
       "notes": "Re-identification of two previously logged unknown DIP chips, not addition of two new ICs. Distinct from TI SN74HC595N HW-0193. Source is conversation attachment; binary image is not stored in GitHub. Same-unit linkage inferred from conversational sequence; revise if owner corrects."
+    },
+    {
+      "id": "P-20261122-160",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-160.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 025 follow-up close-up: 1000063309.jpg (EXIF date 2026-11-22). One black DIP-14 IC on white foam, photographed upside down; marking reads M74HC04B1 with ST logo when rotated 180 degrees.",
+      "item_ids": [
+        "HW-0189"
+      ],
+      "notes": "Re-identification of the previously logged unidentified horizontal lower-foam DIP in P-20261122-155, not an additional IC. Binary stored in the repo with EXIF stripped. Same-unit linkage inferred from ST logo, package, placement and conversational sequence; revise if owner corrects."
+    },
+    {
+      "id": "P-20261122-161",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-161.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 025 follow-up close-up: 1000063310.jpg (EXIF date 2026-11-22). Two black DIP ICs on white foam: a DIP-16 marked L293D with ST logo, and a small DIP-8 marked NE555P with TI logo; the edge of the M74HC04B1 from P-20261122-160 is cropped at the frame edge and is not counted again here.",
+      "item_ids": [
+        "HW-0190",
+        "HW-0191"
+      ],
+      "notes": "Re-identification of the two previously logged unidentified lower-foam DIPs in P-20261122-155, not additional ICs. Binary stored in the repo with EXIF stripped. Same-unit linkage inferred from package sizes, logos, relative positions and conversational sequence; revise if owner corrects."
     }
   ]
 }
