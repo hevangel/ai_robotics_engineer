@@ -1,6 +1,6 @@
 # Photo evidence index
 
-**Last updated:** 2026-11-22. **Photos logged: 25.** This file indexes the actual photographs received in the ChatGPT conversation, but **does not contain the JPG images**. Original image assets have not been copied to GitHub. The canonical relationship between photo IDs and hardware IDs is in [the JSON intake log](../intake/photos.json).
+**Last updated:** 2026-11-22. **Photos logged: 34.** This file indexes the actual photographs received in the ChatGPT conversation, but **does not contain the JPG images**. Original image assets have not been copied to GitHub. The canonical relationship between photo IDs and hardware IDs is in [the JSON intake log](../intake/photos.json).
 
 | Photo ID | Conversation image filename | Related hardware ID(s) | Description |
 | --- | --- | --- | --- |
@@ -31,9 +31,19 @@
 | `P-20261122-024` | `1000063156.jpg` | `HW-0032` | Element14 Raspberry Pi Camera V2 8MP retail package |
 | `P-20261122-025` | `1000063155.jpg` | `HW-0033` | Blue Iomega Zip 250 USB powered drive and attached USB cable |
 
+| `P-20261122-026` | `1000063158.jpg` | `HW-0034` | Blue/gray self-adjusting wire stripper, cutter and crimper on tabletop |
+| `P-20261122-027` | `1000063159.jpg` | `HW-0035` | Blister package containing five different colored-handle double-ended electronics pick/scraper tools |
+| `P-20261122-028` | `1000063160.jpg` | `HW-0036` | Rainbow flat 40-conductor-looking IDC/GPIO ribbon cable with large 2-row socket |
+| `P-20261122-029` | `1000063161.jpg` | `HW-0037` | Small organizer card labeled BLACK RED WHITE BLUE YELLOW GREEN with six loose electrical wires |
+| `P-20261122-030` | `1000063162.jpg` | `HW-0038` | DSO 112 A digital oscilloscope with measurement probe and red/black clip leads |
+| `P-20261122-031` | `1000063163.jpg` | `HW-0039` | Bundle of multicolored logic test flying leads with tiny black grabber/hook probes |
+| `P-20261122-032` | `1000063164.jpg` | `HW-0040` | White Multi-function Tester TC1 with LCD, turquoise ZIF socket and Start button |
+| `P-20261122-033` | `1000063165.jpg` | `HW-0041` | Assorted colored jumper wire bundle with white multi-pin plugs and black female Dupont-type connectors |
+| `P-20261122-034` | `1000063166.jpg` | `HW-0042` | Bag of small hook-style test accessories and metal-shaft probe grabs with colored sleeves |
+
 ## Batch notes
 
-[Batch 001](../inventory/batches/2026-11-22-001.md) · [Batch 002](../inventory/batches/2026-11-22-002.md) · [Batch 003](../inventory/batches/2026-11-22-003.md) · [Batch 004](../inventory/batches/2026-11-22-004.md) · [Batch 005](../inventory/batches/2026-11-22-005.md)
+[Batch 001](../inventory/batches/2026-11-22-001.md) · [Batch 002](../inventory/batches/2026-11-22-002.md) · [Batch 003](../inventory/batches/2026-11-22-003.md) · [Batch 004](../inventory/batches/2026-11-22-004.md) · [Batch 005](../inventory/batches/2026-11-22-005.md) · [Batch 006](../inventory/batches/2026-11-22-006.md)
 
 ## Next action to make the catalog self-contained
 

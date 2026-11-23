@@ -2,16 +2,34 @@
 
 ## Status at a glance
 
-- **Inventory records:** 33 distinct hardware item/lot records
-- **Records associated with photographs:** 26
-- **Photo-verified / owner-confirmed visible hardware:** 18
+- **Inventory records:** 42 distinct hardware item/lot records
+- **Records associated with photographs:** 35
+- **Photo-verified / owner-confirmed visible hardware:** 27
 - **Photo-supported but packaging only / tentative:** 8
 - **Previously reported, not yet photographed:** 7
-- **Photo intake records:** 25
+- **Photo intake records:** 34
 
 These are **record and photo counts**, not counts of verified working devices. A photographed retail box does not establish that electronic contents are present unless separately confirmed.
 
-## Latest batch — 005 (8 photos)
+## Latest batch — 006 (10 received / 9 new photos)
+
+| ID | Item | Quantity | Identification |
+| --- | --- | --- | --- |
+| HW-0034 | Automatic wire stripper / crimper | 1 tool | Range marked 10–24 AWG; tested status unknown |
+| HW-0035 | Five-piece precision electronics rework tool set | 1 set / 5 tools | Assorted hook, blade, scraper tips; exact type tentative |
+| HW-0036 | Rainbow 40-pin IDC / GPIO ribbon cable | 1 cable | End connections partly obscured |
+| HW-0037 | Six-color hookup wire assortment | 1 set | Wire gauge and exact type unknown |
+| HW-0038 | DSO112A digital oscilloscope with probe | 1 scope | Label confirmed; untested |
+| HW-0039 | Logic-probing test-hook lead bundle | 1 bundle | Exact probe/channel count unknown |
+| HW-0040 | TC1 multifunction component tester | 1 device | Different from HW-0015 |
+| HW-0041 | JST-style to Dupont jumper-wire bundle | 1 bundle | Pinout/pitch unverified |
+| HW-0042 | Miniature hook test clip accessories | 1 bag | Count/type uncertain |
+
+The photo of the AstroAI DM6000AR multimeter is a **repeat of existing HW-0031 / P-20261122-023**, not an additional owned meter. The white TC1 tester HW-0040 is separate from the acrylic-case generic tester HW-0015.
+
+[Batch 006 detailed evidence](batches/2026-11-22-006.md)
+
+## Earlier batch — 005 (8 photos)
 
 | ID | Item | Quantity | Identification |
 | --- | --- | --- | --- |

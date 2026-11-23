@@ -305,6 +305,114 @@
         "HW-0033"
       ],
       "notes": "One device in view; condition unknown. Background micro:bit packaging not inventoried. Original conversation JPG not stored in GitHub."
+    },
+    {
+      "id": "P-20261122-026",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Uploaded photo 1000063158.jpg: Blue/gray self-adjusting wire stripper, cutter and crimper on tabletop.",
+      "item_ids": [
+        "HW-0034"
+      ],
+      "notes": "Type identified by stamped wire stripper range and tool construction. Original conversation JPG not stored in GitHub."
+    },
+    {
+      "id": "P-20261122-027",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Uploaded photo 1000063159.jpg: Blister package containing five different colored-handle double-ended electronics pick/scraper tools.",
+      "item_ids": [
+        "HW-0035"
+      ],
+      "notes": "Record one 5-piece tool set; exact use not labeled. Original conversation JPG not stored in GitHub."
+    },
+    {
+      "id": "P-20261122-028",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Uploaded photo 1000063160.jpg: Rainbow flat 40-conductor-looking IDC/GPIO ribbon cable with large 2-row socket.",
+      "item_ids": [
+        "HW-0036"
+      ],
+      "notes": "Second termination and exact pin count need inspection. Original conversation JPG not stored in GitHub."
+    },
+    {
+      "id": "P-20261122-029",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Uploaded photo 1000063161.jpg: Small organizer card labeled BLACK RED WHITE BLUE YELLOW GREEN with six loose electrical wires.",
+      "item_ids": [
+        "HW-0037"
+      ],
+      "notes": "One assortment; gauge and conductor type unknown. Original conversation JPG not stored in GitHub."
+    },
+    {
+      "id": "P-20261122-030",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Uploaded photo 1000063162.jpg: DSO 112 A digital oscilloscope with measurement probe and red/black clip leads.",
+      "item_ids": [
+        "HW-0038"
+      ],
+      "notes": "Unit unpowered. Photo includes probe/cable counted as instrument accessories. Original conversation JPG not stored in GitHub."
+    },
+    {
+      "id": "P-20261122-031",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Uploaded photo 1000063163.jpg: Bundle of multicolored logic test flying leads with tiny black grabber/hook probes.",
+      "item_ids": [
+        "HW-0039"
+      ],
+      "notes": "Channel count and manufacturer unconfirmed; no analyzer base unit shown. Original conversation JPG not stored in GitHub."
+    },
+    {
+      "id": "P-20261122-032",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Uploaded photo 1000063164.jpg: White Multi-function Tester TC1 with LCD, turquoise ZIF socket and Start button.",
+      "item_ids": [
+        "HW-0040"
+      ],
+      "notes": "Distinct from previously cataloged HW-0015 tester. Original conversation JPG not stored in GitHub."
+    },
+    {
+      "id": "P-20261122-033",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Uploaded photo 1000063165.jpg: Assorted colored jumper wire bundle with white multi-pin plugs and black female Dupont-type connectors.",
+      "item_ids": [
+        "HW-0041"
+      ],
+      "notes": "Exact pitch and pin count not safely inferred. Original conversation JPG not stored in GitHub."
+    },
+    {
+      "id": "P-20261122-034",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Uploaded photo 1000063166.jpg: Bag of small hook-style test accessories and metal-shaft probe grabs with colored sleeves.",
+      "item_ids": [
+        "HW-0042"
+      ],
+      "notes": "Separate bundle from HW-0039, count of pieces uncertain. Original conversation JPG not stored in GitHub."
     }
   ]
 }

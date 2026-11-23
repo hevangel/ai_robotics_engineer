@@ -901,6 +901,266 @@
         "reference": "P-20261122-025"
       },
       "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0034",
+      "category": "tool",
+      "name": "Automatic wire stripper, cutter and crimper",
+      "manufacturer": null,
+      "model": null,
+      "variant": "Self-adjusting spring-loaded tool with blue-and-grey grips",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-026"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Automatic adjustable stripping jaws",
+        "Wire cutting edge",
+        "Insulated and non-insulated terminal crimping recesses"
+      ],
+      "accessories": [],
+      "notes": "One physical self-adjusting wire stripping/cutting/crimping hand tool. Printed markings include 'WIRE STRIPPER 10-24 0.2-6.0' and crimp/cutter markings. No manufacturer or precise product model clearly legible; do not infer calibration or working condition. Photo filename 1000063158.jpg.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-026"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0035",
+      "category": "tool",
+      "name": "Five-piece double-ended soldering/rework auxiliary tool set",
+      "manufacturer": null,
+      "model": null,
+      "variant": "Five colored-handled miniature precision spatula, pick, hook and scraper style tools",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-027"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Handheld precision steel tips, various hooked/flat/scraper profiles"
+      ],
+      "accessories": [
+        "5 individually colored tools (green, red, yellow, black and blue grips)"
+      ],
+      "notes": "One blister pack containing 5 handheld double-ended small electronics precision tools. Tips include hooks/picks and flat scraping or prying blades; likely soldering aid, PCB rework, cleaning or disassembly set. Exact intended function, brand, model, and whether blades are safe for delicate PCBs are not confirmed. Quantity is one set with five tools. Photo 1000063159.jpg.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-027"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0036",
+      "category": "cable",
+      "name": "40-pin rainbow GPIO ribbon breakout cable",
+      "manufacturer": null,
+      "model": null,
+      "variant": "Flat multicolor ribbon cable with 2×20/40-position IDC-style connector",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-028"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "40-pin (2×20) IDC-style socket visible at top; opposite termination partially obscured"
+      ],
+      "accessories": [],
+      "notes": "One long rainbow ribbon-style GPIO breakout cable with a wide two-row connector and comb/strain-relief fixture midway. Appears suitable for older Raspberry Pi/other 40-pin GPIO connections, but exact contact count, second-end termination (individual leads, connector or breakout), gender and pin-one mapping are not conclusively visible. Do NOT assume safe direct connection until pinout is checked. Photo 1000063160.jpg.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-028"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0037",
+      "category": "electronics_material",
+      "name": "Color-coded single-core hookup/jumper wire assortment",
+      "manufacturer": null,
+      "model": null,
+      "variant": "Six color-labeled sample/training wires, black/red/white/blue/yellow/green",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-029"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Loose single-wire leads; visible bent exposed conductor ends"
+      ],
+      "accessories": [
+        "Presentation/organizer card with color labels"
+      ],
+      "notes": "One set of colored wires mounted through a small organizer/display card labeled BLACK, RED, WHITE, BLUE, YELLOW and GREEN. Some ends are stripped/bent to make electrical connections. Quantity 1 set; individual lengths, conductor composition/strand count and gauge not established. Not a power module or PCB. Photo 1000063161.jpg.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-029"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0038",
+      "category": "tool",
+      "name": "DSO112A handheld digital oscilloscope",
+      "manufacturer": null,
+      "model": "DSO112A",
+      "variant": "Small standalone single-input digital oscilloscope; exact capabilities unverified",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-030"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Screen",
+        "Front input connector marked Input Max 50Vpk",
+        "Output/Ext Tr Input labeled connector",
+        "Probe input through coax/BNC-style adapter"
+      ],
+      "accessories": [
+        "One grey oscilloscope probe with ground lead and cable",
+        "Red and black alligator clip lead/cable pictured alongside"
+      ],
+      "notes": "One black instrument clearly marked 'DSO 112 A Digital Oscilloscope', with screen and connected/accessory passive measurement probe(s), BNC-style connection and lead(s). Model text read directly from photo. Input shows 'Max 50Vpk'; do not conflate with true mains/line voltage measurement rating. Unpowered and untested, no bandwidth/sampling specification verified. Photo 1000063162.jpg.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-030"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0039",
+      "category": "tool",
+      "name": "Multi-channel logic-analyzer grabber test-lead bundle",
+      "manufacturer": null,
+      "model": null,
+      "variant": "Colored flying leads with miniature black hook clips and female Dupont connectors",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-031"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Multiple black retractable hook-style test clips",
+        "Female 2.54 mm Dupont-type connectors"
+      ],
+      "accessories": [],
+      "notes": "One loose group of colored flying signal leads, black plastic test hook/grabber ends and small female connectors. Likely for digital logic analyzer or PCB signal probing; manufacturer, channel count, length, rated voltage and clip electrical characteristics unknown. Keep distinct from separately bagged multicolor test hooks HW-0042. Do not claim an actual logic analyzer is present. Photo 1000063163.jpg.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-031"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0040",
+      "category": "tool",
+      "name": "TC1 multifunction electronic component tester",
+      "manufacturer": null,
+      "model": "TC1",
+      "variant": "White-cased multi-function tester with color screen, ZIF socket and IR sensor",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-032"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Color display (unlit)",
+        "Blue lever-operated ZIF test socket",
+        "Infrared port marked IR",
+        "Start button"
+      ],
+      "accessories": [],
+      "notes": "One white rectangular instrument clearly labeled 'Multi-function Tester - TC1' with unlit screen, turquoise ZIF socket, red IR opening, Start button and warning to discharge components before testing. Distinct physical instrument and model from earlier acrylic-case generic LCD component tester HW-0015. No battery or working test performed; do not use to test charged capacitors. Photo 1000063164.jpg.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-032"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0041",
+      "category": "cable",
+      "name": "JST-style multi-pin connector to Dupont jumper-lead bundle",
+      "manufacturer": null,
+      "model": null,
+      "variant": "Assorted multicolor 2.54 mm-style female Dupont jumper ends and small white keyed multi-pin connectors",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-033"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Female Dupont-style connectors",
+        "Small white multi-pin keyed connector housing(s), JST-style appearance"
+      ],
+      "accessories": [],
+      "notes": "One tied bundle of multicolor wires connecting small white plastic plugs at one end to separate female jumper sockets at the other. Exact connector series, pitch, pin count, polarity and number of leads cannot be reliably determined from photo. Suitable for prototyping after verifying continuity/pinout, not assumed pin-compatible with any specific Arduino, Raspberry Pi or sensor. Photo 1000063165.jpg.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-033"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0042",
+      "category": "tool",
+      "name": "Assorted miniature hook test clips / probe accessories",
+      "manufacturer": null,
+      "model": null,
+      "variant": "Bag of black hook clips with colored tip sleeves and metal shafts",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-034"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Small spring-hook test grippers / probe grabbers"
+      ],
+      "accessories": [],
+      "notes": "One transparent bag containing assorted miniature probe-hook clip accessories with black looped tops, metallic shafts and colored identifiers/sleeves (e.g. blue, yellow, green). Exact number of complete pieces, connector termination, ratings and part brand not established. Distinct from HW-0039 wired logic-analyzer-style leads unless later proven same set. Photo 1000063166.jpg.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-034"
+      },
+      "updated_on": "2026-11-22"
     }
   ]
 }
