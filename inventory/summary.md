@@ -2,18 +2,44 @@
 
 ## Status at a glance
 
-- **Inventory records:** 169 item/lot/component records (parent assemblies and installed components linked)
-- **Records associated with photographs:** 160
-- **Photo-verified / owner-confirmed hardware:** 139 (some enclosed items owner-confirmed; no working-status implied)
-- **Photo-supported / tentative identifications or packaging only:** 23
+- **Inventory records:** 182 item/lot/component records (parent assemblies and installed components linked)
+- **Records associated with photographs:** 173
+- **Photo-verified / owner-confirmed hardware:** 147 (some enclosed items owner-confirmed; no working-status implied)
+- **Photo-supported / tentative identifications or packaging only:** 28
 - **Previously reported, not yet photographed:** 7
-- **Photo intake records:** 151
+- **Photo intake records:** 152
 
 These are **record and photo counts**, not counts of verified working devices. A photographed retail box does not establish that electronic contents are present unless separately confirmed.
 
 - **Records lacking direct item photographs:** 9 (some contents independently confirmed by owner)
 
-## Latest batch — 022 (9 photographs; 11 new item/variant records, 1 existing item enriched)
+## Latest batch — 023 (1 photograph, 13 item-type/organizer records; partial visibility)
+
+Photo: `1000063298.jpg`. One clear divided hardware organizer with numerous discrete components, plus partly cropped compartments on top and right.
+
+| ID | Item | Visible quantity |
+| --- | --- | ---: |
+| HW-0170 | Clear compartment organizer for mixed loose electronics | 1 |
+| HW-0171 | Assorted axial through-hole resistors (blue and beige body) | 7 |
+| HW-0172 | Orange ceramic disc capacitors, assorted sizes | 8 |
+| HW-0173 | Black axial leaded diodes, assorted | 4 |
+| HW-0174 | Radial electrolytic capacitors, mixed sizes | 6 |
+| HW-0175 | Loose three-lead TO-92-like semiconductor devices | 4 |
+| HW-0176 | Large TO-220 three-lead power semiconductor | 1 |
+| HW-0177 | Black multi-contact rectangular connector housing | 1 |
+| HW-0178 | Small angled multi-pin header or connector | 1 |
+| HW-0179 | Black flanged hollow plastic button-cap-like piece | 1 |
+| HW-0180 | Red plastic button-cap-like piece (partly obscured) | 1 |
+| HW-0181 | Loose glass cartridge fuses in organizer | 2 |
+| HW-0182 | Unidentified small metal mechanical part | 1 |
+
+**Counts & scope:** There are 7 resistors (5 blue, 2 beige); 8 orange ceramic disc capacitors; 4 diode-like axial devices; 6 electrolytic-looking radial capacitors (5 bottom center + 1 small upper-left); 4 clearly visible small three-lead TO-92-like semiconductors (a possible additional obscured part was not counted); 1 large TO-220 device; 2 separately visible cartridge fuses. The 2 red/black plastic cap-like parts, 2 connectors and 1 metal mechanism have uncertain precise identity. The 1 container record is for the physical tray **only**, not another count of its electronics.
+
+**Deduplication:** The two fuses are not the earlier one in the T3.15A-labelled packet (HW-0162); do not copy the earlier bag's rating. The organizer does not reuse the jumper-wire organizer HW-0103. No separate counts for metal leads or hidden objects. Further photos may refine type, values and quantity.
+
+**Evidence limitation:** Original photo is referenced in the intake log, but the JPG binary is not stored in GitHub. [Batch 023 detail](batches/2026-11-22-023.md).
+
+## Earlier batch — 022 (9 photographs; 11 new item/variant records, 1 existing item enriched)
 
 | ID | Item | Quantity | Photo |
 | --- | --- | ---: | --- |
