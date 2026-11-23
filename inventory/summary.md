@@ -2,18 +2,33 @@
 
 ## Status at a glance
 
-- **Inventory records:** 138 item/lot/component records (parent assemblies and installed components linked)
-- **Records associated with photographs:** 129
-- **Photo-verified / owner-confirmed hardware:** 110 (some enclosed items owner-confirmed; no working-status implied)
+- **Inventory records:** 145 item/lot/component records (parent assemblies and installed components linked)
+- **Records associated with photographs:** 136
+- **Photo-verified / owner-confirmed hardware:** 117 (some enclosed items owner-confirmed; no working-status implied)
 - **Photo-supported / tentative identifications or packaging only:** 21
 - **Previously reported, not yet photographed:** 7
-- **Photo intake records:** 128
+- **Photo intake records:** 133
 
 These are **record and photo counts**, not counts of verified working devices. A photographed retail box does not establish that electronic contents are present unless separately confirmed.
 
 - **Records lacking direct item photographs:** 9 (some contents independently confirmed by owner)
 
-## Latest batch — 019 (10 photographs; 10 new inventory records)
+## Latest batch — 020 (5 photographs; 7 new records; existing bar-graph quantity unchanged)
+
+| ID | Item | Count | Photo |
+| --- | --- | ---: | --- |
+| HW-0133 | 10-segment LED bar graphs (additional photo, existing record) | 10, no increase | `1000063272.jpg` |
+| HW-0139 | Clear-lens discrete LEDs | 6 | `1000063276.jpg` |
+| HW-0140 | Yellow-lens discrete LEDs | 3 | `1000063276.jpg` |
+| HW-0141 | Green-lens discrete LEDs | 5 | `1000063276.jpg` |
+| HW-0142 | Red-lens discrete LEDs | ~18 | `1000063276.jpg` |
+| HW-0143 | Cylindrical black buzzer / sounder | 1 | `1000063275.jpg` |
+| HW-0144 | WS2812 RGB LED breakout modules | 4 | `1000063274.jpg` |
+| HW-0145 | Single-digit 7-segment LED displays | 20 | `1000063273.jpg` |
+
+**Deduplication:** New bar-graph photo likely shows the existing HW-0133 lot of 10, so its quantity remains 10. Counts of individual LEDs by lens color are 6 clear, 3 yellow, 5 green and approximately 18 red. Clear lens is not evidence of emitted color; buzzer active/passive type and WS2812 revision are unverified. [Batch 020 details](batches/2026-11-22-020.md).
+
+## Earlier batch — 019 (10 photographs; 10 new inventory records)
 
 | ID | Item | Qty | Photograph(s) |
 | --- | --- | ---: | --- |

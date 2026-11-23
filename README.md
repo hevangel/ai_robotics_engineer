@@ -4,13 +4,13 @@ A photo-driven catalog for IoT hardware, Arduino-compatible boards, Raspberry Pi
 
 ## Current inventory snapshot (2026-11-22)
 
-- **138** inventory records, including installed modules and kit subcomponents
-- **128** unique photographs inspected and logged
-- **129** catalog entries linked to photographs; **9** items lack a direct photo (some enclosed/installed components owner-confirmed)
-- **Next available hardware ID: `HW-0139`**
-- **Latest update:** batch 019 adds 10 LED/display and RFID-style sticker inventory records from 10 photos (128 inspected overall). Two distinct earlier 8×8 chain styles stay separate. New 8×8 styles, bar-graph, 4-digit and 3 traffic-light module counts recorded; hidden sticker count and possible alternate views flagged.
+- **145** inventory records, including installed modules and kit subcomponents
+- **133** unique photographs inspected and logged
+- **136** catalog entries linked to photographs; **9** items lack a direct photo (some enclosed/installed components owner-confirmed)
+- **Next available hardware ID: `HW-0146`**
+- **Latest update:** batch 020 logs 5 new photos and 7 new records covering loose LEDs by lens color, a buzzer, 4 WS2812 pixel breakouts and 20 single-digit 7-segment packages; 10 bar graphs are a likely repeat of existing HW-0133 and were not added again.
 
-[Batch 001](inventory/batches/2026-11-22-001.md) · [Batch 002](inventory/batches/2026-11-22-002.md) · [Batch 003](inventory/batches/2026-11-22-003.md) · [Batch 004](inventory/batches/2026-11-22-004.md) · [Batch 005](inventory/batches/2026-11-22-005.md) · [Batch 006](inventory/batches/2026-11-22-006.md) · [Batch 007](inventory/batches/2026-11-22-007.md) · [Batch 008](inventory/batches/2026-11-22-008.md) · [Batch 009](inventory/batches/2026-11-22-009.md) · [Batch 010](inventory/batches/2026-11-22-010.md) · [Batch 011](inventory/batches/2026-11-22-011.md) · [Batch 012](inventory/batches/2026-11-22-012.md) · [Batch 013](inventory/batches/2026-11-22-013.md) · [Batch 014](inventory/batches/2026-11-22-014.md) · [Batch 015](inventory/batches/2026-11-22-015.md) · [Batch 016](inventory/batches/2026-11-22-016.md) · [Batch 017](inventory/batches/2026-11-22-017.md) · [Batch 018](inventory/batches/2026-11-22-018.md) · [Batch 019](inventory/batches/2026-11-22-019.md)
+[Batch 001](inventory/batches/2026-11-22-001.md) · [Batch 002](inventory/batches/2026-11-22-002.md) · [Batch 003](inventory/batches/2026-11-22-003.md) · [Batch 004](inventory/batches/2026-11-22-004.md) · [Batch 005](inventory/batches/2026-11-22-005.md) · [Batch 006](inventory/batches/2026-11-22-006.md) · [Batch 007](inventory/batches/2026-11-22-007.md) · [Batch 008](inventory/batches/2026-11-22-008.md) · [Batch 009](inventory/batches/2026-11-22-009.md) · [Batch 010](inventory/batches/2026-11-22-010.md) · [Batch 011](inventory/batches/2026-11-22-011.md) · [Batch 012](inventory/batches/2026-11-22-012.md) · [Batch 013](inventory/batches/2026-11-22-013.md) · [Batch 014](inventory/batches/2026-11-22-014.md) · [Batch 015](inventory/batches/2026-11-22-015.md) · [Batch 016](inventory/batches/2026-11-22-016.md) · [Batch 017](inventory/batches/2026-11-22-017.md) · [Batch 018](inventory/batches/2026-11-22-018.md) · [Batch 019](inventory/batches/2026-11-22-019.md) · [Batch 020](inventory/batches/2026-11-22-020.md)
 
 **Photo-storage note:** All 118 logged JPGs are still conversation attachments; the repository currently stores their descriptive evidence log, not their original image binaries. Do not treat filenames in the log as GitHub-hosted images.
 

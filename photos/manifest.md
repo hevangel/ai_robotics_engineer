@@ -149,9 +149,15 @@
 | `P-20261122-127` | `1000063270.jpg` | `HW-0136` | One 4-digit LED display breakout board marked DIY MORE / 4-DigitLED Display, shown with bare pads and no installed pin header. |
 | `P-20261122-128` | `1000063271.jpg` | `HW-0138` | Five bare 4-digit 7-segment LED display packages (no driver boards). |
 
+| `P-20261122-129` | `1000063272.jpg` | `HW-0133` | Ten 10-segment LED bar-graph display packages bundled in two rows of five with red foam packing. |
+| `P-20261122-130` | `1000063273.jpg` | `HW-0145` | Twenty bare single-digit seven-segment LED packages arranged as four rows of five. |
+| `P-20261122-131` | `1000063274.jpg` | `HW-0144` | Four red WS2812 Breakout printed circuit boards with individual addressable SMD RGB LED. |
+| `P-20261122-132` | `1000063275.jpg` | `HW-0143` | One circular black buzzer or sounder with center sound hole and embossed top markings. |
+| `P-20261122-133` | `1000063276.jpg` | `HW-0139`, `HW-0140`, `HW-0141`, `HW-0142` | Loose through-hole LED assortment: clear, yellow, green and red-tinted lens groups. |
+
 ## Batch notes
 
-[Batch 001](../inventory/batches/2026-11-22-001.md) · [Batch 002](../inventory/batches/2026-11-22-002.md) · [Batch 003](../inventory/batches/2026-11-22-003.md) · [Batch 004](../inventory/batches/2026-11-22-004.md) · [Batch 005](../inventory/batches/2026-11-22-005.md) · [Batch 006](../inventory/batches/2026-11-22-006.md) · [Batch 007](../inventory/batches/2026-11-22-007.md) · [Batch 008](../inventory/batches/2026-11-22-008.md) · [Batch 009](../inventory/batches/2026-11-22-009.md) · [Batch 010](../inventory/batches/2026-11-22-010.md) · [Batch 011](../inventory/batches/2026-11-22-011.md) · [Batch 012](../inventory/batches/2026-11-22-012.md) · [Batch 013](../inventory/batches/2026-11-22-013.md) · [Batch 014](../inventory/batches/2026-11-22-014.md) · [Batch 015](../inventory/batches/2026-11-22-015.md) · [Batch 016](../inventory/batches/2026-11-22-016.md) · [Batch 017](../inventory/batches/2026-11-22-017.md) · [Batch 018](../inventory/batches/2026-11-22-018.md) · [Batch 019](../inventory/batches/2026-11-22-019.md)
+[Batch 001](../inventory/batches/2026-11-22-001.md) · [Batch 002](../inventory/batches/2026-11-22-002.md) · [Batch 003](../inventory/batches/2026-11-22-003.md) · [Batch 004](../inventory/batches/2026-11-22-004.md) · [Batch 005](../inventory/batches/2026-11-22-005.md) · [Batch 006](../inventory/batches/2026-11-22-006.md) · [Batch 007](../inventory/batches/2026-11-22-007.md) · [Batch 008](../inventory/batches/2026-11-22-008.md) · [Batch 009](../inventory/batches/2026-11-22-009.md) · [Batch 010](../inventory/batches/2026-11-22-010.md) · [Batch 011](../inventory/batches/2026-11-22-011.md) · [Batch 012](../inventory/batches/2026-11-22-012.md) · [Batch 013](../inventory/batches/2026-11-22-013.md) · [Batch 014](../inventory/batches/2026-11-22-014.md) · [Batch 015](../inventory/batches/2026-11-22-015.md) · [Batch 016](../inventory/batches/2026-11-22-016.md) · [Batch 017](../inventory/batches/2026-11-22-017.md) · [Batch 018](../inventory/batches/2026-11-22-018.md) · [Batch 019](../inventory/batches/2026-11-22-019.md) · [Batch 020](../inventory/batches/2026-11-22-020.md)
 
 ## Next action to make the catalog self-contained
 

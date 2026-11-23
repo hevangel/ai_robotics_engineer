@@ -1550,6 +1550,69 @@
         "HW-0138"
       ],
       "notes": "Five individual loose display components; decimal points visible. Not the same as assembled 4-digit driver boards. Image received in conversation but not saved to GitHub; physical unit identity/overlap tracked conservatively."
+    },
+    {
+      "id": "P-20261122-129",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 020 photo 1/5; uploaded filename 1000063272.jpg: Ten 10-segment LED bar-graph display packages bundled in two rows of five with red foam packing",
+      "item_ids": [
+        "HW-0133"
+      ],
+      "notes": "Likely the same 10 HW-0133 components from photo 1000063264.jpg; no increase to quantity. Actual image inspected from conversation; JPG not committed to GitHub."
+    },
+    {
+      "id": "P-20261122-130",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 020 photo 2/5; uploaded filename 1000063273.jpg: Twenty bare single-digit seven-segment LED packages arranged as four rows of five",
+      "item_ids": [
+        "HW-0145"
+      ],
+      "notes": "Single-digit components, not the five earlier bare four-digit displays HW-0138. Actual image inspected from conversation; JPG not committed to GitHub."
+    },
+    {
+      "id": "P-20261122-131",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 020 photo 3/5; uploaded filename 1000063274.jpg: Four red WS2812 Breakout printed circuit boards with individual addressable SMD RGB LED",
+      "item_ids": [
+        "HW-0144"
+      ],
+      "notes": "5V/DI/DO/GND pin markings, no functional test. Actual image inspected from conversation; JPG not committed to GitHub."
+    },
+    {
+      "id": "P-20261122-132",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 020 photo 4/5; uploaded filename 1000063275.jpg: One circular black buzzer or sounder with center sound hole and embossed top markings",
+      "item_ids": [
+        "HW-0143"
+      ],
+      "notes": "Exact part number, active/passive type and rated voltage unknown. Actual image inspected from conversation; JPG not committed to GitHub."
+    },
+    {
+      "id": "P-20261122-133",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 020 photo 5/5; uploaded filename 1000063276.jpg: Loose through-hole LED assortment: clear, yellow, green and red-tinted lens groups",
+      "item_ids": [
+        "HW-0139",
+        "HW-0140",
+        "HW-0141",
+        "HW-0142"
+      ],
+      "notes": "Approximate group counts: clear 6, yellow 3, green 5, red 18; overlapping red components make that count approximate. Actual image inspected from conversation; JPG not committed to GitHub."
     }
   ]
 }

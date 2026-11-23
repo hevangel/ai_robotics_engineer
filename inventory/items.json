@@ -3726,11 +3726,12 @@
         "Bare LED package pins not shown"
       ],
       "accessories": [],
-      "notes": "Exactly TEN loose bar-graph display packages arranged five rows by two columns. Each has 10 rectangular LED segment windows. Lower cases show pale side-printed K??-B10G text, but exact part number is not confidently verified, so leave model null. Color, forward voltage, pinout, common lead topology, and operating condition unknown. Photo 1000063264.jpg.",
+      "notes": "Exactly TEN loose bar-graph display packages arranged five rows by two columns. Each has 10 rectangular LED segment windows. Lower cases show pale side-printed K??-B10G text, but exact part number is not confidently verified, so leave model null. Color, forward voltage, pinout, common lead topology, and operating condition unknown. Photo 1000063264.jpg. A later photo 1000063272.jpg shows an organized bundle of ten 10-segment bar graphs in two rows of five, with silver side housings and a red protective foam strip. Probably the SAME ten components rephotographed from 1000063264.jpg (same count and style); do NOT add ten more to inventory without physical confirmation. Updated as additional evidence, not added quantity.",
       "condition": "unknown",
       "location": null,
       "photo_ids": [
-        "P-20261122-123"
+        "P-20261122-123",
+        "P-20261122-129"
       ],
       "connectivity": [],
       "source": {
@@ -3871,6 +3872,196 @@
       "source": {
         "type": "photo",
         "reference": "P-20261122-128"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0139",
+      "category": "electronics_material",
+      "name": "Clear-lens loose through-hole LEDs",
+      "manufacturer": null,
+      "model": null,
+      "variant": "Six unlit clear-body discrete two-lead LEDs; nominal size appears approximately 5mm, not measured",
+      "quantity": 6,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-133"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Through-hole wire leads (exact electrical properties unknown)"
+      ],
+      "accessories": [],
+      "notes": "Six clear-lens through-hole LED packages visually separated near the top of photograph 1000063276.jpg; some are different body heights. Their emitted color may not be white: clear plastic alone does not identify emission wavelength (could include RGB/IR or various visible colors). Polarity, dimensions, voltage, current, and function unverified. Counted as a color-by-lens lot distinct from translucent colored LED lots.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-133"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0140",
+      "category": "electronics_material",
+      "name": "Yellow-lens loose through-hole LEDs",
+      "manufacturer": null,
+      "model": null,
+      "variant": "Three yellow-tinted discrete two-lead LED packages",
+      "quantity": 3,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-133"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Through-hole wire leads (exact electrical properties unknown)"
+      ],
+      "accessories": [],
+      "notes": "Exactly three yellow-bodied loose through-hole LEDs visible at upper right of 1000063276.jpg. LED forward voltage, actual illumination color, size and function not tested. Distinct from traffic-light assemblies HW-0082 and HW-0137.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-133"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0141",
+      "category": "electronics_material",
+      "name": "Green-lens loose through-hole LEDs",
+      "manufacturer": null,
+      "model": null,
+      "variant": "Five translucent green-bodied discrete two-lead LED packages",
+      "quantity": 5,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-133"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Through-hole wire leads (exact electrical properties unknown)"
+      ],
+      "accessories": [],
+      "notes": "Five green-tinted loose two-lead through-hole LEDs clustered near lower left of 1000063276.jpg. These are standalone parts, not the built-in LEDs of traffic-light boards. Forward voltage, size, pinout and functioning unverified.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-133"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0142",
+      "category": "electronics_material",
+      "name": "Red-lens loose through-hole LEDs",
+      "manufacturer": null,
+      "model": null,
+      "variant": "Approximately eighteen translucent red-bodied discrete two-lead LED packages, including a smaller one at upper right",
+      "quantity": 18,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-133"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Through-hole wire leads (exact electrical properties unknown)"
+      ],
+      "accessories": [],
+      "notes": "Approximately 18 red-tinted loose LED packages visible at right/lower-right of 1000063276.jpg, with at least one noticeably smaller LED above the main group. Several leads and lens bodies overlap, so individual count is best-effort rather than guaranteed exact. Red lens does not demonstrate powered emission. Grouped as one lot; operating specs and condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-133"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0143",
+      "category": "audio_component",
+      "name": "Black cylindrical through-hole electronic buzzer",
+      "manufacturer": null,
+      "model": null,
+      "variant": "One circular black two-terminal piezo/electromagnetic buzzer-style sounder with center opening and raised face lettering",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-132"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Through-hole wire leads (exact electrical properties unknown)"
+      ],
+      "accessories": [],
+      "notes": "One black circular sounder, photo 1000063275.jpg. Front has acoustic opening and embossed lettering that is not confidently read; one rearward terminal pin visible, second terminal not clear. Active vs passive (self-oscillating vs externally driven), rated voltage, polarity, current, tone and operating condition cannot be determined from this image. Treat as untested electronic buzzer/sounder; avoid applying unknown voltage until marking checked.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-132"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0144",
+      "category": "interface_module",
+      "name": "WS2812 single-pixel addressable RGB LED breakout modules",
+      "manufacturer": null,
+      "model": null,
+      "variant": "Red PCBs individually marked 'WS2812 Breakout', one square SMD LED each, through-hole daisy-chain pads for 5V / DI / DO / GND",
+      "quantity": 4,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-131"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "5V, DI, GND (input)",
+        "5V, DO, GND (output)"
+      ],
+      "accessories": [],
+      "notes": "Four separate red WS2812 Breakout PCBs photographed in 1000063274.jpg, each with one 5050-class square LED package and input/output power/data pads labelled 5V, DI, DO, GND. Two modules are rotated upside-down in the image but all four are present. Addressable serial RGB LEDs, likely WS2812 family based on PCB text; exact LED revision (WS2812, WS2812B or compatible), working condition and board dimensions unverified. Not installed in HW-0130 matrix panels based solely on photos.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-131"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0145",
+      "category": "display_component",
+      "name": "Bare single-digit seven-segment LED display packages",
+      "manufacturer": null,
+      "model": null,
+      "variant": "Twenty black-faced single-digit 7-segment displays with one decimal-point dot, loose packages without driver PCB",
+      "quantity": 20,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-130"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Through-hole wire leads (exact electrical properties unknown)"
+      ],
+      "accessories": [],
+      "notes": "Exactly 20 distinct unmounted single-digit LED seven-segment display packages, arranged in four rows of five with minor rotations, seen in 1000063273.jpg. One numeral 8-shaped segment layout per package and decimal point, no driver boards attached. Some appear oriented differently, and pinout/common anode vs cathode, emitted color, size, part number and functionality not established. Different from previously inventoried five bare FOUR-DIGIT packages HW-0138 and 4-digit driver boards.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-130"
       },
       "updated_on": "2026-11-22"
     }
