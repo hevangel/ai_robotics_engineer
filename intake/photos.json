@@ -2686,6 +2686,114 @@
         "HW-0241"
       ],
       "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261123-006",
+      "captured_on": "2026-11-23",
+      "processed_on": "2026-11-23",
+      "file": "photos/2026/11/P-20261123-006.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 039: 1000063388.jpg (EXIF date 2026-11-23). Two black Proto Shield REV3.1 Arduino prototyping shield kits in antistatic bags, headers included.",
+      "item_ids": [
+        "HW-0242"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261123-007",
+      "captured_on": "2026-11-23",
+      "processed_on": "2026-11-23",
+      "file": "photos/2026/11/P-20261123-007.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 039: 1000063389.jpg (EXIF date 2026-11-23). Four green 4x6 cm double-sided perfboards (22402A-18).",
+      "item_ids": [
+        "HW-0243"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261123-008",
+      "captured_on": "2026-11-23",
+      "processed_on": "2026-11-23",
+      "file": "photos/2026/11/P-20261123-008.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 039: 1000063390.jpg (EXIF date 2026-11-23). Four green 5x7 cm double-sided perfboards (22402A-10).",
+      "item_ids": [
+        "HW-0244"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261123-009",
+      "captured_on": "2026-11-23",
+      "processed_on": "2026-11-23",
+      "file": "photos/2026/11/P-20261123-009.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 039: 1000063393.jpg (EXIF date 2026-11-23). Six green perfboard strips: three 2x8 cm and three wider strips.",
+      "item_ids": [
+        "HW-0245"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261123-010",
+      "captured_on": "2026-11-23",
+      "processed_on": "2026-11-23",
+      "file": "photos/2026/11/P-20261123-010.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 039: 1000063394.jpg (EXIF date 2026-11-23). Five bags of clear 5 mm LEDs, hand-marked with red letters (G, R, W legible).",
+      "item_ids": [
+        "HW-0246"
+      ],
+      "notes": "The W-marked bag is shown close-up in P-20261123-014. Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261123-011",
+      "captured_on": "2026-11-23",
+      "processed_on": "2026-11-23",
+      "file": "photos/2026/11/P-20261123-011.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 039: 1000063395.jpg (EXIF date 2026-11-23). Axial resistors on tape strips with handwritten value labels (47K, 4K7, 1K, 100, 100K, 10K) plus a bag of blue 10K resistors.",
+      "item_ids": [
+        "HW-0247"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261123-012",
+      "captured_on": "2026-11-23",
+      "processed_on": "2026-11-23",
+      "file": "photos/2026/11/P-20261123-012.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 039: 1000063396.jpg (EXIF date 2026-11-23). Twelve sealed packs of heat-shrink tubing: black, blue, green, red and yellow, assorted diameters.",
+      "item_ids": [
+        "HW-0248"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261123-013",
+      "captured_on": "2026-11-23",
+      "processed_on": "2026-11-23",
+      "file": "photos/2026/11/P-20261123-013.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 039: 1000063397.jpg (EXIF date 2026-11-23). One sealed bag of preformed breadboard jumper wires in five colour bundles.",
+      "item_ids": [
+        "HW-0249"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261123-014",
+      "captured_on": "2026-11-23",
+      "processed_on": "2026-11-23",
+      "file": "photos/2026/11/P-20261123-014.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 039: 1000063398.jpg (EXIF date 2026-11-23). Close-up of the 'W'-marked bag of clear 5 mm LEDs from the lot in P-20261123-010.",
+      "item_ids": [
+        "HW-0246"
+      ],
+      "notes": "Close-up of one bag from the HW-0246 lot. Binary stored in the repo with EXIF stripped."
     }
   ]
 }

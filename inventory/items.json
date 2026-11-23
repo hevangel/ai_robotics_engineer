@@ -6668,6 +6668,209 @@
         "reference": "P-20261123-005"
       },
       "updated_on": "2026-11-23"
+    },
+    {
+      "id": "HW-0242",
+      "category": "prototyping_board",
+      "name": "Arduino prototyping shield kits (Proto Shield REV3.1)",
+      "manufacturer": null,
+      "model": "Proto Shield REV3.1",
+      "variant": "Two black Arduino Uno-format prototyping shield PCBs, each sealed in an antistatic bag with its stackable header pins; silkscreen reads 'Proto Shield REV3.1' and 'www.betemcu.cn', with labelled Arduino pin rows (A0-A7, 0-13, IOREF, RESET, 3V3/5V, ICSP) around a general-purpose pad grid and SOIC breakout areas",
+      "quantity": 2,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261123-006"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [
+        "Header pin sets included in each bag"
+      ],
+      "notes": "Two kits in 1000063388.jpg, both still bagged and unassembled. Unused state is consistent with the sealed bags but assembly/working state is not applicable to a bare prototyping PCB.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261123-006"
+      },
+      "updated_on": "2026-11-23"
+    },
+    {
+      "id": "HW-0243",
+      "category": "prototyping_board",
+      "name": "Perfboards, 4 cm x 6 cm (double-sided plated-hole)",
+      "manufacturer": null,
+      "model": null,
+      "variant": "Four green double-sided perfboards printed '4cm*6cm 22402A-18', lettered columns A-T and numbered rows 01-14, with plated through-holes and edge pads",
+      "quantity": 4,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261123-007"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "Four boards laid out in 1000063389.jpg; the size and board code are printed on the boards themselves. All appear unused (no solder visible).",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261123-007"
+      },
+      "updated_on": "2026-11-23"
+    },
+    {
+      "id": "HW-0244",
+      "category": "prototyping_board",
+      "name": "Perfboards, 5 cm x 7 cm (double-sided plated-hole)",
+      "manufacturer": null,
+      "model": null,
+      "variant": "Four green double-sided perfboards printed '5cmx7cm 22402A-10', lettered columns A-X and numbered rows 01-18, with plated through-holes and edge pads",
+      "quantity": 4,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261123-008"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "Four boards in 1000063390.jpg; size printed on the top-right board. All appear unused.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261123-008"
+      },
+      "updated_on": "2026-11-23"
+    },
+    {
+      "id": "HW-0245",
+      "category": "prototyping_board",
+      "name": "Perfboard strips lot (2 cm x 8 cm and a wider strip size)",
+      "manufacturer": null,
+      "model": null,
+      "variant": "Six green double-sided perfboard strips: three narrow strips printed '2cmx8cm 22402A-17' and three wider strips of the same family whose size print is not legible in the photo",
+      "quantity": 6,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261123-009"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "Six strips in 1000063393.jpg - three wider strips (top row) and three narrow 2 cm x 8 cm strips (bottom row). Only the 2 cm x 8 cm size is legible, hence medium confidence on the lot description; the wider strips' dimensions are not recorded rather than guessed.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261123-009"
+      },
+      "updated_on": "2026-11-23"
+    },
+    {
+      "id": "HW-0246",
+      "category": "electronics_material",
+      "name": "5 mm clear LEDs, colour-sorted bags (lot of 5 bags)",
+      "manufacturer": null,
+      "model": null,
+      "variant": "Five small zip bags of clear-lens 5 mm through-hole LEDs, each bag hand-marked in red with a letter - G, R and W are legible; the other two marks are not readable in the photos. Clear lenses mean the LED colours cannot be confirmed visually; the letters are taken to be the owner's colour sorting",
+      "quantity": null,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261123-010",
+        "P-20261123-014"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "Five bags in 1000063394.jpg; 1000063398.jpg is a close-up of the bag marked 'W'. LED counts per bag (roughly a few dozen each) cannot be counted reliably through the bags, so the piece quantity is left unrecorded; the lot is five bags.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261123-010"
+      },
+      "updated_on": "2026-11-23"
+    },
+    {
+      "id": "HW-0247",
+      "category": "electronics_material",
+      "name": "Axial resistor assortment on tape strips, value-labelled",
+      "manufacturer": null,
+      "model": null,
+      "variant": "Seven groups of axial through-hole resistors on paper tape strips plus one small zip bag of blue metal-film resistors; handwritten tape labels read as 47K, 4K7, 1K, 100, 100K and 10K, and the bag is labelled 10K - values recorded as labelled, not measured",
+      "quantity": null,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261123-011"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "One assortment photographed in 1000063395.jpg. The piece count per strip is not reliably countable and is not recorded. Related to HW-0171 (assorted axial resistors, loose) but photographed as a separate, value-organised set; if the owner confirms they are the same stock, the records should be merged.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261123-011"
+      },
+      "updated_on": "2026-11-23"
+    },
+    {
+      "id": "HW-0248",
+      "category": "electronics_material",
+      "name": "Heat-shrink tubing assortment (12 packs)",
+      "manufacturer": null,
+      "model": null,
+      "variant": "Twelve sealed packs of pre-cut heat-shrink tubing in assorted diameters and colours: black x4, blue x2, green x2, red x2, yellow x2; tube print includes '660V/125C' ratings on some packs",
+      "quantity": 12,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261123-012"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "Twelve packs laid out in 1000063396.jpg. Piece counts inside the sealed packs are not recorded. Colours and pack count are directly visible; per-pack diameters vary and are not individually recorded.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261123-012"
+      },
+      "updated_on": "2026-11-23"
+    },
+    {
+      "id": "HW-0249",
+      "category": "electronics_material",
+      "name": "Preformed breadboard jumper wire kit (bagged, 5 colours)",
+      "manufacturer": null,
+      "model": null,
+      "variant": "One sealed bag of preformed U-shaped solid-core breadboard jumper wires in assorted lengths, bundled by colour: blue, yellow, red, green and black, each bundle rubber-banded",
+      "quantity": null,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261123-013"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "One bag in 1000063397.jpg; wire count not determinable through the bag. Same type as HW-0103 (preformed jumper assortment in a divided storage box) but photographed as a separate sealed retail-style bag; kept as its own record - if the owner confirms it is the same set re-bagged, the records should be merged.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261123-013"
+      },
+      "updated_on": "2026-11-23"
     }
   ]
 }

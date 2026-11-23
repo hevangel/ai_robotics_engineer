@@ -2,18 +2,35 @@
 
 ## Status at a glance
 
-- **Inventory records:** 241 item/lot/component records (parent assemblies and installed components linked)
-- **Records associated with photographs:** 236
-- **Photo-verified / owner-confirmed hardware:** 208 (some enclosed items owner-confirmed; no working-status implied)
+- **Inventory records:** 249 item/lot/component records (parent assemblies and installed components linked)
+- **Records associated with photographs:** 244
+- **Photo-verified / owner-confirmed hardware:** 216 (some enclosed items owner-confirmed; no working-status implied)
 - **Photo-supported / tentative identifications or packaging only:** 28
 - **Previously reported, not yet photographed:** 5
-- **Photo intake records:** 220
+- **Photo intake records:** 229
 
 These are **record and photo counts**, not counts of verified working devices. A photographed retail box does not establish that electronic contents are present unless separately confirmed.
 
 - **Records lacking direct item photographs:** 8 (some contents independently confirmed by owner; HW-0008 carries a labelled web reference image of its model, not a photo of the owner's unit)
 
-## Latest batch — 038 (4 photographs, 4 records; two gamepads under reused IDs, a serial cable, a retro handheld)
+## Latest batch — 039 (9 photographs, 8 new records; prototyping boards and component stock)
+
+| ID | Item | Quantity | Photo |
+| --- | --- | ---: | --- |
+| HW-0242 | Arduino prototyping shield kits (Proto Shield REV3.1) | 2 | `1000063388.jpg` |
+| HW-0243 | Perfboards, 4 cm x 6 cm (double-sided plated-hole) | 4 | `1000063389.jpg` |
+| HW-0244 | Perfboards, 5 cm x 7 cm (double-sided plated-hole) | 4 | `1000063390.jpg` |
+| HW-0245 | Perfboard strips lot (2 cm x 8 cm and a wider strip size) | 6 | `1000063393.jpg` |
+| HW-0246 | 5 mm clear LEDs, colour-sorted bags (lot of 5 bags) | 5 bags | `1000063394.jpg`, `1000063398.jpg` |
+| HW-0247 | Axial resistor assortment on tape strips, value-labelled | — | `1000063395.jpg` |
+| HW-0248 | Heat-shrink tubing assortment (12 packs) | 12 | `1000063396.jpg` |
+| HW-0249 | Preformed breadboard jumper wire kit (bagged, 5 colours) | — | `1000063397.jpg` |
+
+**Confidence notes:** Sizes printed on the perfboards, the Proto Shield silkscreen and the heat-shrink pack count are directly legible (high). The LED lot's colours rest on the owner's hand-written bag letters (G, R, W legible; medium) and piece counts inside bags are left unrecorded, as are the resistor strip counts (values recorded as labelled, not measured; medium). Two records resemble existing stock — HW-0247 vs the loose resistors HW-0171, HW-0249 vs the boxed jumper assortment HW-0103 — and carry merge-if-confirmed notes. All nine photo binaries are stored in the repo (`photos/2026/11/`, EXIF stripped).
+
+[Batch 039 detail](batches/2026-11-23-039.md).
+
+## Earlier batch — 038 (4 photographs, 4 records; two gamepads under reused IDs, a serial cable, a retro handheld)
 
 | ID | Item | Quantity | Photo |
 | --- | --- | ---: | --- |
