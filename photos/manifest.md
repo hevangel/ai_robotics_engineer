@@ -1,6 +1,6 @@
 # Photo evidence index
 
-**Last updated:** 2026-11-22. **Photos logged: 89.** This file indexes the actual photographs received in the ChatGPT conversation, but **does not contain the JPG images**. Original image assets have not been copied to GitHub. The canonical relationship between photo IDs and hardware IDs is in [the JSON intake log](../intake/photos.json).
+**Last updated:** 2026-11-22. **Photos logged: 99.** This file indexes the actual photographs received in the ChatGPT conversation, but **does not contain the JPG images**. Original image assets have not been copied to GitHub. The canonical relationship between photo IDs and hardware IDs is in [the JSON intake log](../intake/photos.json).
 
 | Photo ID | Conversation image filename | Related hardware ID(s) | Description |
 | --- | --- | --- | --- |
@@ -107,9 +107,20 @@
 | `P-20261122-088` | `1000063221.jpg` | `HW-0098` | Pandigital digital photo frame rear with mini-USB port and retractable stand |
 | `P-20261122-089` | `1000063222.jpg` | `HW-0098` | Same Pandigital digital photo frame from front, dark screen and wide black bezel |
 
+| `P-20261122-090` | `1000063223.jpg` | `HW-0099` | Obverse of green circular Microsemi ZLE38AVS, ZLE38000-004 board with radial controls and Microsemi markings |
+| `P-20261122-091` | `1000063225.jpg` | `HW-0099`, `HW-0100` | Reverse of Microsemi circular assembly showing installed Raspberry Pi 3 hardware, black circular frame and bag of mounting hardware |
+| `P-20261122-092` | `1000063226.jpg` | `HW-0101` | Unbranded silver handheld multimedia remote, green Start button and circular navigation pad |
+| `P-20261122-093` | `1000063227.jpg` | `HW-0102` | Closed white DIY Neuroscience Kits retail box with geometric multicolor artwork; contents not visible |
+| `P-20261122-094` | `1000063228.jpg` | `HW-0103` | Clear organizer of rigid U-shape insulated breadboard jumper wires, label indicates assortment |
+| `P-20261122-095` | `1000063229.jpg` | `HW-0104` | Black-base metal manual Morse telegraph straight key with adjustable contacts |
+| `P-20261122-096` | `1000063231.jpg` | `HW-0105` | Black clip-on smartphone Super Wide 0.4X optical lens and separate lens cap |
+| `P-20261122-097` | `1000063232.jpg` | `HW-0106` | Front of gray Retroflag GPi CASE handheld case, powered-off screen and Game Boy-like controls |
+| `P-20261122-098` | `1000063233.jpg` | `HW-0107` | Bundle of many color-coded insulated alligator clip leads |
+| `P-20261122-099` | `1000063234.jpg` | `HW-0108` | Coiled longer red/black test leads with metal banana-plug-style and mixed terminations |
+
 ## Batch notes
 
-[Batch 001](../inventory/batches/2026-11-22-001.md) · [Batch 002](../inventory/batches/2026-11-22-002.md) · [Batch 003](../inventory/batches/2026-11-22-003.md) · [Batch 004](../inventory/batches/2026-11-22-004.md) · [Batch 005](../inventory/batches/2026-11-22-005.md) · [Batch 006](../inventory/batches/2026-11-22-006.md) · [Batch 007](../inventory/batches/2026-11-22-007.md) · [Batch 008](../inventory/batches/2026-11-22-008.md) · [Batch 009](../inventory/batches/2026-11-22-009.md) · [Batch 010](../inventory/batches/2026-11-22-010.md) · [Batch 011](../inventory/batches/2026-11-22-011.md) · [Batch 012](../inventory/batches/2026-11-22-012.md) · [Batch 013](../inventory/batches/2026-11-22-013.md) · [Batch 014](../inventory/batches/2026-11-22-014.md) · [Batch 015](../inventory/batches/2026-11-22-015.md)
+[Batch 001](../inventory/batches/2026-11-22-001.md) · [Batch 002](../inventory/batches/2026-11-22-002.md) · [Batch 003](../inventory/batches/2026-11-22-003.md) · [Batch 004](../inventory/batches/2026-11-22-004.md) · [Batch 005](../inventory/batches/2026-11-22-005.md) · [Batch 006](../inventory/batches/2026-11-22-006.md) · [Batch 007](../inventory/batches/2026-11-22-007.md) · [Batch 008](../inventory/batches/2026-11-22-008.md) · [Batch 009](../inventory/batches/2026-11-22-009.md) · [Batch 010](../inventory/batches/2026-11-22-010.md) · [Batch 011](../inventory/batches/2026-11-22-011.md) · [Batch 012](../inventory/batches/2026-11-22-012.md) · [Batch 013](../inventory/batches/2026-11-22-013.md) · [Batch 014](../inventory/batches/2026-11-22-014.md) · [Batch 015](../inventory/batches/2026-11-22-015.md) · [Batch 016](../inventory/batches/2026-11-22-016.md)
 
 ## Next action to make the catalog self-contained
 

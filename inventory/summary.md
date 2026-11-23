@@ -2,18 +2,37 @@
 
 ## Status at a glance
 
-- **Inventory records:** 98 item/lot/component records (parent assemblies and installed components linked)
-- **Records associated with photographs:** 90
-- **Photo-verified / owner-confirmed hardware:** 79 (includes 2 previously owner-confirmed boards not directly photographed)
-- **Photo-supported but packaging only / tentative:** 13
+- **Inventory records:** 108 item/lot/component records (parent assemblies and installed components linked)
+- **Records associated with photographs:** 100
+- **Photo-verified / owner-confirmed hardware:** 88 (includes 2 previously owner-confirmed boards not directly photographed)
+- **Photo-supported but packaging only / tentative:** 14
 - **Previously reported, not yet photographed:** 6
-- **Photo intake records:** 89
+- **Photo intake records:** 99
 
 These are **record and photo counts**, not counts of verified working devices. A photographed retail box does not establish that electronic contents are present unless separately confirmed.
 
 - **Records lacking direct item photographs:** 8 (including 2 owner-confirmed enclosed/installed components)
 
-## Latest batch — 015 (10 photos; 7 distinct items)
+## Latest batch — 016 (10 photos; 9 top-level objects/sets, 10 records including installed Pi 3)
+
+| ID | Item | Qty | Uploaded photo(s) |
+| --- | --- | --- | --- |
+| HW-0099 | Microsemi AcuEdge ZLE38AVS voice evaluation platform | 1 assembled platform | `1000063223.jpg`, `1000063225.jpg` |
+| HW-0100 | Raspberry Pi 3 Model B, installed in HW-0099 | 1 installed component | `1000063225.jpg` |
+| HW-0101 | Silver multimedia / Media Center-style remote | 1 remote | `1000063226.jpg` |
+| HW-0102 | DIY neuroscience kit box (contents not seen) | 1 box | `1000063227.jpg` |
+| HW-0103 | U-shaped breadboard wire assortment | 1 box / set | `1000063228.jpg` |
+| HW-0104 | Morse-code manual straight telegraph key | 1 key | `1000063229.jpg` |
+| HW-0105 | Clip-on 0.4× superwide mobile lens | 1 lens + cap | `1000063231.jpg` |
+| HW-0106 | Retroflag GPi CASE handheld enclosure | 1 case | `1000063232.jpg` |
+| HW-0107 | Multicolor alligator test-lead bundle | 1 bundle | `1000063233.jpg` |
+| HW-0108 | Red-and-black test patch-lead bundle | 1 bundle | `1000063234.jpg` |
+
+**Count and identification caveats:** HW-0099/HW-0100 are one assembled AcuEdge platform with an installed Raspberry Pi 3; the closed neuroscience kit HW-0102 is packaging-only; GPi CASE HW-0106 does not prove a Pi Zero is installed. No electrical power-on tests. All photo binaries remain outside GitHub.
+
+[Batch 016 details](batches/2026-11-22-016.md)
+
+## Earlier batch — 015 (10 photos; 7 distinct items)
 
 | ID | Item | Qty | Uploaded photo(s) |
 | --- | --- | --- | --- |

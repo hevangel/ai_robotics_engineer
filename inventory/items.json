@@ -2750,6 +2750,292 @@
         "reference": "P-20261122-088"
       },
       "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0099",
+      "category": "electronics_kit",
+      "name": "Microsemi AcuEdge ZLE38AVS Amazon AVS evaluation platform with mounted Raspberry Pi 3",
+      "manufacturer": "Microsemi (now Microchip)",
+      "model": "ZLE38AVS / ZLE38000-004 (evaluation board); likely ZLK38AVS kit family",
+      "variant": "Circular green multi-button voice front-end/audio board mounted in round black fixture with Raspberry Pi 3 inside",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-090",
+        "P-20261122-091"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Microphone/mic-array-related pads marked MIC",
+        "GPIO/JTAG/UART test locations on circular PCB",
+        "Host Raspberry Pi USB/Ethernet connectors visible at rim"
+      ],
+      "accessories": [
+        "Black circular fixture and small bag of mounting hardware",
+        "Installed Raspberry Pi 3 HW-0100"
+      ],
+      "notes": "One assembled development platform, not two copies of the circular PCB. Circular top board clearly silkscreened Microsemi ZLE38AVS and white sticker ZLE38000-004, and multiple tactile buttons D1-D12, header fields and 1.8 V/3.3 V test pads are visible. Rear view shows a Raspberry Pi 3 installed behind the board within a black circular plastic/mounting fixture; matching loose threaded pillars, screws/washers and hardware are in a transparent bag at right. The Raspberry Pi 3 is inventoried separately as installed child HW-0100; do not count another standalone kit for the Pi. Part number and board family confidently observed; exact commercial kit SKU (ZLK38AVS vs ZLK38AVS2), number of fitted microphones, microphone arrangement and included accessories are not confirmed. No power-up tests. Image evidence: 1000063223.jpg, 1000063225.jpg.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-090"
+      },
+      "updated_on": "2026-11-22",
+      "installed_component_ids": [
+        "HW-0100"
+      ]
+    },
+    {
+      "id": "HW-0100",
+      "category": "single_board_computer",
+      "name": "Raspberry Pi 3 Model B installed in Microsemi AcuEdge platform",
+      "manufacturer": "Raspberry Pi",
+      "model": "Raspberry Pi 3 Model B (likely; direct revision imprint partly obscured)",
+      "variant": "Green Raspberry Pi board with Broadcom SoC, shielded wireless IC, underside microSD slot, stacked USB/Ethernet ports, mounted inside HW-0099",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-091"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "microSD slot visible",
+        "USB and Ethernet edge ports visible as part of assembly",
+        "40-pin GPIO connection to evaluation PCB (typical platform, connection cannot be inspected fully)"
+      ],
+      "accessories": [],
+      "notes": "One physical Raspberry Pi 3 board directly visible inside the circular Microsemi AcuEdge assembly (HW-0099), which matches the documented kit using Raspberry Pi 3. MicroSD slot and Broadcom processor are apparent. It is not an extra standalone bare board; it is installed in the parent assembly. Exact Pi 3 Model B revision, fitted microSD card, RAM and operating status should be verified from silkscreen/board inspection after disassembly if needed. Image evidence: 1000063225.jpg.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-091"
+      },
+      "updated_on": "2026-11-22",
+      "parent_id": "HW-0099"
+    },
+    {
+      "id": "HW-0101",
+      "category": "controller",
+      "name": "Silver multimedia / Windows Media Center-style handheld remote control",
+      "manufacturer": null,
+      "model": null,
+      "variant": "Silver hourglass/wedge-shaped multi-button remote with large central black circular pad, OK navigation ring, green Start button and channel/volume/numeric keys",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-092"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Physical media playback/record/navigation buttons",
+        "0-9 numeric keypad; channel and volume controls",
+        "Likely infrared remote signaling; protocol and receiver not confirmed"
+      ],
+      "accessories": [],
+      "notes": "One silver multimedia remote shown face-up. It has a prominent circular pad and green Start button as well as Close, Clear, Enter and colored shortcut/transport controls, suggesting PC media-center/TV use. No brand/model marking, back label or receiver is visible; exact product and communication technology not confirmed. Don't assume Xbox or Microsoft-branded hardware. Untested. Image evidence: 1000063226.jpg.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-092"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0102",
+      "category": "electronics_kit",
+      "name": "DIY neuroscience electronics kit retail box (contents unverified)",
+      "manufacturer": null,
+      "model": null,
+      "variant": "White rectangular printed retail box with multicolor geometric shapes and words 'Dive into the world of Neuroscience with our DIY Neuroscience Kits' and Explore / Discover / Decode",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_tentative",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-093"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "Only a closed retail BOX is photographed, with a stylized mark followed by 'labs' and Neuroscience DIY kit text. It may contain a DIY neuroscience or neural-technology learning kit, but exact product SKU, sensor/amplifier contents, component counts, batteries and working status are NOT established. Do not record any EEG/EMG sensors, electrodes, controllers or amplifiers as present until the box is opened and photographed. One box, not an assumed complete electronic system. Image evidence: 1000063227.jpg.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-093"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0103",
+      "category": "electronics_material",
+      "name": "Preformed breadboard jumper-wire assortment in clear divided storage box",
+      "manufacturer": null,
+      "model": null,
+      "variant": "Assorted rigid U-shaped insulated jumper links in multiple lengths and colors, labeled 140-piece set (not hand counted)",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-094"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Prestripped rigid metallic conductor legs for breadboard insertion; pitch/size not measured"
+      ],
+      "accessories": [],
+      "notes": "One clear hinged organizer with separate compartments containing many color-coded formed solid-wire jumpers. Sticker appears to indicate a 140-piece U-shaped assortment, but actual count is not verified; quantity 1 box/set rather than 140 individually counted parts. Distinct from HW-0037 loose sample wires and HW-0091 female Dupont-ended flexible jumper bundle. Image evidence: 1000063228.jpg.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-094"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0104",
+      "category": "tool",
+      "name": "Manual straight-key Morse code telegraph key",
+      "manufacturer": null,
+      "model": null,
+      "variant": "Metal lever with black round finger knob, adjustable contact screws and spring, mounted on black rectangular base",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-095"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Two contact/binding screw terminals and adjustable mechanical keying contact; electrical continuity untested"
+      ],
+      "accessories": [],
+      "notes": "One mechanical hand-operated straight telegraph key used for Morse code or contact-pulse input. Visible black finger knob, metal spring-lever contact, tension/contact screws and raised black base. No brand or electrical connection leads shown; circuit not tested. Useful as GPIO signal input or retro-computing/peripheral demonstration when connected at safe voltage. Image evidence: 1000063229.jpg.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-095"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0105",
+      "category": "camera",
+      "name": "Clip-on smartphone super-wide 0.4× camera lens",
+      "manufacturer": null,
+      "model": "Super Wide 0.4X",
+      "variant": "Black spring-loaded mobile phone clip with attached wide-angle optical lens and separate black screw-on lens cap",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-096"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Spring clip attaches over phone camera; optical accessory, not an electronic device"
+      ],
+      "accessories": [
+        "Lens cap"
+      ],
+      "notes": "One detachable 0.4× super-wide mobile phone clip-on lens and its separate branded 'LENS' cap. Not a standalone camera or smartphone, and sensor format, optical quality and actual field of view not measured. No separate loose macro lens confirmed. Image evidence: 1000063231.jpg.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-096"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0106",
+      "category": "retro_gaming_system",
+      "name": "Retroflag GPi CASE Game Boy-style Raspberry Pi Zero handheld enclosure",
+      "manufacturer": "Retroflag",
+      "model": "GPi CASE (original-style; revision not confirmed)",
+      "variant": "Gray handheld with small integrated LCD, black D-pad, magenta A/B/X/Y buttons, Select/Start buttons, speaker vent and power slider",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-097"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Integrated LCD and game controls (part of case)",
+        "Headphone jack marked PHONES",
+        "Original GPi CASE typically fits Raspberry Pi Zero/Zero W (installed board not shown)"
+      ],
+      "accessories": [],
+      "notes": "One gray RETROFLAG GPi CASE handheld enclosure directly photographed from the front with screen off. GPi is a physical case/display/controls system designed for Raspberry Pi Zero family, but the photo does not show cartridge interior, so presence or absence of a Pi Zero, SD card or batteries is unverified. Do not infer a running emulator, installed Raspberry Pi or working display. This is distinct from SUPERPi CASE Deluxe enclosure HW-0018 and SUPERPi retro-system HW-0016. Case only is the minimum verified possession. Image evidence: 1000063232.jpg.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-097"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0107",
+      "category": "cable",
+      "name": "Assorted-color alligator-clip electrical test lead bundle",
+      "manufacturer": null,
+      "model": null,
+      "variant": "Flexible short multicolor leads with insulated spring alligator/crocodile clips on visible ends",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-098"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Colored insulated alligator test clips; actual opposite terminations/clip count not fully visible"
+      ],
+      "accessories": [],
+      "notes": "One bundle of assorted white, yellow, red, orange, green and black insulated spring alligator clip patch leads. Individual jaw tips are visible and are not the 2.54 mm female Dupont connector set HW-0091. Length, quantity and electrical ratings are unknown; count 1 bundle rather than an assumed 10 or 20 individual leads. Do not confuse with HW-0039 logic analyzer mini-grabber wires. Image evidence: 1000063233.jpg.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-098"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0108",
+      "category": "cable",
+      "name": "Long red-and-black banana-plug-style test lead bundle",
+      "manufacturer": null,
+      "model": null,
+      "variant": "Multiple long red and black flexible electrical test patch leads, coiled together with yellow hook-and-loop strap, exposed metal pin/banana-style connectors and some clip-shaped terminations",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-099"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Insulated red/black metal-tipped test connectors, many consistent with banana-plug-type terminations; exact sizes and each end connection not verified"
+      ],
+      "accessories": [],
+      "notes": "One bundled group of longer red/black electrical test patch leads with banana-plug-like metal pins and some possibly clamp/clip ends. Some of the terminations are different shapes; the photo does not conclusively establish a uniform banana-to-banana pinout or exact count. Individual electrical insulation rating, lead gauge and length unknown. Distinct from multicolored alligator clip bundle HW-0107 and electronics probe set HW-0039. Image evidence: 1000063234.jpg.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-099"
+      },
+      "updated_on": "2026-11-22"
     }
   ]
 }

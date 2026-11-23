@@ -1077,6 +1077,127 @@
         "HW-0098"
       ],
       "notes": "Same HW-0098 photo frame; Identification and condition based on photograph only; original JPG remains a conversation attachment and is not stored in GitHub."
+    },
+    {
+      "id": "P-20261122-090",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 016 photo 1/10, uploaded filename 1000063223.jpg: Obverse of green circular Microsemi ZLE38AVS, ZLE38000-004 board with radial controls and Microsemi markings",
+      "item_ids": [
+        "HW-0099"
+      ],
+      "notes": "Photographed object/packaging only. Original JPG remains in the conversation and has not been transferred to GitHub. Two Microsemi photos show one assembled platform, and HW-0100 is an installed component of HW-0099."
+    },
+    {
+      "id": "P-20261122-091",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 016 photo 2/10, uploaded filename 1000063225.jpg: Reverse of Microsemi circular assembly showing installed Raspberry Pi 3 hardware, black circular frame and bag of mounting hardware",
+      "item_ids": [
+        "HW-0099",
+        "HW-0100"
+      ],
+      "notes": "Photographed object/packaging only. Original JPG remains in the conversation and has not been transferred to GitHub. Two Microsemi photos show one assembled platform, and HW-0100 is an installed component of HW-0099."
+    },
+    {
+      "id": "P-20261122-092",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 016 photo 3/10, uploaded filename 1000063226.jpg: Unbranded silver handheld multimedia remote, green Start button and circular navigation pad",
+      "item_ids": [
+        "HW-0101"
+      ],
+      "notes": "Photographed object/packaging only. Original JPG remains in the conversation and has not been transferred to GitHub. Two Microsemi photos show one assembled platform, and HW-0100 is an installed component of HW-0099."
+    },
+    {
+      "id": "P-20261122-093",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 016 photo 4/10, uploaded filename 1000063227.jpg: Closed white DIY Neuroscience Kits retail box with geometric multicolor artwork; contents not visible",
+      "item_ids": [
+        "HW-0102"
+      ],
+      "notes": "Photographed object/packaging only. Original JPG remains in the conversation and has not been transferred to GitHub. Two Microsemi photos show one assembled platform, and HW-0100 is an installed component of HW-0099."
+    },
+    {
+      "id": "P-20261122-094",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 016 photo 5/10, uploaded filename 1000063228.jpg: Clear organizer of rigid U-shape insulated breadboard jumper wires, label indicates assortment",
+      "item_ids": [
+        "HW-0103"
+      ],
+      "notes": "Photographed object/packaging only. Original JPG remains in the conversation and has not been transferred to GitHub. Two Microsemi photos show one assembled platform, and HW-0100 is an installed component of HW-0099."
+    },
+    {
+      "id": "P-20261122-095",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 016 photo 6/10, uploaded filename 1000063229.jpg: Black-base metal manual Morse telegraph straight key with adjustable contacts",
+      "item_ids": [
+        "HW-0104"
+      ],
+      "notes": "Photographed object/packaging only. Original JPG remains in the conversation and has not been transferred to GitHub. Two Microsemi photos show one assembled platform, and HW-0100 is an installed component of HW-0099."
+    },
+    {
+      "id": "P-20261122-096",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 016 photo 7/10, uploaded filename 1000063231.jpg: Black clip-on smartphone Super Wide 0.4X optical lens and separate lens cap",
+      "item_ids": [
+        "HW-0105"
+      ],
+      "notes": "Photographed object/packaging only. Original JPG remains in the conversation and has not been transferred to GitHub. Two Microsemi photos show one assembled platform, and HW-0100 is an installed component of HW-0099."
+    },
+    {
+      "id": "P-20261122-097",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 016 photo 8/10, uploaded filename 1000063232.jpg: Front of gray Retroflag GPi CASE handheld case, powered-off screen and Game Boy-like controls",
+      "item_ids": [
+        "HW-0106"
+      ],
+      "notes": "Photographed object/packaging only. Original JPG remains in the conversation and has not been transferred to GitHub. Two Microsemi photos show one assembled platform, and HW-0100 is an installed component of HW-0099."
+    },
+    {
+      "id": "P-20261122-098",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 016 photo 9/10, uploaded filename 1000063233.jpg: Bundle of many color-coded insulated alligator clip leads",
+      "item_ids": [
+        "HW-0107"
+      ],
+      "notes": "Photographed object/packaging only. Original JPG remains in the conversation and has not been transferred to GitHub. Two Microsemi photos show one assembled platform, and HW-0100 is an installed component of HW-0099."
+    },
+    {
+      "id": "P-20261122-099",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 016 photo 10/10, uploaded filename 1000063234.jpg: Coiled longer red/black test leads with metal banana-plug-style and mixed terminations",
+      "item_ids": [
+        "HW-0108"
+      ],
+      "notes": "Photographed object/packaging only. Original JPG remains in the conversation and has not been transferred to GitHub. Two Microsemi photos show one assembled platform, and HW-0100 is an installed component of HW-0099."
     }
   ]
 }
