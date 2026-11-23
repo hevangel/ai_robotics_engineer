@@ -1863,6 +1863,83 @@
         "HW-0182"
       ],
       "notes": "Count only distinguishable bodies, not leads; upper/right compartments partly cropped. The small upper-left capacitor and three-lead device identification are tentative at the model/type level. Partial black connector, angled connector, red/black caps and metal part remain low-confidence. An indistinct additional black piece by TO-220 may be another component; uncounted. Original JPG 1000063298.jpg remains conversation-upload only; no binary committed to repo."
+    },
+    {
+      "id": "P-20261122-153",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 024, photo 1/6; original conversation attachment 1000063299.jpg: Ten separate slotted infrared/optical interrupter 3-pin modules with GND OUT VCC; 4+3+3 arrangement.",
+      "item_ids": [
+        "HW-0183"
+      ],
+      "notes": "Photo file referenced by exact filename only; image binary is not stored in GitHub. Electrical function, condition, and unprinted chip numbers have not been independently tested. No invented model values."
+    },
+    {
+      "id": "P-20261122-154",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 024, photo 2/6; original conversation attachment 1000063300.jpg: Two separate red dual-channel UART-style TX/RX voltage-translation boards, markings Chan1 Chan2 TXI RXO RXI TXO LV/HV GND.",
+      "item_ids": [
+        "HW-0184"
+      ],
+      "notes": "Photo file referenced by exact filename only; image binary is not stored in GitHub. Electrical function, condition, and unprinted chip numbers have not been independently tested. No invented model values."
+    },
+    {
+      "id": "P-20261122-155",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 024, photo 3/6; original conversation attachment 1000063301.jpg: Seven loose DIP ICs in two foam strips: two white 4N35 phototransistor optocouplers and five differently positioned black DIP ICs of unknown part numbers.",
+      "item_ids": [
+        "HW-0187",
+        "HW-0188",
+        "HW-0189",
+        "HW-0190",
+        "HW-0191"
+      ],
+      "notes": "Photo file referenced by exact filename only; image binary is not stored in GitHub. Electrical function, condition, and unprinted chip numbers have not been independently tested. No invented model values."
+    },
+    {
+      "id": "P-20261122-156",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 024, photo 4/6; original conversation attachment 1000063302.jpg: Ten Texas Instruments SN74HC595N 16-pin 8-bit serial shift-register ICs arranged 5+5 on reddish anti-static foam.",
+      "item_ids": [
+        "HW-0193"
+      ],
+      "notes": "Photo file referenced by exact filename only; image binary is not stored in GitHub. Electrical function, condition, and unprinted chip numbers have not been independently tested. No invented model values."
+    },
+    {
+      "id": "P-20261122-157",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 024, photo 5/6; original conversation attachment 1000063303.jpg: Two clear IC storage tubes containing multiple Maxim MAX7219CNG DIP-24 LED display driver chips; exact count blocked by overlap and tube plastic.",
+      "item_ids": [
+        "HW-0192"
+      ],
+      "notes": "Photo file referenced by exact filename only; image binary is not stored in GitHub. Electrical function, condition, and unprinted chip numbers have not been independently tested. No invented model values."
+    },
+    {
+      "id": "P-20261122-158",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 024, photo 6/6; original conversation attachment 1000063304.jpg: One 17-key IR handheld remote, one IR receiver breakout module, and accompanying three-wire female jumper leads as accessories.",
+      "item_ids": [
+        "HW-0185",
+        "HW-0186"
+      ],
+      "notes": "Photo file referenced by exact filename only; image binary is not stored in GitHub. Electrical function, condition, and unprinted chip numbers have not been independently tested. No invented model values."
     }
   ]
 }
