@@ -2,9 +2,9 @@
 
 ## Status at a glance
 
-- **Inventory records:** 145 item/lot/component records (parent assemblies and installed components linked)
-- **Records associated with photographs:** 136
-- **Photo-verified / owner-confirmed hardware:** 117 (some enclosed items owner-confirmed; no working-status implied)
+- **Inventory records:** 147 item/lot/component records (parent assemblies and installed components linked)
+- **Records associated with photographs:** 138
+- **Photo-verified / owner-confirmed hardware:** 119 (some enclosed items owner-confirmed; no working-status implied)
 - **Photo-supported / tentative identifications or packaging only:** 21
 - **Previously reported, not yet photographed:** 7
 - **Photo intake records:** 133
@@ -13,11 +13,12 @@ These are **record and photo counts**, not counts of verified working devices. A
 
 - **Records lacking direct item photographs:** 9 (some contents independently confirmed by owner)
 
-## Latest batch — 020 (5 photographs; 7 new records; existing bar-graph quantity unchanged)
+## Latest batch — 020 (5 photographs; 9 new records after owner correction; two distinct red-foam bar-graph lots)
 
 | ID | Item | Count | Photo |
 | --- | --- | ---: | --- |
-| HW-0133 | 10-segment LED bar graphs (additional photo, existing record) | 10, no increase | `1000063272.jpg` |
+| HW-0146 | Four-bar LED bar-graph modules (red foam; wider/narrower variant) | 10 | `1000063272.jpg` |
+| HW-0147 | Seven-bar LED bar-graph modules (red foam; different width) | 10 | `1000063272.jpg` |
 | HW-0139 | Clear-lens discrete LEDs | 6 | `1000063276.jpg` |
 | HW-0140 | Yellow-lens discrete LEDs | 3 | `1000063276.jpg` |
 | HW-0141 | Green-lens discrete LEDs | 5 | `1000063276.jpg` |
@@ -26,7 +27,7 @@ These are **record and photo counts**, not counts of verified working devices. A
 | HW-0144 | WS2812 RGB LED breakout modules | 4 | `1000063274.jpg` |
 | HW-0145 | Single-digit 7-segment LED displays | 20 | `1000063273.jpg` |
 
-**Deduplication:** New bar-graph photo likely shows the existing HW-0133 lot of 10, so its quantity remains 10. Counts of individual LEDs by lens color are 6 clear, 3 yellow, 5 green and approximately 18 red. Clear lens is not evidence of emitted color; buzzer active/passive type and WS2812 revision are unverified. [Batch 020 details](batches/2026-11-22-020.md).
+**Owner correction / deduplication:** The red-foam photo is NOT a duplicate of HW-0133. It shows ten four-bar and ten seven-bar packages (20 total), now HW-0146/HW-0147. The earlier ten 10-segment bar graphs stay HW-0133 (10). Total three bar-graph types: 30 packages. Counts of individual LEDs by lens color are 6 clear, 3 yellow, 5 green and approximately 18 red. Clear lens is not evidence of emitted color; buzzer active/passive type and WS2812 revision are unverified. [Batch 020 details](batches/2026-11-22-020.md).
 
 ## Earlier batch — 019 (10 photographs; 10 new inventory records)
 
