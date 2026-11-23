@@ -5016,6 +5016,281 @@
         "type": "photo",
         "reference": "P-20261122-152"
       }
+    },
+    {
+      "id": "HW-0183",
+      "category": "interface_module",
+      "name": "Slotted optical interrupter / speed detector modules, 3-pin",
+      "manufacturer": null,
+      "model": null,
+      "variant": "Black PCB, GND/OUT/VCC three-pin header, black U-shaped interrupting sensor with H2010-style printing",
+      "quantity": 10,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-153"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "Exactly 10 separate boards in 1000063299.jpg: 4 on left, 3 in middle and 3 on right. Optical slot/interrupter sensors used for edge/pulse counting, speed or wheel encoders. The black fork component on one appears marked H2010; exact sensor part number and electrical operating range not fully confirmed. Units counted as boards, not separate fork sensors.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-153"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0184",
+      "category": "interface_module",
+      "name": "Dual-channel TX/RX logic-level interface boards (UART-style)",
+      "manufacturer": null,
+      "model": null,
+      "variant": "Small red boards marked Chan1, Chan2, TXI/RXO, RXI/TXO, LV/HV and GND",
+      "quantity": 2,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-154"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "Exactly 2 red boards in 1000063300.jpg. Each has two discrete transistor-like SOT-23 packages and resistors, plus edge pads showing TX/RX signals, grounds and LV/HV. Likely two-channel bidirectional TX/RX logic-level translation boards. Exact voltage ratings, pin directions, chipset and board manufacturer NOT confirmed; do not assume a specified supply voltage.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-154"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0185",
+      "category": "controller",
+      "name": "Handheld 17-key infrared remote control (numeric and navigation)",
+      "manufacturer": null,
+      "model": null,
+      "variant": "Black rectangular remote, white 0–9 numeric buttons, red * and #, blue directional ring with red OK",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-158"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "One handheld IR-style remote visible in 1000063304.jpg. Count 12 numerical/symbol buttons and 5 arrow/OK buttons = 17 buttons. Brand, underlying IR protocol, battery type and operational condition unknown; appears as companion to IR receiver board HW-0186 in the same photograph.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-158"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0186",
+      "category": "interface_module",
+      "name": "Three-pin infrared remote receiver breakout module with jumper leads",
+      "manufacturer": null,
+      "model": null,
+      "variant": "One small black PCB with 3-pin header, metal-shielded IR receiver; three female-to-female colored jumper leads alongside",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-158"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "One receiver module in 1000063304.jpg; S/V/G-like 3-pin markings partly visible. Looks like a generic KY-022-style IR receiver but no KY-022 brand or exact demodulator part code is proven. Three connected-color jumper leads are photographed next to it as accessories, not counted as another separate set to avoid duplication with existing jumper-wire stock. Same photo includes separate remote HW-0185.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-158"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0187",
+      "category": "electronics_material",
+      "name": "4N35 phototransistor optocouplers, DIP-6 white package",
+      "manufacturer": null,
+      "model": "4N35",
+      "variant": "Two pale ivory 6-pin DIP optocoupler chips in lower foam pad",
+      "quantity": 2,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-155"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "Exactly 2 separate pale/white six-pin devices in 1000063301.jpg, each marked 4N35 (additional date/lot codes differ). Their functional type is phototransistor optocoupler. Brand not confidently identified from printed symbol, so manufacturer is unknown. Not the same as the five black loose ICs in this photograph.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-155"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0188",
+      "category": "electronics_material",
+      "name": "Unidentified black 16-pin DIP integrated circuits, top foam",
+      "manufacturer": null,
+      "model": null,
+      "variant": "Two horizontally oriented black DIP chips on upper small foam strip, each apparently 16 pins",
+      "quantity": 2,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_tentative",
+      "identification_confidence": "low",
+      "photo_ids": [
+        "P-20261122-155"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "Two physical ICs: upper line with multiple printed lines and a logo, lower with very faint marking. Zoom/enhancement still leaves their exact top markings unreadable. Both appear DIP-16 by pins but exact pin count should be rechecked when closeup supplied. Keep distinct from lower group and avoid assigning made-up IC numbers.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-155"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0189",
+      "category": "electronics_material",
+      "name": "Unidentified black DIP integrated circuit, lower foam horizontal",
+      "manufacturer": null,
+      "model": null,
+      "variant": "One horizontal black DIP IC with STMicroelectronics-like logo on upper part of lower foam pad",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_tentative",
+      "identification_confidence": "low",
+      "photo_ids": [
+        "P-20261122-155"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "One dark DIP IC just below upper foam pair in 1000063301.jpg. A manufacturer-style ST logo is visible, but the model number is not readable. Do not assert it is ST-branded until clear enough, and do not infer chip function or pin count from package alone. Needs close-up.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-155"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0190",
+      "category": "electronics_material",
+      "name": "Unidentified black DIP integrated circuit, lower foam vertical",
+      "manufacturer": null,
+      "model": null,
+      "variant": "One vertically positioned longer black DIP with faint multi-line printing and ST-like logo",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_tentative",
+      "identification_confidence": "low",
+      "photo_ids": [
+        "P-20261122-155"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "One separate long black DIP IC below the horizontal lower-foam IC in 1000063301.jpg. Even rotated/enhanced, part-number letters and digits cannot be reliably established. Do not treat as same as HW-0189 merely because their package logos look similar. Needs straight-on close-up.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-155"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0191",
+      "category": "electronics_material",
+      "name": "Unidentified small black 8-pin DIP integrated circuit, lower foam",
+      "manufacturer": null,
+      "model": null,
+      "variant": "One small black DIP-8 oriented vertically to the right of longer black chip in lower foam pad",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_tentative",
+      "identification_confidence": "low",
+      "photo_ids": [
+        "P-20261122-155"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "One distinct short black eight-pin DIP in 1000063301.jpg, top marking extremely faint. No reliable exact model identification. A close-up with directional side lighting required.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-155"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0192",
+      "category": "electronics_material",
+      "name": "MAX7219CNG LED-matrix driver integrated circuits in two storage tubes",
+      "manufacturer": "Maxim Integrated (marking)",
+      "model": "MAX7219CNG",
+      "variant": "Multiple MAX7219CNG DIP-24 chips housed in two clear plastic anti-static tubes; exact unit count unknown",
+      "quantity": null,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-157"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "Two separate tubes in 1000063303.jpg hold multiple physically visible black DIP chips; magnification reads MAX7219CNG on exposed chips in BOTH tubes. This part is an 8-digit seven-segment / 8×8 dot-matrix serial display driver, DIP-24. Count of individual chips is NOT reliable from overlapping/occluded bodies behind plastic: quantity=null, confirmed packaging=2 tubes. Future close-up outside tubes needed for exact count and to prove all chips match visible labels. These loose spares are DISTINCT from MAX7219 installed on the already inventoried HW-0132 display board.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-157"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0193",
+      "category": "electronics_material",
+      "name": "Texas Instruments SN74HC595N 8-bit shift register ICs, DIP-16",
+      "manufacturer": "Texas Instruments",
+      "model": "SN74HC595N",
+      "variant": "Ten black DIP-16 chips arranged 2 rows × 5 on red ESD foam",
+      "quantity": 10,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-156"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "Exactly 10 distinct DIP chips in 1000063302.jpg, in two rows of five. Several readable TI logos and SN74HC595N markings; all 10 look like the same package and placement lot, but faint top markings on some individual chips cannot all independently be verified. This is an 8-bit serial-in/parallel-out shift register with output latches and 3-state outputs; not itself a standalone LED driver module. Keep separate from MAX7219CNG.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-156"
+      },
+      "updated_on": "2026-11-22"
     }
   ]
 }
