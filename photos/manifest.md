@@ -1,6 +1,6 @@
 # Photo evidence index
 
-**Last updated:** 2026-11-22. **Photos logged: 67.** This file indexes the actual photographs received in the ChatGPT conversation, but **does not contain the JPG images**. Original image assets have not been copied to GitHub. The canonical relationship between photo IDs and hardware IDs is in [the JSON intake log](../intake/photos.json).
+**Last updated:** 2026-11-22. **Photos logged: 73.** This file indexes the actual photographs received in the ChatGPT conversation, but **does not contain the JPG images**. Original image assets have not been copied to GitHub. The canonical relationship between photo IDs and hardware IDs is in [the JSON intake log](../intake/photos.json).
 
 | Photo ID | Conversation image filename | Related hardware ID(s) | Description |
 | --- | --- | --- | --- |
@@ -81,9 +81,16 @@
 | `P-20261122-066` | `1000063193.jpg` | `HW-0077` | Smraza Raspberry Pi 4 Model B case kit |
 | `P-20261122-067` | `1000063192.jpg` | `HW-0078` | DIYmall BBC micro:bit expansion board / edge connector breakout |
 
+| `P-20261122-068` | `1000063205.jpg` | `HW-0079` | unbranded 24MHz8CH logic analyzer with rainbow flying leads |
+| `P-20261122-069` | `1000063204.jpg` | `HW-0080` | Bus Pirate v3a in yellow 3D-printed case with 10-wire ribbon |
+| `P-20261122-070` | `1000063203.jpg` | `HW-0081` | ATtiny2313A USB AVR ISP programmer, cable and detached housing |
+| `P-20261122-071` | `1000063202.jpg` | `HW-0082`, `HW-0083` | custom Arduino Nano traffic-light perfboard with red/yellow/green LEDs |
+| `P-20261122-072` | `1000063201.jpg` | `HW-0084` | blue Nano terminal adapter with green screw terminal blocks |
+| `P-20261122-073` | `1000063200.jpg` | `HW-0085` | four separate blue Arduino Nano-style controller boards |
+
 ## Batch notes
 
-[Batch 001](../inventory/batches/2026-11-22-001.md) · [Batch 002](../inventory/batches/2026-11-22-002.md) · [Batch 003](../inventory/batches/2026-11-22-003.md) · [Batch 004](../inventory/batches/2026-11-22-004.md) · [Batch 005](../inventory/batches/2026-11-22-005.md) · [Batch 006](../inventory/batches/2026-11-22-006.md) · [Batch 007](../inventory/batches/2026-11-22-007.md) · [Batch 008](../inventory/batches/2026-11-22-008.md) · [Batch 009](../inventory/batches/2026-11-22-009.md) · [Batch 010](../inventory/batches/2026-11-22-010.md) · [Batch 011](../inventory/batches/2026-11-22-011.md)
+[Batch 001](../inventory/batches/2026-11-22-001.md) · [Batch 002](../inventory/batches/2026-11-22-002.md) · [Batch 003](../inventory/batches/2026-11-22-003.md) · [Batch 004](../inventory/batches/2026-11-22-004.md) · [Batch 005](../inventory/batches/2026-11-22-005.md) · [Batch 006](../inventory/batches/2026-11-22-006.md) · [Batch 007](../inventory/batches/2026-11-22-007.md) · [Batch 008](../inventory/batches/2026-11-22-008.md) · [Batch 009](../inventory/batches/2026-11-22-009.md) · [Batch 010](../inventory/batches/2026-11-22-010.md) · [Batch 011](../inventory/batches/2026-11-22-011.md) · [Batch 012](../inventory/batches/2026-11-22-012.md)
 
 ## Next action to make the catalog self-contained
 

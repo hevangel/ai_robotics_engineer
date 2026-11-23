@@ -2170,6 +2170,220 @@
         "reference": "P-20261122-067"
       },
       "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0079",
+      "category": "tool",
+      "name": "24 MHz 8-channel USB logic analyzer",
+      "manufacturer": "Unknown (unbranded)",
+      "model": "24MHz8CH",
+      "variant": "Black rectangular module marked 'Logic Analyzer 24MHz8CH' with multicolor 10-way ribbon lead",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-068"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "USB host interface (not visible in this angle)",
+        "10-position signal header"
+      ],
+      "accessories": [
+        "Rainbow cable and flying leads"
+      ],
+      "notes": "One physical USB logic analyzer, generic 24 MHz/8 digital channels per printed label. The cable has CH1–CH8, clock and ground labeling printed on case; nominal frequency not performance-tested. No manufacturer branding visible. A rainbow ribbon of multicolor flying leads is pictured connected as its accessory, not independently counted. Existing HW-0039 logic-analyzer grabber leads were already inventoried and are not duplicated.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-068"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0080",
+      "category": "tool",
+      "name": "Bus Pirate v3a serial protocol interface",
+      "manufacturer": "Dangerous Prototypes (Bus Pirate hardware design)",
+      "model": "Bus Pirate v3a",
+      "variant": "Yellow 3D-printed housing with USB connector, pinout sticker, rainbow ribbon lead",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-069"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "USB",
+        "10-way signal ribbon/header"
+      ],
+      "accessories": [
+        "3D-printed yellow enclosure",
+        "Multicolor 10-way probe/ribbon cable"
+      ],
+      "notes": "Sticker reads 'BusPirate BPv3a SEP 2009'. Multiprotocol bench debugging / UART, SPI, I2C, 1-Wire, etc. The listed modes are printed on the original housing sticker; not tested. RGB rainbow 10-wire ribbon connected and two rows of small black wire ends visible; the 3D-printed orange/yellow case and cable belong to this one device. Distinct from the standalone 8-channel logic analyzer HW-0079.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-069"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0081",
+      "category": "tool",
+      "name": "ATtiny2313A-based USB AVR ISP programmer",
+      "manufacturer": "Unknown (Atmel MCU visible)",
+      "model": "USBtinyISP-style (firmware unconfirmed)",
+      "variant": "Blue USB programming PCB in black plastic housing with 10-pin IDC ribbon lead and removable cover",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-070"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "USB Type-B",
+        "2 × 5 IDC AVR ISP ribbon connector"
+      ],
+      "accessories": [
+        "10-pin IDC ribbon lead",
+        "Detached black plastic cover"
+      ],
+      "notes": "One assembled AVR in-system programming adapter. Main chip clearly marked Atmel ATtiny2313A-PU; USB Type-B plug/socket at one end, a 10-pin boxed IDC-style interface and ribbon to a 2×5 female IDC connector at other. Likely a USBtinyISP-style programmer based on chip and layout, but no manufacturer's firmware/model is legible; do not assert USBasp compatibility. Extra black plastic 3D-printed cover visible alongside unit; count as accessory. Untested.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-070"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0082",
+      "category": "electronics_kit",
+      "name": "Custom Arduino Nano three-LED traffic-light controller",
+      "manufacturer": "DIY / homemade",
+      "model": null,
+      "variant": "Green perfboard assembly with three vertical LEDs (green/yellow/red), tactile switch, current-limiting resistors and Nano module",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-071"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Perfboard solder joints",
+        "5mm LEDs",
+        "Tactile pushbutton"
+      ],
+      "accessories": [
+        "3 traffic-light LEDs",
+        "Resistors",
+        "Jumper wire",
+        "Arduino Nano HW-0083"
+      ],
+      "notes": "One user-built traffic-light electronics assembly featuring green, amber/yellow and red 5mm LEDs, at least three resistors, tactile switch, jumper wire and Arduino Nano HW-0083. Owner explicitly reports that the Arduino Nano is soldered to the LED traffic-light board. This entry represents the complete assembly; Arduino Nano component gets a linked child entry to prevent losing the count of actual Arduino boards. Working status and code unverified.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-071"
+      },
+      "updated_on": "2026-11-22",
+      "installed_component_ids": [
+        "HW-0083"
+      ]
+    },
+    {
+      "id": "HW-0083",
+      "category": "microcontroller_board",
+      "name": "Arduino Nano-compatible board soldered to traffic-light assembly",
+      "manufacturer": "Arduino-compatible (board brand unknown)",
+      "model": "Nano family (exact chipset/revision unverified)",
+      "variant": "Blue Nano-format board with mini-USB-style connector, installed on HW-0082",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-071"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Mini-USB-style connector",
+        "Nano side GPIO headers/solder interface"
+      ],
+      "accessories": [],
+      "notes": "One blue Arduino Nano family board photographed adjacent to the custom traffic light perfboard; owner confirms it is soldered to the traffic light. This is a child component of the HW-0082 assembly, NOT part of the four loose Nano boards HW-0085. Exact MCU, USB-serial chip, production origin and firmware are not established from the photo; untested.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-071"
+      },
+      "updated_on": "2026-11-22",
+      "parent_id": "HW-0082"
+    },
+    {
+      "id": "HW-0084",
+      "category": "expansion_board",
+      "name": "Arduino Nano screw-terminal adapter board",
+      "manufacturer": "Unknown",
+      "model": "Nano Terminal Adapter v1.0",
+      "variant": "Blue shield breakout with green screw terminal blocks and two female pin header rows",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-072"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Nano female-header socket positions",
+        "Two rows of screw terminal blocks"
+      ],
+      "accessories": [],
+      "notes": "One bare Nano Terminal Adapter v1.0, printing visible on blue PCB, accepts an Arduino Nano form-factor module and breaks out signals to green detachable-looking screw terminal blocks. No Arduino Nano itself installed in adapter; count as a single accessory, not an Arduino microcontroller.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-072"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0085",
+      "category": "microcontroller_board",
+      "name": "Arduino Nano-compatible boards, loose lot",
+      "manufacturer": "Arduino-compatible (vendor unknown)",
+      "model": "Nano family, chipset unverified",
+      "variant": "Four separate blue Nano form-factor boards, mini-USB-style ports, black ICs, header pins",
+      "quantity": 4,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-073"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Mini-USB-style ports",
+        "Nano GPIO header positions"
+      ],
+      "accessories": [],
+      "notes": "FOUR distinct loose Arduino Nano-compatible development boards photographed together. Each has a USB connector, square MCU, reset switch, onboard TX/RX and power indicator locations. No soldered user project attached. Group as one lot quantity=4. Distinct from the fifth Nano HW-0083 soldered into the traffic light assembly HW-0082. Total Nano devices physically inventoried in this photo batch: 5 (4 loose + 1 installed). Not tested.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-073"
+      },
+      "updated_on": "2026-11-22"
     }
   ]
 }

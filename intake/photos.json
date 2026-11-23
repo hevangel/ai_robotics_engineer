@@ -812,6 +812,79 @@
         "HW-0078"
       ],
       "notes": "Evidence is direct photograph. Photo: 1000063192.jpg. One physical black BBC micro:bit breakout / extension board in front of ESD bag with seller label 'DIYmall microbit Ex... Graphic Programming'. Actual PCB has black horizontal micro:bit edge connector, GPIO labels 0–20, analog and serial labels, red/yellow/black multicolor 3-row  Original JPG remains conversation upload and is not stored in GitHub."
+    },
+    {
+      "id": "P-20261122-068",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 012 photo 1/6, uploaded filename 1000063205.jpg: unbranded 24MHz8CH logic analyzer with rainbow flying leads",
+      "item_ids": [
+        "HW-0079"
+      ],
+      "notes": "Front case label confirms 24MHz8CH; 8-channel signal and clock/GND legend. Original JPG exists in this conversation; its bytes have not yet been uploaded to GitHub."
+    },
+    {
+      "id": "P-20261122-069",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 012 photo 2/6, uploaded filename 1000063204.jpg: Bus Pirate v3a in yellow 3D-printed case with 10-wire ribbon",
+      "item_ids": [
+        "HW-0080"
+      ],
+      "notes": "Owner photo shows 'BusPirate' BPv3a SEP 2009 and I2C/UART/SPI/1-Wire pinout sticker. Original JPG exists in this conversation; its bytes have not yet been uploaded to GitHub."
+    },
+    {
+      "id": "P-20261122-070",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 012 photo 3/6, uploaded filename 1000063203.jpg: ATtiny2313A USB AVR ISP programmer, cable and detached housing",
+      "item_ids": [
+        "HW-0081"
+      ],
+      "notes": "Atmel ATtiny2313A-PU chip visible; 10-way IDC lead. USBtinyISP-style hardware, exact programming firmware not proven. Original JPG exists in this conversation; its bytes have not yet been uploaded to GitHub."
+    },
+    {
+      "id": "P-20261122-071",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 012 photo 4/6, uploaded filename 1000063202.jpg: custom Arduino Nano traffic-light perfboard with red/yellow/green LEDs",
+      "item_ids": [
+        "HW-0082",
+        "HW-0083"
+      ],
+      "notes": "Owner confirms the Nano is soldered on to the traffic-light board. Two linked inventory records capture assembly and its MCU, not two independent machines. Original JPG exists in this conversation; its bytes have not yet been uploaded to GitHub."
+    },
+    {
+      "id": "P-20261122-072",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 012 photo 5/6, uploaded filename 1000063201.jpg: blue Nano terminal adapter with green screw terminal blocks",
+      "item_ids": [
+        "HW-0084"
+      ],
+      "notes": "One Nano Terminal Adapter v1.0; empty board socket. Original JPG exists in this conversation; its bytes have not yet been uploaded to GitHub."
+    },
+    {
+      "id": "P-20261122-073",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 012 photo 6/6, uploaded filename 1000063200.jpg: four separate blue Arduino Nano-style controller boards",
+      "item_ids": [
+        "HW-0085"
+      ],
+      "notes": "Quantity four, distinct from the single Nano on traffic-light assembly. Original JPG exists in this conversation; its bytes have not yet been uploaded to GitHub."
     }
   ]
 }

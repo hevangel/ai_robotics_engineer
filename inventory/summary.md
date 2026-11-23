@@ -2,18 +2,34 @@
 
 ## Status at a glance
 
-- **Inventory records:** 78 item/lot/component records (parent assemblies and installed components linked)
-- **Records associated with photographs:** 70
-- **Photo-verified / owner-confirmed hardware:** 59 (includes 2 previously owner-confirmed boards not directly photographed)
+- **Inventory records:** 85 item/lot/component records (parent assemblies and installed components linked)
+- **Records associated with photographs:** 77
+- **Photo-verified / owner-confirmed hardware:** 66 (includes 2 previously owner-confirmed boards not directly photographed)
 - **Photo-supported but packaging only / tentative:** 13
 - **Previously reported, not yet photographed:** 6
-- **Photo intake records:** 67
+- **Photo intake records:** 73
 
 These are **record and photo counts**, not counts of verified working devices. A photographed retail box does not establish that electronic contents are present unless separately confirmed.
 
 - **Records lacking direct item photographs:** 8 (including 2 owner-confirmed enclosed/installed components)
 
-## Latest batch — 011 (8 photos)
+## Latest batch — 012 (6 photos)
+
+| ID | Item | Qty | Uploaded photo |
+| --- | --- | ---: | --- |
+| HW-0079 | Generic 24 MHz 8-channel USB logic analyzer | 1 | `1000063205.jpg` |
+| HW-0080 | Bus Pirate v3a with 3D-printed case | 1 | `1000063204.jpg` |
+| HW-0081 | ATtiny2313A-based USB AVR ISP programmer (USBtinyISP-style) | 1 | `1000063203.jpg` |
+| HW-0082 | Custom Arduino Nano traffic light training assembly | 1 | `1000063202.jpg` |
+| HW-0083 | Arduino Nano installed on traffic-light assembly | 1 | `1000063202.jpg` |
+| HW-0084 | Arduino Nano terminal adapter v1.0 | 1 | `1000063201.jpg` |
+| HW-0085 | Loose Arduino Nano-compatible boards | 4 | `1000063200.jpg` |
+
+**Arduino Nano quantity:** 5 physical boards (one installed on HW-0082, four loose in HW-0085). HW-0084 is only the screw-terminal adapter.
+
+[Batch 012 details](batches/2026-11-22-012.md)
+
+## Earlier batch — 011 (8 photos)
 
 | ID | Item | Qty | Uploaded photo |
 | --- | --- | ---: | --- |
