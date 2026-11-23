@@ -2,18 +2,28 @@
 
 ## Status at a glance
 
-- **Inventory records:** 219 item/lot/component records (parent assemblies and installed components linked)
-- **Records associated with photographs:** 210
-- **Photo-verified / owner-confirmed hardware:** 184 (some enclosed items owner-confirmed; no working-status implied)
+- **Inventory records:** 220 item/lot/component records (parent assemblies and installed components linked)
+- **Records associated with photographs:** 211
+- **Photo-verified / owner-confirmed hardware:** 185 (some enclosed items owner-confirmed; no working-status implied)
 - **Photo-supported / tentative identifications or packaging only:** 28
 - **Previously reported, not yet photographed:** 7
-- **Photo intake records:** 191
+- **Photo intake records:** 192
 
 These are **record and photo counts**, not counts of verified working devices. A photographed retail box does not establish that electronic contents are present unless separately confirmed.
 
 - **Records lacking direct item photographs:** 9 (some contents independently confirmed by owner)
 
-## Latest batch — 030 (1 photograph, 1 new record; a pair of LiPo pouch cells)
+## Latest batch — 031 (1 photograph, 1 new record; a line-tracking kit)
+
+| ID | Item | Quantity | Photo |
+| --- | --- | ---: | --- |
+| HW-0220 | Four-channel infrared line-tracking sensor kit (HW-096-A main board with four HW-096-B probes) | 1 kit | `1000063341.jpg` |
+
+**Confidence notes:** The main board's silkscreen (HW-096-A) and its TI LM339 comparator are legible (high); the kit is complete with all four probes and its cable bundle. Note the vendor's board code HW-096-A is not an inventory ID. No working condition claimed. The photo binary is stored in the repo (`photos/2026/11/`, EXIF stripped).
+
+[Batch 031 detail](batches/2026-11-22-031.md).
+
+## Earlier batch — 030 (1 photograph, 1 new record; a pair of LiPo pouch cells)
 
 | ID | Item | Quantity | Photo |
 | --- | --- | ---: | --- |

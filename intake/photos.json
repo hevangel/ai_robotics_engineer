@@ -2337,6 +2337,18 @@
         "HW-0219"
       ],
       "notes": "The left cell's printed side faces away; counted as the same type from identical appearance. Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-192",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-192.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 031: 1000063341.jpg (EXIF date 2026-11-22). Four-channel IR line-tracking kit: red HW-096-A main board (LM339, four trim pots), four HW-096-B probe boards with IR LED/receiver pairs, and a rainbow Dupont cable bundle.",
+      "item_ids": [
+        "HW-0220"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
     }
   ]
 }

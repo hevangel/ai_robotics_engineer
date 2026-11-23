@@ -6039,6 +6039,37 @@
         "reference": "P-20261122-191"
       },
       "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0220",
+      "category": "interface_module",
+      "name": "Four-channel infrared line-tracking sensor kit (HW-096-A main board with four HW-096-B probes)",
+      "manufacturer": null,
+      "model": "HW-096-A / HW-096-B (vendor board codes)",
+      "variant": "One red main board silkscreened 'HW-096-A' with a TI LM339 quad comparator, four 103 trim potentiometers, four probe inputs (VCC/GND/IN1-IN4), four indicator LEDs and a VCC/GND/OUT1-OUT4 output header; plus four small red probe boards (silkscreened HW-096-B), each with a clear IR emitter LED, a black IR receiver, and a 3-pin header; plus one rainbow Dupont ribbon cable bundle",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-192"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Main board: 4x 3-pin probe inputs (VCC, GND, IN1-IN4)",
+        "Main board: 6-pin output header (VCC, GND, OUT1-OUT4)"
+      ],
+      "accessories": [
+        "Four HW-096-B infrared probe boards",
+        "Rainbow Dupont ribbon cable bundle"
+      ],
+      "notes": "Complete kit in 1000063341.jpg: the standard four-channel infrared reflective line-tracking / obstacle-sensing set sold for line-following robots; each probe's threshold is set by one of the main board's four potentiometers and read out as a digital level. The LM339 marking was verified on a 3x enlargement. Caution for future readers: 'HW-096-A' is the vendor's board code printed on the PCB, not this inventory's HW-#### identifier. Operational condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-192"
+      },
+      "updated_on": "2026-11-22"
     }
   ]
 }
