@@ -2892,29 +2892,30 @@
     {
       "id": "HW-0103",
       "category": "electronics_material",
-      "name": "Preformed breadboard jumper-wire assortment in clear divided storage box",
+      "name": "Preformed breadboard jumper-wire assortments (boxed set and sealed bag)",
       "manufacturer": null,
       "model": null,
-      "variant": "Assorted rigid U-shaped insulated jumper links in multiple lengths and colors, labeled 140-piece set (not hand counted)",
-      "quantity": 1,
+      "variant": "Two containers of the same stock: (1) a clear hinged divided storage box of rigid U-shaped insulated jumper links in multiple lengths and colours, labelled a 140-piece set (not hand counted); (2) one sealed bag of preformed U-shaped solid-core jumpers bundled by colour (blue, yellow, red, green, black)",
+      "quantity": null,
       "condition": "unknown",
       "location": null,
       "verification_status": "photo_verified",
       "identification_confidence": "high",
       "photo_ids": [
-        "P-20261122-094"
+        "P-20261122-094",
+        "P-20261123-013"
       ],
       "connectivity": [],
       "interfaces": [
         "Prestripped rigid metallic conductor legs for breadboard insertion; pitch/size not measured"
       ],
       "accessories": [],
-      "notes": "One clear hinged organizer with separate compartments containing many color-coded formed solid-wire jumpers. Sticker appears to indicate a 140-piece U-shaped assortment, but actual count is not verified; quantity 1 box/set rather than 140 individually counted parts. Distinct from HW-0037 loose sample wires and HW-0091 female Dupont-ended flexible jumper bundle. Image evidence: 1000063228.jpg.",
+      "notes": "Merged record (owner-confirmed 2026-11-23): the sealed bag filed briefly as HW-0249 is the same jumper-wire stock as the boxed assortment, so both photographs live on this one record and HW-0249 is retired. The box sticker appears to indicate a 140-piece assortment, but the actual count is not verified, and the bag's wire count is not determinable through the plastic; quantity is therefore left unrecorded rather than summed from labels. Distinct from HW-0037 loose sample wires and HW-0091 female Dupont-ended flexible jumper bundle. Image evidence: 1000063228.jpg and 1000063397.jpg.",
       "source": {
         "type": "photo",
         "reference": "P-20261122-094"
       },
-      "updated_on": "2026-11-22"
+      "updated_on": "2026-11-23"
     },
     {
       "id": "HW-0104",
@@ -4743,18 +4744,19 @@
       "connectivity": [],
       "interfaces": [],
       "accessories": [],
-      "updated_on": "2026-11-22",
+      "updated_on": "2026-11-23",
       "id": "HW-0171",
-      "name": "Assorted axial through-hole resistors (blue and beige body)",
+      "name": "Assorted axial through-hole resistors (loose and tape-strip stock)",
       "category": "electronics_material",
-      "quantity": 7,
-      "variant": "Five blue-body metal-film-style axial resistors and two beige-body axial resistors; differing colored bands",
+      "quantity": null,
+      "variant": "Two parts to one stock: (1) five blue-body metal-film-style and two beige-body axial resistors loose in a storage-box compartment; (2) seven groups of axial resistors on paper tape strips with handwritten value labels (47K, 4K7, 1K, 100, 100K, 10K) plus a small zip bag of blue metal-film resistors labelled 10K",
       "verification_status": "photo_verified",
       "identification_confidence": "high",
       "photo_ids": [
-        "P-20261122-152"
+        "P-20261122-152",
+        "P-20261123-011"
       ],
-      "notes": "Exactly 7 separate visible resistors in the upper center compartment: 5 blue cylindrical bodies and 2 beige cylindrical bodies. Resistor band colors and precise resistance/tolerance values cannot be determined reliably from this photograph, so do not assign nominal values. Loose bent leads are part of the resistors, not extra wire items.",
+      "notes": "Merged record (owner-confirmed 2026-11-23): the tape-strip assortment filed briefly as HW-0247 is the same resistor stock as the seven loose resistors first photographed in the storage box, so both photographs live on this one record and HW-0247 is retired. Loose part: exactly 7 visible resistors (5 blue, 2 beige); their band colours and values cannot be determined reliably from the photograph, so no nominal values are assigned to them. Tape-strip part: values are recorded as labelled by hand (47K, 4K7, 1K, 100, 100K, 10K, bag 10K), not measured; piece counts on the strips are not reliably countable and are not recorded. Loose bent leads are part of the resistors, not extra wire items.",
       "source": {
         "type": "photo",
         "reference": "P-20261122-152"
@@ -6798,31 +6800,6 @@
       "updated_on": "2026-11-23"
     },
     {
-      "id": "HW-0247",
-      "category": "electronics_material",
-      "name": "Axial resistor assortment on tape strips, value-labelled",
-      "manufacturer": null,
-      "model": null,
-      "variant": "Seven groups of axial through-hole resistors on paper tape strips plus one small zip bag of blue metal-film resistors; handwritten tape labels read as 47K, 4K7, 1K, 100, 100K and 10K, and the bag is labelled 10K - values recorded as labelled, not measured",
-      "quantity": null,
-      "condition": "unknown",
-      "location": null,
-      "verification_status": "photo_verified",
-      "identification_confidence": "medium",
-      "photo_ids": [
-        "P-20261123-011"
-      ],
-      "connectivity": [],
-      "interfaces": [],
-      "accessories": [],
-      "notes": "One assortment photographed in 1000063395.jpg. The piece count per strip is not reliably countable and is not recorded. Related to HW-0171 (assorted axial resistors, loose) but photographed as a separate, value-organised set; if the owner confirms they are the same stock, the records should be merged.",
-      "source": {
-        "type": "photo",
-        "reference": "P-20261123-011"
-      },
-      "updated_on": "2026-11-23"
-    },
-    {
       "id": "HW-0248",
       "category": "electronics_material",
       "name": "Heat-shrink tubing assortment (12 packs)",
@@ -6844,31 +6821,6 @@
       "source": {
         "type": "photo",
         "reference": "P-20261123-012"
-      },
-      "updated_on": "2026-11-23"
-    },
-    {
-      "id": "HW-0249",
-      "category": "electronics_material",
-      "name": "Preformed breadboard jumper wire kit (bagged, 5 colours)",
-      "manufacturer": null,
-      "model": null,
-      "variant": "One sealed bag of preformed U-shaped solid-core breadboard jumper wires in assorted lengths, bundled by colour: blue, yellow, red, green and black, each bundle rubber-banded",
-      "quantity": null,
-      "condition": "unknown",
-      "location": null,
-      "verification_status": "photo_verified",
-      "identification_confidence": "high",
-      "photo_ids": [
-        "P-20261123-013"
-      ],
-      "connectivity": [],
-      "interfaces": [],
-      "accessories": [],
-      "notes": "One bag in 1000063397.jpg; wire count not determinable through the bag. Same type as HW-0103 (preformed jumper assortment in a divided storage box) but photographed as a separate sealed retail-style bag; kept as its own record - if the owner confirms it is the same set re-bagged, the records should be merged.",
-      "source": {
-        "type": "photo",
-        "reference": "P-20261123-013"
       },
       "updated_on": "2026-11-23"
     }

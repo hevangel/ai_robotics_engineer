@@ -2755,9 +2755,9 @@
       "asset_status": "stored",
       "source_description": "Batch 039: 1000063395.jpg (EXIF date 2026-11-23). Axial resistors on tape strips with handwritten value labels (47K, 4K7, 1K, 100, 100K, 10K) plus a bag of blue 10K resistors.",
       "item_ids": [
-        "HW-0247"
+        "HW-0171"
       ],
-      "notes": "Binary stored in the repo with EXIF stripped."
+      "notes": "Binary stored in the repo with EXIF stripped. Filed in batch 039 as HW-0247, merged into HW-0171 at the owner's instruction on 2026-11-23."
     },
     {
       "id": "P-20261123-012",
@@ -2779,9 +2779,9 @@
       "asset_status": "stored",
       "source_description": "Batch 039: 1000063397.jpg (EXIF date 2026-11-23). One sealed bag of preformed breadboard jumper wires in five colour bundles.",
       "item_ids": [
-        "HW-0249"
+        "HW-0103"
       ],
-      "notes": "Binary stored in the repo with EXIF stripped."
+      "notes": "Binary stored in the repo with EXIF stripped. Filed in batch 039 as HW-0249, merged into HW-0103 at the owner's instruction on 2026-11-23."
     },
     {
       "id": "P-20261123-014",
