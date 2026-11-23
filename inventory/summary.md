@@ -2,18 +2,38 @@
 
 ## Status at a glance
 
-- **Inventory records:** 147 item/lot/component records (parent assemblies and installed components linked)
-- **Records associated with photographs:** 138
-- **Photo-verified / owner-confirmed hardware:** 119 (some enclosed items owner-confirmed; no working-status implied)
-- **Photo-supported / tentative identifications or packaging only:** 21
+- **Inventory records:** 158 item/lot/component records (parent assemblies and installed components linked)
+- **Records associated with photographs:** 149
+- **Photo-verified / owner-confirmed hardware:** 128 (some enclosed items owner-confirmed; no working-status implied)
+- **Photo-supported / tentative identifications or packaging only:** 23
 - **Previously reported, not yet photographed:** 7
-- **Photo intake records:** 133
+- **Photo intake records:** 142
 
 These are **record and photo counts**, not counts of verified working devices. A photographed retail box does not establish that electronic contents are present unless separately confirmed.
 
 - **Records lacking direct item photographs:** 9 (some contents independently confirmed by owner)
 
-## Latest batch — 020 (5 photographs; 9 new records after owner correction; two distinct red-foam bar-graph lots)
+## Latest batch — 021 (9 photographs; 11 new records, 2 LED-bar records enriched)
+
+| ID | Item | Quantity | Photo |
+| --- | --- | ---: | --- |
+| HW-0148 | Male-to-male Dupont jumper-wire bundle | 1 bundle | `1000063277.jpg`, `1000063278.jpg` |
+| HW-0149 | Mixed-end Dupont jumper-wire bundle (connector genders partly unverified) | 1 bundle | `1000063278.jpg` |
+| HW-0150 | Color-coded miniature hook probe lead set | 1 set | `1000063279.jpg` |
+| HW-0151 | Arduino 16×2 LCD Keypad Shield | 1 | `1000063280.jpg` |
+| HW-0152 | CTS 208-4 four-way DIP switch | 1 | `1000063285.jpg` |
+| HW-0153 | Mini metal slide switch (tentative) | 1 | `1000063285.jpg` |
+| HW-0154 | Keyes WiiChuck adapter PCB | 1 | `1000063285.jpg` |
+| HW-0155 | Five-color plastic button/joystick caps | 15 (3 each) | `1000063286.jpg` |
+| HW-0156 | Standalone two-axis joystick breakout boards | 2 | `1000063288.jpg` |
+| HW-0157 | Funduino Joystick Shield v1.A | 1 | `1000063287.jpg` |
+| HW-0158 | Red panel-mount pushbuttons with green leads | 4 | `1000063289.jpg` |
+
+**Deduplication:** The two images of HW-0148 show one bundle, not two. HW-0149 is a second bundle. The two joystick modules HW-0156 are independent of the joystick soldered on HW-0157. The yellow 4-bar and green 7-bar LED packages on red foam in `1000063285.jpg` provide supplemental type evidence for HW-0146/HW-0147, **without increasing their 10-each counts** because physical identity to previously photographed parts is uncertain. Earlier female-to-female jumpers HW-0091 remain separate.
+
+**Unverified:** Individual jumper counts and second bundle's exact connector genders, compatibility of button caps, test probe voltage ratings, output type of small slide switch, and working conditions of all devices. The original photo JPGs are referenced but not stored in the repository. [Batch 021 details](batches/2026-11-22-021.md).
+
+## Earlier batch — 020 (5 photographs; 9 new records after owner correction; two distinct red-foam bar-graph lots)
 
 | ID | Item | Count | Photo |
 | --- | --- | ---: | --- |
