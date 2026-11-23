@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Hardware Inventory — ai_robotics_engineer</title>
+<style>
+  :root{
+    --bg:#f6f7f9; --card:#ffffff; --text:#1c2430; --muted:#66707e; --line:#dde2e9;
+    --accent:#2563eb; --chip:#eef2f7; --ok:#15803d; --warn:#b45309; --bad:#b91c1c;
+    --shadow:0 1px 3px rgba(16,24,40,.08),0 4px 14px rgba(16,24,40,.06);
+  }
+  @media (prefers-color-scheme: dark){
+    :root{ --bg:#0e1218; --card:#171d27; --text:#e6ebf2; --muted:#93a0b4; --line:#28303e;
+      --accent:#6ea8ff; --chip:#202938; --shadow:0 1px 3px rgba(0,0,0,.4),0 4px 14px rgba(0,0,0,.35); }
+  }
+  *{box-sizing:border-box}
+  body{margin:0;font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;background:var(--bg);color:var(--text)}
+  header{position:sticky;top:0;z-index:20;background:var(--bg);border-bottom:1px solid var(--line);padding:14px 18px 12px}
+  h1{font-size:20px;margin:0 0 2px}
+  .sub{color:var(--muted);font-size:13px;margin:0 0 12px}
+  .controls{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+  .controls input[type=search]{flex:1 1 260px;padding:9px 12px;font-size:15px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--text)}
+  .controls select{padding:9px 10px;font-size:14px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--text);max-width:230px}
+  .controls label{font-size:13px;color:var(--muted);display:flex;gap:6px;align-items:center}
+  .count{font-size:13px;color:var(--muted);margin-left:auto}
+  main{padding:16px 18px 40px;max-width:1400px;margin:0 auto}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:14px}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden;box-shadow:var(--shadow);cursor:pointer;display:flex;flex-direction:column}
+  .card:hover{border-color:var(--accent)}
+  .thumb{aspect-ratio:4/3;background:var(--chip);display:flex;align-items:center;justify-content:center;overflow:hidden}
+  .thumb img{width:100%;height:100%;object-fit:cover;display:block}
+  .thumb .nophoto{color:var(--muted);font-size:12.5px;text-align:center;padding:12px;line-height:1.5}
+  .body{padding:10px 12px 12px;display:flex;flex-direction:column;gap:5px;flex:1}
+  .idrow{display:flex;justify-content:space-between;align-items:center;gap:8px}
+  .id{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:12px;color:var(--accent);font-weight:600}
+  .qty{font-size:12px;color:var(--muted)}
+  .name{font-size:14.5px;font-weight:600;line-height:1.35}
+  .model{font-size:12.5px;color:var(--muted);line-height:1.4}
+  .tags{margin-top:auto;display:flex;flex-wrap:wrap;gap:5px;padding-top:6px}
+  .tag{font-size:11px;background:var(--chip);border-radius:999px;padding:2.5px 8px;color:var(--muted)}
+  .dot{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:4px;vertical-align:1px}
+  .ok{background:var(--ok)} .warn{background:var(--warn)} .bad{background:var(--bad)}
+  .empty{color:var(--muted);text-align:center;padding:60px 0;font-size:15px}
+  .err{background:#fdecec;border:1px solid #f3b8b8;color:#7a1d1d;border-radius:10px;padding:14px 16px;font-size:14px;line-height:1.55}
+  @media (prefers-color-scheme: dark){ .err{background:#33161a;border-color:#6e2a30;color:#f3c2c2} }
+  dialog{border:1px solid var(--line);border-radius:14px;background:var(--card);color:var(--text);max-width:860px;width:calc(100% - 28px);padding:0;box-shadow:var(--shadow)}
+  dialog::backdrop{background:rgba(8,12,20,.55)}
+  .modal{padding:18px 20px 20px;max-height:86vh;overflow:auto}
+  .modal h2{font-size:18px;margin:0 30px 4px 0;line-height:1.35}
+  .modal .mid{font-family:ui-monospace,Menlo,Consolas,monospace;color:var(--accent);font-size:13px}
+  .close{position:sticky;top:0;float:right;border:1px solid var(--line);background:var(--card);color:var(--text);border-radius:8px;font-size:16px;width:34px;height:34px;cursor:pointer}
+  .photos{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:10px;margin:14px 0}
+  .photos figure{margin:0;border:1px solid var(--line);border-radius:10px;overflow:hidden}
+  .photos img{width:100%;display:block}
+  .photos figcaption{font-size:11.5px;color:var(--muted);padding:7px 9px;line-height:1.45}
+  .photos .missing{padding:16px 10px;color:var(--muted);font-size:12.5px;text-align:center;background:var(--chip)}
+  table{border-collapse:collapse;width:100%;font-size:13.5px}
+  td{padding:5px 8px 5px 0;vertical-align:top;border-bottom:1px solid var(--line)}
+  td.k{color:var(--muted);white-space:nowrap;width:150px}
+  .notes{font-size:13.5px;line-height:1.6;white-space:pre-wrap}
+  footer{color:var(--muted);font-size:12px;text-align:center;padding:0 18px 26px}
+  code{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.92em}
+</style>
+</head>
+<body>
+<header>
+  <h1>Hardware Inventory</h1>
+  <p class="sub" id="stats">Loading inventory…</p>
+  <div class="controls">
+    <input type="search" id="q" placeholder="Search name, model, ID, notes…  (e.g. GY-91, LiPo, ADXL345)" autocomplete="off">
+    <select id="cat"><option value="">All categories</option></select>
+    <select id="status">
+      <option value="">Any verification</option>
+      <option value="photo_verified">Photo verified</option>
+      <option value="photo_tentative">Photo tentative</option>
+      <option value="reported_unverified">Reported, unverified</option>
+    </select>
+    <select id="sort">
+      <option value="id">Sort: ID</option>
+      <option value="name">Sort: Name</option>
+      <option value="category">Sort: Category</option>
+    </select>
+    <label><input type="checkbox" id="withphoto"> Has stored photo</label>
+    <span class="count" id="count"></span>
+  </div>
+</header>
+<main>
+  <div id="err"></div>
+  <div class="grid" id="grid"></div>
+  <div class="empty" id="empty" hidden>No items match your search.</div>
+</main>
+<footer>Data loads live from <code>inventory/items.json</code> and <code>intake/photos.json</code> in this repository — the page always reflects the latest commit. Photos marked “not stored” exist only as intake descriptions; their binaries were never committed.</footer>
+
+<dialog id="dlg"><div class="modal" id="modal"></div></dialog>
+
+<script>
+"use strict";
+const $ = s => document.querySelector(s);
+let ITEMS = [], PHOTOS = new Map();
+
+const humanize = s => s ? s.replace(/_/g, " ").replace(/\b\w/g, c => c.toUpperCase()) : "";
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[c]));
+const confDot = c => c === "high" ? "ok" : c === "medium" ? "warn" : "bad";
+const statusLabel = s => ({photo_verified:"Photo verified", photo_tentative:"Photo tentative", reported_unverified:"Reported, unverified"}[s] || s);
+
+function storedPhotos(item){
+  return (item.photo_ids || []).map(pid => PHOTOS.get(pid)).filter(p => p && p.asset_status === "stored" && p.file);
+}
+function firstPhoto(item){
+  const sp = storedPhotos(item);
+  return sp.length ? sp[0].file : null;
+}
+function searchText(item){
+  return [item.id, item.name, item.manufacturer, item.model, item.variant, item.category,
+          item.notes, (item.accessories||[]).join(" "), (item.photo_ids||[]).join(" ")]
+          .filter(Boolean).join(" ").toLowerCase();
+}
+
+function render(){
+  const q = $("#q").value.trim().toLowerCase();
+  const cat = $("#cat").value, st = $("#status").value;
+  const withPhoto = $("#withphoto").checked;
+  const sort = $("#sort").value;
+  let list = ITEMS.filter(it => {
+    if (cat && it.category !== cat) return false;
+    if (st && it.verification_status !== st) return false;
+    if (withPhoto && !firstPhoto(it)) return false;
+    if (q && !q.split(/\s+/).every(tok => searchText(it).includes(tok))) return false;
+    return true;
+  });
+  list.sort((a,b) => sort === "name" ? a.name.localeCompare(b.name)
+                   : sort === "category" ? (a.category.localeCompare(b.category) || a.id.localeCompare(b.id))
+                   : a.id.localeCompare(b.id));
+  $("#count").textContent = list.length + " of " + ITEMS.length + " items";
+  $("#empty").hidden = list.length > 0;
+  $("#grid").innerHTML = list.map(it => {
+    const img = firstPhoto(it);
+    const np = (it.photo_ids || []).length;
+    return `<article class="card" data-id="${esc(it.id)}" tabindex="0" role="button" aria-label="${esc(it.name)}">
+      <div class="thumb">${img ? `<img loading="lazy" src="${esc(img)}" alt="${esc(it.name)}">`
+        : `<div class="nophoto">📷<br>${np ? "Photo logged,<br>binary not stored in repo" : "No photo yet"}</div>`}</div>
+      <div class="body">
+        <div class="idrow"><span class="id">${esc(it.id)}</span><span class="qty">${it.quantity != null ? "Qty " + esc(it.quantity) : "Qty ?"}</span></div>
+        <div class="name">${esc(it.name)}</div>
+        ${it.model ? `<div class="model">${esc(it.manufacturer ? it.manufacturer + " · " : "")}${esc(it.model)}</div>` : ""}
+        <div class="tags">
+          <span class="tag">${esc(humanize(it.category))}</span>
+          <span class="tag"><span class="dot ${confDot(it.identification_confidence)}"></span>${esc(it.identification_confidence || "?")} confidence</span>
+          ${np ? `<span class="tag">${np} photo${np > 1 ? "s" : ""}</span>` : ""}
+        </div>
+      </div>
+    </article>`;
+  }).join("");
+  document.querySelectorAll(".card").forEach(c => {
+    c.addEventListener("click", () => openDetail(c.dataset.id));
+    c.addEventListener("keydown", e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); openDetail(c.dataset.id); } });
+  });
+}
+
+function openDetail(id){
+  const it = ITEMS.find(x => x.id === id);
+  if (!it) return;
+  const photos = (it.photo_ids || []).map(pid => PHOTOS.get(pid)).filter(Boolean);
+  const photoHtml = photos.length ? `<div class="photos">${photos.map(p =>
+    p.asset_status === "stored" && p.file
+      ? `<figure><img loading="lazy" src="${esc(p.file)}" alt="${esc(p.id)}"><figcaption><b>${esc(p.id)}</b> — ${esc(p.source_description || "")}</figcaption></figure>`
+      : `<figure><div class="missing">📷 ${esc(p.id)}<br>binary not stored in repo</div><figcaption>${esc(p.source_description || "")}</figcaption></figure>`
+  ).join("")}</div>` : "";
+  const rows = [
+    ["Category", humanize(it.category)],
+    ["Manufacturer", it.manufacturer],
+    ["Model", it.model],
+    ["Variant / details", it.variant],
+    ["Quantity", it.quantity],
+    ["Condition", it.condition],
+    ["Location", it.location],
+    ["Verification", statusLabel(it.verification_status)],
+    ["ID confidence", it.identification_confidence],
+    ["Interfaces", (it.interfaces || []).join("; ")],
+    ["Connectivity", (it.connectivity || []).join("; ")],
+    ["Accessories", (it.accessories || []).join("; ")],
+    ["Photos", (it.photo_ids || []).join(", ")],
+    ["Last updated", it.updated_on],
+  ].filter(([,v]) => v !== null && v !== undefined && v !== "");
+  $("#modal").innerHTML = `
+    <button class="close" onclick="document.querySelector('#dlg').close()" aria-label="Close">✕</button>
+    <div class="mid">${esc(it.id)}</div>
+    <h2>${esc(it.name)}</h2>
+    ${photoHtml}
+    <table>${rows.map(([k,v]) => `<tr><td class="k">${esc(k)}</td><td>${esc(v)}</td></tr>`).join("")}</table>
+    ${it.notes ? `<h3 style="font-size:14px;margin:16px 0 4px">Notes</h3><div class="notes">${esc(it.notes)}</div>` : ""}`;
+  $("#dlg").showModal();
+}
+
+async function load(){
+  try {
+    const [ir, pr] = await Promise.all([fetch("inventory/items.json"), fetch("intake/photos.json")]);
+    if (!ir.ok || !pr.ok) throw new Error("HTTP " + ir.status + "/" + pr.status);
+    const idata = await ir.json(), pdata = await pr.json();
+    ITEMS = idata.items || [];
+    (pdata.photos || []).forEach(p => PHOTOS.set(p.id, p));
+    const cats = [...new Set(ITEMS.map(i => i.category))].sort();
+    $("#cat").innerHTML = `<option value="">All categories</option>` + cats.map(c => {
+      const n = ITEMS.filter(i => i.category === c).length;
+      return `<option value="${esc(c)}">${esc(humanize(c))} (${n})</option>`;
+    }).join("");
+    const stored = [...PHOTOS.values()].filter(p => p.asset_status === "stored").length;
+    $("#stats").textContent = `${ITEMS.length} inventory records · ${PHOTOS.size} photos logged · ${stored} photo binaries stored in repo`;
+    render();
+  } catch (e) {
+    $("#stats").textContent = "Could not load the inventory.";
+    $("#err").innerHTML = `<div class="err"><b>Failed to load inventory data.</b><br>
+      This page reads <code>inventory/items.json</code> and <code>intake/photos.json</code> at runtime, so it must be served over HTTP — opening the file directly (file://) will not work.
+      Serve the repo root with any static server, e.g. <code>python3 -m http.server</code>, or open it via GitHub Pages.<br>(${esc(e.message)})</div>`;
+  }
+}
+["#q", "#cat", "#status", "#sort", "#withphoto"].forEach(s =>
+  $(s).addEventListener(s === "#q" ? "input" : "change", render));
+$("#dlg").addEventListener("click", e => { if (e.target.id === "dlg") e.target.close(); });
+load();
+</script>
+</body>
+</html>
