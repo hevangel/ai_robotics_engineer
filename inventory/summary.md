@@ -2,18 +2,30 @@
 
 ## Status at a glance
 
-- **Inventory records:** 207 item/lot/component records (parent assemblies and installed components linked)
-- **Records associated with photographs:** 198
-- **Photo-verified / owner-confirmed hardware:** 172 (some enclosed items owner-confirmed; no working-status implied)
+- **Inventory records:** 210 item/lot/component records (parent assemblies and installed components linked)
+- **Records associated with photographs:** 201
+- **Photo-verified / owner-confirmed hardware:** 175 (some enclosed items owner-confirmed; no working-status implied)
 - **Photo-supported / tentative identifications or packaging only:** 28
 - **Previously reported, not yet photographed:** 7
-- **Photo intake records:** 178
+- **Photo intake records:** 181
 
 These are **record and photo counts**, not counts of verified working devices. A photographed retail box does not establish that electronic contents are present unless separately confirmed.
 
 - **Records lacking direct item photographs:** 9 (some contents independently confirmed by owner)
 
-## Latest batch — 027 (8 new photographs, 7 new records; small I2C and sensor breakouts)
+## Latest batch — 028 (3 photographs, 3 new records; more small sensor breakouts)
+
+| ID | Item | Quantity | Photo |
+| --- | --- | ---: | --- |
+| HW-0208 | BME/BMP280 barometric sensor breakout, 4-pin I2C style (variant undetermined) | 1 | `1000063328.jpg` |
+| HW-0209 | VL53L0X laser time-of-flight distance sensor module (GY-VL53L0X) | 1 | `1000063329.jpg` |
+| HW-0210 | GY-271 three-axis magnetometer (compass) module, HMC5883L type | 1 | `1000063330.jpg` |
+
+**Confidence notes:** The VL53L0X module's silkscreen and twin-aperture sensor are legible (high). The 4-pin BME/BMP280 board is a second, physically different module from the 6-pin GY-B11 board HW-0205 — not a re-photo of it — and its sensor marking is too faint to separate BME280 from BMP280 (medium). The GY-271 shows only its back; its printed designation is the HMC5883L compass module, but some GY-271 boards carry a QMC5883L, which a front photo would settle (medium). No working condition claimed. All three photo binaries are stored in the repo (`photos/2026/11/`, EXIF stripped).
+
+[Batch 028 detail](batches/2026-11-22-028.md).
+
+## Earlier batch — 027 (8 new photographs, 7 new records; small I2C and sensor breakouts)
 
 Eight new photos and seven new items; a ninth upload was a byte-identical resend of the batch 026 TCS3200 photo and was not logged twice. The Aether potentiometer module was photographed from both sides (one record). Two purple GY modules show only their backs.
 

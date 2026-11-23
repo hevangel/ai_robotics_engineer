@@ -2181,6 +2181,42 @@
         "HW-0207"
       ],
       "notes": "Front (INA219 chip side) not photographed. Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-179",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-179.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 028: 1000063328.jpg (EXIF date 2026-11-22). One small purple 4-pin BME/BMP280 breakout, front side: sensor with pressure port, VIN/GND/SCL/SDA header, one mounting hole.",
+      "item_ids": [
+        "HW-0208"
+      ],
+      "notes": "A different physical board from HW-0205 (6-pin GY-B11). Sensor laser marking illegible; variant undetermined. Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-180",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-180.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 028: 1000063329.jpg (EXIF date 2026-11-22). One tiny purple GY-VL53L0X module: black twin-aperture ToF sensor, VIN/GND/SCL/SDA header plus two unlabelled pins.",
+      "item_ids": [
+        "HW-0209"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-181",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-181.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 028: 1000063330.jpg (EXIF date 2026-11-22). Back of a small dark-blue GY-271 module: GY-271 silkscreen, VCC/GND/SCL/SDA/DRDY header.",
+      "item_ids": [
+        "HW-0210"
+      ],
+      "notes": "Front (sensor side) not photographed; HMC5883L vs QMC5883L chip undetermined. Binary stored in the repo with EXIF stripped."
     }
   ]
 }

@@ -5698,6 +5698,94 @@
         "reference": "P-20261122-178"
       },
       "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0208",
+      "category": "interface_module",
+      "name": "BME/BMP280 barometric sensor breakout, 4-pin I2C style (sensor variant undetermined)",
+      "manufacturer": null,
+      "model": "BME/BMP280",
+      "variant": "One small purple breakout silkscreened 'BME/BMP280' with a 4-pin header VIN / GND / SCL / SDA, one mounting hole, and a small metal-capped sensor with a round pressure port and a faint, illegible laser marking",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-179"
+      ],
+      "connectivity": [
+        "I2C"
+      ],
+      "interfaces": [
+        "4-pin header (VIN, GND, SCL, SDA)"
+      ],
+      "accessories": [],
+      "notes": "One module in 1000063328.jpg. This is a second, different BME/BMP280 board: it is NOT the HW-0205 unit - that one is a 6-pin GY-B11 board (VCC/GND/SCL/SDA/CSB/SDO, two mounting holes), while this board has 4 pins, one mounting hole and 'BME/BMP280' silkscreen. The fitted sensor's laser marking is too faint to read, so BME280 (with humidity) versus BMP280 stays undetermined, exactly as the board's own silkscreen leaves it. Operational condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-179"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0209",
+      "category": "interface_module",
+      "name": "VL53L0X laser time-of-flight distance sensor module (GY-VL53L0X)",
+      "manufacturer": null,
+      "model": "GY-VL53L0X",
+      "variant": "One very small purple breakout silkscreened 'GYVL53L0K' with a black rectangular optical sensor package showing two apertures (emitter and receiver), a 4-pin header VIN / GND / SCL / SDA, two additional unlabelled pins (shutdown/interrupt), and one mounting hole",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-180"
+      ],
+      "connectivity": [
+        "I2C"
+      ],
+      "interfaces": [
+        "4-pin header (VIN, GND, SCL, SDA)",
+        "Two unlabelled pins (XSHUT / GPIO1 positions)"
+      ],
+      "accessories": [],
+      "notes": "One module in 1000063329.jpg. The board designation is the GY-VL53L0X module (the silkscreen's final character is the X of VL53L0X, rendered narrowly); the VL53L0X is ST's laser time-of-flight ranging sensor. The twin-aperture black sensor package and I2C pinout match. Operational condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-180"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0210",
+      "category": "interface_module",
+      "name": "GY-271 three-axis magnetometer (compass) module, HMC5883L type",
+      "manufacturer": null,
+      "model": "GY-271",
+      "variant": "One small dark-blue breakout photographed from the back only: silkscreened 'GY-271' and a 5-pin header VCC / GND / SCL / SDA / DRDY",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-181"
+      ],
+      "connectivity": [
+        "I2C"
+      ],
+      "interfaces": [
+        "5-pin header (VCC, GND, SCL, SDA, DRDY)"
+      ],
+      "accessories": [],
+      "notes": "Back side only in 1000063330.jpg; the sensor chip on the front was not photographed. GY-271 is the module's own printed designation and is the common HMC5883L 3-axis compass breakout; note that some GY-271 boards are fitted with the pin-compatible QMC5883L instead, which only a front photo (or an I2C device-ID check) can distinguish. Operational condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-181"
+      },
+      "updated_on": "2026-11-22"
     }
   ]
 }
