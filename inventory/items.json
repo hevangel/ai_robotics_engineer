@@ -5786,6 +5786,232 @@
         "reference": "P-20261122-181"
       },
       "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0211",
+      "category": "interface_module",
+      "name": "433 MHz RF receiver module (MX-RM-5V)",
+      "manufacturer": null,
+      "model": "MX-RM-5V",
+      "variant": "One green receiver board photographed from the back only: silkscreened 'MX-RM-5V' and board code 080408, GND / VCC pin labels, 4 header pins, and an antenna solder area",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-182"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "4-pin header (GND, data, VCC positions)"
+      ],
+      "accessories": [],
+      "notes": "Back side only in 1000063339.jpg. MX-RM-5V is the board's printed designation and is the standard superregenerative 433 MHz ASK receiver sold with the FS1000A transmitter (HW-0212, photographed in the same batch). The component side was not photographed. Operational condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-182"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0212",
+      "category": "interface_module",
+      "name": "433 MHz RF transmitter module (FS1000A)",
+      "manufacturer": null,
+      "model": "FS1000A",
+      "variant": "One small square green transmitter board: silkscreened 'FS1000A' and 'ANT', a round R433 SAW resonator can, two air-core coils, and a 3-pin header DATA / VCC / GND",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-183"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "3-pin header (DATA, VCC, GND)",
+        "Antenna pad (ANT)"
+      ],
+      "accessories": [],
+      "notes": "One module in 1000063338.jpg; photographed upside down, text verified by rotation. The R433 resonator sets the 433 MHz carrier. This is the standard transmitter paired with the MX-RM-5V receiver (HW-0211). No antenna wire is fitted in the photo. Operational condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-183"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0213",
+      "category": "interface_module",
+      "name": "APDS-99xx ambient light, proximity and gesture sensor breakout (CJMCU type)",
+      "manufacturer": null,
+      "model": "CJMCU APDS-99xx breakout",
+      "variant": "Two identical small purple breakouts, each with a 5-pin header VIN / GND / SCL / SDA / INT, two mounting holes, one black optical sensor package, and silkscreened variant checkboxes '9900 / 9930 / 9960' with hand-applied marker marks that are not conclusively readable",
+      "quantity": 2,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-184",
+        "P-20261122-188"
+      ],
+      "connectivity": [
+        "I2C"
+      ],
+      "interfaces": [
+        "5-pin header (VIN, GND, SCL, SDA, INT)"
+      ],
+      "accessories": [],
+      "notes": "Two physically distinct units of the same board: the marker marks sit in different places (one beside the 9930 text, one near the 9900 checkbox) and the solder joints differ. The board is the common CJMCU breakout for Avago/Broadcom APDS-9900/9930/9960 light/proximity (9960 adds gesture) sensors; which chip is fitted on each unit cannot be confirmed from the photos - the sensor packages look alike and the tick marks are ambiguous. Operational condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-184"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0214",
+      "category": "interface_module",
+      "name": "ADXL345 three-axis accelerometer module (Keyes)",
+      "manufacturer": "Keyes",
+      "model": "ADXL345 module",
+      "variant": "One blue Keyes breakout with a 10-pin dual header (5 pins each side), an LGA chip marked '345B', and a silkscreened X / Y / Z axis diagram",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-185"
+      ],
+      "connectivity": [
+        "I2C",
+        "SPI"
+      ],
+      "interfaces": [
+        "Dual 5-pin headers"
+      ],
+      "accessories": [],
+      "notes": "One module in 1000063336.jpg; photographed upside down, text verified by rotation. The '345B' package marking is the Analog Devices ADXL345 3-axis accelerometer, and the board carries the Keyes brand. Operational condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-185"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0215",
+      "category": "interface_module",
+      "name": "Photoresistor (LDR) light sensor module with LM393 comparator, digital output",
+      "manufacturer": null,
+      "model": null,
+      "variant": "One blue module with a red CdS photoresistor cell on two leads, an LM393 comparator (marking partly legible), a blue 3362 trim potentiometer for threshold, power and switch LEDs, and a 3-pin header VCC / DO / GND with Chinese labels (power, switch)",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-186"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "3-pin header (VCC, DO, GND)"
+      ],
+      "accessories": [],
+      "notes": "One module in 1000063335.jpg; partial silkscreen 'C-01'. This is the standard 3-pin photosensitive sensor module that outputs a digital threshold signal; it has no analog output pin. Operational condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-186"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0216",
+      "category": "interface_module",
+      "name": "DHT11 temperature and humidity sensor module",
+      "manufacturer": null,
+      "model": "DHT11 module",
+      "variant": "One blue module carrying the blue grille-cased DHT11 sensor, a red LED, and a 3-pin header VCC / DATA / GND",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-187"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "3-pin header (VCC, DATA, GND)"
+      ],
+      "accessories": [],
+      "notes": "One module in 1000063334.jpg. The blue slotted housing is the DHT11 (the higher-grade DHT22/AM2302 uses a white housing); the module adds a power LED and pull-up on a 3-pin header. Operational condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-187"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0217",
+      "category": "interface_module",
+      "name": "Sound detection sensor module with LM393 comparator, digital output",
+      "manufacturer": null,
+      "model": null,
+      "variant": "One black module with a cylindrical electret microphone capsule, an LM393 comparator (marking legible), a blue 3362 trim potentiometer for sensitivity, and a 3-pin header GND / OUT / +5V",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-189"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "3-pin header (GND, OUT, +5V)"
+      ],
+      "accessories": [],
+      "notes": "One module in 1000063332.jpg. This is a threshold sound-detection module with a digital output - different from HW-0202, which is an analog electret amplifier module (MAX4466 type). Operational condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-189"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0218",
+      "category": "interface_module",
+      "name": "BNO055 nine-axis absolute orientation IMU module (GY-BNO055)",
+      "manufacturer": null,
+      "model": "GY-BNO055",
+      "variant": "One dark-blue module photographed from the back only: silkscreened 'GY-BNO055' and an 8-pin header VIN / GND / SCL-Rx / SDA-Tx / ADO / INT / BOOT / REST",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-190"
+      ],
+      "connectivity": [
+        "I2C",
+        "UART"
+      ],
+      "interfaces": [
+        "8-pin header (VIN, GND, SCL/Rx, SDA/Tx, ADO, INT, BOOT, REST)"
+      ],
+      "accessories": [],
+      "notes": "Back side only in 1000063333.jpg; the BNO055 chip on the front was not photographed. GY-BNO055 is the board's printed designation and is the standard breakout for Bosch's BNO055 absolute-orientation sensor (accelerometer, gyroscope, magnetometer with on-chip fusion); the dual-purpose SCL/Rx and SDA/Tx labels match its I2C/UART interface. Operational condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-190"
+      },
+      "updated_on": "2026-11-22"
     }
   ]
 }

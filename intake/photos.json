@@ -2217,6 +2217,114 @@
         "HW-0210"
       ],
       "notes": "Front (sensor side) not photographed; HMC5883L vs QMC5883L chip undetermined. Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-182",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-182.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 029: 1000063339.jpg (EXIF date 2026-11-22). Back of a green MX-RM-5V 433 MHz receiver board: model silkscreen, 080408 code, GND/VCC labels.",
+      "item_ids": [
+        "HW-0211"
+      ],
+      "notes": "Component side not photographed. Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-183",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-183.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 029: 1000063338.jpg (EXIF date 2026-11-22). One square green FS1000A 433 MHz transmitter: R433 SAW resonator, two coils, DATA/VCC/GND header, ANT pad.",
+      "item_ids": [
+        "HW-0212"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-184",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-184.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 029: 1000063337.jpg (EXIF date 2026-11-22). One purple APDS-99xx breakout (unit A): VIN/GND/SCL/SDA/INT header, optical sensor, 9900/9930/9960 checkboxes with a marker mark near 9930.",
+      "item_ids": [
+        "HW-0213"
+      ],
+      "notes": "One of two distinct units of the same board; see P-20261122-188. Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-185",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-185.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 029: 1000063336.jpg (EXIF date 2026-11-22). One blue Keyes ADXL345 accelerometer module, chip marked 345B, axis diagram, dual 5-pin headers.",
+      "item_ids": [
+        "HW-0214"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-186",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-186.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 029: 1000063335.jpg (EXIF date 2026-11-22). One blue LDR light sensor module: red CdS cell, LM393, trim potentiometer, VCC/DO/GND header.",
+      "item_ids": [
+        "HW-0215"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-187",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-187.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 029: 1000063334.jpg (EXIF date 2026-11-22). One DHT11 temperature/humidity module: blue grille sensor housing, red LED, VCC/DATA/GND header.",
+      "item_ids": [
+        "HW-0216"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-188",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-188.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 029: 1000063331.jpg (EXIF date 2026-11-22). One purple APDS-99xx breakout (unit B): same board as P-20261122-184 but with the marker mark near the 9900 checkbox and different solder joints.",
+      "item_ids": [
+        "HW-0213"
+      ],
+      "notes": "Second distinct unit of HW-0213. Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-189",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-189.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 029: 1000063332.jpg (EXIF date 2026-11-22). One black sound detection module: electret microphone, LM393, trim potentiometer, GND/OUT/+5V header.",
+      "item_ids": [
+        "HW-0217"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-190",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-190.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 029: 1000063333.jpg (EXIF date 2026-11-22). Back of a dark-blue GY-BNO055 module: model silkscreen, VIN/GND/SCL-Rx/SDA-Tx/ADO/INT/BOOT/REST header.",
+      "item_ids": [
+        "HW-0218"
+      ],
+      "notes": "Front (chip side) not photographed. Binary stored in the repo with EXIF stripped."
     }
   ]
 }

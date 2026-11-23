@@ -2,18 +2,35 @@
 
 ## Status at a glance
 
-- **Inventory records:** 210 item/lot/component records (parent assemblies and installed components linked)
-- **Records associated with photographs:** 201
-- **Photo-verified / owner-confirmed hardware:** 175 (some enclosed items owner-confirmed; no working-status implied)
+- **Inventory records:** 218 item/lot/component records (parent assemblies and installed components linked)
+- **Records associated with photographs:** 209
+- **Photo-verified / owner-confirmed hardware:** 183 (some enclosed items owner-confirmed; no working-status implied)
 - **Photo-supported / tentative identifications or packaging only:** 28
 - **Previously reported, not yet photographed:** 7
-- **Photo intake records:** 181
+- **Photo intake records:** 190
 
 These are **record and photo counts**, not counts of verified working devices. A photographed retail box does not establish that electronic contents are present unless separately confirmed.
 
 - **Records lacking direct item photographs:** 9 (some contents independently confirmed by owner)
 
-## Latest batch — 028 (3 photographs, 3 new records; more small sensor breakouts)
+## Latest batch — 029 (9 photographs, 8 new records; RF pair, sensor-kit modules, two IMUs)
+
+| ID | Item | Quantity | Photo |
+| --- | --- | ---: | --- |
+| HW-0211 | 433 MHz RF receiver module (MX-RM-5V) | 1 | `1000063339.jpg` |
+| HW-0212 | 433 MHz RF transmitter module (FS1000A) | 1 | `1000063338.jpg` |
+| HW-0213 | APDS-99xx ambient light, proximity and gesture sensor breakout (CJMCU type) | 2 | `1000063337.jpg`, `1000063331.jpg` |
+| HW-0214 | ADXL345 three-axis accelerometer module (Keyes) | 1 | `1000063336.jpg` |
+| HW-0215 | Photoresistor (LDR) light sensor module with LM393 comparator, digital output | 1 | `1000063335.jpg` |
+| HW-0216 | DHT11 temperature and humidity sensor module | 1 | `1000063334.jpg` |
+| HW-0217 | Sound detection sensor module with LM393 comparator, digital output | 1 | `1000063332.jpg` |
+| HW-0218 | BNO055 nine-axis absolute orientation IMU module (GY-BNO055) | 1 | `1000063333.jpg` |
+
+**Confidence notes:** High where markings are legible: the FS1000A transmitter (R433 resonator), the ADXL345 (chip marked 345B), the DHT11 (blue housing), and the LM393 sound module. The two APDS-99xx boards are two distinct units of the same CJMCU breakout (marker marks and solder joints differ), but which of the 9900/9930/9960 chips is fitted is not conclusively readable on either (medium). The MX-RM-5V receiver and the GY-BNO055 show only their backs; both carry their model designations in silkscreen (medium). No working condition claimed. All nine photo binaries are stored in the repo (`photos/2026/11/`, EXIF stripped).
+
+[Batch 029 detail](batches/2026-11-22-029.md).
+
+## Earlier batch — 028 (3 photographs, 3 new records; more small sensor breakouts)
 
 | ID | Item | Quantity | Photo |
 | --- | --- | ---: | --- |
