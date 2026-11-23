@@ -5602,7 +5602,7 @@
         "8-pin header (VIN, 3V3, GND, SCL, SDA, SDO/SAO, NCS, CSB)"
       ],
       "accessories": [],
-      "notes": "Back side only in 1000063324.jpg; the sensor chips were not photographed. The HW-612 PCB code and the exact pin set match the documented GY-91 module, which combines an MPU-9250 nine-axis IMU (accelerometer, gyroscope, magnetometer) with a BMP280 barometric pressure sensor (some documentation describes the pressure part as a BME280; the fitted variant cannot be confirmed without the front). A front photo would raise confidence. Operational condition unknown.",
+      "notes": "Back side only in 1000063324.jpg; the sensor chips were not photographed. The HW-612 PCB code and the exact pin set match the documented GY-91 module, which combines an MPU-9250 nine-axis IMU (accelerometer, gyroscope, magnetometer, +/-4800 uT) with a BMP280 barometric pressure sensor (300-1100 hPa). Retailer listings and the GY-91 manual checked on 2026-11-22 consistently specify the BMP280 (not the humidity-sensing BME280), and the documented pin functions - NCS as the MPU-9250 chip select, CSB as the BMP280 chip select - match this board's silkscreen exactly. A front photo would still raise confidence. Operational condition unknown.",
       "source": {
         "type": "photo",
         "reference": "P-20261122-175"
@@ -5692,7 +5692,7 @@
         "Screw terminal for the measured supply (partly visible)"
       ],
       "accessories": [],
-      "notes": "Back side only in 1000063327.jpg; the INA219 chip on the front was not photographed. GY-219 is the module's own printed designation and denotes the INA219 I2C current/power monitor breakout; identification rests on that silkscreen plus the VIN+/VIN- shunt pinout, so confidence is medium. A front photo would confirm the chip. Operational condition unknown.",
+      "notes": "Back side only in 1000063327.jpg; the INA219 chip on the front was not photographed. GY-219 is the module's own printed designation and denotes the INA219 I2C current/power monitor breakout; GY-219 listings checked on 2026-11-22 specify the INA219B with a 0.1 ohm sense resistor, high-side measurement up to +26 V bus voltage and +/-3.2 A current, 12-bit ADC, I2C addresses 0x40/0x41/0x44/0x45 - all consistent with this board's VIN+/VIN- pinout and screw terminal. Identification rests on the silkscreen plus that documentation match, so confidence stays medium until the front is photographed. Operational condition unknown.",
       "source": {
         "type": "photo",
         "reference": "P-20261122-178"
