@@ -1557,11 +1557,12 @@
       "processed_on": "2026-11-22",
       "file": null,
       "asset_status": "not_stored",
-      "source_description": "Batch 020 photo 1/5; uploaded filename 1000063272.jpg: Ten 10-segment LED bar-graph display packages bundled in two rows of five with red foam packing",
+      "source_description": "Batch 020 photo 1/5; uploaded filename 1000063272.jpg: red-foam bundle of two distinct bar-graph face widths, user-confirmed ten 4-bar and ten 7-bar LED display packages",
       "item_ids": [
-        "HW-0133"
+        "HW-0146",
+        "HW-0147"
       ],
-      "notes": "Likely the same 10 HW-0133 components from photo 1000063264.jpg; no increase to quantity. Actual image inspected from conversation; JPG not committed to GitHub."
+      "notes": "Owner corrected the earlier assumption that this photo was a duplicate of the K??-B10G 10-segment packages (HW-0133). Two different width/segment-count bar graph lots: 10 four-bar, 10 seven-bar, 20 total new packages. Original JPG is still not committed to GitHub."
     },
     {
       "id": "P-20261122-130",
