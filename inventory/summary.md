@@ -13,7 +13,13 @@ These are **record and photo counts**, not counts of verified working devices. A
 
 - **Records lacking direct item photographs:** 9 (some contents independently confirmed by owner)
 
-## Latest batch — 031 (1 photograph, 1 new record; a line-tracking kit)
+## Latest batch — 032 (photo-binary backfill: the 159 missing images are now stored)
+
+The owner supplied the missing binaries for intake photos `P-20261122-001` … `P-20261122-159` as a ZIP package (built with Codex). The package's bundled importer script was **not** run — the package tripped a security check, and with the owner's go-ahead the import was wired by hand: every file's SHA-256 verified against the package map before and after copying, visual spot-checks against the intake descriptions (including batch 010's ten photos, whose filenames were never recorded), EXIF confirmed absent. All 192 intake photos now have binaries in `photos/2026/11/`, so every record shows real photos in the root `index.html` viewer. Side benefit: HW-0124's cell code is now legible in its stored photo and confirmed as 1ICP4/43/55 (confidence raised to high).
+
+[Batch 032 detail](batches/2026-11-22-032.md).
+
+## Earlier batch — 031 (1 photograph, 1 new record; a line-tracking kit)
 
 | ID | Item | Quantity | Photo |
 | --- | --- | ---: | --- |

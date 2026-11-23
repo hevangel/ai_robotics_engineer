@@ -3471,13 +3471,13 @@
       "category": "power",
       "name": "Lithium-ion polymer rechargeable pouch battery with two-pin connector (capacity unknown)",
       "manufacturer": null,
-      "model": "1ICP4/43/55 (partially legible marking; unverified)",
+      "model": "1ICP4/43/55 (printed cell marking)",
       "variant": "Second flatter silver polymer pouch cell with yellow edging, black top wrap, red/black leads terminating in a small 2-pin plug",
       "quantity": 1,
       "condition": "unknown",
       "location": null,
       "verification_status": "photo_verified",
-      "identification_confidence": "medium",
+      "identification_confidence": "high",
       "photo_ids": [
         "P-20261122-113"
       ],
@@ -3486,7 +3486,7 @@
         "Small two-wire/two-pin connector, pinout and pitch unverified"
       ],
       "accessories": [],
-      "notes": "LOWER/RIGHT in photo 1000063254.jpg. Printed 'Lithium Ion Polymer Rechargeable Battery', 'Red: +' and 'Black: -'; size/type characters resemble 1ICP4/43/55 but are not fully readable. Cell capacity and voltage not legible in image, do not assume same 1000mAh capacity as HW-0123. Distinct physically from HW-0123; health, age and charge unknown. Avoid short circuits or directly attaching to unverified battery shields.",
+      "notes": "LOWER/RIGHT in photo 1000063254.jpg. Printed 'Lithium Ion Polymer Rechargeable Battery', 'Red: +' and 'Black: -'; the size/type code reads 1ICP4/43/55, confirmed legible in the stored photo P-20261122-113 after the 2026-11-22 binary import. Cell capacity and voltage not legible in image, do not assume same 1000mAh capacity as HW-0123. Distinct physically from HW-0123; health, age and charge unknown. Avoid short circuits or directly attaching to unverified battery shields.",
       "source": {
         "type": "photo",
         "reference": "P-20261122-113"

@@ -6,1606 +6,1606 @@
       "id": "P-20261122-001",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-001.jpg",
+      "asset_status": "stored",
       "source_description": "First uploaded image (image-1795388441404.jpg): transparent 4WD robot car chassis with mounted yellow geared motors and black/yellow wheels.",
       "item_ids": [
         "HW-0011"
       ],
-      "notes": "Original image remains a conversation upload; photo binary not committed. Chassis and motor/wheel counts can be seen; no controller/power unit visible."
+      "notes": "Chassis and motor/wheel counts can be seen; no controller/power unit visible. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-002",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-002.jpg",
+      "asset_status": "stored",
       "source_description": "Second uploaded image (image-1795388451458.jpg): black quartz analog clock movement and associated hands and mount parts in clear bag.",
       "item_ids": [
         "HW-0012"
       ],
-      "notes": "Original image remains a conversation upload; photo binary not committed. Printed model details not visible."
+      "notes": "Printed model details not visible. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-003",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-003.jpg",
+      "asset_status": "stored",
       "source_description": "Third uploaded image (image-1795388456392.jpg): roll of conductive tape intended for paper circuits, as later clarified by owner.",
       "item_ids": [
         "HW-0013"
       ],
-      "notes": "Original image remains a conversation upload; photo binary not committed. Owner confirmed tape is conductive and usable to make paper conductive; composition, adhesive conductivity and width are not established."
+      "notes": "Owner confirmed tape is conductive and usable to make paper conductive; composition, adhesive conductivity and width are not established. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-004",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-004.jpg",
+      "asset_status": "stored",
       "source_description": "Uploaded photo 1000063141.jpg: Google AIY Vision Kit retail box, Raspberry Pi Included marking.",
       "item_ids": [
         "HW-0006"
       ],
-      "notes": "Contents of box not shown; existing inventory entry reused; kit's included Raspberry Pi is not a standalone board count. Chat image bytes have not been stored in the GitHub repo."
+      "notes": "Contents of box not shown; existing inventory entry reused; kit's included Raspberry Pi is not a standalone board count. Chat image bytes have not been stored in the GitHub repo. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-005",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-005.jpg",
+      "asset_status": "stored",
       "source_description": "Uploaded photo 1000063140.jpg: Intel Neural Compute Stick 2 blue retail box, Movidius Myriad X VPU labeling.",
       "item_ids": [
         "HW-0014"
       ],
-      "notes": "Retail packaging only; stick not visible inside. Chat image bytes have not been stored in the GitHub repo."
+      "notes": "Retail packaging only; stick not visible inside. Chat image bytes have not been stored in the GitHub repo. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-006",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-006.jpg",
+      "asset_status": "stored",
       "source_description": "Uploaded photo 1000063139.jpg: Element14 Raspberry Pi 4 Computer Model B 2GB RAM retail box.",
       "item_ids": [
         "HW-0001"
       ],
-      "notes": "Photograph shows the Raspberry Pi 4 Model B 2GB retail carton, not the PCB. Owner subsequently checked the box and confirmed the board is inside. Chat image bytes have not been stored in the GitHub repo."
+      "notes": "Photograph shows the Raspberry Pi 4 Model B 2GB retail carton, not the PCB. Owner subsequently checked the box and confirmed the board is inside. Chat image bytes have not been stored in the GitHub repo. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-007",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-007.jpg",
+      "asset_status": "stored",
       "source_description": "Uploaded photo 1000063138.jpg: Generic LCR-T4-style LCD electronic component tester in transparent acrylic enclosure.",
       "item_ids": [
         "HW-0015"
       ],
-      "notes": "ZIF socket, display, button, empty battery holder directly visible; untested. Chat image bytes have not been stored in the GitHub repo."
+      "notes": "ZIF socket, display, button, empty battery holder directly visible; untested. Chat image bytes have not been stored in the GitHub repo. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-008",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-008.jpg",
+      "asset_status": "stored",
       "source_description": "Uploaded photo 1000063137.jpg: Retroflag SUPERPi CASE retro game console enclosure.",
       "item_ids": [
         "HW-0016"
       ],
-      "notes": "Case photographed; installed Pi board not visible. Owner reports it is configured for retro gaming, has 1 GB RAM, and thinks it is Raspberry Pi 3 Model B (not yet verified from board markings). Chat photo bytes not stored in GitHub."
+      "notes": "Case photographed; installed Pi board not visible. Owner reports it is configured for retro gaming, has 1 GB RAM, and thinks it is Raspberry Pi 3 Model B (not yet verified from board markings). Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-009",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-009.jpg",
+      "asset_status": "stored",
       "source_description": "Uploaded photo 1000063136.jpg: NXP Rapid IoT prototyping kit retail box.",
       "item_ids": [
         "HW-0017"
       ],
-      "notes": "Kit pictured on packaging, but hardware itself not visible. Chat image bytes have not been stored in the GitHub repo."
+      "notes": "Kit pictured on packaging, but hardware itself not visible. Chat image bytes have not been stored in the GitHub repo. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-010",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-010.jpg",
+      "asset_status": "stored",
       "source_description": "Photo 1000063144.jpg shows a RETROFLAG SUPERPi CASE Deluxe Edition retail carton with SNES-like case image, front USB-port depiction and Deluxe Edition marking.",
       "item_ids": [
         "HW-0018"
       ],
-      "notes": "Owner explicitly confirmed this is a NEW empty SUPERPi Deluxe case, separate from previously photographed assembled retro gaming system HW-0016. Box photo only; original JPG still not stored in repository."
+      "notes": "Owner explicitly confirmed this is a NEW empty SUPERPi Deluxe case, separate from previously photographed assembled retro gaming system HW-0016. Box photo only; Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-011",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-011.jpg",
+      "asset_status": "stored",
       "source_description": "Photo 1000063143.jpg shows a white Raspberry Pi logo plastic enclosure with red lower shell and visible side/front cutouts.",
       "item_ids": [
         "HW-0019"
       ],
-      "notes": "Owner confirms enclosure empty, with no Raspberry Pi board. Adjacent partially visible retail box not sufficiently identified to inventory. Original JPG not yet stored in repo."
+      "notes": "Owner confirms enclosure empty, with no Raspberry Pi board. Adjacent partially visible retail box not sufficiently identified to inventory. Original JPG not yet stored in repo. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-012",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-012.jpg",
+      "asset_status": "stored",
       "source_description": "Photo 1000063142.jpg shows black adjustable universal AC/DC wall adapter with red voltage dial, cable, boxed '18W AC Adapter' and bag of interchangeable DC connector tips.",
       "item_ids": [
         "HW-0020"
       ],
-      "notes": "Adapter is photographed directly; no functional electrical verification. Voltage/polarity/current and plug compatibility not yet verified. Original JPG not yet stored in repo."
+      "notes": "Adapter is photographed directly; no functional electrical verification. Voltage/polarity/current and plug compatibility not yet verified. Original JPG not yet stored in repo. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-013",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-013.jpg",
+      "asset_status": "stored",
       "source_description": "Uploaded photo 1000063145.jpg: Xilinx Kria KV260 Vision AI Starter Kit retail box.",
       "item_ids": [
         "HW-0004"
       ],
-      "notes": "Existing previously reported Kria entry updated; box and branding visible, hardware inside uninspected. Original JPG remains chat attachment."
+      "notes": "Existing previously reported Kria entry updated; box and branding visible, hardware inside uninspected. Original JPG remains chat attachment. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-014",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-014.jpg",
+      "asset_status": "stored",
       "source_description": "Uploaded photo 1000063146.jpg: TUL PYNQ-Z2 (Xilinx Zynq) development board retail carton with red board picture.",
       "item_ids": [
         "HW-0021"
       ],
-      "notes": "One boxed PYNQ-Z2 development kit; real FPGA PCB not directly photographed. Original JPG remains chat attachment."
+      "notes": "One boxed PYNQ-Z2 development kit; real FPGA PCB not directly photographed. Original JPG remains chat attachment. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-015",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-015.jpg",
+      "asset_status": "stored",
       "source_description": "Uploaded photo 1000063147.jpg: FRONT of generic WiFi Camera HD Video Camera retail box.",
       "item_ids": [
         "HW-0022"
       ],
-      "notes": "Same physical camera package as P-20261122-016; count one camera product, contents uninspected. Original JPG remains chat attachment."
+      "notes": "Same physical camera package as P-20261122-016; count one camera product, contents uninspected. Original JPG remains chat attachment. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-016",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-016.jpg",
+      "asset_status": "stored",
       "source_description": "Uploaded photo 1000063148.jpg: BACK of same WiFi Camera HD Video Camera carton, barcode and certification symbols.",
       "item_ids": [
         "HW-0022"
       ],
-      "notes": "This is another angle of P-20261122-015, not a separate camera. Product SKU not confidently legible. Original JPG remains chat attachment."
+      "notes": "This is another angle of P-20261122-015, not a separate camera. Product SKU not confidently legible. Original JPG remains chat attachment. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-017",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-017.jpg",
+      "asset_status": "stored",
       "source_description": "Uploaded photo 1000063149.jpg: two white solderless breadboards of different sizes, smaller one fitted with YwRobot breadboard power module.",
       "item_ids": [
         "HW-0023",
         "HW-0024",
         "HW-0025"
       ],
-      "notes": "2 breadboards plus 1 independent removable power supply board identified. Approximate breadboard tie point counts; no electrical testing. Original JPG remains chat attachment."
+      "notes": "2 breadboards plus 1 independent removable power supply board identified. Approximate breadboard tie point counts; no electrical testing. Original JPG remains chat attachment. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-018",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-018.jpg",
+      "asset_status": "stored",
       "source_description": "Uploaded photo 1000063150.jpg: Luxonis / OpenCV AI KIT / DepthAI camera development board, instruction materials, retail box, clear tray.",
       "item_ids": [
         "HW-0026"
       ],
-      "notes": "Three apparent camera lenses; exact OAK-D board revision unverified. Original conversation JPG not stored in GitHub."
+      "notes": "Three apparent camera lenses; exact OAK-D board revision unverified. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-019",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-019.jpg",
+      "asset_status": "stored",
       "source_description": "Uploaded photo 1000063151.jpg: Nine black 4-cell battery holders in three-by-three arrangement with red/black leads.",
       "item_ids": [
         "HW-0027"
       ],
-      "notes": "All 9 holders have no batteries; exact individual cell sizes not fully legible. Original conversation JPG not stored in GitHub."
+      "notes": "All 9 holders have no batteries; exact individual cell sizes not fully legible. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-020",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-020.jpg",
+      "asset_status": "stored",
       "source_description": "Uploaded photo 1000063154.jpg: Raspberry Pi in black case with transparent window; fitted Sense HAT array visible at angle.",
       "item_ids": [
         "HW-0028",
         "HW-0029"
       ],
-      "notes": "Host Raspberry Pi model obscured by case/HAT. Original conversation JPG not stored in GitHub."
+      "notes": "Host Raspberry Pi model obscured by case/HAT. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-021",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-021.jpg",
+      "asset_status": "stored",
       "source_description": "Uploaded photo 1000063153.jpg: Top-down image of same Raspberry Pi Sense HAT inside clear-top black case; LEDs, joystick and sensor silkscreen visible.",
       "item_ids": [
         "HW-0028",
         "HW-0029"
       ],
-      "notes": "Same Pi/HAT assembly as photo 020. Official Sense HAT identifiable; host Pi version not legible. Original conversation JPG not stored in GitHub."
+      "notes": "Same Pi/HAT assembly as photo 020. Official Sense HAT identifiable; host Pi version not legible. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-022",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-022.jpg",
+      "asset_status": "stored",
       "source_description": "Uploaded photo 1000063152.jpg: Second Raspberry Pi in fully transparent plastic case showing 40-pin GPIO, original-style connectors and internal board.",
       "item_ids": [
         "HW-0030"
       ],
-      "notes": "No exact model version or RAM marked visibly enough to identify confidently. Original conversation JPG not stored in GitHub."
+      "notes": "No exact model version or RAM marked visibly enough to identify confidently. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-023",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-023.jpg",
+      "asset_status": "stored",
       "source_description": "Uploaded photo 1000063157.jpg: AstroAI DM6000AR True RMS 6000-count digital multimeter front face.",
       "item_ids": [
         "HW-0031"
       ],
-      "notes": "Power off, leads not visible; no test performed. Original conversation JPG not stored in GitHub."
+      "notes": "Power off, leads not visible; no test performed. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-024",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-024.jpg",
+      "asset_status": "stored",
       "source_description": "Uploaded photo 1000063156.jpg: Element14 Raspberry Pi Camera V2 8MP retail package.",
       "item_ids": [
         "HW-0032"
       ],
-      "notes": "Box only; contents not inspected. Original conversation JPG not stored in GitHub."
+      "notes": "Box only; contents not inspected. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-025",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-025.jpg",
+      "asset_status": "stored",
       "source_description": "Uploaded photo 1000063155.jpg: Blue Iomega Zip 250 USB powered drive and attached USB cable.",
       "item_ids": [
         "HW-0033"
       ],
-      "notes": "One device in view; condition unknown. Background micro:bit packaging not inventoried. Original conversation JPG not stored in GitHub."
+      "notes": "One device in view; condition unknown. Background micro:bit packaging not inventoried. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-026",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-026.jpg",
+      "asset_status": "stored",
       "source_description": "Uploaded photo 1000063158.jpg: Blue/gray self-adjusting wire stripper, cutter and crimper on tabletop.",
       "item_ids": [
         "HW-0034"
       ],
-      "notes": "Type identified by stamped wire stripper range and tool construction. Original conversation JPG not stored in GitHub."
+      "notes": "Type identified by stamped wire stripper range and tool construction. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-027",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-027.jpg",
+      "asset_status": "stored",
       "source_description": "Uploaded photo 1000063159.jpg: Blister package containing five different colored-handle double-ended electronics pick/scraper tools.",
       "item_ids": [
         "HW-0035"
       ],
-      "notes": "Record one 5-piece tool set; exact use not labeled. Original conversation JPG not stored in GitHub."
+      "notes": "Record one 5-piece tool set; exact use not labeled. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-028",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-028.jpg",
+      "asset_status": "stored",
       "source_description": "Uploaded photo 1000063160.jpg: Rainbow flat 40-conductor-looking IDC/GPIO ribbon cable with large 2-row socket.",
       "item_ids": [
         "HW-0036"
       ],
-      "notes": "Second termination and exact pin count need inspection. Original conversation JPG not stored in GitHub."
+      "notes": "Second termination and exact pin count need inspection. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-029",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-029.jpg",
+      "asset_status": "stored",
       "source_description": "Uploaded photo 1000063161.jpg: Small organizer card labeled BLACK RED WHITE BLUE YELLOW GREEN with six loose electrical wires.",
       "item_ids": [
         "HW-0037"
       ],
-      "notes": "One assortment; gauge and conductor type unknown. Original conversation JPG not stored in GitHub."
+      "notes": "One assortment; gauge and conductor type unknown. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-030",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-030.jpg",
+      "asset_status": "stored",
       "source_description": "Uploaded photo 1000063162.jpg: DSO 112 A digital oscilloscope with measurement probe and red/black clip leads.",
       "item_ids": [
         "HW-0038"
       ],
-      "notes": "Unit unpowered. Photo includes probe/cable counted as instrument accessories. Original conversation JPG not stored in GitHub."
+      "notes": "Unit unpowered. Photo includes probe/cable counted as instrument accessories. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-031",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-031.jpg",
+      "asset_status": "stored",
       "source_description": "Uploaded photo 1000063163.jpg: Bundle of multicolored logic test flying leads with tiny black grabber/hook probes.",
       "item_ids": [
         "HW-0039"
       ],
-      "notes": "Channel count and manufacturer unconfirmed; no analyzer base unit shown. Original conversation JPG not stored in GitHub."
+      "notes": "Channel count and manufacturer unconfirmed; no analyzer base unit shown. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-032",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-032.jpg",
+      "asset_status": "stored",
       "source_description": "Uploaded photo 1000063164.jpg: White Multi-function Tester TC1 with LCD, turquoise ZIF socket and Start button.",
       "item_ids": [
         "HW-0040"
       ],
-      "notes": "Distinct from previously cataloged HW-0015 tester. Original conversation JPG not stored in GitHub."
+      "notes": "Distinct from previously cataloged HW-0015 tester. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-033",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-033.jpg",
+      "asset_status": "stored",
       "source_description": "Uploaded photo 1000063165.jpg: Assorted colored jumper wire bundle with white multi-pin plugs and black female Dupont-type connectors.",
       "item_ids": [
         "HW-0041"
       ],
-      "notes": "Exact pitch and pin count not safely inferred. Original conversation JPG not stored in GitHub."
+      "notes": "Exact pitch and pin count not safely inferred. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-034",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-034.jpg",
+      "asset_status": "stored",
       "source_description": "Uploaded photo 1000063166.jpg: Bag of small hook-style test accessories and metal-shaft probe grabs with colored sleeves.",
       "item_ids": [
         "HW-0042"
       ],
-      "notes": "Separate bundle from HW-0039, count of pieces uncertain. Original conversation JPG not stored in GitHub."
+      "notes": "Separate bundle from HW-0039, count of pieces uncertain. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-035",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-035.jpg",
+      "asset_status": "stored",
       "source_description": "Uploaded photo 1000063167.jpg: Buddy Paint Art marker pen with black body and white cap, Chinese characters on barrel.",
       "item_ids": [
         "HW-0043"
       ],
-      "notes": "Text supports product labeling, but paint formulation and intended surface remain unverified. Original chat JPG not yet stored in GitHub."
+      "notes": "Text supports product labeling, but paint formulation and intended surface remain unverified. Original chat JPG not yet stored in GitHub. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-036",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-036.jpg",
+      "asset_status": "stored",
       "source_description": "Uploaded photo 1000063168.jpg: Manual spring-loaded metal-body solder sucker / desoldering pump, blue plunger with white nozzle.",
       "item_ids": [
         "HW-0044"
       ],
-      "notes": "Directly visible; no functional test performed. Original chat JPG not yet stored in GitHub."
+      "notes": "Directly visible; no functional test performed. Original chat JPG not yet stored in GitHub. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-037",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-037.jpg",
+      "asset_status": "stored",
       "source_description": "Uploaded photo 1000063169.jpg: MG Chemicals Rosin Flux Pen Cat No 835-P, net fill 10 mL.",
       "item_ids": [
         "HW-0045"
       ],
-      "notes": "Direct printed product model and material; amount remaining not verified. Original chat JPG not yet stored in GitHub."
+      "notes": "Direct printed product model and material; amount remaining not verified. Original chat JPG not yet stored in GitHub. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-038",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-038.jpg",
+      "asset_status": "stored",
       "source_description": "Uploaded photo 1000063170.jpg: Black JX-05 wearable Bluetooth ring remote and instruction leaflet beside transparent case.",
       "item_ids": [
         "HW-0046"
       ],
-      "notes": "Directly visible ring/manual. A bundled small cable is visible inside packaging; not tested. Original chat JPG not yet stored in GitHub."
+      "notes": "Directly visible ring/manual. A bundled small cable is visible inside packaging; not tested. Original chat JPG not yet stored in GitHub. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-039",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-039.jpg",
+      "asset_status": "stored",
       "source_description": "Uploaded photo 1000063171.jpg: Google Daydream View VR Headset retail package, printed headset image.",
       "item_ids": [
         "HW-0047"
       ],
-      "notes": "Retail packaging only; physical headset/controller not shown. Original chat JPG not yet stored in GitHub."
+      "notes": "Retail packaging only; physical headset/controller not shown. Original chat JPG not yet stored in GitHub. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-040",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-040.jpg",
+      "asset_status": "stored",
       "source_description": "Uploaded photo 1000063172.jpg: Ryze Tello white-bodied quadcopter seen from above with four propellers and four semicircular prop guards.",
       "item_ids": [
         "HW-0007"
       ],
-      "notes": "Existing Tello record updated, one drone. Battery/condition not visible. Original JPG remains a chat upload and is not stored in the repository."
+      "notes": "Existing Tello record updated, one drone. Battery/condition not visible. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-041",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-041.jpg",
+      "asset_status": "stored",
       "source_description": "Uploaded photo 1000063173.jpg: Retail box labeled WIRELESS MICROPHONE with 2.4G mark; product images show dual clip-on mics and receiver with mobile connectors.",
       "item_ids": [
         "HW-0048"
       ],
-      "notes": "Box only; exact components inside unverified. Original JPG remains a chat upload and is not stored in the repository."
+      "notes": "Box only; exact components inside unverified. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-042",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-042.jpg",
+      "asset_status": "stored",
       "source_description": "Uploaded photo 1000063174.jpg: ATUVOS retail box with four tracker illustrations and Apple Find My compatible mark, plus button-cell hazard warning.",
       "item_ids": [
         "HW-0049"
       ],
-      "notes": "Box only; advertised/illustrated four trackers not verified physically present. Original JPG remains a chat upload and is not stored in the repository."
+      "notes": "Box only; advertised/illustrated four trackers not verified physically present. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-043",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-043.jpg",
+      "asset_status": "stored",
       "source_description": "Uploaded photo 1000063181.jpg: Desk-edge steel screw C-clamp with T-bar knob, adjustment joint and clamp pad.",
       "item_ids": [
         "HW-0050"
       ],
-      "notes": "First of two likely views/components of one helping-hands magnifier assembly; actual association needs verification. Original JPG not committed to GitHub; chat upload only."
+      "notes": "First of two likely views/components of one helping-hands magnifier assembly; actual association needs verification. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-044",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-044.jpg",
+      "asset_status": "stored",
       "source_description": "Uploaded photo 1000063180.jpg: Gooseneck magnifying lens with articulated metal helping-hands clips and black mount.",
       "item_ids": [
         "HW-0050"
       ],
-      "notes": "Second view of presumed clamp-mounted same assembly. One magnifier and articulated clips visible. Original JPG not committed to GitHub; chat upload only."
+      "notes": "Second view of presumed clamp-mounted same assembly. One magnifier and articulated clips visible. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-045",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-045.jpg",
+      "asset_status": "stored",
       "source_description": "Uploaded photo 1000063179.jpg: Kester HI-TECH ELECTRONIC rosin-core solder tube labeled 60% tin 40% lead, 0.040 in/1mm.",
       "item_ids": [
         "HW-0051"
       ],
-      "notes": "One tube; remaining solder amount not measured. Original JPG not committed to GitHub; chat upload only."
+      "notes": "One tube; remaining solder amount not measured. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-046",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-046.jpg",
+      "asset_status": "stored",
       "source_description": "Uploaded photo 1000063178.jpg: MG Chemicals spool labeled 4884-227G Sn63/Pb37, RA flux, 23 gauge, 0.025 in, 2.2% flux, nominal 1/2 lb.",
       "item_ids": [
         "HW-0052"
       ],
-      "notes": "One spool of leaded solder, not a flux pen. Actual remaining weight not measured. Original JPG not committed to GitHub; chat upload only."
+      "notes": "One spool of leaded solder, not a flux pen. Actual remaining weight not measured. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-047",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-047.jpg",
+      "asset_status": "stored",
       "source_description": "Uploaded photo 1000063177.jpg: Blue and yellow Hakko soldering station with digital display, UP/ENTER buttons, iron, holder and brass wool.",
       "item_ids": [
         "HW-0053"
       ],
-      "notes": "Looks like FX-888D, exact model on product label not conclusively visible. Untested. Original JPG not committed to GitHub; chat upload only."
+      "notes": "Looks like FX-888D, exact model on product label not conclusively visible. Untested. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-048",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-048.jpg",
+      "asset_status": "stored",
       "source_description": "Uploaded photo 1000063176.jpg: Husky 38-PC STUBBY SOCKET SET retail/storage case with ratchet and sockets visible.",
       "item_ids": [
         "HW-0054"
       ],
-      "notes": "Packaged item, advertised 38 pieces not individually counted. Original JPG not committed to GitHub; chat upload only."
+      "notes": "Packaged item, advertised 38 pieces not individually counted. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-049",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-049.jpg",
+      "asset_status": "stored",
       "source_description": "Uploaded photo 1000063175.jpg: Two separate crimping tools in black/blue zip case: HSC8 6-6 ferrule crimper and blue-handled ratchet terminal crimper with bagged accessories.",
       "item_ids": [
         "HW-0055",
         "HW-0056"
       ],
-      "notes": "Two physical crimpers share one image and carrying case; not duplicates. Original JPG not committed to GitHub; chat upload only."
+      "notes": "Two physical crimpers share one image and carrying case; not duplicates. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-050",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-050.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 010, image 1/10: micro:bit GO green retail box. Original attachment filename not verified.",
       "item_ids": [
         "HW-0057"
       ],
-      "notes": "Box marked BBC micro:bit GO. Owner confirms one board inside, separate child HW-0069. Original image binaries not yet transferred to GitHub."
+      "notes": "Box marked BBC micro:bit GO. Owner confirms one board inside, separate child HW-0069. Original image binaries not yet transferred to GitHub. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-051",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-051.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 010, image 2/10: two black BBC micro:bit boards, v1.5 upper and v1.3B lower. Original attachment filename not verified.",
       "item_ids": [
         "HW-0058",
         "HW-0059"
       ],
-      "notes": "Two visible boards, not the additional boxed board. Original image binaries not yet transferred to GitHub."
+      "notes": "Two visible boards, not the additional boxed board. Original image binaries not yet transferred to GitHub. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-052",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-052.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 010, image 3/10: black circular JBL portable speaker with square orange badge. Original attachment filename not verified.",
       "item_ids": [
         "HW-0060"
       ],
-      "notes": "Exact model not legible. Original image binaries not yet transferred to GitHub."
+      "notes": "Exact model not legible. Original image binaries not yet transferred to GitHub. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-053",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-053.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 010, image 4/10: two distinct blue Arduino Uno-style boards in transparent cases, one case marked FIRMATA. Original attachment filename not verified.",
       "item_ids": [
         "HW-0061",
         "HW-0062"
       ],
-      "notes": "Case label not proof of installed firmware. Original image binaries not yet transferred to GitHub."
+      "notes": "Case label not proof of installed firmware. Original image binaries not yet transferred to GitHub. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-054",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-054.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 010, image 5/10: third, uncased blue Arduino UNO board. Original attachment filename not verified.",
       "item_ids": [
         "HW-0063"
       ],
-      "notes": "One physically distinct loose board. Original image binaries not yet transferred to GitHub."
+      "notes": "One physically distinct loose board. Original image binaries not yet transferred to GitHub. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-055",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-055.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 010, image 6/10: Waveshare ESP32-S3-Touch-AMOLED-1.75-B retail carton, SKU 31262. Original attachment filename not verified.",
       "item_ids": [
         "HW-0064"
       ],
-      "notes": "Boxed kit only; internal hardware not seen. Original image binaries not yet transferred to GitHub."
+      "notes": "Boxed kit only; internal hardware not seen. Original image binaries not yet transferred to GitHub. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-056",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-056.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 010, image 7/10: three green LOSER LLC BreadShield v0.4 adapter PCBs. Original attachment filename not verified.",
       "item_ids": [
         "HW-0065"
       ],
-      "notes": "Confirmed three physical boards, inventory lot quantity 3. Original image binaries not yet transferred to GitHub."
+      "notes": "Confirmed three physical boards, inventory lot quantity 3. Original image binaries not yet transferred to GitHub. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-057",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-057.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 010, image 8/10: Intel Optane Memory M10 32 GB M.2 module in plastic tray. Original attachment filename not verified.",
       "item_ids": [
         "HW-0066"
       ],
-      "notes": "One physical SSD/cache module. Original image binaries not yet transferred to GitHub."
+      "notes": "One physical SSD/cache module. Original image binaries not yet transferred to GitHub. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-058",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-058.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 010, image 9/10: Avnet Azure Sphere MT3620 Starter Kit 2 board. Original attachment filename not verified.",
       "item_ids": [
         "HW-0067"
       ],
-      "notes": "Physical IoT development PCB, identifiers not retained. Original image binaries not yet transferred to GitHub."
+      "notes": "Physical IoT development PCB, identifiers not retained. Original image binaries not yet transferred to GitHub. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-059",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-059.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 010, image 10/10: krtkl piSmasher rev 4.1 carrier assembly. Original attachment filename not verified.",
       "item_ids": [
         "HW-0068"
       ],
-      "notes": "Owner confirms Zynq-7020 FPGA daughterboard HW-0070 installed; direct module marking not in photo. Original image binaries not yet transferred to GitHub."
+      "notes": "Owner confirms Zynq-7020 FPGA daughterboard HW-0070 installed; direct module marking not in photo. Original image binaries not yet transferred to GitHub. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-060",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-060.jpg",
+      "asset_status": "stored",
       "source_description": "Uploaded photo 1000063199.jpg: Raspberry Pi Pico W (Pico W), physically visible one unit.",
       "item_ids": [
         "HW-0071"
       ],
-      "notes": "Evidence is direct photograph. Photo: 1000063199.jpg. Physical Raspberry Pi Pico W board clearly marked 2022 and BOOTSEL, USB port, RP2040 controller, RF-shielded wireless module, castellated GPIO edges and debug socket. The W model is confirmed by RF shield and PCB layout. Unused status unknown; no power-on verification. Original JPG remains conversation upload and is not stored in GitHub."
+      "notes": "Evidence is direct photograph. Photo: 1000063199.jpg. Physical Raspberry Pi Pico W board clearly marked 2022 and BOOTSEL, USB port, RP2040 controller, RF-shielded wireless module, castellated GPIO edges and debug socket. The W model is confirmed by RF shield and PCB layout. Unused status unknown; no power-on verification. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-061",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-061.jpg",
+      "asset_status": "stored",
       "source_description": "Uploaded photo 1000063198.jpg: FTDI FT2232H Mini Module (FT2232H Mini Module), physically visible one unit.",
       "item_ids": [
         "HW-0072"
       ],
-      "notes": "Evidence is direct photograph. Photo: 1000063198.jpg. Physical FT2232H Mini Module with PCB marked FT2232H Mini Module Rev 1.1, USB Mini-B connector, dual side breakout contacts, FTDI chip, and partially soldered test/connector pin points. USB dual-channel interface / serial-FIFO/JTAG-style adapter; actual enabled modes depend on ho Original JPG remains conversation upload and is not stored in GitHub."
+      "notes": "Evidence is direct photograph. Photo: 1000063198.jpg. Physical FT2232H Mini Module with PCB marked FT2232H Mini Module Rev 1.1, USB Mini-B connector, dual side breakout contacts, FTDI chip, and partially soldered test/connector pin points. USB dual-channel interface / serial-FIFO/JTAG-style adapter; Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-062",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-062.jpg",
+      "asset_status": "stored",
       "source_description": "Uploaded photo 1000063197.jpg: Raspberry Pi Zero 2 W (Zero 2 W), physically visible one unit.",
       "item_ids": [
         "HW-0073"
       ],
-      "notes": "Evidence is direct photograph. Photo: 1000063197.jpg. Actual Raspberry Pi Zero 2 W board, evidenced by RP3A0-AU system-in-package and Zero 2 layout; visible microSD slot, mini HDMI, two Micro-USB ports, CSI camera connector and 40-pin unpopulated GPIO footprint. RAM is onboard the module but not individually measured; usual manufact Original JPG remains conversation upload and is not stored in GitHub."
+      "notes": "Evidence is direct photograph. Photo: 1000063197.jpg. Actual Raspberry Pi Zero 2 W board, evidenced by RP3A0-AU system-in-package and Zero 2 layout; visible microSD slot, mini HDMI, two Micro-USB ports, CSI camera connector and 40-pin unpopulated GPIO footprint. RAM is onboard the module but not individually measured; Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-063",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-063.jpg",
+      "asset_status": "stored",
       "source_description": "Uploaded photo 1000063196.jpg: NE555 multifunction waveform generator module (TJ-56-133 (PCB marking)), physically visible one unit.",
       "item_ids": [
         "HW-0074"
       ],
-      "notes": "Evidence is direct photograph. Photo: 1000063196.jpg. Actual assembled PCB marked 'NE555多路波形发生器' (NE555 multiple waveform generator), 'TJ-56-133', NE555P DIP, 50K trimmer, power GND/VCC, GND/OUT and waveform icon outputs. Icons depict various waveforms; amplitude, frequencies and waveform quality not measured. No power test. Not an  Original JPG remains conversation upload and is not stored in GitHub."
+      "notes": "Evidence is direct photograph. Photo: 1000063196.jpg. Actual assembled PCB marked 'NE555多路波形发生器' (NE555 multiple waveform generator), 'TJ-56-133', NE555P DIP, 50K trimmer, power GND/VCC, GND/OUT and waveform icon outputs. Icons depict various waveforms; amplitude, frequencies and waveform quality not measured. No power test. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-064",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-064.jpg",
+      "asset_status": "stored",
       "source_description": "Uploaded photo 1000063195.jpg: ESP32-WROOM-32 development board (ESP32-WROOM-32), physically visible one unit.",
       "item_ids": [
         "HW-0075"
       ],
-      "notes": "Evidence is direct photograph. Photo: 1000063195.jpg. One ESP32 development PCB with metallic ESP-WROOM-32 shield, micro-USB connector, BOOT and EN buttons, labeled header positions 3V3/GND/D15/D2 etc. GPIO header pins are not populated or show only bare holes in photo. Exact carrier manufacturer, SKU and board revision not establis Original JPG remains conversation upload and is not stored in GitHub."
+      "notes": "Evidence is direct photograph. Photo: 1000063195.jpg. One ESP32 development PCB with metallic ESP-WROOM-32 shield, micro-USB connector, BOOT and EN buttons, labeled header positions 3V3/GND/D15/D2 etc. GPIO header pins are not populated or show only bare holes in photo. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-065",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-065.jpg",
+      "asset_status": "stored",
       "source_description": "Uploaded photo 1000063194.jpg: Raspberry Pi 40-pin GPIO T-cobbler breakout adapter (model unspecified), physically visible one unit.",
       "item_ids": [
         "HW-0076"
       ],
-      "notes": "Evidence is direct photograph. Photo: 1000063194.jpg. One red Pi-style 40-pin GPIO extension/breakout 'T' adapter board in clear bag, grey two-row IDC ribbon socket at top, breakout pads/through holes and GPIO/3V3/5V/GND labels. Raspberry Pi pinout mapping inferred from silkscreen, but exact model and whether ribbon cable included a Original JPG remains conversation upload and is not stored in GitHub."
+      "notes": "Evidence is direct photograph. Photo: 1000063194.jpg. One red Pi-style 40-pin GPIO extension/breakout 'T' adapter board in clear bag, grey two-row IDC ribbon socket at top, breakout pads/through holes and GPIO/3V3/5V/GND labels. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-066",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-066.jpg",
+      "asset_status": "stored",
       "source_description": "Uploaded photo 1000063193.jpg: Smraza Raspberry Pi 4 Model B case kit (model unspecified), physically visible one unit.",
       "item_ids": [
         "HW-0077"
       ],
-      "notes": "Evidence is direct photograph. Photo: 1000063193.jpg. One opened Smraza 'Raspberry Pi 4 Model B Case' carton. Physical black case panel(s), fittings / bagged screws and illustrated installation guide visible. **No Raspberry Pi board is shown in the box; inventory this as an empty case kit, not another Pi 4.** Fan, heatsinks and comp Original JPG remains conversation upload and is not stored in GitHub."
+      "notes": "Evidence is direct photograph. Photo: 1000063193.jpg. One opened Smraza 'Raspberry Pi 4 Model B Case' carton. Physical black case panel(s), fittings / bagged screws and illustrated installation guide visible. **No Raspberry Pi board is shown in the box; Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-067",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-067.jpg",
+      "asset_status": "stored",
       "source_description": "Uploaded photo 1000063192.jpg: DIYmall BBC micro:bit expansion board / edge connector breakout (model unspecified), physically visible one unit.",
       "item_ids": [
         "HW-0078"
       ],
-      "notes": "Evidence is direct photograph. Photo: 1000063192.jpg. One physical black BBC micro:bit breakout / extension board in front of ESD bag with seller label 'DIYmall microbit Ex... Graphic Programming'. Actual PCB has black horizontal micro:bit edge connector, GPIO labels 0–20, analog and serial labels, red/yellow/black multicolor 3-row  Original JPG remains conversation upload and is not stored in GitHub."
+      "notes": "Evidence is direct photograph. Photo: 1000063192.jpg. One physical black BBC micro:bit breakout / extension board in front of ESD bag with seller label 'DIYmall microbit Ex... Graphic Programming'. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-068",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-068.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 012 photo 1/6, uploaded filename 1000063205.jpg: unbranded 24MHz8CH logic analyzer with rainbow flying leads",
       "item_ids": [
         "HW-0079"
       ],
-      "notes": "Front case label confirms 24MHz8CH; 8-channel signal and clock/GND legend. Original JPG exists in this conversation; its bytes have not yet been uploaded to GitHub."
+      "notes": "Front case label confirms 24MHz8CH; 8-channel signal and clock/GND legend. Original JPG exists in this conversation; its bytes have not yet been uploaded to GitHub. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-069",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-069.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 012 photo 2/6, uploaded filename 1000063204.jpg: Bus Pirate v3a in yellow 3D-printed case with 10-wire ribbon",
       "item_ids": [
         "HW-0080"
       ],
-      "notes": "Owner photo shows 'BusPirate' BPv3a SEP 2009 and I2C/UART/SPI/1-Wire pinout sticker. Original JPG exists in this conversation; its bytes have not yet been uploaded to GitHub."
+      "notes": "Owner photo shows 'BusPirate' BPv3a SEP 2009 and I2C/UART/SPI/1-Wire pinout sticker. Original JPG exists in this conversation; its bytes have not yet been uploaded to GitHub. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-070",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-070.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 012 photo 3/6, uploaded filename 1000063203.jpg: ATtiny2313A USB AVR ISP programmer, cable and detached housing",
       "item_ids": [
         "HW-0081"
       ],
-      "notes": "Atmel ATtiny2313A-PU chip visible; 10-way IDC lead. USBtinyISP-style hardware, exact programming firmware not proven. Original JPG exists in this conversation; its bytes have not yet been uploaded to GitHub."
+      "notes": "Atmel ATtiny2313A-PU chip visible; 10-way IDC lead. USBtinyISP-style hardware, exact programming firmware not proven. Original JPG exists in this conversation; its bytes have not yet been uploaded to GitHub. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-071",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-071.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 012 photo 4/6, uploaded filename 1000063202.jpg: custom Arduino Nano traffic-light perfboard with red/yellow/green LEDs",
       "item_ids": [
         "HW-0082",
         "HW-0083"
       ],
-      "notes": "Owner confirms the Nano is soldered on to the traffic-light board. Two linked inventory records capture assembly and its MCU, not two independent machines. Original JPG exists in this conversation; its bytes have not yet been uploaded to GitHub."
+      "notes": "Owner confirms the Nano is soldered on to the traffic-light board. Two linked inventory records capture assembly and its MCU, not two independent machines. Original JPG exists in this conversation; its bytes have not yet been uploaded to GitHub. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-072",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-072.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 012 photo 5/6, uploaded filename 1000063201.jpg: blue Nano terminal adapter with green screw terminal blocks",
       "item_ids": [
         "HW-0084"
       ],
-      "notes": "One Nano Terminal Adapter v1.0; empty board socket. Original JPG exists in this conversation; its bytes have not yet been uploaded to GitHub."
+      "notes": "One Nano Terminal Adapter v1.0; empty board socket. Original JPG exists in this conversation; its bytes have not yet been uploaded to GitHub. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-073",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-073.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 012 photo 6/6, uploaded filename 1000063200.jpg: four separate blue Arduino Nano-style controller boards",
       "item_ids": [
         "HW-0085"
       ],
-      "notes": "Quantity four, distinct from the single Nano on traffic-light assembly. Original JPG exists in this conversation; its bytes have not yet been uploaded to GitHub."
+      "notes": "Quantity four, distinct from the single Nano on traffic-light assembly. Original JPG exists in this conversation; its bytes have not yet been uploaded to GitHub. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-074",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-074.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 013 photo 1/4, uploaded filename 1000063209.jpg: Three-button black Bluetooth ring alongside open square charging case",
       "item_ids": [
         "HW-0086"
       ],
-      "notes": "Owner confirmed exact product model D01 on 2026-11-22 (not D01 Pro). Distinct from five-button JX-05 HW-0046. Original JPEG remains a conversation attachment, not uploaded to GitHub."
+      "notes": "Owner confirmed exact product model D01 on 2026-11-22 (not D01 Pro). Distinct from five-button JX-05 HW-0046. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-075",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-075.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 013 photo 2/4, uploaded filename 1000063208.jpg: Canon EOS 450D DSLR with Canon strap, lens and front cap",
       "item_ids": [
         "HW-0087"
       ],
-      "notes": "Canon EOS 450D body clearly marked; lens model unreadable. Original JPG remains a conversation attachment; it is not yet copied into GitHub."
+      "notes": "Canon EOS 450D body clearly marked; lens model unreadable. it is not yet copied into GitHub. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-076",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-076.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 013 photo 3/4, uploaded filename 1000063207.jpg: Silver Canon PowerShot S100 compact camera, front view",
       "item_ids": [
         "HW-0088"
       ],
-      "notes": "S100 label and 5× IS 5.2–26.0 mm zoom text visible. Original JPG remains a conversation attachment; it is not yet copied into GitHub."
+      "notes": "S100 label and 5× IS 5.2–26.0 mm zoom text visible. it is not yet copied into GitHub. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-077",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-077.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 013 photo 4/4, uploaded filename 1000063206.jpg: Silver Canon Digital IXUS 700 compact digital camera, front view",
       "item_ids": [
         "HW-0089"
       ],
-      "notes": "IXUS 700 and 7.1 megapixels printed on body; three-times zoom. Original JPG remains a conversation attachment; it is not yet copied into GitHub."
+      "notes": "IXUS 700 and 7.1 megapixels printed on body; three-times zoom. it is not yet copied into GitHub. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-078",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-078.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 014 photo 1/2, uploaded filename 1000063210.jpg: One gray flat IDC ribbon cable loop with black female connectors at both ends",
       "item_ids": [
         "HW-0090"
       ],
-      "notes": "Count as one folded cable assembly, not two. Exact IDC connector contact count unknown. Original JPG still in this conversation; GitHub has metadata only."
+      "notes": "Count as one folded cable assembly, not two. Exact IDC connector contact count unknown. Original JPG still in this conversation; GitHub has metadata only. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-079",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-079.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 014 photo 2/2, uploaded filename 1000063211.jpg: One bundle of rainbow individual female-to-female Dupont jumper leads",
       "item_ids": [
         "HW-0091"
       ],
-      "notes": "Count as one wire bundle; individual wire count and exact pitch not yet verified. Original JPG still in this conversation; GitHub has metadata only."
+      "notes": "Count as one wire bundle; individual wire count and exact pitch not yet verified. Original JPG still in this conversation; GitHub has metadata only. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-080",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-080.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 015 photo 1/10, uploaded filename 1000063212.jpg: Bag of four white rectangular ET-505 electrode pads with white lead connectors; one set, no controller",
       "item_ids": [
         "HW-0092"
       ],
-      "notes": "Identification and condition based on photograph only; original JPG remains a conversation attachment and is not stored in GitHub."
+      "notes": "Identification and condition based on photograph only; Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-081",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-081.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 015 photo 2/10, uploaded filename 1000063213.jpg: ASUS nexus tablet seen from rear, smooth matte housing and rear camera, likely Nexus 7 2013",
       "item_ids": [
         "HW-0093"
       ],
-      "notes": "Identification and condition based on photograph only; original JPG remains a conversation attachment and is not stored in GitHub."
+      "notes": "Identification and condition based on photograph only; Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-082",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-082.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 015 photo 3/10, uploaded filename 1000063214.jpg: Motorola Nexus 6 rear with camera flash ring, Motorola emblem and nexus branding",
       "item_ids": [
         "HW-0094"
       ],
-      "notes": "Identification and condition based on photograph only; original JPG remains a conversation attachment and is not stored in GitHub."
+      "notes": "Identification and condition based on photograph only; Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-083",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-083.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 015 photo 4/10, uploaded filename 1000063215.jpg: Glass-backed gold iPhone with cracked rear panel and one rear camera",
       "item_ids": [
         "HW-0095"
       ],
-      "notes": "Same HW-0095 iPhone; Identification and condition based on photograph only; original JPG remains a conversation attachment and is not stored in GitHub."
+      "notes": "Same HW-0095 iPhone; Identification and condition based on photograph only; Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-084",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-084.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 015 photo 5/10, uploaded filename 1000063216.jpg: Same gold iPhone photographed from front showing severely cracked screen and physical Home button",
       "item_ids": [
         "HW-0095"
       ],
-      "notes": "Same HW-0095 iPhone; Identification and condition based on photograph only; original JPG remains a conversation attachment and is not stored in GitHub."
+      "notes": "Same HW-0095 iPhone; Identification and condition based on photograph only; Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-085",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-085.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 015 photo 6/10, uploaded filename 1000063217.jpg: Orange ZTE touchscreen handset with centered ring-style Home button, likely original ZTE Open",
       "item_ids": [
         "HW-0096"
       ],
-      "notes": "Identification and condition based on photograph only; original JPG remains a conversation attachment and is not stored in GitHub."
+      "notes": "Identification and condition based on photograph only; Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-086",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-086.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 015 photo 7/10, uploaded filename 1000063219.jpg: Dark blue-cased Nexus 5-like phone from rear with prominent top-left camera ring and LED flash",
       "item_ids": [
         "HW-0097"
       ],
-      "notes": "Same HW-0097 phone; Identification and condition based on photograph only; original JPG remains a conversation attachment and is not stored in GitHub."
+      "notes": "Same HW-0097 phone; Identification and condition based on photograph only; Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-087",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-087.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 015 photo 8/10, uploaded filename 1000063220.jpg: Same blue-cased LG Nexus 5-like phone from front with screen off",
       "item_ids": [
         "HW-0097"
       ],
-      "notes": "Same HW-0097 phone; Identification and condition based on photograph only; original JPG remains a conversation attachment and is not stored in GitHub."
+      "notes": "Same HW-0097 phone; Identification and condition based on photograph only; Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-088",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-088.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 015 photo 9/10, uploaded filename 1000063221.jpg: Pandigital digital photo frame rear with mini-USB port and retractable stand",
       "item_ids": [
         "HW-0098"
       ],
-      "notes": "Same HW-0098 photo frame; Identification and condition based on photograph only; original JPG remains a conversation attachment and is not stored in GitHub."
+      "notes": "Same HW-0098 photo frame; Identification and condition based on photograph only; Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-089",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-089.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 015 photo 10/10, uploaded filename 1000063222.jpg: Same Pandigital digital photo frame from front, dark screen and wide black bezel",
       "item_ids": [
         "HW-0098"
       ],
-      "notes": "Same HW-0098 photo frame; Identification and condition based on photograph only; original JPG remains a conversation attachment and is not stored in GitHub."
+      "notes": "Same HW-0098 photo frame; Identification and condition based on photograph only; Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-090",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-090.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 016 photo 1/10, uploaded filename 1000063223.jpg: Obverse of green circular Microsemi ZLE38AVS, ZLE38000-004 board with radial controls and Microsemi markings",
       "item_ids": [
         "HW-0099"
       ],
-      "notes": "Photographed object/packaging only. Original JPG remains in the conversation and has not been transferred to GitHub. Two Microsemi photos show one assembled platform, and HW-0100 is an installed component of HW-0099."
+      "notes": "Photographed object/packaging only. Original JPG remains in the conversation and has not been transferred to GitHub. Two Microsemi photos show one assembled platform, and HW-0100 is an installed component of HW-0099. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-091",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-091.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 016 photo 2/10, uploaded filename 1000063225.jpg: Reverse of Microsemi circular assembly showing installed Raspberry Pi 3 hardware, black circular frame and bag of mounting hardware",
       "item_ids": [
         "HW-0099",
         "HW-0100"
       ],
-      "notes": "Photographed object/packaging only. Original JPG remains in the conversation and has not been transferred to GitHub. Two Microsemi photos show one assembled platform, and HW-0100 is an installed component of HW-0099."
+      "notes": "Photographed object/packaging only. Original JPG remains in the conversation and has not been transferred to GitHub. Two Microsemi photos show one assembled platform, and HW-0100 is an installed component of HW-0099. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-092",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-092.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 016 photo 3/10, uploaded filename 1000063226.jpg: Unbranded silver handheld multimedia remote, green Start button and circular navigation pad",
       "item_ids": [
         "HW-0101"
       ],
-      "notes": "Photographed object/packaging only. Original JPG remains in the conversation and has not been transferred to GitHub. Two Microsemi photos show one assembled platform, and HW-0100 is an installed component of HW-0099."
+      "notes": "Photographed object/packaging only. Original JPG remains in the conversation and has not been transferred to GitHub. Two Microsemi photos show one assembled platform, and HW-0100 is an installed component of HW-0099. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-093",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-093.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 016 photo 4/10, uploaded filename 1000063227.jpg: Closed white DIY Neuroscience Kits retail box with geometric multicolor artwork; contents not visible",
       "item_ids": [
         "HW-0102"
       ],
-      "notes": "Photographed object/packaging only. Original JPG remains in the conversation and has not been transferred to GitHub. Two Microsemi photos show one assembled platform, and HW-0100 is an installed component of HW-0099."
+      "notes": "Photographed object/packaging only. Original JPG remains in the conversation and has not been transferred to GitHub. Two Microsemi photos show one assembled platform, and HW-0100 is an installed component of HW-0099. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-094",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-094.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 016 photo 5/10, uploaded filename 1000063228.jpg: Clear organizer of rigid U-shape insulated breadboard jumper wires, label indicates assortment",
       "item_ids": [
         "HW-0103"
       ],
-      "notes": "Photographed object/packaging only. Original JPG remains in the conversation and has not been transferred to GitHub. Two Microsemi photos show one assembled platform, and HW-0100 is an installed component of HW-0099."
+      "notes": "Photographed object/packaging only. Original JPG remains in the conversation and has not been transferred to GitHub. Two Microsemi photos show one assembled platform, and HW-0100 is an installed component of HW-0099. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-095",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-095.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 016 photo 6/10, uploaded filename 1000063229.jpg: Black-base metal manual Morse telegraph straight key with adjustable contacts",
       "item_ids": [
         "HW-0104"
       ],
-      "notes": "Photographed object/packaging only. Original JPG remains in the conversation and has not been transferred to GitHub. Two Microsemi photos show one assembled platform, and HW-0100 is an installed component of HW-0099."
+      "notes": "Photographed object/packaging only. Original JPG remains in the conversation and has not been transferred to GitHub. Two Microsemi photos show one assembled platform, and HW-0100 is an installed component of HW-0099. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-096",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-096.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 016 photo 7/10, uploaded filename 1000063231.jpg: Black clip-on smartphone Super Wide 0.4X optical lens and separate lens cap",
       "item_ids": [
         "HW-0105"
       ],
-      "notes": "Photographed object/packaging only. Original JPG remains in the conversation and has not been transferred to GitHub. Two Microsemi photos show one assembled platform, and HW-0100 is an installed component of HW-0099."
+      "notes": "Photographed object/packaging only. Original JPG remains in the conversation and has not been transferred to GitHub. Two Microsemi photos show one assembled platform, and HW-0100 is an installed component of HW-0099. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-097",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-097.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 016 photo 8/10, uploaded filename 1000063232.jpg: Front of gray Retroflag GPi CASE handheld case, powered-off screen and Game Boy-like controls",
       "item_ids": [
         "HW-0106"
       ],
-      "notes": "Photographed object/packaging only. Original JPG remains in the conversation and has not been transferred to GitHub. Two Microsemi photos show one assembled platform, and HW-0100 is an installed component of HW-0099."
+      "notes": "Photographed object/packaging only. Original JPG remains in the conversation and has not been transferred to GitHub. Two Microsemi photos show one assembled platform, and HW-0100 is an installed component of HW-0099. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-098",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-098.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 016 photo 9/10, uploaded filename 1000063233.jpg: Bundle of many color-coded insulated alligator clip leads",
       "item_ids": [
         "HW-0107"
       ],
-      "notes": "Photographed object/packaging only. Original JPG remains in the conversation and has not been transferred to GitHub. Two Microsemi photos show one assembled platform, and HW-0100 is an installed component of HW-0099."
+      "notes": "Photographed object/packaging only. Original JPG remains in the conversation and has not been transferred to GitHub. Two Microsemi photos show one assembled platform, and HW-0100 is an installed component of HW-0099. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-099",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-099.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 016 photo 10/10, uploaded filename 1000063234.jpg: Coiled longer red/black test leads with metal banana-plug-style and mixed terminations",
       "item_ids": [
         "HW-0108"
       ],
-      "notes": "Photographed object/packaging only. Original JPG remains in the conversation and has not been transferred to GitHub. Two Microsemi photos show one assembled platform, and HW-0100 is an installed component of HW-0099."
+      "notes": "Photographed object/packaging only. Original JPG remains in the conversation and has not been transferred to GitHub. Two Microsemi photos show one assembled platform, and HW-0100 is an installed component of HW-0099. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-100",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-100.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 017 photo 1/10, uploaded filename 1000063235.jpg: Black acrylic servo-operated robotic arm assembly with blue translucent microservos and black two-finger gripper",
       "item_ids": [
         "HW-0109"
       ],
-      "notes": "Photos depict photographed electronics or retail packaging only. Binary JPG remains in conversation, not stored on GitHub. Product presence is unverified for MPD218 and DGT Easy+ boxes. Photos P-20261122-108/109 are two sides of the same 4-strips-of-4 LED matrix collection."
+      "notes": "Photos depict photographed electronics or retail packaging only. Product presence is unverified for MPD218 and DGT Easy+ boxes. Photos P-20261122-108/109 are two sides of the same 4-strips-of-4 LED matrix collection. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-101",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-101.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 017 photo 2/10, uploaded filename 1000063242.jpg: Akai Professional MPD218 MIDI pad controller retail carton; printed device only",
       "item_ids": [
         "HW-0110"
       ],
-      "notes": "Photos depict photographed electronics or retail packaging only. Binary JPG remains in conversation, not stored on GitHub. Product presence is unverified for MPD218 and DGT Easy+ boxes. Photos P-20261122-108/109 are two sides of the same 4-strips-of-4 LED matrix collection."
+      "notes": "Photos depict photographed electronics or retail packaging only. Product presence is unverified for MPD218 and DGT Easy+ boxes. Photos P-20261122-108/109 are two sides of the same 4-strips-of-4 LED matrix collection. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-102",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-102.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 017 photo 3/10, uploaded filename 1000063243.jpg: Actual Pyle Pro PMIDI100 DJ MIDI controller with two jog wheels and mixer controls",
       "item_ids": [
         "HW-0111"
       ],
-      "notes": "Photos depict photographed electronics or retail packaging only. Binary JPG remains in conversation, not stored on GitHub. Product presence is unverified for MPD218 and DGT Easy+ boxes. Photos P-20261122-108/109 are two sides of the same 4-strips-of-4 LED matrix collection."
+      "notes": "Photos depict photographed electronics or retail packaging only. Product presence is unverified for MPD218 and DGT Easy+ boxes. Photos P-20261122-108/109 are two sides of the same 4-strips-of-4 LED matrix collection. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-103",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-103.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 017 photo 4/10, uploaded filename 1000063244.jpg: DGT Easy+ game/chess timer box marked 2014 model; product inside owner-confirmed but not directly photographed",
       "item_ids": [
         "HW-0112"
       ],
-      "notes": "Photographed DGT Easy+ retail box. User explicitly confirmed on 2026-11-22 that one timer is physically inside; the device itself is not visible and functional status remains untested. Original photo remains in conversation only."
+      "notes": "Photographed DGT Easy+ retail box. User explicitly confirmed on 2026-11-22 that one timer is physically inside; the device itself is not visible and functional status remains untested. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-104",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-104.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 017 photo 5/10, uploaded filename 1000063245.jpg: FUJING branded USB gooseneck multi-LED clip light, flex neck and mounting clip",
       "item_ids": [
         "HW-0113"
       ],
-      "notes": "Photos depict photographed electronics or retail packaging only. Binary JPG remains in conversation, not stored on GitHub. Product presence is unverified for MPD218 and DGT Easy+ boxes. Photos P-20261122-108/109 are two sides of the same 4-strips-of-4 LED matrix collection."
+      "notes": "Photos depict photographed electronics or retail packaging only. Product presence is unverified for MPD218 and DGT Easy+ boxes. Photos P-20261122-108/109 are two sides of the same 4-strips-of-4 LED matrix collection. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-105",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-105.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 017 photo 6/10, uploaded filename 1000063246.jpg: 18650 Battery Shield V8.3 PCB, two empty battery bays, USB-A port and labelled voltage pads",
       "item_ids": [
         "HW-0114"
       ],
-      "notes": "Photos depict photographed electronics or retail packaging only. Binary JPG remains in conversation, not stored on GitHub. Product presence is unverified for MPD218 and DGT Easy+ boxes. Photos P-20261122-108/109 are two sides of the same 4-strips-of-4 LED matrix collection."
+      "notes": "Photos depict photographed electronics or retail packaging only. Product presence is unverified for MPD218 and DGT Easy+ boxes. Photos P-20261122-108/109 are two sides of the same 4-strips-of-4 LED matrix collection. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-106",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-106.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 017 photo 7/10, uploaded filename 1000063247.jpg: Two blue SPI microSD card reader modules with labelled 7-pin headers",
       "item_ids": [
         "HW-0115"
       ],
-      "notes": "Photos depict photographed electronics or retail packaging only. Binary JPG remains in conversation, not stored on GitHub. Product presence is unverified for MPD218 and DGT Easy+ boxes. Photos P-20261122-108/109 are two sides of the same 4-strips-of-4 LED matrix collection."
+      "notes": "Photos depict photographed electronics or retail packaging only. Product presence is unverified for MPD218 and DGT Easy+ boxes. Photos P-20261122-108/109 are two sides of the same 4-strips-of-4 LED matrix collection. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-107",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-107.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 017 photo 8/10, uploaded filename 1000063248.jpg: Small green ULN2003-style stepper driver board with LEDs, DIP IC and motor connector",
       "item_ids": [
         "HW-0116"
       ],
-      "notes": "Photos depict photographed electronics or retail packaging only. Binary JPG remains in conversation, not stored on GitHub. Product presence is unverified for MPD218 and DGT Easy+ boxes. Photos P-20261122-108/109 are two sides of the same 4-strips-of-4 LED matrix collection."
+      "notes": "Photos depict photographed electronics or retail packaging only. Product presence is unverified for MPD218 and DGT Easy+ boxes. Photos P-20261122-108/109 are two sides of the same 4-strips-of-4 LED matrix collection. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-108",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-108.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 017 photo 9/10, uploaded filename 1000063249.jpg: Rear of two modular plus two continuous-PCB 4-matrix LED strips showing interface pin labels and board connections",
       "item_ids": [
         "HW-0117",
         "HW-0118"
       ],
-      "notes": "One of two photographs of the SAME four LED matrix strips (two per PCB style). LEFT TWO strips: modular short-PCB design with black intermodule headers (HW-0117). RIGHT TWO strips: continuous long-PCB design with end connectors only (HW-0118). Total remains 4 strips × 4 displays = 16 matrices. Photo binary not stored on GitHub; image is a conversation attachment."
+      "notes": "One of two photographs of the SAME four LED matrix strips (two per PCB style). LEFT TWO strips: modular short-PCB design with black intermodule headers (HW-0117). RIGHT TWO strips: continuous long-PCB design with end connectors only (HW-0118). Total remains 4 strips × 4 displays = 16 matrices. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-109",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-109.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 017 photo 10/10, uploaded filename 1000063250.jpg: Front of same two modular plus two continuous-PCB 4-matrix LED strips, total sixteen 8x8 matrices",
       "item_ids": [
         "HW-0117",
         "HW-0118"
       ],
-      "notes": "One of two photographs of the SAME four LED matrix strips (two per PCB style). LEFT TWO strips: modular short-PCB design with black intermodule headers (HW-0117). RIGHT TWO strips: continuous long-PCB design with end connectors only (HW-0118). Total remains 4 strips × 4 displays = 16 matrices. Photo binary not stored on GitHub; image is a conversation attachment."
+      "notes": "One of two photographs of the SAME four LED matrix strips (two per PCB style). LEFT TWO strips: modular short-PCB design with black intermodule headers (HW-0117). RIGHT TWO strips: continuous long-PCB design with end connectors only (HW-0118). Total remains 4 strips × 4 displays = 16 matrices. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-110",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-110.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 018 photo 1/9; uploaded filename 1000063251.jpg: Purple IrJACK-branded USB infrared adapter; single USB Type-A plug",
       "item_ids": [
         "HW-0127"
       ],
-      "notes": "Actual photograph inspected in conversation; image binary has not been uploaded to GitHub. Quantity reflects unique physical items across multiple photos; do not double-count photo views."
+      "notes": "Actual photograph inspected in conversation; image binary has not been uploaded to GitHub. Quantity reflects unique physical items across multiple photos; do not double-count photo views. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-111",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-111.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 018 photo 2/9; uploaded filename 1000063252.jpg: Small USB nano dongle with handwritten BT label, likely Bluetooth",
       "item_ids": [
         "HW-0126"
       ],
-      "notes": "Actual photograph inspected in conversation; image binary has not been uploaded to GitHub. Quantity reflects unique physical items across multiple photos; do not double-count photo views."
+      "notes": "Actual photograph inspected in conversation; image binary has not been uploaded to GitHub. Quantity reflects unique physical items across multiple photos; do not double-count photo views. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-112",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-112.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 018 photo 3/9; uploaded filename 1000063253.jpg: Two distinct white cabled contact/clip leads with forked tips",
       "item_ids": [
         "HW-0125"
       ],
-      "notes": "Actual photograph inspected in conversation; image binary has not been uploaded to GitHub. Quantity reflects unique physical items across multiple photos; do not double-count photo views."
+      "notes": "Actual photograph inspected in conversation; image binary has not been uploaded to GitHub. Quantity reflects unique physical items across multiple photos; do not double-count photo views. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-113",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-113.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 018 photo 4/9; uploaded filename 1000063254.jpg: Two distinct Li-ion polymer pouch cells; one bare-lead 3.7V 1000mAh 523450, one with connector and unknown capacity",
       "item_ids": [
         "HW-0123",
         "HW-0124"
       ],
-      "notes": "Actual photograph inspected in conversation; image binary has not been uploaded to GitHub. Quantity reflects unique physical items across multiple photos; do not double-count photo views."
+      "notes": "Actual photograph inspected in conversation; image binary has not been uploaded to GitHub. Quantity reflects unique physical items across multiple photos; do not double-count photo views. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-114",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-114.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 018 photo 5/9, uploaded filename 1000063255.jpg: Black compact double-ended USB-family adapter; owner later confirms ownership of two distinct black adapters (USB-A male and female variants to square USB-B), photo-to-variant attribution uncertain.",
       "item_ids": [
         "HW-0120"
       ],
-      "notes": "Source photo available in conversation but not stored on GitHub. Corrected owner count is 2 distinct black adapters, HW-0120 (USB-A male) and HW-0128 (USB-A female). Because these close side views do not verify a female socket and do not uniquely tie photos to units, HW-0128 is owner-reported without photo assignment; this photo remains attached to the previously photographed black-adapter record as tentative evidence."
+      "notes": "Corrected owner count is 2 distinct black adapters, HW-0120 (USB-A male) and HW-0128 (USB-A female). Because these close side views do not verify a female socket and do not uniquely tie photos to units, HW-0128 is owner-reported without photo assignment; this photo remains attached to the previously photographed black-adapter record as tentative evidence. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-115",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-115.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 018 photo 6/9; uploaded filename 1000063256.jpg: White inline compact dual-ended metal plug adapter",
       "item_ids": [
         "HW-0122"
       ],
-      "notes": "Actual photograph inspected in conversation; image binary has not been uploaded to GitHub. Quantity reflects unique physical items across multiple photos; do not double-count photo views."
+      "notes": "Actual photograph inspected in conversation; image binary has not been uploaded to GitHub. Quantity reflects unique physical items across multiple photos; do not double-count photo views. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-116",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-116.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 018 photo 7/9; uploaded filename 1000063257.jpg: CanaKit-branded black USB Wi-Fi dongle",
       "item_ids": [
         "HW-0121"
       ],
-      "notes": "Actual photograph inspected in conversation; image binary has not been uploaded to GitHub. Quantity reflects unique physical items across multiple photos; do not double-count photo views."
+      "notes": "Actual photograph inspected in conversation; image binary has not been uploaded to GitHub. Quantity reflects unique physical items across multiple photos; do not double-count photo views. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-117",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-117.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 018 photo 8/9, uploaded filename 1000063258.jpg: Black compact double-ended USB-family adapter; owner later confirms ownership of two distinct black adapters (USB-A male and female variants to square USB-B), photo-to-variant attribution uncertain.",
       "item_ids": [
         "HW-0120"
       ],
-      "notes": "Source photo available in conversation but not stored on GitHub. Corrected owner count is 2 distinct black adapters, HW-0120 (USB-A male) and HW-0128 (USB-A female). Because these close side views do not verify a female socket and do not uniquely tie photos to units, HW-0128 is owner-reported without photo assignment; this photo remains attached to the previously photographed black-adapter record as tentative evidence."
+      "notes": "Corrected owner count is 2 distinct black adapters, HW-0120 (USB-A male) and HW-0128 (USB-A female). Because these close side views do not verify a female socket and do not uniquely tie photos to units, HW-0128 is owner-reported without photo assignment; this photo remains attached to the previously photographed black-adapter record as tentative evidence. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-118",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-118.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 018 photo 9/9; uploaded filename 1000063259.jpg: Four unassembled brown laser-cut structural panels and small bag of metal screws and nuts",
       "item_ids": [
         "HW-0119"
       ],
-      "notes": "Actual photograph inspected in conversation; image binary has not been uploaded to GitHub. Quantity reflects unique physical items across multiple photos; do not double-count photo views."
+      "notes": "Actual photograph inspected in conversation; image binary has not been uploaded to GitHub. Quantity reflects unique physical items across multiple photos; do not double-count photo views. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-119",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-119.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 019 photo 1/10; uploaded filename 1000063260.jpg: White adhesive square antenna stickers, circular spiral coil visible; at least one loose sticker and two overlapping stacks",
       "item_ids": [
         "HW-0129"
       ],
-      "notes": "Quantity obscured by stacks; RFID/NFC function inferred from visible spiral antenna, not tested. Image received in conversation but not saved to GitHub; physical unit identity/overlap tracked conservatively."
+      "notes": "Quantity obscured by stacks; RFID/NFC function inferred from visible spiral antenna, not tested. Image received in conversation but not saved to GitHub; physical unit identity/overlap tracked conservatively. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-120",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-120.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 019 photo 2/10; uploaded filename 1000063261.jpg: Two 8x8 arrays made from visibly separate square LED packages with round white lenses",
       "item_ids": [
         "HW-0130"
       ],
-      "notes": "Two complete square arrays in a single frame. Distinct mechanical appearance from solid-face dot-matrix modules. Image received in conversation but not saved to GitHub; physical unit identity/overlap tracked conservatively."
+      "notes": "Two complete square arrays in a single frame. Distinct mechanical appearance from solid-face dot-matrix modules. Image received in conversation but not saved to GitHub; physical unit identity/overlap tracked conservatively. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-121",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-121.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 019 photo 3/10; uploaded filename 1000063262.jpg: Two loose black-faced 8x8 dot-matrix LED display packages resting on white foam",
       "item_ids": [
         "HW-0131"
       ],
-      "notes": "Two physical packages. Potential repetition of loose display in photo 1000063268.jpg is unresolved; no extra unit counted for 3268. Image received in conversation but not saved to GitHub; physical unit identity/overlap tracked conservatively."
+      "notes": "Two physical packages. Potential repetition of loose display in photo 1000063268.jpg is unresolved; no extra unit counted for 3268. Image received in conversation but not saved to GitHub; physical unit identity/overlap tracked conservatively. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-122",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-122.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 019 photo 4/10; uploaded filename 1000063263.jpg: One MAX7219-style 8x8 dot matrix display and green 5-pin driver PCB, plus five-wire jumper harness",
       "item_ids": [
         "HW-0132"
       ],
-      "notes": "One assembled module, not a second display counted separately from its driver; actual chip reads MAX7219CNG. Jumper harness treated as included accessory. Image received in conversation but not saved to GitHub; physical unit identity/overlap tracked conservatively."
+      "notes": "One assembled module, not a second display counted separately from its driver; actual chip reads MAX7219CNG. Jumper harness treated as included accessory. Image received in conversation but not saved to GitHub; physical unit identity/overlap tracked conservatively. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-123",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-123.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 019 photo 5/10; uploaded filename 1000063264.jpg: Ten individual narrow 10-segment LED bar-graph display components arranged in two columns of five",
       "item_ids": [
         "HW-0133"
       ],
-      "notes": "Quantity ten plainly visible; side marking resembles KXX-B10G (exact letters unverified). No illuminated color observed. Image received in conversation but not saved to GitHub; physical unit identity/overlap tracked conservatively."
+      "notes": "Quantity ten plainly visible; side marking resembles KXX-B10G (exact letters unverified). No illuminated color observed. Image received in conversation but not saved to GitHub; physical unit identity/overlap tracked conservatively. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-124",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-124.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 019 photo 6/10; uploaded filename 1000063266.jpg: Four 4-digit LED display driver boards: two DM/DIY MORE variant and two marked 4-Digit LED Display",
       "item_ids": [
         "HW-0134",
         "HW-0135"
       ],
-      "notes": "Two visually distinguishable board silkscreen variants in same photograph; 4-digit LEDs with 4-pin male headers. Image received in conversation but not saved to GitHub; physical unit identity/overlap tracked conservatively."
+      "notes": "Two visually distinguishable board silkscreen variants in same photograph; 4-digit LEDs with 4-pin male headers. Image received in conversation but not saved to GitHub; physical unit identity/overlap tracked conservatively. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-125",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-125.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 019 photo 7/10; uploaded filename 1000063268.jpg: One loose bare black-faced 8x8 dot matrix display package photographed individually",
       "item_ids": [
         "HW-0131"
       ],
-      "notes": "Could be one of two packages in 1000063262.jpg; identity not proven. Photo logged without increasing verified ownership count. Image received in conversation but not saved to GitHub; physical unit identity/overlap tracked conservatively."
+      "notes": "Could be one of two packages in 1000063262.jpg; identity not proven. Photo logged without increasing verified ownership count. Image received in conversation but not saved to GitHub; physical unit identity/overlap tracked conservatively. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-126",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-126.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 019 photo 8/10; uploaded filename 1000063269.jpg: Three separate miniature traffic signal LED modules, each red-yellow-green vertical stack",
       "item_ids": [
         "HW-0137"
       ],
-      "notes": "Three units, separate from earlier handcrafted Nano traffic-light board HW-0082. Image received in conversation but not saved to GitHub; physical unit identity/overlap tracked conservatively."
+      "notes": "Three units, separate from earlier handcrafted Nano traffic-light board HW-0082. Image received in conversation but not saved to GitHub; physical unit identity/overlap tracked conservatively. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-127",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-127.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 019 photo 9/10; uploaded filename 1000063270.jpg: One 4-digit LED display breakout board marked DIY MORE / 4-DigitLED Display, shown with bare pads and no installed pin header",
       "item_ids": [
         "HW-0136"
       ],
-      "notes": "Count separately from four populated-header boards in 1000063266.jpg; similarity of model family recorded without assuming a known driver. Image received in conversation but not saved to GitHub; physical unit identity/overlap tracked conservatively."
+      "notes": "Count separately from four populated-header boards in 1000063266.jpg; similarity of model family recorded without assuming a known driver. Image received in conversation but not saved to GitHub; physical unit identity/overlap tracked conservatively. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-128",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-128.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 019 photo 10/10; uploaded filename 1000063271.jpg: Five bare 4-digit 7-segment LED display packages (no driver boards)",
       "item_ids": [
         "HW-0138"
       ],
-      "notes": "Five individual loose display components; decimal points visible. Not the same as assembled 4-digit driver boards. Image received in conversation but not saved to GitHub; physical unit identity/overlap tracked conservatively."
+      "notes": "Five individual loose display components; decimal points visible. Not the same as assembled 4-digit driver boards. Image received in conversation but not saved to GitHub; physical unit identity/overlap tracked conservatively. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-129",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-129.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 020 photo 1/5; uploaded filename 1000063272.jpg: red-foam bundle of two distinct bar-graph face widths, user-confirmed ten 4-bar and ten 7-bar LED display packages",
       "item_ids": [
         "HW-0146",
         "HW-0147"
       ],
-      "notes": "Owner corrected the earlier assumption that this photo was a duplicate of the K??-B10G 10-segment packages (HW-0133). Two different width/segment-count bar graph lots: 10 four-bar, 10 seven-bar, 20 total new packages. Original JPG is still not committed to GitHub."
+      "notes": "Owner corrected the earlier assumption that this photo was a duplicate of the K??-B10G 10-segment packages (HW-0133). Two different width/segment-count bar graph lots: 10 four-bar, 10 seven-bar, 20 total new packages. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-130",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-130.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 020 photo 2/5; uploaded filename 1000063273.jpg: Twenty bare single-digit seven-segment LED packages arranged as four rows of five",
       "item_ids": [
         "HW-0145"
       ],
-      "notes": "Single-digit components, not the five earlier bare four-digit displays HW-0138. Actual image inspected from conversation; JPG not committed to GitHub."
+      "notes": "Single-digit components, not the five earlier bare four-digit displays HW-0138. Actual image inspected from conversation; Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-131",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-131.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 020 photo 3/5; uploaded filename 1000063274.jpg: Four red WS2812 Breakout printed circuit boards with individual addressable SMD RGB LED",
       "item_ids": [
         "HW-0144"
       ],
-      "notes": "5V/DI/DO/GND pin markings, no functional test. Actual image inspected from conversation; JPG not committed to GitHub."
+      "notes": "5V/DI/DO/GND pin markings, no functional test. Actual image inspected from conversation; Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-132",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-132.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 020 photo 4/5; uploaded filename 1000063275.jpg: One circular black buzzer or sounder with center sound hole and embossed top markings",
       "item_ids": [
         "HW-0143"
       ],
-      "notes": "Exact part number, active/passive type and rated voltage unknown. Actual image inspected from conversation; JPG not committed to GitHub."
+      "notes": "Exact part number, active/passive type and rated voltage unknown. Actual image inspected from conversation; Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-133",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-133.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 020 photo 5/5; uploaded filename 1000063276.jpg: Loose through-hole LED assortment: clear, yellow, green and red-tinted lens groups",
       "item_ids": [
         "HW-0139",
@@ -1613,63 +1613,63 @@
         "HW-0141",
         "HW-0142"
       ],
-      "notes": "Approximate group counts: clear 6, yellow 3, green 5, red 18; overlapping red components make that count approximate. Actual image inspected from conversation; JPG not committed to GitHub."
+      "notes": "Approximate group counts: clear 6, yellow 3, green 5, red 18; overlapping red components make that count approximate. Actual image inspected from conversation; Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-134",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-134.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 021, photo 1/9; uploaded filename 1000063277.jpg: Looped multicolor Dupont jumper-wire bundle, black molded terminations, visible male pins, plain gray tie.",
       "item_ids": [
         "HW-0148"
       ],
-      "notes": "Likely same lower male-to-male bundle appearing in next photo, not a second count; individual leads obscured. Exact original JPG is available in the chat upload but was not transferred to GitHub."
+      "notes": "Likely same lower male-to-male bundle appearing in next photo, not a second count; individual leads obscured. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-135",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-135.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 021, photo 2/9; uploaded filename 1000063278.jpg: Two multicolor jumper-wire bundles: lower male-to-male bundle, upper oval-tie mixed-end bundle.",
       "item_ids": [
         "HW-0148",
         "HW-0149"
       ],
-      "notes": "Two physical bundles in this image; lower rephotographs preceding photo HW-0148. Exact individual wire counts unknown; upper connector genders partly obscured. Exact original JPG is available in the chat upload but was not transferred to GitHub."
+      "notes": "Two physical bundles in this image; lower rephotographs preceding photo HW-0148. Exact individual wire counts unknown; upper connector genders partly obscured. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-136",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-136.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 021, photo 3/9; uploaded filename 1000063279.jpg: Multicolor miniature spring-hook test probes on loose thin wires.",
       "item_ids": [
         "HW-0150"
       ],
-      "notes": "Colored miniature probe hooks; count of wires unverified. Separate from previous black-hook set unless proven otherwise. Exact original JPG is available in the chat upload but was not transferred to GitHub."
+      "notes": "Colored miniature probe hooks; count of wires unverified. Separate from previous black-hook set unless proven otherwise. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-137",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-137.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 021, photo 4/9; uploaded filename 1000063280.jpg: Arduino-form-factor LCD Keypad Shield, 16×2 character LCD, six black pushbuttons and blue trimpot.",
       "item_ids": [
         "HW-0151"
       ],
-      "notes": "Single complete shield; do not count display and buttons as extra loose hardware. Exact original JPG is available in the chat upload but was not transferred to GitHub."
+      "notes": "Single complete shield; do not count display and buttons as extra loose hardware. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-138",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-138.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 021, photo 5/9; uploaded filename 1000063285.jpg: Pink/red-foam small parts assortment: CTS 208-4 DIP switch, small metal slide switch, blue Keyes WiiChuck adapter, yellow 4-bar LED and green 7-bar LED.",
       "item_ids": [
         "HW-0152",
@@ -1678,174 +1678,174 @@
         "HW-0146",
         "HW-0147"
       ],
-      "notes": "LED bars tentatively associated with earlier red-foam lots; physical unit identity unresolved, so counts unchanged. DIP and slide switch are separate parts. Exact original JPG is available in the chat upload but was not transferred to GitHub."
+      "notes": "LED bars tentatively associated with earlier red-foam lots; physical unit identity unresolved, so counts unchanged. DIP and slide switch are separate parts. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-139",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-139.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 021, photo 6/9; uploaded filename 1000063286.jpg: Fifteen loose joystick/button-style plastic caps in five colors (3 black, 3 green, 3 blue, 3 white and 3 yellow).",
       "item_ids": [
         "HW-0155"
       ],
-      "notes": "Count=15 individual passive caps, not electronics; compatibility unknown. Exact original JPG is available in the chat upload but was not transferred to GitHub."
+      "notes": "Count=15 individual passive caps, not electronics; compatibility unknown. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-140",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-140.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 021, photo 7/9; uploaded filename 1000063288.jpg: Two standalone thumb joystick breakout boards, black joysticks, exposed 5-pin headers.",
       "item_ids": [
         "HW-0156"
       ],
-      "notes": "Two separate physical boards; the integrated joystick on Funduino shield is not one of these. Exact original JPG is available in the chat upload but was not transferred to GitHub."
+      "notes": "Two separate physical boards; the integrated joystick on Funduino shield is not one of these. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-141",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-141.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 021, photo 8/9; uploaded filename 1000063287.jpg: Red Funduino Joystick Shield v1.A with thumbstick and multiple face buttons.",
       "item_ids": [
         "HW-0157"
       ],
-      "notes": "One complete expansion board; radio interface marking does not establish installed RF24L01 radio. Exact original JPG is available in the chat upload but was not transferred to GitHub."
+      "notes": "One complete expansion board; radio interface marking does not establish installed RF24L01 radio. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-142",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-142.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 021, photo 9/9; uploaded filename 1000063289.jpg: Four red round panel-mount pushbutton assemblies, black housings, green loose/connected leads.",
       "item_ids": [
         "HW-0158"
       ],
-      "notes": "Four counted with overlap; exact switching function and wire connections untested. Exact original JPG is available in the chat upload but was not transferred to GitHub."
+      "notes": "Four counted with overlap; exact switching function and wire connections untested. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-143",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-143.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 022, uploaded filename 1000063284.jpg: Red-foam parts sheet: three small white-plunger tactile switches and six larger square black-center tactile-switch mechanisms; corner of earlier LCD keypad shield.",
       "item_ids": [
         "HW-0159",
         "HW-0160",
         "HW-0151"
       ],
-      "notes": "The partially visible LCD shield at upper right appears to be previously inventoried HW-0151; no new shield counted. Original uploaded photo is referenced by filename but JPG binary not transferred to GitHub."
+      "notes": "The partially visible LCD shield at upper right appears to be previously inventoried HW-0151; no new shield counted. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-144",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-144.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 022, uploaded filename 1000063290.jpg: Flexible black 4×4 sixteen-key membrane keypad with 8-conductor ribbon and black female connector.",
       "item_ids": [
         "HW-0161"
       ],
-      "notes": "One keypad, pinout and condition not tested. Original uploaded photo is referenced by filename but JPG binary not transferred to GitHub."
+      "notes": "One keypad, pinout and condition not tested. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-145",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-145.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 022, uploaded filename 1000063291.jpg: Transparent bag containing one cartridge glass fuse and printed T3.15A warning label.",
       "item_ids": [
         "HW-0162"
       ],
-      "notes": "Small additional loose slender metal piece visible; function uncertain, no separate inventory count. Bag designation does not independently verify fuse voltage. Original uploaded photo is referenced by filename but JPG binary not transferred to GitHub."
+      "notes": "Small additional loose slender metal piece visible; function uncertain, no separate inventory count. Bag designation does not independently verify fuse voltage. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-146",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-146.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 022, uploaded filename 1000063292.jpg: Keyes five-pin KY-040-type rotary encoder breakout board marked CLK DT SW + GND.",
       "item_ids": [
         "HW-0163"
       ],
-      "notes": "One assembled module, not extra switch or detachable component inventory. Original uploaded photo is referenced by filename but JPG binary not transferred to GitHub."
+      "notes": "One assembled module, not extra switch or detachable component inventory. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-147",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-147.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 022, uploaded filename 1000063293.jpg: Five rotary potentiometers: B100K ×2, B10K ×2, B50K ×1.",
       "item_ids": [
         "HW-0164",
         "HW-0165",
         "HW-0166"
       ],
-      "notes": "Different electrical resistance values retained as three distinct records. Original uploaded photo is referenced by filename but JPG binary not transferred to GitHub."
+      "notes": "Different electrical resistance values retained as three distinct records. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-148",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-148.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 022, uploaded filename 1000063294.jpg: CanaKit PiSwitch pushbutton power switch with captive short USB-type cable.",
       "item_ids": [
         "HW-0167"
       ],
-      "notes": "Exact cable tip connector and actual function not electrically verified. Original uploaded photo is referenced by filename but JPG binary not transferred to GitHub."
+      "notes": "Exact cable tip connector and actual function not electrically verified. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-149",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-149.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 022, uploaded filename 1000063295.jpg: Olympus wired remote control clearly labelled VF-RM7 and REC/PAUSE.",
       "item_ids": [
         "HW-0168"
       ],
-      "notes": "Long captive cable, connector partly hidden. Original uploaded photo is referenced by filename but JPG binary not transferred to GitHub."
+      "notes": "Long captive cable, connector partly hidden. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-150",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-150.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 022, uploaded filename 1000063296.jpg: Front view of white Apple Remote with MENU and circular navigation buttons.",
       "item_ids": [
         "HW-0169"
       ],
-      "notes": "Same Apple Remote as next back-view photo, not a second item. Original uploaded photo is referenced by filename but JPG binary not transferred to GitHub."
+      "notes": "Same Apple Remote as next back-view photo, not a second item. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-151",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-151.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 022, uploaded filename 1000063297.jpg: Back view of same white Apple Remote with Apple logo and Model No. A1156.",
       "item_ids": [
         "HW-0169"
       ],
-      "notes": "Serial numbers intentionally not transcribed; confirms model, no additional unit. Original uploaded photo is referenced by filename but JPG binary not transferred to GitHub."
+      "notes": "Serial numbers intentionally not transcribed; confirms model, no additional unit. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-152",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-152.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 023, photo 1/1; uploaded filename 1000063298.jpg: one partially photographed clear compartment organizer with mixed resistors, ceramic capacitors, axial diodes, radial electrolytics, TO-92-like semiconductors, a TO-220 power device, connectors, two glass fuses, unidentified metal piece and two plastic cap-like pieces.",
       "item_ids": [
         "HW-0170",
@@ -1862,38 +1862,38 @@
         "HW-0181",
         "HW-0182"
       ],
-      "notes": "Count only distinguishable bodies, not leads; upper/right compartments partly cropped. The small upper-left capacitor and three-lead device identification are tentative at the model/type level. Partial black connector, angled connector, red/black caps and metal part remain low-confidence. An indistinct additional black piece by TO-220 may be another component; uncounted. Original JPG 1000063298.jpg remains conversation-upload only; no binary committed to repo."
+      "notes": "Count only distinguishable bodies, not leads; upper/right compartments partly cropped. The small upper-left capacitor and three-lead device identification are tentative at the model/type level. Partial black connector, angled connector, red/black caps and metal part remain low-confidence. An indistinct additional black piece by TO-220 may be another component; uncounted. Original JPG 1000063298.jpg remains conversation-upload only; no binary committed to repo. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-153",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-153.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 024, photo 1/6; original conversation attachment 1000063299.jpg: Ten separate slotted infrared/optical interrupter 3-pin modules with GND OUT VCC; 4+3+3 arrangement.",
       "item_ids": [
         "HW-0183"
       ],
-      "notes": "Photo file referenced by exact filename only; image binary is not stored in GitHub. Electrical function, condition, and unprinted chip numbers have not been independently tested. No invented model values."
+      "notes": "Photo file referenced by exact filename only; Electrical function, condition, and unprinted chip numbers have not been independently tested. No invented model values. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-154",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-154.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 024, photo 2/6; original conversation attachment 1000063300.jpg: Two separate red dual-channel UART-style TX/RX voltage-translation boards, markings Chan1 Chan2 TXI RXO RXI TXO LV/HV GND.",
       "item_ids": [
         "HW-0184"
       ],
-      "notes": "Photo file referenced by exact filename only; image binary is not stored in GitHub. Electrical function, condition, and unprinted chip numbers have not been independently tested. No invented model values."
+      "notes": "Photo file referenced by exact filename only; Electrical function, condition, and unprinted chip numbers have not been independently tested. No invented model values. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-155",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-155.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 024, photo 3/6; original conversation attachment 1000063301.jpg: Seven loose DIP ICs in two foam strips: two white 4N35 phototransistor optocouplers and five differently positioned black DIP ICs of unknown part numbers.",
       "item_ids": [
         "HW-0187",
@@ -1902,56 +1902,56 @@
         "HW-0190",
         "HW-0191"
       ],
-      "notes": "Photo file referenced by exact filename only; image binary is not stored in GitHub. Electrical function, condition, and unprinted chip numbers have not been independently tested. No invented model values."
+      "notes": "Photo file referenced by exact filename only; Electrical function, condition, and unprinted chip numbers have not been independently tested. No invented model values. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-156",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-156.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 024, photo 4/6; original conversation attachment 1000063302.jpg: Ten Texas Instruments SN74HC595N 16-pin 8-bit serial shift-register ICs arranged 5+5 on reddish anti-static foam.",
       "item_ids": [
         "HW-0193"
       ],
-      "notes": "Photo file referenced by exact filename only; image binary is not stored in GitHub. Electrical function, condition, and unprinted chip numbers have not been independently tested. No invented model values."
+      "notes": "Photo file referenced by exact filename only; Electrical function, condition, and unprinted chip numbers have not been independently tested. No invented model values. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-157",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-157.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 024, photo 5/6; original conversation attachment 1000063303.jpg: Two clear IC storage tubes containing multiple Maxim MAX7219CNG DIP-24 LED display driver chips; exact count blocked by overlap and tube plastic.",
       "item_ids": [
         "HW-0192"
       ],
-      "notes": "Photo file referenced by exact filename only; image binary is not stored in GitHub. Electrical function, condition, and unprinted chip numbers have not been independently tested. No invented model values."
+      "notes": "Photo file referenced by exact filename only; Electrical function, condition, and unprinted chip numbers have not been independently tested. No invented model values. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-158",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-158.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 024, photo 6/6; original conversation attachment 1000063304.jpg: One 17-key IR handheld remote, one IR receiver breakout module, and accompanying three-wire female jumper leads as accessories.",
       "item_ids": [
         "HW-0185",
         "HW-0186"
       ],
-      "notes": "Photo file referenced by exact filename only; image binary is not stored in GitHub. Electrical function, condition, and unprinted chip numbers have not been independently tested. No invented model values."
+      "notes": "Photo file referenced by exact filename only; Electrical function, condition, and unprinted chip numbers have not been independently tested. No invented model values. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-159",
       "captured_on": null,
       "processed_on": "2026-11-22",
-      "file": null,
-      "asset_status": "not_stored",
+      "file": "photos/2026/11/P-20261122-159.jpg",
+      "asset_status": "stored",
       "source_description": "Batch 024 supplemental DIP close-up: 1000063308.jpg. Two NXP-marked 74HC595N DIP-16 ICs, recognizable logo and part number; follow-up close-up to 1000063301.jpg upper foam pair.",
       "item_ids": [
         "HW-0188"
       ],
-      "notes": "Re-identification of two previously logged unknown DIP chips, not addition of two new ICs. Distinct from TI SN74HC595N HW-0193. Source is conversation attachment; binary image is not stored in GitHub. Same-unit linkage inferred from conversational sequence; revise if owner corrects."
+      "notes": "Re-identification of two previously logged unknown DIP chips, not addition of two new ICs. Distinct from TI SN74HC595N HW-0193. Same-unit linkage inferred from conversational sequence; revise if owner corrects. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
     },
     {
       "id": "P-20261122-160",
