@@ -2,18 +2,36 @@
 
 ## Status at a glance
 
-- **Inventory records:** 200 item/lot/component records (parent assemblies and installed components linked)
-- **Records associated with photographs:** 191
-- **Photo-verified / owner-confirmed hardware:** 165 (some enclosed items owner-confirmed; no working-status implied)
+- **Inventory records:** 207 item/lot/component records (parent assemblies and installed components linked)
+- **Records associated with photographs:** 198
+- **Photo-verified / owner-confirmed hardware:** 172 (some enclosed items owner-confirmed; no working-status implied)
 - **Photo-supported / tentative identifications or packaging only:** 28
 - **Previously reported, not yet photographed:** 7
-- **Photo intake records:** 170
+- **Photo intake records:** 178
 
 These are **record and photo counts**, not counts of verified working devices. A photographed retail box does not establish that electronic contents are present unless separately confirmed.
 
 - **Records lacking direct item photographs:** 9 (some contents independently confirmed by owner)
 
-## Latest batch — 026 (9 photographs, 7 new records; sensor and shield modules)
+## Latest batch — 027 (8 new photographs, 7 new records; small I2C and sensor breakouts)
+
+Eight new photos and seven new items; a ninth upload was a byte-identical resend of the batch 026 TCS3200 photo and was not logged twice. The Aether potentiometer module was photographed from both sides (one record). Two purple GY modules show only their backs.
+
+| ID | Item | Quantity | Photo |
+| --- | --- | ---: | --- |
+| HW-0201 | Aether X9C103S digital potentiometer module | 1 | `1000063320.jpg`, `1000063321.jpg` |
+| HW-0202 | Electret microphone amplifier module, adjustable gain (MAX4466 type) | 1 | `1000063322.jpg` |
+| HW-0203 | Non-contact IR temperature sensor module, MLX90614 type (GY-906 type) | 1 | `1000063323.jpg` |
+| HW-0204 | GY-91 ten-axis sensor module, MPU-9250 + BMP280 (HW-612 PCB) | 1 | `1000063324.jpg` |
+| HW-0205 | GY-BME/P280 barometric sensor breakout (BME280 or BMP280) | 1 | `1000063325.jpg` |
+| HW-0206 | CJMCU TCA9548A 8-channel I2C multiplexer module | 1 | `1000063326.jpg` |
+| HW-0207 | GY-219 INA219 current and power monitor module | 1 | `1000063327.jpg` |
+
+**Confidence notes:** The X9C103S chip marking and the TCA9548A silkscreen plus its PW548A chip marking are legible (high). The HW-612 back's PCB code and pin set match the documented GY-91 (MPU-9250 IMU + BMP280), but its sensors were not photographed (medium). The GY-219's model is its own printed designation, but only the back was photographed (medium). The GY-BME/P280's fitted chip — BME280 or BMP280 — is not clearly visible, so the variant stays undetermined (medium). The microphone module's amplifier chip sits on its unphotographed reverse (MAX4466 type, medium), and the IR module's can carries no legible model text (MLX90614 type, medium). Front photos of HW-0204 and HW-0207 and a sensor close-up of HW-0205 would settle the open points. No working condition claimed. All eight photo binaries are stored in the repo (`photos/2026/11/`, EXIF stripped).
+
+[Batch 027 detail](batches/2026-11-22-027.md).
+
+## Earlier batch — 026 (9 photographs, 7 new records; sensor and shield modules)
 
 Nine photos, seven new items. Two items were photographed from both sides and are single records, as the owner confirmed: the PIR module (dome front + held reverse) and the DS18B20 bag (devices front + labelled back). None duplicates an existing record.
 

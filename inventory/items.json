@@ -5493,6 +5493,211 @@
         "reference": "P-20261122-170"
       },
       "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0201",
+      "category": "interface_module",
+      "name": "Aether X9C103S digital potentiometer module",
+      "manufacturer": "Aether",
+      "model": "X9C103S",
+      "variant": "One small green module; reverse silkscreened 'AETHER' and the Chinese for digital potentiometer, with VCC (3V-5V) / VH (0V-5V) / VL (-5V-0V) labels and yellow headers; front carries an SOIC-8 chip legibly marked X9C103S and headers silkscreened GND / U/D / INC / CS / VCC and VH / VW / VL",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-171",
+        "P-20261122-172"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "5-pin control header (GND, U/D, INC, CS, VCC)",
+        "3-pin potentiometer header (VH, VW, VL)"
+      ],
+      "accessories": [],
+      "notes": "Front (1000063321.jpg) and back (1000063320.jpg) are the same single module, photographed seconds apart in sequence. The X9C103S is a 10 kohm, 100-tap digitally controlled potentiometer; the resistance value is the chip's standard specification, not a measurement. Distinct from the analog rotary potentiometers HW-0164, HW-0165 and HW-0166. Operational condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-172"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0202",
+      "category": "interface_module",
+      "name": "Electret microphone amplifier module with adjustable gain (MAX4466 type)",
+      "manufacturer": null,
+      "model": "MAX4466",
+      "variant": "One small blue module with a large cylindrical electret microphone capsule with black foam/felt top, silkscreened 'VCC:2.4-5.5V', 'Adjustable gain' and a 3-pin header OUT / GND / VCC",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-173"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "3-pin header (OUT, GND, VCC)"
+      ],
+      "accessories": [],
+      "notes": "One module in 1000063322.jpg. The silkscreen text, supply range and layout match the common MAX4466 electret microphone amplifier breakout, but the amplifier chip is on the unphotographed reverse, so the exact amplifier IC is medium confidence; the electret microphone amplifier identification itself is certain. Distinct from the 2.4 GHz wireless microphone kit HW-0048. Operational condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-173"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0203",
+      "category": "interface_module",
+      "name": "Non-contact infrared temperature sensor module, MLX90614 type (GY-906 type)",
+      "manufacturer": null,
+      "model": "MLX90614",
+      "variant": "One small blue module with a metal TO-39 can sensor with a dark round window, and a 4-pin header labelled VIN / GND / SCL / SDA",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-174"
+      ],
+      "connectivity": [
+        "I2C"
+      ],
+      "interfaces": [
+        "4-pin header (VIN, GND, SCL, SDA)"
+      ],
+      "accessories": [],
+      "notes": "One module in 1000063323.jpg. The metal-can infrared thermopile sensor with an I2C header is the standard MLX90614 (GY-906) non-contact temperature module; the can and board carry no legible model text in the photo, so the exact sensor model is medium confidence. Distinct from the contact DS18B20 sensors HW-0199. Operational condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-174"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0204",
+      "category": "interface_module",
+      "name": "GY-91 ten-axis sensor module, MPU-9250 IMU + BMP280 (HW-612 PCB)",
+      "manufacturer": null,
+      "model": "GY-91",
+      "variant": "One purple breakout photographed from the back only: 8-pin header silkscreened VIN / 3V3 / GND / SCL / SDA / SDO/SAO / NCS / CSB and PCB code HW-612, with two mounting holes",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-175"
+      ],
+      "connectivity": [
+        "I2C",
+        "SPI"
+      ],
+      "interfaces": [
+        "8-pin header (VIN, 3V3, GND, SCL, SDA, SDO/SAO, NCS, CSB)"
+      ],
+      "accessories": [],
+      "notes": "Back side only in 1000063324.jpg; the sensor chips were not photographed. The HW-612 PCB code and the exact pin set match the documented GY-91 module, which combines an MPU-9250 nine-axis IMU (accelerometer, gyroscope, magnetometer) with a BMP280 barometric pressure sensor (some documentation describes the pressure part as a BME280; the fitted variant cannot be confirmed without the front). A front photo would raise confidence. Operational condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-175"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0205",
+      "category": "interface_module",
+      "name": "GY-BME/P280 barometric sensor breakout (BME280 or BMP280, variant undetermined)",
+      "manufacturer": null,
+      "model": "GY-BME/P280",
+      "variant": "One small purple breakout silkscreened 'GY-B11', 'E/P' (partly obscured) and '280', with a 6-pin header VCC / GND / SCL / SDA / CSB / SDO and two mounting holes; a black marker-like smudge partly covers the board centre",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-176"
+      ],
+      "connectivity": [
+        "I2C",
+        "SPI"
+      ],
+      "interfaces": [
+        "6-pin header (VCC, GND, SCL, SDA, CSB, SDO)"
+      ],
+      "accessories": [],
+      "notes": "One module in 1000063325.jpg. The GY-BM E/P 280 board is populated with either a BME280 (temperature, humidity, pressure) or a BMP280 (temperature, pressure); the fitted sensor is not clearly visible in the photo, so the variant stays undetermined. Distinct from the larger GY-91 module HW-0204, which carries its own pressure sensor. A close-up of the sensor chip would settle the variant. Operational condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-176"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0206",
+      "category": "interface_module",
+      "name": "CJMCU TCA9548A 8-channel I2C multiplexer module",
+      "manufacturer": "CJMCU",
+      "model": "TCA9548A",
+      "variant": "One purple module silkscreened 'TCA9548A' and 'CJMCU', with a TSSOP chip legibly marked PW548A (the TCA9548A package marking) and headers for VIN / GND / SDA / SCL / RST / A0 / A1 / A2 plus eight downstream channel pairs SD0/SC0 through SD7/SC7",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-177"
+      ],
+      "connectivity": [
+        "I2C"
+      ],
+      "interfaces": [
+        "Upstream I2C header with RST and A0-A2 address pins",
+        "8 downstream I2C channel pairs (SD0/SC0 - SD7/SC7)"
+      ],
+      "accessories": [],
+      "notes": "One module in 1000063326.jpg; both the board silkscreen and the TI chip marking (PW548A) are legible. The TCA9548A is a low-voltage 8-channel I2C switch/multiplexer. Operational condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-177"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0207",
+      "category": "interface_module",
+      "name": "GY-219 INA219 current and power monitor module",
+      "manufacturer": null,
+      "model": "GY-219",
+      "variant": "One purple module photographed from the back only: silkscreened 'GY-219', a 6-pin header VIN+ / VIN- / SDA / SCL / GND / VCC, and the edge of a blue screw terminal visible at the top of the frame",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-178"
+      ],
+      "connectivity": [
+        "I2C"
+      ],
+      "interfaces": [
+        "6-pin header (VIN+, VIN-, SDA, SCL, GND, VCC)",
+        "Screw terminal for the measured supply (partly visible)"
+      ],
+      "accessories": [],
+      "notes": "Back side only in 1000063327.jpg; the INA219 chip on the front was not photographed. GY-219 is the module's own printed designation and denotes the INA219 I2C current/power monitor breakout; identification rests on that silkscreen plus the VIN+/VIN- shunt pinout, so confidence is medium. A front photo would confirm the chip. Operational condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-178"
+      },
+      "updated_on": "2026-11-22"
     }
   ]
 }

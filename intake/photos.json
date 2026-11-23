@@ -2085,6 +2085,102 @@
         "HW-0200"
       ],
       "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-171",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-171.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 027: 1000063320.jpg (EXIF date 2026-11-22). Back of a small green Aether digital potentiometer module: brand and Chinese product text, VCC/VH/VL voltage labels, yellow headers.",
+      "item_ids": [
+        "HW-0201"
+      ],
+      "notes": "Same single module as P-20261122-172 (its front). Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-172",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-172.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 027: 1000063321.jpg (EXIF date 2026-11-22). Front of the same Aether module: SOIC-8 chip marked X9C103S, GND/U/D/INC/CS/VCC and VH/VW/VL silkscreen.",
+      "item_ids": [
+        "HW-0201"
+      ],
+      "notes": "Same single module as P-20261122-171 (its back). Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-173",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-173.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 027: 1000063322.jpg (EXIF date 2026-11-22). One blue electret microphone amplifier module, large mic capsule, 'VCC:2.4-5.5V Adjustable gain' and OUT/GND/VCC silkscreen.",
+      "item_ids": [
+        "HW-0202"
+      ],
+      "notes": "Amplifier chip is on the unphotographed reverse. Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-174",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-174.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 027: 1000063323.jpg (EXIF date 2026-11-22). One blue non-contact IR temperature module: metal TO-39 can sensor, VIN/GND/SCL/SDA header.",
+      "item_ids": [
+        "HW-0203"
+      ],
+      "notes": "No legible model text on can or board. Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-175",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-175.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 027: 1000063324.jpg (EXIF date 2026-11-22). Back of a purple 8-pin breakout: VIN/3V3/GND/SCL/SDA/SDO-SA0/NCS/CSB labels and HW-612 PCB code.",
+      "item_ids": [
+        "HW-0204"
+      ],
+      "notes": "Front (sensor side) not photographed. Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-176",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-176.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 027: 1000063325.jpg (EXIF date 2026-11-22). One small purple GY-B11 E/P 280 breakout, VCC/GND/SCL/SDA/CSB/SDO header; board centre partly obscured by a dark smudge.",
+      "item_ids": [
+        "HW-0205"
+      ],
+      "notes": "Fitted sensor variant (BME280 vs BMP280) not determinable from this photo. Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-177",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-177.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 027: 1000063326.jpg (EXIF date 2026-11-22). One purple CJMCU TCA9548A I2C multiplexer module, chip marked PW548A, channel headers SD0/SC0-SD7/SC7.",
+      "item_ids": [
+        "HW-0206"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-178",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-178.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 027: 1000063327.jpg (EXIF date 2026-11-22). Back of a purple GY-219 module: GY-219 silkscreen, VIN+/VIN-/SDA/SCL/GND/VCC header, edge of blue screw terminal at frame top.",
+      "item_ids": [
+        "HW-0207"
+      ],
+      "notes": "Front (INA219 chip side) not photographed. Binary stored in the repo with EXIF stripped."
     }
   ]
 }
