@@ -2,20 +2,33 @@
 
 ## Status at a glance
 
-- **Inventory records:** 237 item/lot/component records (parent assemblies and installed components linked)
-- **Records associated with photographs:** 232
-- **Photo-verified / owner-confirmed hardware:** 204 (some enclosed items owner-confirmed; no working-status implied)
+- **Inventory records:** 241 item/lot/component records (parent assemblies and installed components linked)
+- **Records associated with photographs:** 236
+- **Photo-verified / owner-confirmed hardware:** 208 (some enclosed items owner-confirmed; no working-status implied)
 - **Photo-supported / tentative identifications or packaging only:** 28
 - **Previously reported, not yet photographed:** 5
-- **Photo intake records:** 216
+- **Photo intake records:** 220
 
 These are **record and photo counts**, not counts of verified working devices. A photographed retail box does not establish that electronic contents are present unless separately confirmed.
 
 - **Records lacking direct item photographs:** 8 (some contents independently confirmed by owner; HW-0008 carries a labelled web reference image of its model, not a photo of the owner's unit)
 
-## Latest update — 037 (maintenance: two records removed, one reference image filed)
+## Latest batch — 038 (4 photographs, 4 records; two gamepads under reused IDs, a serial cable, a retro handheld)
 
-At the owner's request: the Google Nest doorbell (HW-0009) and Nest Wi-Fi camera (HW-0010) records were removed (both reported-only, never photographed; IDs retired, not reused). HW-0008 was identified by the owner as a **Logitech Extreme 3D Pro** flight joystick, and a retailer product photo was filed as `P-20261123-001`, clearly labelled as a reference image of the model — HW-0008 remains reported/unverified until the owner's own stick is photographed.
+| ID | Item | Quantity | Photo |
+| --- | --- | ---: | --- |
+| HW-0009 | Google Stadia Controller (Midnight Blue) — reused ID, formerly the Nest doorbell record | 1 | `1000063382.jpg` |
+| HW-0010 | 8BitDo Ultimate Mobile Gaming Controller — reused ID, formerly the Nest Wi-Fi camera record | 1 | `1000063383.jpg` |
+| HW-0240 | DB9 serial port bracket ribbon cable (10-pin IDC to DB9 male) | 1 | `1000063381.jpg` |
+| HW-0241 | "Time Series" retro handheld game console | 1 | `1000063384.jpg` |
+
+**Confidence notes:** The Stadia controller's logo and Assistant/Capture button set are legible in an enlarged view (high). The white telescopic controller's brand was identified by the owner as 8BitDo, with the Xbox button and coloured ABXY matching its Ultimate Mobile model (high). The DB9 bracket cable is unambiguous (high). The retro handheld carries only its printed "Time Series" branding, no maker or model (medium). The two gamepad IDs were reused at the owner's explicit instruction after the Nest records were removed in update 037 — the reuse is documented in each record's notes. All four photo binaries are stored in the repo (`photos/2026/11/`, EXIF stripped).
+
+[Batch 038 detail](batches/2026-11-23-038.md).
+
+## Earlier update — 037 (maintenance: two records removed, one reference image filed)
+
+At the owner's request: the Google Nest doorbell and Nest Wi-Fi camera records were removed (both reported-only, never photographed). Their IDs were initially retired, then reused for two gamepads in batch 038 at the owner's instruction. HW-0008 was identified by the owner as a **Logitech Extreme 3D Pro** flight joystick, and a retailer product photo was filed as `P-20261123-001`, clearly labelled as a reference image of the model — HW-0008 remains reported/unverified until the owner's own stick is photographed.
 
 [Maintenance 037 detail](batches/2026-11-23-037.md).
 

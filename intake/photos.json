@@ -2638,6 +2638,54 @@
         "HW-0008"
       ],
       "notes": "Filed at the owner's request as a labelled reference image for HW-0008. It is a manufacturer's/retailer's product photo of the model, NOT a photograph of the owner's joystick, and it does not change HW-0008's reported/unverified status. Stored as downloaded (converted from WebP to JPEG, 1200x1200); no EXIF."
+    },
+    {
+      "id": "P-20261123-002",
+      "captured_on": "2026-11-23",
+      "processed_on": "2026-11-23",
+      "file": "photos/2026/11/P-20261123-002.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 038: 1000063381.jpg (EXIF date 2026-11-23). One grey ribbon cable: 10-pin IDC header to DB9 male serial connector in a bracket housing.",
+      "item_ids": [
+        "HW-0240"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261123-003",
+      "captured_on": "2026-11-23",
+      "processed_on": "2026-11-23",
+      "file": "photos/2026/11/P-20261123-003.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 038: 1000063382.jpg (EXIF date 2026-11-23). One dark blue Google Stadia Controller: orange stick rings, Stadia/Assistant/Capture buttons, ABXY.",
+      "item_ids": [
+        "HW-0009"
+      ],
+      "notes": "HW-0009 is a reused ID (formerly the removed Nest doorbell record) per the owner's instruction - see batch 038. Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261123-004",
+      "captured_on": "2026-11-23",
+      "processed_on": "2026-11-23",
+      "file": "photos/2026/11/P-20261123-004.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 038: 1000063383.jpg (EXIF date 2026-11-23). One white 8BitDo Ultimate Mobile Gaming Controller, telescopic and empty: Xbox button, coloured ABXY, patterned thumbstick caps.",
+      "item_ids": [
+        "HW-0010"
+      ],
+      "notes": "HW-0010 is a reused ID (formerly the removed Nest Wi-Fi camera record) per the owner's instruction - see batch 038. Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261123-005",
+      "captured_on": "2026-11-23",
+      "processed_on": "2026-11-23",
+      "file": "photos/2026/11/P-20261123-005.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 038: 1000063384.jpg (EXIF date 2026-11-23). One white/pink 'Time Series' retro handheld console: screen, paw-print stick cap, D-pad, action and L/R buttons, bottom-edge ports.",
+      "item_ids": [
+        "HW-0241"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
     }
   ]
 }

@@ -202,6 +202,66 @@
       "updated_on": "2026-11-23"
     },
     {
+      "id": "HW-0009",
+      "category": "controller",
+      "name": "Google Stadia Controller (Midnight Blue)",
+      "manufacturer": "Google",
+      "model": "Stadia Controller",
+      "variant": "One dark blue gamepad with asymmetric sticks ringed in orange, a cross D-pad, ABXY buttons, and the Stadia (orange swirl), Google Assistant, Capture, Menu and Options buttons across the middle",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261123-003"
+      ],
+      "connectivity": [
+        "Wi-Fi (Stadia service, discontinued)",
+        "Bluetooth",
+        "USB-C"
+      ],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "One controller in 1000063382.jpg; the Stadia logo button and the Assistant/Capture button set are legible in an enlarged view, and the dark blue shell with orange stick rings is the Founders/Midnight Blue colourway. This record reuses the ID of a removed record at the owner's explicit instruction on 2026-11-23 (see batch 038); the ID previously belonged to the Google Nest doorbell, removed in maintenance 037. Working condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261123-003"
+      },
+      "updated_on": "2026-11-23"
+    },
+    {
+      "id": "HW-0010",
+      "category": "controller",
+      "name": "8BitDo Ultimate Mobile Gaming Controller",
+      "manufacturer": "8BitDo",
+      "model": "Ultimate Mobile Gaming Controller",
+      "variant": "One white telescopic phone controller, photographed empty: extending bridge with an embossed grip pad, D-pad and one stick on the left section, ABXY buttons in Xbox colours, an Xbox button and a second stick on the right section; patterned green/purple thumbstick caps fitted",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261123-004"
+      ],
+      "connectivity": [
+        "USB-C (phone connection)"
+      ],
+      "interfaces": [
+        "Telescopic phone mount"
+      ],
+      "accessories": [
+        "Patterned thumbstick caps (green and purple orbit design) fitted to both sticks"
+      ],
+      "notes": "One controller in 1000063383.jpg. Brand identified by the owner on 2026-11-23 as 8BitDo; the telescopic form, Xbox button and coloured ABXY match the 8BitDo Ultimate Mobile Gaming Controller. No phone is mounted in the photo. This record reuses the ID of a removed record at the owner's explicit instruction on 2026-11-23 (see batch 038); the ID previously belonged to the Google Nest Wi-Fi camera, removed in maintenance 037. Working condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261123-004"
+      },
+      "updated_on": "2026-11-23"
+    },
+    {
       "id": "HW-0011",
       "category": "robotics_platform",
       "name": "4WD acrylic robot car chassis kit",
@@ -6549,6 +6609,63 @@
       "source": {
         "type": "photo",
         "reference": "P-20261122-214"
+      },
+      "updated_on": "2026-11-23"
+    },
+    {
+      "id": "HW-0240",
+      "category": "cable",
+      "name": "DB9 serial port bracket ribbon cable (10-pin IDC to DB9 male)",
+      "manufacturer": null,
+      "model": null,
+      "variant": "One grey flat ribbon cable with a 10-pin IDC female header connector at one end and a DB9 male serial connector in a bracket housing at the other; partial cable print not legible enough to record",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261123-002"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "10-pin IDC header",
+        "DB9 male serial connector"
+      ],
+      "accessories": [],
+      "notes": "One cable in 1000063381.jpg. This is the classic PC motherboard COM-header to rear-bracket serial port cable. Length not measured.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261123-002"
+      },
+      "updated_on": "2026-11-23"
+    },
+    {
+      "id": "HW-0241",
+      "category": "retro_gaming_system",
+      "name": "\"Time Series\" retro handheld game console",
+      "manufacturer": null,
+      "model": null,
+      "variant": "One white handheld console with pink accents: colour screen with a rose-gold bezel, one thumbstick wearing a pink paw-print cap, a cross D-pad, four round action buttons plus separate L and R buttons on the face, metal SELECT/START/RESET buttons, speaker slots, and ports along the bottom edge including a 3.5 mm jack; printed text reads '- Time flies' and '- Time Series game madchine' [sic]",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261123-005"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Bottom-edge ports including a 3.5 mm headphone jack"
+      ],
+      "accessories": [
+        "Pink paw-print thumbstick cap"
+      ],
+      "notes": "One console in 1000063384.jpg. A generic built-in-games retro handheld sold under the printed 'Time Series' name; no manufacturer or model number is printed on the face, and the back was not photographed, so the identification rests on the printed branding and layout (medium confidence). The screen is off in the photo; working condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261123-005"
       },
       "updated_on": "2026-11-23"
     }
