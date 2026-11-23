@@ -20,10 +20,10 @@ These are **record and photo counts**, not counts of verified working devices. A
 | HW-0267 | Soldered Inkplate 13 Spectra e-paper display (with enclosure) | 1 | `1000063583.jpg` |
 | HW-0268 | Soldered Inkplate 6 MOTION with enclosure and battery (boxed) | 1 | `1000063582.jpg` |
 | HW-0008 | Logitech Extreme 3D Pro — owner's unit photographed at last | 1 | `1000063581.jpg` |
-| HW-0269 | Six-tube Nixie clock (blue case) | 1 | `1000063580.jpg` |
+| HW-0269 | Nick2 Nixie Clock (IN-12 version, blue printed case) | 1 | `1000063580.jpg` |
 | HW-0270 | Xilinx Kria starter kit (second unit, boxed) | 1 | `fdff88b7….jpg` |
 
-**Confidence notes:** The Inkplate 13 Spectra is photographed running its factory screen (high). The Inkplate 6 MOTION and the second Kria are retail boxes only, so both stay photo_tentative — the 6 MOTION's model is certain from its label, while the Kria's variant (KV260 vs KR260) is illegible and the record rests on the owner's "another Kria" report (medium). The Nixie clock has no visible markings, so no tube type or maker is recorded (medium). All five photo binaries are stored in the repo (`photos/2026/11/`, EXIF stripped).
+**Confidence notes:** The Inkplate 13 Spectra is photographed running its factory screen (high). The Inkplate 6 MOTION and the second Kria are retail boxes only, so both stay photo_tentative — the 6 MOTION's model is certain from its label, while the Kria's variant (KV260 vs KR260) is illegible and the record rests on the owner's "another Kria" report (medium). The Nixie clock was identified afterwards from the owner's `git-hevangel` mirror of mcer12's Nick2 project as the IN-12 version (high; see the batch 042 addendum). All five photo binaries are stored in the repo (`photos/2026/11/`, EXIF stripped).
 
 [Batch 042 detail](batches/2026-11-23-042.md).
 

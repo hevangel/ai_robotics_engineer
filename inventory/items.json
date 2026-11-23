@@ -7369,22 +7369,27 @@
     {
       "id": "HW-0269",
       "category": "display_component",
-      "name": "Six-tube Nixie clock (blue case)",
-      "manufacturer": null,
-      "model": null,
-      "variant": "A desktop clock with six mesh-cage Nixie tubes in a row on a black top plate over a blue (apparently 3D-printed) case; no branding or model marking visible; photographed unpowered",
+      "name": "Nick2 Nixie Clock (IN-12 version, blue printed case)",
+      "manufacturer": "mcer12 (open-source design)",
+      "model": "Nick2 Nixie Clock — IN-12 version",
+      "variant": "Six-digit NTP clock from the open-source Nick2 project: six IN-12 Nixie tubes in wire-lead form (consistent with IN-12B - flying leads visible at the glass pinch bases, no plastic pin base), honeycomb mesh anodes, black 3D-printed top plate over a blue printed case; per the project design it is ESP8266/ESP32-based, NTP-synced over WiFi, direct-driven (not multiplexed) with WS2812 LED colons and USB-C 5 V power",
       "quantity": 1,
       "condition": "unknown",
       "location": null,
       "verification_status": "photo_verified",
-      "identification_confidence": "medium",
+      "identification_confidence": "high",
       "photo_ids": [
         "P-20261123-033"
       ],
-      "connectivity": [],
-      "interfaces": [],
+      "connectivity": [
+        "WiFi"
+      ],
+      "interfaces": [
+        "WiFi (NTP time sync)",
+        "USB-C (5 V power, per project design)"
+      ],
       "accessories": [],
-      "notes": "One clock in 1000063580.jpg. The tubes are classic wire-mesh Nixie types (IN-12 family form) but no tube type or kit maker is marked visibly, so neither is recorded. Unpowered in the photo; working condition unknown.",
+      "notes": "Identified after the owner pointed to his mirror of the project at github.com/git-hevangel/Nick2-Nixie-Clock (upstream: github.com/mcer12/Nick2-Nixie-Clock, GPL-3.0). The project ships IN-16, IN-12 and ZM1040 variants; the photographed tubes match the IN-12 version - close inspection of P-20261123-033 shows honeycomb-mesh tubes with large stacked digit cathodes and wire flying leads at the base, and the case is the project's 3D-printed cover style. Photographed unpowered; working condition unknown.",
       "source": {
         "type": "photo",
         "reference": "P-20261123-033"
