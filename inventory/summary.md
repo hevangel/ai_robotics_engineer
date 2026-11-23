@@ -2,16 +2,30 @@
 
 ## Status at a glance
 
-- **Inventory records:** 42 distinct hardware item/lot records
-- **Records associated with photographs:** 35
-- **Photo-verified / owner-confirmed visible hardware:** 27
-- **Photo-supported but packaging only / tentative:** 8
+- **Inventory records:** 47 distinct hardware item/lot records
+- **Records associated with photographs:** 40
+- **Photo-verified / owner-confirmed visible hardware:** 30
+- **Photo-supported but packaging only / tentative:** 10
 - **Previously reported, not yet photographed:** 7
-- **Photo intake records:** 34
+- **Photo intake records:** 39
 
 These are **record and photo counts**, not counts of verified working devices. A photographed retail box does not establish that electronic contents are present unless separately confirmed.
 
-## Latest batch — 006 (10 received / 9 new photos)
+## Latest batch — 007 (5 photos)
+
+| ID | Item | Quantity | Evidence |
+| --- | --- | --- | --- |
+| HW-0043 | Buddy Paint Art marker | 1 | Marker type/formulation tentative |
+| HW-0044 | Spring-loaded desoldering pump | 1 | Tool visible, untested |
+| HW-0045 | MG Chemicals 835-P rosin flux pen (10 mL) | 1 | Product label verified; fill remaining unknown |
+| HW-0046 | JX-05 Bluetooth ring remote | 1 | Device + instructions visible; pairing untested |
+| HW-0047 | Google Daydream View VR headset | 1 box | Packaging only; contents uninspected |
+
+The JX-05 ring controller is a newly recorded device (although previously mentioned in conversation), and the Google Daydream headset is currently verified only through its box. The Buddy Paint Art marker's material is not verified as conductive.
+
+[Batch 007 evidence](batches/2026-11-22-007.md)
+
+## Earlier batch — 006 (10 received / 9 new photos)
 
 | ID | Item | Quantity | Identification |
 | --- | --- | --- | --- |

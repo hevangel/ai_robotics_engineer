@@ -1161,6 +1161,139 @@
         "reference": "P-20261122-034"
       },
       "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0043",
+      "category": "tool",
+      "name": "Buddy Paint Art paint marker pen",
+      "manufacturer": null,
+      "model": "Buddy Paint Art",
+      "variant": null,
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_tentative",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-035"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "One black-bodied white-capped pen with large readable 'Buddy Paint Art' lettering and smaller Chinese text. Looks like a paint/art marker rather than a circuit component. Ink type, pigmentation, brand/manufacturer identity, tip and electrical conductivity not established. Do not claim it is conductive ink or a PCB marker without confirming packaging or using it. Directly photographed.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-035"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0044",
+      "category": "tool",
+      "name": "Manual solder desoldering suction pump",
+      "manufacturer": null,
+      "model": null,
+      "variant": "Blue-and-silver spring-loaded solder sucker with plunger and white nozzle",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-036"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "One cylindrical metal-bodied hand-operated desoldering vacuum pump, blue thumb/plunger assembly, black release button and white heat-resistant-looking nozzle. Used to remove molten solder from joints. Manufacturer, exact model and function not tested. Direct photo.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-036"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0045",
+      "category": "electronics_material",
+      "name": "MG Chemicals 835-P Rosin Flux Pen, 10 mL",
+      "manufacturer": "MG Chemicals",
+      "model": "835-P",
+      "variant": "Rosin soldering flux pen, net fill 10 mL (as marked)",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-037"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "One white tube clearly labeled MG Chemicals ROSIN FLUX PEN, Cat. No. 835-P, NET. FILL 10 ml. Exact remaining fluid, age, lid seal and usability unknown. Soldering flux material, not conductive pen or paint marker. Follow manufacturer handling/ventilation guidance.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-037"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0046",
+      "category": "controller",
+      "name": "JX-05 Bluetooth ring remote control",
+      "manufacturer": null,
+      "model": "JX-05",
+      "variant": "Wearable ring remote for mobile phone reading, video and selfie controls",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-038"
+      ],
+      "connectivity": [
+        "Bluetooth (per accompanying manual; pairing untested)"
+      ],
+      "interfaces": [
+        "Five visible directional/central control buttons"
+      ],
+      "accessories": [
+        "Transparent plastic storage case",
+        "Printed JX-05 instruction leaflet",
+        "Coiled small cable/charging accessory (type unverified)"
+      ],
+      "notes": "One black wearable 5-button Bluetooth ring remote in transparent plastic storage case; printed JX-05 manual reads 'Multifunction Mobile phone bluetooth Ring remote control' with 'Video/Reading/Selfie Remote Control Instructions' and iOS/Android icons. Cable/accessory coiled beside ring in package (connector not verified). Previously discussed as owned, but no previous inventory record; this is one physical unit, not duplicate of other controller entries. Pairing, platform HID mapping, charging and condition untested.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-038"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0047",
+      "category": "vr_headset",
+      "name": "Google Daydream View VR headset (retail box)",
+      "manufacturer": "Google",
+      "model": "Daydream View",
+      "variant": "Fabric-covered mobile phone VR headset; exact generation not known",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_tentative",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-039"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "One white retail box prominently labeled 'Daydream View', 'VR Headset by Google' with headset picture and Google logo. Box only; actual headset, controller, straps, packaging contents and functionality not physically observed. Treat as one boxed product, not proof contents are present or working. Different from discontinued Daydream software ecosystem; use for phone VR/DIY if compatible devices can be established.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-039"
+      },
+      "updated_on": "2026-11-22"
     }
   ]
 }

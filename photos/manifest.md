@@ -1,6 +1,6 @@
 # Photo evidence index
 
-**Last updated:** 2026-11-22. **Photos logged: 34.** This file indexes the actual photographs received in the ChatGPT conversation, but **does not contain the JPG images**. Original image assets have not been copied to GitHub. The canonical relationship between photo IDs and hardware IDs is in [the JSON intake log](../intake/photos.json).
+**Last updated:** 2026-11-22. **Photos logged: 39.** This file indexes the actual photographs received in the ChatGPT conversation, but **does not contain the JPG images**. Original image assets have not been copied to GitHub. The canonical relationship between photo IDs and hardware IDs is in [the JSON intake log](../intake/photos.json).
 
 | Photo ID | Conversation image filename | Related hardware ID(s) | Description |
 | --- | --- | --- | --- |
@@ -41,9 +41,15 @@
 | `P-20261122-033` | `1000063165.jpg` | `HW-0041` | Assorted colored jumper wire bundle with white multi-pin plugs and black female Dupont-type connectors |
 | `P-20261122-034` | `1000063166.jpg` | `HW-0042` | Bag of small hook-style test accessories and metal-shaft probe grabs with colored sleeves |
 
+| `P-20261122-035` | `1000063167.jpg` | `HW-0043` | Buddy Paint Art marker pen with black body and white cap, Chinese characters on barrel |
+| `P-20261122-036` | `1000063168.jpg` | `HW-0044` | Manual spring-loaded metal-body solder sucker / desoldering pump, blue plunger with white nozzle |
+| `P-20261122-037` | `1000063169.jpg` | `HW-0045` | MG Chemicals Rosin Flux Pen Cat No 835-P, net fill 10 mL |
+| `P-20261122-038` | `1000063170.jpg` | `HW-0046` | Black JX-05 wearable Bluetooth ring remote and instruction leaflet beside transparent case |
+| `P-20261122-039` | `1000063171.jpg` | `HW-0047` | Google Daydream View VR Headset retail package, printed headset image |
+
 ## Batch notes
 
-[Batch 001](../inventory/batches/2026-11-22-001.md) · [Batch 002](../inventory/batches/2026-11-22-002.md) · [Batch 003](../inventory/batches/2026-11-22-003.md) · [Batch 004](../inventory/batches/2026-11-22-004.md) · [Batch 005](../inventory/batches/2026-11-22-005.md) · [Batch 006](../inventory/batches/2026-11-22-006.md)
+[Batch 001](../inventory/batches/2026-11-22-001.md) · [Batch 002](../inventory/batches/2026-11-22-002.md) · [Batch 003](../inventory/batches/2026-11-22-003.md) · [Batch 004](../inventory/batches/2026-11-22-004.md) · [Batch 005](../inventory/batches/2026-11-22-005.md) · [Batch 006](../inventory/batches/2026-11-22-006.md) · [Batch 007](../inventory/batches/2026-11-22-007.md)
 
 ## Next action to make the catalog self-contained
 

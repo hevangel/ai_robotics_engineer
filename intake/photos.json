@@ -413,6 +413,66 @@
         "HW-0042"
       ],
       "notes": "Separate bundle from HW-0039, count of pieces uncertain. Original conversation JPG not stored in GitHub."
+    },
+    {
+      "id": "P-20261122-035",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Uploaded photo 1000063167.jpg: Buddy Paint Art marker pen with black body and white cap, Chinese characters on barrel.",
+      "item_ids": [
+        "HW-0043"
+      ],
+      "notes": "Text supports product labeling, but paint formulation and intended surface remain unverified. Original chat JPG not yet stored in GitHub."
+    },
+    {
+      "id": "P-20261122-036",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Uploaded photo 1000063168.jpg: Manual spring-loaded metal-body solder sucker / desoldering pump, blue plunger with white nozzle.",
+      "item_ids": [
+        "HW-0044"
+      ],
+      "notes": "Directly visible; no functional test performed. Original chat JPG not yet stored in GitHub."
+    },
+    {
+      "id": "P-20261122-037",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Uploaded photo 1000063169.jpg: MG Chemicals Rosin Flux Pen Cat No 835-P, net fill 10 mL.",
+      "item_ids": [
+        "HW-0045"
+      ],
+      "notes": "Direct printed product model and material; amount remaining not verified. Original chat JPG not yet stored in GitHub."
+    },
+    {
+      "id": "P-20261122-038",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Uploaded photo 1000063170.jpg: Black JX-05 wearable Bluetooth ring remote and instruction leaflet beside transparent case.",
+      "item_ids": [
+        "HW-0046"
+      ],
+      "notes": "Directly visible ring/manual. A bundled small cable is visible inside packaging; not tested. Original chat JPG not yet stored in GitHub."
+    },
+    {
+      "id": "P-20261122-039",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Uploaded photo 1000063171.jpg: Google Daydream View VR Headset retail package, printed headset image.",
+      "item_ids": [
+        "HW-0047"
+      ],
+      "notes": "Retail packaging only; physical headset/controller not shown. Original chat JPG not yet stored in GitHub."
     }
   ]
 }
