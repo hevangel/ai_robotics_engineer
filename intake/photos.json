@@ -1940,6 +1940,18 @@
         "HW-0186"
       ],
       "notes": "Photo file referenced by exact filename only; image binary is not stored in GitHub. Electrical function, condition, and unprinted chip numbers have not been independently tested. No invented model values."
+    },
+    {
+      "id": "P-20261122-159",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 024 supplemental DIP close-up: 1000063308.jpg. Two NXP-marked 74HC595N DIP-16 ICs, recognizable logo and part number; follow-up close-up to 1000063301.jpg upper foam pair.",
+      "item_ids": [
+        "HW-0188"
+      ],
+      "notes": "Re-identification of two previously logged unknown DIP chips, not addition of two new ICs. Distinct from TI SN74HC595N HW-0193. Source is conversation attachment; binary image is not stored in GitHub. Same-unit linkage inferred from conversational sequence; revise if owner corrects."
     }
   ]
 }
