@@ -6490,6 +6490,83 @@
         "reference": "P-20261122-210"
       },
       "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0236",
+      "category": "electronics_material",
+      "name": "MG Chemicals Super Wick desoldering braid, 0.075 in, 5 ft (Cat # 425-NS)",
+      "manufacturer": "MG Chemicals",
+      "model": "Super Wick 425-NS",
+      "variant": "One spool of no-clean, static-free fine copper desoldering braid, label reading 'SUPER WICK', 'Width .075\"', '5 ft / 1.5 m', 'Cat # 425-NS', 'FINE BRAID - MADE IN USA', with a lead-free (Pb crossed-out) mark; the loose end of the braid is solder-loaded from use",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-211"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "One spool in 1000063376.jpg; all label text legible (the braid itself covers part of the MG Chemicals logo). Part-used consumable - the remaining length is not measurable from the photo. Complements the desoldering pump HW-0044.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-211"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0237",
+      "category": "electronics_material",
+      "name": "ENSON conductive silver paste syringe (EN-06B8)",
+      "manufacturer": "ENSON",
+      "model": "EN-06B8 (datasheet body text: HE-6106B8)",
+      "variant": "One small syringe of dark conductive silver paste with a red cap and one amber dispensing tip, sealed in a foil pouch with its Chinese-language technical datasheet headed 'ENSON brand conductive silver paste EN-06B8'; the datasheet describes a nano-silver paste for membrane switches and flexible circuits, cured at 140 C for 30 minutes, for PET and PC substrates",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-212"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [
+        "Amber dispensing tip stored beside the syringe in the pouch"
+      ],
+      "notes": "One syringe in 1000063377.jpg. The pouch header gives the model as EN-06B8 while the datasheet body text calls it HE-6106B8 - both readings are recorded as printed. Syringe fill volume is not legible and is not claimed. Sealed/unopened state cannot be confirmed beyond the intact foil pouch. A circuit-repair and flexible-circuit material, in the same family of uses as the conductive tape HW-0013.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-212"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0238",
+      "category": "tool",
+      "name": "Blunt dispensing needle tips, pink Luer-lock (20-gauge colour)",
+      "manufacturer": null,
+      "model": null,
+      "variant": "Seven pink-hub blunt stainless dispensing needles with Luer-lock hubs, loose in a clear bag; pink is the standard colour code for 20-gauge dispensing tips",
+      "quantity": 7,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-213"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "Seven tips counted in 1000063378.jpg. The gauge is inferred from the pink hub colour code (20G) rather than any printed marking, hence medium confidence. These fit syringes such as the silver paste HW-0237; the tip stored with that syringe is a different (amber) one.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-213"
+      },
+      "updated_on": "2026-11-22"
     }
   ]
 }

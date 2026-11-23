@@ -2566,6 +2566,42 @@
         "HW-0235"
       ],
       "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-211",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-211.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 035: 1000063376.jpg (EXIF date 2026-11-22). One spool of MG Chemicals Super Wick desoldering braid: label with width .075 in, 5 ft, Cat # 425-NS; used braid end visible.",
+      "item_ids": [
+        "HW-0236"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-212",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-212.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 035: 1000063377.jpg (EXIF date 2026-11-22). ENSON conductive silver paste syringe in a foil pouch with its Chinese datasheet (EN-06B8 / HE-6106B8), red cap and amber tip.",
+      "item_ids": [
+        "HW-0237"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-213",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-213.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 035: 1000063378.jpg (EXIF date 2026-11-22). Seven pink Luer-lock blunt dispensing needle tips in a clear bag.",
+      "item_ids": [
+        "HW-0238"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
     }
   ]
 }

@@ -2,18 +2,30 @@
 
 ## Status at a glance
 
-- **Inventory records:** 235 item/lot/component records (parent assemblies and installed components linked)
-- **Records associated with photographs:** 227
-- **Photo-verified / owner-confirmed hardware:** 200 (some enclosed items owner-confirmed; no working-status implied)
+- **Inventory records:** 238 item/lot/component records (parent assemblies and installed components linked)
+- **Records associated with photographs:** 230
+- **Photo-verified / owner-confirmed hardware:** 203 (some enclosed items owner-confirmed; no working-status implied)
 - **Photo-supported / tentative identifications or packaging only:** 28
 - **Previously reported, not yet photographed:** 7
-- **Photo intake records:** 210
+- **Photo intake records:** 213
 
 These are **record and photo counts**, not counts of verified working devices. A photographed retail box does not establish that electronic contents are present unless separately confirmed.
 
 - **Records lacking direct item photographs:** 8 (some contents independently confirmed by owner)
 
-## Latest batch — 034 (9 photographs, 7 new records; PWM controllers, small motors, relays, motor shields)
+## Latest batch — 035 (3 photographs, 3 new records; bench consumables)
+
+| ID | Item | Quantity | Photo |
+| --- | --- | ---: | --- |
+| HW-0236 | MG Chemicals Super Wick desoldering braid, 0.075 in, 5 ft (Cat # 425-NS) | 1 | `1000063376.jpg` |
+| HW-0237 | ENSON conductive silver paste syringe (EN-06B8) | 1 | `1000063377.jpg` |
+| HW-0238 | Blunt dispensing needle tips, pink Luer-lock (20-gauge colour) | 7 | `1000063378.jpg` |
+
+**Confidence notes:** The wick spool's label and the silver paste's datasheet are fully legible (high); the datasheet's header says EN-06B8 while its body text says HE-6106B8, and both readings are recorded. The needle tips' gauge is inferred from the pink hub colour code (medium). The wick is part-used; remaining consumable amounts are not estimated. All three photo binaries are stored in the repo (`photos/2026/11/`, EXIF stripped).
+
+[Batch 035 detail](batches/2026-11-22-035.md).
+
+## Earlier batch — 034 (9 photographs, 7 new records; PWM controllers, small motors, relays, motor shields)
 
 | ID | Item | Quantity | Photo |
 | --- | --- | ---: | --- |
