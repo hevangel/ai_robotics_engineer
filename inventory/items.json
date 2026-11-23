@@ -7448,6 +7448,217 @@
         "reference": "P-20261123-038"
       },
       "updated_on": "2026-11-23"
+    },
+    {
+      "id": "HW-0272",
+      "category": "audio",
+      "name": "Sony MP3 IC Recorder digital voice recorder",
+      "manufacturer": "Sony",
+      "model": null,
+      "variant": "Silver stick-format voice recorder printed 'MP3 IC RECORDER' with LCD, MENU and DIVIDE buttons and a VOL/ENT jog control; the exact ICD model is printed on the back, which was not photographed",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261123-040"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "One unit in 1000063622.jpg. Brand and device type are certain from the face print; the specific model (ICD-PX/BP family) cannot be determined from the front alone, so no model is recorded. Working condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261123-040"
+      },
+      "updated_on": "2026-11-23"
+    },
+    {
+      "id": "HW-0273",
+      "category": "audio",
+      "name": "Samsung Yepp digital audio player",
+      "manufacturer": "Samsung",
+      "model": null,
+      "variant": "Silver cylindrical stick MP3 player branded 'yepp' with 'DIGITAL AUDIO PLAYER' print, LCD, play/pause button and side REC and VOL controls; exact YP model not legible",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261123-041"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "One unit in 1000063623.jpg. The Yepp brand and stick-player form are clear; Samsung's YP stick models (YP-53/MT6 family) share this shell and the model print is not readable, so no model is recorded. Working condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261123-041"
+      },
+      "updated_on": "2026-11-23"
+    },
+    {
+      "id": "HW-0274",
+      "category": "audio",
+      "name": "Sony Discman ESP2 D-F411 portable CD player with FM/AM radio",
+      "manufacturer": "Sony",
+      "model": "D-F411",
+      "variant": "Silver Discman printed 'FM/AM Discman ESP2 - STEADYSOUND ELECTRONIC SHOCK PROTECTION - CD COMPACT PLAYER D-F411 - GROOVE', with lid LCD, AVLS and 1bit DAC markings",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261123-042"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "One unit in 1000063624.jpg; model D-F411 is printed on the lid. A second device (the Panasonic RQ-A171, HW-0275) is partially visible at the left edge of the frame. Working condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261123-042"
+      },
+      "updated_on": "2026-11-23"
+    },
+    {
+      "id": "HW-0275",
+      "category": "audio",
+      "name": "Panasonic RQ-A171 stereo radio cassette recorder",
+      "manufacturer": "Panasonic",
+      "model": "RQ-A171",
+      "variant": "Black cassette recorder printed 'Panasonic STEREO RADIO CASSETTE RECORDER RQ-A171 RECHARGEABLE', XBS auto-reverse playback, analogue FM/AM tuning scale, built-in microphone and speaker grille, SHELL LOCK",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261123-043"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "One unit in 1000063625.jpg; model RQ-A171 is printed on the face. Working condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261123-043"
+      },
+      "updated_on": "2026-11-23"
+    },
+    {
+      "id": "HW-0276",
+      "category": "audio",
+      "name": "RCA FM/AM personal stereo radio cassette player",
+      "manufacturer": "RCA",
+      "model": null,
+      "variant": "Silver Walkman-style cassette player printed 'RCA FM/AM personal stereo radio cassette player [FM|AM] STEREO' with an analogue tuning window on the right edge; no model number is printed on the face",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261123-044"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "One unit in 1000063626.jpg. Brand and type are certain from the face print; RCA's RP-series model number would be on the back or battery cover, which was not photographed. Working condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261123-044"
+      },
+      "updated_on": "2026-11-23"
+    },
+    {
+      "id": "HW-0277",
+      "category": "controller",
+      "name": "Logitech wired dual-analog gamepad (RumblePad 2 type)",
+      "manufacturer": "Logitech",
+      "model": null,
+      "variant": "Dark blue wired gamepad with D-pad, two analogue sticks, four numbered face buttons (1-4), Mode button and red LED; cable attached",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261123-045"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "USB (wired)"
+      ],
+      "accessories": [],
+      "notes": "One unit in 1000063627.jpg. The shell, numbered buttons and layout are Logitech's RumblePad 2 design, but the Dual Action gamepad shares the same shell and cannot be excluded from the face alone, so the exact model is left open. Working condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261123-045"
+      },
+      "updated_on": "2026-11-23"
+    },
+    {
+      "id": "HW-0278",
+      "category": "controller",
+      "name": "Logitech F710 wireless gamepad",
+      "manufacturer": "Logitech",
+      "model": "F710",
+      "variant": "Silver gamepad with Xbox-layout coloured buttons (green A, red B, blue X, yellow Y), two analogue sticks, D-pad, and printed MODE / VIBRATION / BACK / START controls around a central Logitech button",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261123-046"
+      ],
+      "connectivity": [
+        "2.4 GHz wireless"
+      ],
+      "interfaces": [
+        "2.4 GHz USB nano receiver (per model; receiver not photographed)"
+      ],
+      "accessories": [],
+      "notes": "One unit in 1000063628.jpg. The silver shell and layout identify the F710 (the wired F310 sibling is blue-grey); its USB nano receiver is not in the photo and is not recorded as present. Working condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261123-046"
+      },
+      "updated_on": "2026-11-23"
+    },
+    {
+      "id": "HW-0279",
+      "category": "controller",
+      "name": "8BitDo Pro 2 Bluetooth gamepad (G Classic colourway)",
+      "manufacturer": "8BitDo",
+      "model": "Pro 2",
+      "variant": "Cream retro-styled gamepad printed '8BitDo Pro 2' with red face buttons (A/B/X/Y), grey analogue sticks and D-pad, '- select / + start' labels",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261123-047"
+      ],
+      "connectivity": [
+        "Bluetooth"
+      ],
+      "interfaces": [
+        "Bluetooth",
+        "USB-C"
+      ],
+      "accessories": [],
+      "notes": "One unit in 1000063629.jpg; model name is printed on the face. Distinct from HW-0010 (8BitDo Ultimate Mobile telescopic controller). Working condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261123-047"
+      },
+      "updated_on": "2026-11-23"
     }
   ]
 }

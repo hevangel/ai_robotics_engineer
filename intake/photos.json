@@ -3095,6 +3095,102 @@
         "HW-0128"
       ],
       "notes": "The disambiguating shot both records were waiting for: both A-end sexes and both square B-male ends are directly visible. Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261123-040",
+      "captured_on": "2026-11-23",
+      "processed_on": "2026-11-23",
+      "file": "photos/2026/11/P-20261123-040.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 044: 1000063622.jpg (EXIF 2026-11-23 16:10). Sony MP3 IC Recorder voice recorder, front face.",
+      "item_ids": [
+        "HW-0272"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261123-041",
+      "captured_on": "2026-11-23",
+      "processed_on": "2026-11-23",
+      "file": "photos/2026/11/P-20261123-041.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 044: 1000063623.jpg (EXIF 2026-11-23 16:10). Samsung Yepp stick digital audio player.",
+      "item_ids": [
+        "HW-0273"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261123-042",
+      "captured_on": "2026-11-23",
+      "processed_on": "2026-11-23",
+      "file": "photos/2026/11/P-20261123-042.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 044: 1000063624.jpg (EXIF 2026-11-23 16:11). Sony Discman ESP2 D-F411 lid; Panasonic RQ-A171 partially visible at left edge.",
+      "item_ids": [
+        "HW-0274"
+      ],
+      "notes": "The Panasonic at the frame edge is catalogued separately as HW-0275 from its own photo P-20261123-043. Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261123-043",
+      "captured_on": "2026-11-23",
+      "processed_on": "2026-11-23",
+      "file": "photos/2026/11/P-20261123-043.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 044: 1000063625.jpg (EXIF 2026-11-23 16:12). Panasonic RQ-A171 stereo radio cassette recorder, front face.",
+      "item_ids": [
+        "HW-0275"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261123-044",
+      "captured_on": "2026-11-23",
+      "processed_on": "2026-11-23",
+      "file": "photos/2026/11/P-20261123-044.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 044: 1000063626.jpg (EXIF 2026-11-23 16:12). RCA FM/AM personal stereo cassette player, front face.",
+      "item_ids": [
+        "HW-0276"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261123-045",
+      "captured_on": "2026-11-23",
+      "processed_on": "2026-11-23",
+      "file": "photos/2026/11/P-20261123-045.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 044: 1000063627.jpg (EXIF 2026-11-23 16:13). Logitech dark-blue wired gamepad (RumblePad 2 type) on a wood floor.",
+      "item_ids": [
+        "HW-0277"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261123-046",
+      "captured_on": "2026-11-23",
+      "processed_on": "2026-11-23",
+      "file": "photos/2026/11/P-20261123-046.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 044: 1000063628.jpg (EXIF 2026-11-23 16:13). Logitech F710 silver wireless gamepad (photographed upside down).",
+      "item_ids": [
+        "HW-0278"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261123-047",
+      "captured_on": "2026-11-23",
+      "processed_on": "2026-11-23",
+      "file": "photos/2026/11/P-20261123-047.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 044: 1000063629.jpg (EXIF 2026-11-23 16:14). 8BitDo Pro 2 gamepad, G Classic colourway (photographed upside down).",
+      "item_ids": [
+        "HW-0279"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
     }
   ]
 }

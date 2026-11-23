@@ -2,18 +2,35 @@
 
 ## Status at a glance
 
-- **Inventory records:** 269 item/lot/component records (parent assemblies and installed components linked)
-- **Records associated with photographs:** 265
-- **Photo-verified / owner-confirmed hardware:** 236 (some enclosed items owner-confirmed; no working-status implied)
+- **Inventory records:** 277 item/lot/component records (parent assemblies and installed components linked)
+- **Records associated with photographs:** 273
+- **Photo-verified / owner-confirmed hardware:** 244 (some enclosed items owner-confirmed; no working-status implied)
 - **Photo-supported / tentative identifications or packaging only:** 30
 - **Previously reported, not yet photographed:** 3
-- **Photo intake records:** 254
+- **Photo intake records:** 262
 
 These are **record and photo counts**, not counts of verified working devices. A photographed retail box does not establish that electronic contents are present unless separately confirmed.
 
 - **Records lacking direct item photographs:** 4 — HW-0002 (Raspberry Pi 5), HW-0003 (Coral USB Accelerator), HW-0005 (AIY Voice Kit) and HW-0069 (micro:bit inside its sealed GO kit box HW-0057). (HW-0008's joystick was photographed in batch 042 and HW-0128's adapter in batch 043; the earlier count of 8 was stale.)
 
-## Latest batch — 043 (2 photographs, 1 new record + 2 records upgraded to verified)
+## Latest batch — 044 (8 photographs, 8 new records; vintage portable audio and gamepads)
+
+| ID | Item | Quantity | Photo |
+| --- | --- | ---: | --- |
+| HW-0272 | Sony MP3 IC Recorder digital voice recorder | 1 | `1000063622.jpg` |
+| HW-0273 | Samsung Yepp digital audio player | 1 | `1000063623.jpg` |
+| HW-0274 | Sony Discman ESP2 D-F411 portable CD player with FM/AM radio | 1 | `1000063624.jpg` |
+| HW-0275 | Panasonic RQ-A171 stereo radio cassette recorder | 1 | `1000063625.jpg` |
+| HW-0276 | RCA FM/AM personal stereo radio cassette player | 1 | `1000063626.jpg` |
+| HW-0277 | Logitech wired dual-analog gamepad (RumblePad 2 type) | 1 | `1000063627.jpg` |
+| HW-0278 | Logitech F710 wireless gamepad | 1 | `1000063628.jpg` |
+| HW-0279 | 8BitDo Pro 2 Bluetooth gamepad (G Classic colourway) | 1 | `1000063629.jpg` |
+
+**Confidence notes:** Models are recorded only where printed legibly — D-F411, RQ-A171, F710 (silver shell; its nano receiver is not photographed) and Pro 2 are high. The Sony voice recorder's ICD model and the Yepp's YP model are on their backs, not photographed (medium), and the dark-blue Logitech pad's shell is shared by the RumblePad 2 and Dual Action, so its exact model is left open (medium). All eight photo binaries are stored in the repo (`photos/2026/11/`, EXIF stripped).
+
+[Batch 044 detail](batches/2026-11-23-044.md).
+
+## Earlier batch — 043 (2 photographs, 1 new record + 2 records upgraded to verified)
 
 | ID | Item | Quantity | Photo |
 | --- | --- | ---: | --- |
