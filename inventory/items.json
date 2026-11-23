@@ -4691,6 +4691,331 @@
         "type": "photo",
         "reference": "P-20261122-150"
       }
+    },
+    {
+      "manufacturer": null,
+      "model": null,
+      "condition": "unknown",
+      "location": null,
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "updated_on": "2026-11-22",
+      "id": "HW-0170",
+      "name": "Clear compartment organizer for mixed loose electronics",
+      "category": "storage",
+      "quantity": 1,
+      "variant": "One translucent white/clear divided small-parts plastic organizer, cropped so the full tray is not shown",
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-152"
+      ],
+      "notes": "One physical compartmented organizer contains the loose discrete components in photo 1000063298.jpg. Full number of compartments, brand, dimensions and lid visibility not established. This is the storage tray itself; its contents have distinct inventory records and are not double-counted as a kit.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-152"
+      }
+    },
+    {
+      "manufacturer": null,
+      "model": null,
+      "condition": "unknown",
+      "location": null,
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "updated_on": "2026-11-22",
+      "id": "HW-0171",
+      "name": "Assorted axial through-hole resistors (blue and beige body)",
+      "category": "electronics_material",
+      "quantity": 7,
+      "variant": "Five blue-body metal-film-style axial resistors and two beige-body axial resistors; differing colored bands",
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-152"
+      ],
+      "notes": "Exactly 7 separate visible resistors in the upper center compartment: 5 blue cylindrical bodies and 2 beige cylindrical bodies. Resistor band colors and precise resistance/tolerance values cannot be determined reliably from this photograph, so do not assign nominal values. Loose bent leads are part of the resistors, not extra wire items.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-152"
+      }
+    },
+    {
+      "manufacturer": null,
+      "model": null,
+      "condition": "unknown",
+      "location": null,
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "updated_on": "2026-11-22",
+      "id": "HW-0172",
+      "name": "Orange ceramic disc capacitors, assorted sizes",
+      "category": "electronics_material",
+      "quantity": 8,
+      "variant": "Eight orange/brown disc capacitors with two radial leads, with at least two disc diameters",
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-152"
+      ],
+      "notes": "Exactly 8 distinct orange disc-shaped two-lead ceramic capacitors visible in middle-center compartment. Some overlap with long leads; count based on distinct discs rather than leads. Capacitance, working voltage, dielectric and condition unknown because markings not visible.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-152"
+      }
+    },
+    {
+      "manufacturer": null,
+      "model": null,
+      "condition": "unknown",
+      "location": null,
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "updated_on": "2026-11-22",
+      "id": "HW-0173",
+      "name": "Black axial leaded diodes, assorted",
+      "category": "electronics_material",
+      "quantity": 4,
+      "variant": "Four black cylindrical two-lead axial components with markings or polarity bands, diode-like",
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-152"
+      ],
+      "notes": "Exactly 4 separate black axial two-terminal diode-shaped components visible in middle-left compartment. Their end markings and type numbers (rectifier, switching or Zener) are not readable. Count does not include the small radial capacitor immediately above this compartment. Do not assume polarity or specifications without reading body codes/testing.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-152"
+      }
+    },
+    {
+      "manufacturer": null,
+      "model": null,
+      "condition": "unknown",
+      "location": null,
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "updated_on": "2026-11-22",
+      "id": "HW-0174",
+      "name": "Radial electrolytic capacitors, mixed sizes",
+      "category": "electronics_material",
+      "quantity": 6,
+      "variant": "Five black/blue cylindrical capacitors grouped in lower center compartment plus one small black radial capacitor above diodes",
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-152"
+      ],
+      "notes": "Count six photo-visible radial-electrolytic-looking components: five in lower-middle organizer compartment (two larger blue, three black of differing sizes, including one lying along the upper partition), plus one small black two-lead cylindrical capacitor in upper-left compartment at edge of partition. This high-level type for the small upper-left cylinder is tentative; verify from package printing. Some visible shells seem marked 50 V; values and voltage per unit are not reliably legible. These are separate from orange ceramic capacitors.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-152"
+      }
+    },
+    {
+      "manufacturer": null,
+      "model": null,
+      "condition": "unknown",
+      "location": null,
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "updated_on": "2026-11-22",
+      "id": "HW-0175",
+      "name": "Loose three-lead TO-92-like semiconductor devices",
+      "category": "electronics_material",
+      "quantity": 4,
+      "variant": "Four black 3-lead molded small transistor-like packages in bottom-left compartment",
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-152"
+      ],
+      "notes": "At least four clearly distinguishable small black three-lead molded TO-92-like devices near one large TO-220 in bottom-left. Exact chip type (transistor, regulator, sensor etc), package markings, pinout and test condition unreadable. A separate black rounded edge near the large TO-220 may be a fifth obscured item or part of another object; do not increase the count without another photo. Quantity is the directly countable minimum of four.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-152"
+      }
+    },
+    {
+      "manufacturer": null,
+      "model": null,
+      "condition": "unknown",
+      "location": null,
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "updated_on": "2026-11-22",
+      "id": "HW-0176",
+      "name": "Large TO-220 three-lead power semiconductor",
+      "category": "electronics_material",
+      "quantity": 1,
+      "variant": "One black three-terminal power device with metal mounting tab and mounting hole",
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-152"
+      ],
+      "notes": "One clearly visible three-pin TO-220-package semiconductor in bottom-left compartment, partly overlapped by smaller packages. This package could contain a power transistor, voltage regulator, triac or another device; marking is not legible, so identity and ratings are unknown. Not the same as small TO-92-like items.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-152"
+      }
+    },
+    {
+      "manufacturer": null,
+      "model": null,
+      "condition": "unknown",
+      "location": null,
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "updated_on": "2026-11-22",
+      "id": "HW-0177",
+      "name": "Black multi-contact rectangular connector housing",
+      "category": "electronics_material",
+      "quantity": 1,
+      "variant": "Slotted black rectangular plastic connector/socket-like block, partially visible at top-right",
+      "verification_status": "photo_tentative",
+      "identification_confidence": "low",
+      "photo_ids": [
+        "P-20261122-152"
+      ],
+      "notes": "A single black rectangular slotted block visible at upper-right edge of photo. It resembles a multi-contact female header/socket or connector shell, but terminal arrangement, number of contacts, pin pitch and exact purpose cannot be inferred reliably from the oblique photo. Kept as an unresolved loose connector/housing.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-152"
+      }
+    },
+    {
+      "manufacturer": null,
+      "model": null,
+      "condition": "unknown",
+      "location": null,
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "updated_on": "2026-11-22",
+      "id": "HW-0178",
+      "name": "Small angled multi-pin header or connector",
+      "category": "electronics_material",
+      "quantity": 1,
+      "variant": "One light gray small right-angle multi-pin component with multiple metal pins at upper-right",
+      "verification_status": "photo_tentative",
+      "identification_confidence": "low",
+      "photo_ids": [
+        "P-20261122-152"
+      ],
+      "notes": "One angled light-gray multi-pin connector/header-like item visible in the right upper-middle compartment. Appears to have multiple projecting pins; photo does not establish connector family, number of pins or function. Possibly connector, switch or header; keep classification tentative.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-152"
+      }
+    },
+    {
+      "manufacturer": null,
+      "model": null,
+      "condition": "unknown",
+      "location": null,
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "updated_on": "2026-11-22",
+      "id": "HW-0179",
+      "name": "Black flanged hollow plastic button-cap-like piece",
+      "category": "electronics_material",
+      "quantity": 1,
+      "variant": "One black cylindrical plastic piece with broad round flange/top and hollow or recessed base",
+      "verification_status": "photo_tentative",
+      "identification_confidence": "low",
+      "photo_ids": [
+        "P-20261122-152"
+      ],
+      "notes": "One black flanged cylindrical plastic piece at right-middle edge. Could be a panel button cap, bezel, knob or spacer; exact part/fit uncertain. Do not merge with previous HW-0155 plastic caps based on appearance alone, since these are a different visible shape and no proof of same inventory lot.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-152"
+      }
+    },
+    {
+      "manufacturer": null,
+      "model": null,
+      "condition": "unknown",
+      "location": null,
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "updated_on": "2026-11-22",
+      "id": "HW-0180",
+      "name": "Red plastic button-cap-like piece (partly obscured)",
+      "category": "electronics_material",
+      "quantity": 1,
+      "variant": "One partially visible red plastic object in right-middle compartment near black flanged piece",
+      "verification_status": "photo_tentative",
+      "identification_confidence": "low",
+      "photo_ids": [
+        "P-20261122-152"
+      ],
+      "notes": "At least one distinct red plastic cap-like piece is visible behind a vertical organizer divider next to the black flanged item. Shape and identity cannot be fully verified, and there may be additional hidden red components; quantity is the visible minimum one. Separate from black item due to visibly different color and unclear fit.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-152"
+      }
+    },
+    {
+      "manufacturer": null,
+      "model": null,
+      "condition": "unknown",
+      "location": null,
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "updated_on": "2026-11-22",
+      "id": "HW-0181",
+      "name": "Loose glass cartridge fuses in organizer",
+      "category": "electronics_material",
+      "quantity": 2,
+      "variant": "Two distinct cylindrical glass cartridge fuses with metal end caps, partially visible in lower-right compartment",
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-152"
+      ],
+      "notes": "Two glass-bodied metal-end-cap cartridge fuses are simultaneously visible in the lower-right compartment. These appear physically separate from HW-0162 (one fuse in a printed T3.15A-labelled packet from an earlier photograph), but no identity linkage or ratings confirmed. Do not apply the earlier packet's T3.15A marking to these two. Electrical value, size and condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-152"
+      }
+    },
+    {
+      "manufacturer": null,
+      "model": null,
+      "condition": "unknown",
+      "location": null,
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "updated_on": "2026-11-22",
+      "id": "HW-0182",
+      "name": "Unidentified small metal mechanical part",
+      "category": "electronics_material",
+      "quantity": 1,
+      "variant": "One partly cut-off silvery stamped metal mechanism at upper-middle edge with central raised polygonal feature and tabs",
+      "verification_status": "photo_tentative",
+      "identification_confidence": "low",
+      "photo_ids": [
+        "P-20261122-152"
+      ],
+      "notes": "One small silvery metal stamped/mechanical part visible partly at the top center of photo. Its shape includes a central raised feature and metal tabs, which might indicate a switch housing, contact or mounting component; identity, terminals, contact geometry and function not established. Record separately with explicit uncertainty instead of calling it a specific switch.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-152"
+      }
     }
   ]
 }
