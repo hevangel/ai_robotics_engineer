@@ -4213,9 +4213,10 @@
       "verification_status": "photo_verified",
       "identification_confidence": "high",
       "photo_ids": [
-        "P-20261122-137"
+        "P-20261122-137",
+        "P-20261122-143"
       ],
-      "notes": "Single assembled black board clearly marked 'LCD Keypad Shield'. Green 16×2 alphanumeric LCD has visible 16-pin solder row; six tactile buttons appear SELECT, LEFT, UP, DOWN, RIGHT and RST. Blue trimpot at upper corner, Arduino-shield compatible header positions printed A0–A5, D0–D13. Count LCD and six onboard switches as components of ONE shield, not additional bare LCDs. Exact maker, resistor ladder mapping, board revision and electric function unverified.",
+      "notes": "Single assembled black board clearly marked 'LCD Keypad Shield'. Green 16×2 alphanumeric LCD has visible 16-pin solder row; six tactile buttons appear SELECT, LEFT, UP, DOWN, RIGHT and RST. Blue trimpot at upper corner, Arduino-shield compatible header positions printed A0–A5, D0–D13. Count LCD and six onboard switches as components of ONE shield, not additional bare LCDs. Exact maker, resistor ladder mapping, board revision and electric function unverified. The board appears partially at top-right edge of later photo 1000063284.jpg, in context with small switch assortment; no second LCD shield counted.",
       "source": {
         "type": "photo",
         "reference": "P-20261122-137"
@@ -4398,6 +4399,297 @@
       "source": {
         "type": "photo",
         "reference": "P-20261122-142"
+      }
+    },
+    {
+      "manufacturer": null,
+      "model": null,
+      "condition": "unknown",
+      "location": null,
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "updated_on": "2026-11-22",
+      "id": "HW-0159",
+      "name": "Small square white-plunger tactile pushbutton switches",
+      "category": "electronics_material",
+      "quantity": 3,
+      "variant": "Three miniature tactile-switch components with light/white central round actuator in square metal frame",
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-143"
+      ],
+      "notes": "Three distinct miniature square tactile pushbuttons in upper row of photo 1000063284.jpg. Likely through-hole or PCB-mount tactile switches; actual backside terminals, switch mode, pitch, rated voltage/current and mechanical feel not tested. Distinct from six physically larger square switch mechanisms in same photo. The visible partial LCD shield at upper-right is existing HW-0151, not another unit.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-143"
+      }
+    },
+    {
+      "manufacturer": null,
+      "model": null,
+      "condition": "unknown",
+      "location": null,
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "updated_on": "2026-11-22",
+      "id": "HW-0160",
+      "name": "Large square black-center tactile switch mechanisms",
+      "category": "electronics_material",
+      "quantity": 6,
+      "variant": "Six larger square metal-edged switch mechanisms with black recessed central actuator/cap receptacle; mixed silver/black housing finishes",
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-143"
+      ],
+      "notes": "Six separate larger square pushbutton/tact-switch-looking mechanisms arranged three across in two rows on red foam in 1000063284.jpg. All have circular black central recessed features and square corner fastener/rivet-like features. No caps or wiring attached in this image. Exact type, dimensions, momentary/latching contact action and compatible cap style uncertain; do NOT assume the 15 loose plastic caps HW-0155 fit. These are 6 mechanisms, separately from the 3 smaller tact switches HW-0159.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-143"
+      }
+    },
+    {
+      "manufacturer": null,
+      "model": null,
+      "condition": "unknown",
+      "location": null,
+      "connectivity": [],
+      "interfaces": [
+        "4x4 matrix membrane keypad",
+        "8-conductor tail / 8-position connector"
+      ],
+      "accessories": [],
+      "updated_on": "2026-11-22",
+      "id": "HW-0161",
+      "name": "4×4 flexible membrane matrix keypad with 8-pin ribbon",
+      "category": "interface_module",
+      "quantity": 1,
+      "variant": "Black 16-key flat keypad, blue numeral buttons 0-9, red keys A-D, * and #, attached 8-conductor membrane ribbon with black 8-pin female connector",
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-144"
+      ],
+      "notes": "One flexible 4x4 matrix numeric keypad visible in photo 1000063290.jpg. Four rows by four columns (0-9, A-D, * and #). Integrated flat tail appears to have eight conductors and ends in black 8-contact connector. Row/column wiring, resistance, operating condition and precise contact arrangement not measured; often used as Arduino matrix input, but no electronics controller included.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-144"
+      }
+    },
+    {
+      "manufacturer": null,
+      "model": null,
+      "condition": "unknown",
+      "location": null,
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "updated_on": "2026-11-22",
+      "id": "HW-0162",
+      "name": "Spare glass cartridge fuse in T3.15A-labelled bag",
+      "category": "electronics_material",
+      "quantity": 1,
+      "variant": "One cylindrical glass cartridge fuse with metal end caps, stored with printed warning card specifying T3.15A",
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-145"
+      ],
+      "notes": "One fuse physically visible in transparent bag in photo 1000063291.jpg. Label reads 'T3.15A FUSE USE WHEN VOLTAGE SELECTOR CHANGED. SEE CAUTION NOTICE MARKED ON APPLIANCE.' The 3.15A time-delay marking is on the bag/card, not independently confirmed on the fuse body. Also a thin small loose metal pin/wire-like piece is visible in the bag; function unknown and is not inventoried as a separate verified component. Fuse length/diameter, voltage rating, electrical condition and whether used/unused not established. Not proof that any particular appliance is present.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-145"
+      }
+    },
+    {
+      "manufacturer": null,
+      "model": null,
+      "condition": "unknown",
+      "location": null,
+      "connectivity": [],
+      "interfaces": [
+        "CLK",
+        "DT",
+        "SW",
+        "+",
+        "GND"
+      ],
+      "accessories": [],
+      "updated_on": "2026-11-22",
+      "id": "HW-0163",
+      "name": "Keyes rotary encoder breakout module (KY-040 type)",
+      "category": "interface_module",
+      "quantity": 1,
+      "variant": "Small black Keyes PCB with central shaft encoder, 5-pin header labelled CLK, DT, SW, +, GND",
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-146"
+      ],
+      "notes": "Single PCB photo 1000063292.jpg with 'Keyes' visibly printed on right edge and male five-pin header labelled CLK, DT, SW, +, GND; metal-encased center rotary component. Common KY-040 incremental rotary-encoder-with-push-switch style. 'KY-040 type' is a compatibility/form-factor description; no exact board SKU or electrical operation established. Do not conflate with analogue thumbstick modules HW-0156.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-146"
+      }
+    },
+    {
+      "manufacturer": null,
+      "model": null,
+      "condition": "unknown",
+      "location": null,
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "updated_on": "2026-11-22",
+      "id": "HW-0164",
+      "name": "B100K rotary potentiometers (nominal 100 kΩ)",
+      "category": "electronics_material",
+      "quantity": 2,
+      "variant": "Two loose B100K-marked 3-terminal shaft potentiometers, brown phenolic base and metal body",
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-147"
+      ],
+      "notes": "Photo 1000063293.jpg shows five rotary potentiometers. The leftmost and rightmost are marked B100K; count TWO for this variant. Printed value corresponds to nominal 100 kΩ; B indicates typical linear taper but not electrically confirmed. Shaft, mounting threads, pin lengths and mechanical condition visible; no knob installed. Do not lump with B10K and B50K variants.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-147"
+      }
+    },
+    {
+      "manufacturer": null,
+      "model": null,
+      "condition": "unknown",
+      "location": null,
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "updated_on": "2026-11-22",
+      "id": "HW-0165",
+      "name": "B10K rotary potentiometers (nominal 10 kΩ)",
+      "category": "electronics_material",
+      "quantity": 2,
+      "variant": "Two loose B10K-marked 3-terminal rotary potentiometers, brown phenolic base",
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-147"
+      ],
+      "notes": "Second from left and fourth from left in photo 1000063293.jpg have B10K markings; count TWO. Value nominal 10 kΩ, typical B linear taper if marking convention applies. Device operation untested; some metal shafts/actuators differ. Separate from B100K and B50K variants.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-147"
+      }
+    },
+    {
+      "manufacturer": null,
+      "model": null,
+      "condition": "unknown",
+      "location": null,
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "updated_on": "2026-11-22",
+      "id": "HW-0166",
+      "name": "B50K rotary potentiometer (nominal 50 kΩ)",
+      "category": "electronics_material",
+      "quantity": 1,
+      "variant": "One loose B50K-marked 3-terminal rotary potentiometer, brown phenolic base",
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-147"
+      ],
+      "notes": "Center (third) device in photo 1000063293.jpg is marked B 50K; count ONE. Nominal 50 kΩ, typical B linear taper convention not verified. Shaft appears short/recessed or cut compared with neighbors. Not tested.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-147"
+      }
+    },
+    {
+      "manufacturer": "CanaKit",
+      "model": "PiSwitch",
+      "condition": "unknown",
+      "location": null,
+      "connectivity": [
+        "wired power switch"
+      ],
+      "interfaces": [],
+      "accessories": [],
+      "updated_on": "2026-11-22",
+      "id": "HW-0167",
+      "name": "CanaKit PiSwitch inline power switch",
+      "category": "accessory",
+      "quantity": 1,
+      "variant": "Black CanaKit-branded inline PiSwitch module with ON/OFF pushbutton, red indicator lens and short black cable, USB-type plug",
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-148"
+      ],
+      "notes": "One compact black wired switch in 1000063294.jpg labelled CANAKIT, ON / OFF, PiSwitch. Appears to be an inline Raspberry Pi power-management/power on-off accessory; cable end visible but exact USB connector type cannot be certified from this angle. Do not assert smart shutdown or low-voltage protection without model datasheet/functional test. Cable is integral part of this one item, not an additional cable inventory count.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-148"
+      }
+    },
+    {
+      "manufacturer": "Olympus",
+      "model": "VF-RM7",
+      "condition": "unknown",
+      "location": null,
+      "connectivity": [
+        "wired remote control"
+      ],
+      "interfaces": [],
+      "accessories": [],
+      "updated_on": "2026-11-22",
+      "id": "HW-0168",
+      "name": "Olympus VF-RM7 wired remote control",
+      "category": "controller",
+      "quantity": 1,
+      "variant": "Black rectangular Olympus wired REC/PAUSE remote with one large square button, status lens and long captive black cable",
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-149"
+      ],
+      "notes": "Photo 1000063295.jpg clearly reads 'OLYMPUS', 'REMOTE CONTROL' and 'VF-RM7'; REC/PAUSE label above square button and small indicator. One remote with long coiled fixed cable; cable connector partly obscured. Likely recording control for compatible Olympus recording hardware, but exact supported equipment/connector interface not confirmed. Working condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-149"
+      }
+    },
+    {
+      "manufacturer": "Apple",
+      "model": "A1156",
+      "condition": "unknown",
+      "location": null,
+      "connectivity": [
+        "infrared remote control"
+      ],
+      "interfaces": [],
+      "accessories": [],
+      "updated_on": "2026-11-22",
+      "id": "HW-0169",
+      "name": "Apple Remote A1156 white infrared handheld remote",
+      "category": "controller",
+      "quantity": 1,
+      "variant": "White first-generation rectangular Apple Remote with black IR end, MENU button and circular navigation / play-pause keys, front/back views",
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-150",
+        "P-20261122-151"
+      ],
+      "notes": "One and the SAME Apple Remote photographed face-up in 1000063296.jpg and back-side in 1000063297.jpg. White plastic case, central circular transport control and separate MENU; Apple logo on rear and printed Model No. A1156. The reverse also shows compliance and serial markings (serial intentionally NOT recorded). Common infrared Apple Remote device, but functionality, battery compartment/battery and receiver compatibility untested. Count ONE remote, not two.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-150"
       }
     }
   ]
