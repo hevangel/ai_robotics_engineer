@@ -4068,7 +4068,7 @@
       "id": "HW-0146",
       "name": "Four-segment LED bar-graph display modules (red-foam bundle)",
       "variant": "Four-bar, wide-face LED bar-graph packages; exact model, LED color and electrical pinout unknown",
-      "notes": "TEN four-bar LED bar-graph modules explicitly counted and identified by owner in red-foam bundle photo 1000063272.jpg. This type has a distinct face width and FOUR visible bar segments, not the earlier ten-segment K??-B10G lot HW-0133. Separately count the ten seven-bar displays in same foam bundle as HW-0147. No electrical testing, manufacturer, polarity, segment color or exact part numbers verified.",
+      "notes": "TEN four-bar LED bar-graph modules explicitly counted and identified by owner in red-foam bundle photo 1000063272.jpg. This type has a distinct face width and FOUR visible bar segments, not the earlier ten-segment K??-B10G lot HW-0133. Separately count the ten seven-bar displays in same foam bundle as HW-0147. No electrical testing, manufacturer, polarity, segment color or exact part numbers verified. Later photo 1000063285.jpg includes one four-bar yellow-lensed sample in a small red-foam parts collection. Its physical identity relative to earlier 10-piece red-foam bundle is uncertain; this photo is only additional TYPE evidence and DOES NOT increase the inventory count.",
       "category": "display_component",
       "manufacturer": null,
       "model": null,
@@ -4078,7 +4078,8 @@
       "verification_status": "photo_verified",
       "identification_confidence": "medium",
       "photo_ids": [
-        "P-20261122-129"
+        "P-20261122-129",
+        "P-20261122-138"
       ],
       "connectivity": [],
       "interfaces": [],
@@ -4093,7 +4094,7 @@
       "id": "HW-0147",
       "name": "Seven-segment LED bar-graph display modules (red-foam bundle)",
       "variant": "Seven-bar, wide-face LED bar-graph packages; exact model, LED color and electrical pinout unknown",
-      "notes": "TEN seven-bar LED bar-graph modules explicitly counted and identified by owner in red-foam bundle photo 1000063272.jpg. This distinct package width/segment count must not be merged with the ten four-bar displays HW-0146 or the earlier ten-segment bar graph lot HW-0133. No electrical testing, manufacturer, polarity, segment color or exact part numbers verified.",
+      "notes": "TEN seven-bar LED bar-graph modules explicitly counted and identified by owner in red-foam bundle photo 1000063272.jpg. This distinct package width/segment count must not be merged with the ten four-bar displays HW-0146 or the earlier ten-segment bar graph lot HW-0133. No electrical testing, manufacturer, polarity, segment color or exact part numbers verified. Later photo 1000063285.jpg includes one seven-bar green-lensed sample in a small red-foam parts collection. Its physical identity relative to earlier 10-piece red-foam bundle is uncertain; this photo is only additional TYPE evidence and DOES NOT increase the inventory count.",
       "category": "display_component",
       "manufacturer": null,
       "model": null,
@@ -4103,7 +4104,8 @@
       "verification_status": "photo_verified",
       "identification_confidence": "medium",
       "photo_ids": [
-        "P-20261122-129"
+        "P-20261122-129",
+        "P-20261122-138"
       ],
       "connectivity": [],
       "interfaces": [],
@@ -4113,6 +4115,290 @@
         "reference": "Owner explicitly corrected red-foam photograph 1000063272.jpg, distinguishing 10 modules with four bars and 10 with seven bars; photo P-20261122-129"
       },
       "updated_on": "2026-11-22"
+    },
+    {
+      "manufacturer": null,
+      "model": null,
+      "condition": "unknown",
+      "location": null,
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "updated_on": "2026-11-22",
+      "id": "HW-0148",
+      "name": "Multicolor male-to-male Dupont jumper wire bundle",
+      "category": "cable",
+      "quantity": 1,
+      "variant": "Flexible multicolor individual jumpers with exposed metal male pins at both ends; bundled with a gray hook-and-loop cable tie",
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-134",
+        "P-20261122-135"
+      ],
+      "notes": "One large multicolor male-pin Dupont-style jumper-wire bundle seen folded into a loop in photo 1000063277.jpg, then alongside a second jumper bundle in 1000063278.jpg. The apparent same bundle has the plain gray hook-and-loop strap (without oval badge) in the lower portion of 3278. Wire count, lengths and conductor gauge cannot be reliably determined; quantity=1 BUNDLE, not 1 wire. Treat the two photos as same physical bundle, not duplicates. Not the earlier female-to-female jumpers HW-0091 or rigid breadboard U-jumpers HW-0103.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-134"
+      }
+    },
+    {
+      "manufacturer": null,
+      "model": null,
+      "condition": "unknown",
+      "location": null,
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "updated_on": "2026-11-22",
+      "id": "HW-0149",
+      "name": "Multicolor mixed-end Dupont jumper wire bundle",
+      "category": "cable",
+      "quantity": 1,
+      "variant": "Jumper-wire bundle with individual black Dupont housings and some exposed male pin ends; top bundle with oval-opening gray tie",
+      "verification_status": "photo_tentative",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-135"
+      ],
+      "notes": "One distinct SECOND bundled set in the upper part of photo 1000063278.jpg, with an oval-pattern gray hook-and-loop strap. Some black Dupont connector housings look female and other terminals have exposed male metal pins. Exact wire-by-wire male-to-female or mixed connector configuration cannot be confirmed from angled/overlapping ends. Do not conflate with male-to-male lower bundle HW-0148 or previously documented female-to-female HW-0091. Count one bundle; wire number unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-135"
+      }
+    },
+    {
+      "manufacturer": null,
+      "model": null,
+      "condition": "unknown",
+      "location": null,
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "updated_on": "2026-11-22",
+      "id": "HW-0150",
+      "name": "Color-coded miniature test-hook probe lead set",
+      "category": "accessory",
+      "quantity": 1,
+      "variant": "Mixed red/green/yellow/black miniature spring-hook IC test probes and connecting jumper leads",
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-136"
+      ],
+      "notes": "Photo 1000063279.jpg shows one tied bundle of short color-coded test grabber/hook probes; colored rigid probe hooks (green, red, yellow, black) and black Dupont-like connectors visible. At least several clips; overlapped parts make exact independent lead count uncertain, so quantity is one SET. Likely distinct from earlier black-hook logic-analyzer lead bundle HW-0039 and bagged loose hook accessories HW-0042, based on color-coded probe heads and newly bundled form, but physical identity not serial-confirmed. Voltage/contact ratings, pinout, and operation unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-136"
+      }
+    },
+    {
+      "manufacturer": null,
+      "model": null,
+      "condition": "unknown",
+      "location": null,
+      "connectivity": [],
+      "interfaces": [
+        "Arduino Uno-format pin header footprint (compatibility not tested)",
+        "16×2 LCD character display",
+        "6 tactile buttons"
+      ],
+      "accessories": [],
+      "updated_on": "2026-11-22",
+      "id": "HW-0151",
+      "name": "Arduino LCD Keypad Shield with 16×2 character LCD",
+      "category": "expansion_board",
+      "quantity": 1,
+      "variant": "Black Arduino Uno-format LCD Keypad Shield, green LCD1602-style 16×2 parallel LCD, six tactile buttons, blue contrast trimmer",
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-137"
+      ],
+      "notes": "Single assembled black board clearly marked 'LCD Keypad Shield'. Green 16×2 alphanumeric LCD has visible 16-pin solder row; six tactile buttons appear SELECT, LEFT, UP, DOWN, RIGHT and RST. Blue trimpot at upper corner, Arduino-shield compatible header positions printed A0–A5, D0–D13. Count LCD and six onboard switches as components of ONE shield, not additional bare LCDs. Exact maker, resistor ladder mapping, board revision and electric function unverified.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-137"
+      }
+    },
+    {
+      "manufacturer": null,
+      "model": null,
+      "condition": "unknown",
+      "location": null,
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "updated_on": "2026-11-22",
+      "id": "HW-0152",
+      "name": "CTS 208-4 four-position DIP switch bank",
+      "category": "electronics_material",
+      "quantity": 1,
+      "variant": "Black 4-way through-hole DIP switch marked CTS 208-4, white slide toggles",
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-138"
+      ],
+      "notes": "One black rectangular CTS 208-4 DIP bank with four numbered individual white switches 1–4, ON legend and T446 marking, photographed separately on pink/red anti-static-looking foam 1000063285.jpg. Electrical configuration and contact condition untested. Separate from the green and yellow LED bar-graphs in same photo.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-138"
+      }
+    },
+    {
+      "manufacturer": null,
+      "model": null,
+      "condition": "unknown",
+      "location": null,
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "updated_on": "2026-11-22",
+      "id": "HW-0153",
+      "name": "Miniature metal-frame slide switch",
+      "category": "electronics_material",
+      "quantity": 1,
+      "variant": "Small panel/PCB-mount sliding switch with metal body and black slider, terminal style not shown",
+      "verification_status": "photo_tentative",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-138"
+      ],
+      "notes": "One tiny rectangular metal-enclosed slide-switch-like component, with a visible black sliding actuator, located mid-right of photo 1000063285.jpg. Mechanical form supports slide switch identification but contact pole/throw, pin count, electrical rating and physical mounting type not visible. Keep as separate tentative record pending reverse/side view; do not identify as USB connector based on appearance alone.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-138"
+      }
+    },
+    {
+      "manufacturer": null,
+      "model": null,
+      "condition": "unknown",
+      "location": null,
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "updated_on": "2026-11-22",
+      "id": "HW-0154",
+      "name": "Keyes WiiChuck Nunchuk breakout PCB",
+      "category": "interface_module",
+      "quantity": 1,
+      "variant": "Small blue unpopulated WiiChuck/Kduino-style adapter board with four through-hole connector pads and paired gold contact strips",
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-138"
+      ],
+      "notes": "One slim blue PCB in photo 1000063285.jpg. White text legible as 'Keyes1' / 'WiiChuck' / 'Kduino1' (exact stylization may differ). Four numbered/lettered contact pads and broad gold contact fingers indicate a Wii Nunchuk adapter/breakout type, but no Wii Nunchuk controller is pictured. Board appears not to have a pin header mounted; no electrical confirmation or brand assertion beyond visible silkscreen.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-138"
+      }
+    },
+    {
+      "manufacturer": null,
+      "model": null,
+      "condition": "unknown",
+      "location": null,
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "updated_on": "2026-11-22",
+      "id": "HW-0155",
+      "name": "Assorted replacement thumbstick / joystick button caps",
+      "category": "accessory",
+      "quantity": 15,
+      "variant": "Loose plastic stick/button caps in five color variants: black, green, blue, white and yellow, 3 of each",
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-139"
+      ],
+      "notes": "Exactly fifteen loose plastic caps counted in 1000063286.jpg: 3 black round, 3 green round, 3 blue round, 3 white square, 3 yellow square, all viewed from hollow underside. Hole/interlock geometry varies between round and square styles. Exact purpose/compatibility with analog joystick modules, gamepad buttons or arcade switch plungers is UNKNOWN. They are plastic caps, not fifteen electronic switches. No assumption that installed on HW-0156 or HW-0157.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-139"
+      }
+    },
+    {
+      "manufacturer": null,
+      "model": null,
+      "condition": "unknown",
+      "location": null,
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "updated_on": "2026-11-22",
+      "id": "HW-0156",
+      "name": "Two-axis analog thumb joystick breakout modules",
+      "category": "interface_module",
+      "quantity": 2,
+      "variant": "Two black square breakout PCBs with joystick caps, 5-pin male headers and corner mounting holes, KY-023-style",
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-140"
+      ],
+      "notes": "Two distinct analog thumbstick modules photographed side-by-side in 1000063288.jpg. Each carries a black knurled thumb cap over a two-axis joystick mechanism, 5 exposed male header pins, and mounting holes. KY-023-type analog joystick form factor, but actual PCB reverse and pin names not photographed; likely X/Y analogue outputs plus press switch based on common module family, not electrically confirmed. These are TWO loose breakout modules and must not be merged with the installed joystick on Funduino shield HW-0157. Untested.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-140"
+      }
+    },
+    {
+      "manufacturer": null,
+      "model": null,
+      "condition": "unknown",
+      "location": null,
+      "connectivity": [],
+      "interfaces": [
+        "Arduino-style shield headers (pinout to confirm)",
+        "Joystick and six pushbuttons",
+        "RF24L01 header footprint (radio not installed)"
+      ],
+      "accessories": [],
+      "updated_on": "2026-11-22",
+      "id": "HW-0157",
+      "name": "Funduino Joystick Shield v1.A",
+      "category": "expansion_board",
+      "quantity": 1,
+      "variant": "Red Arduino-form-factor Funduino Joystick Shield v1.A with one thumbstick, four large colored pushbuttons and two small pushbuttons",
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-141"
+      ],
+      "notes": "One red PCB photographed in 1000063287.jpg. Board text: 'Joystick Shield v1.A', 'Funduino', 'RF24L01' and dated stencil 2012.10.25. Includes one central large black analog thumbstick, four large blue/yellow action buttons labelled A/B/C/D, two small tactile buttons labelled E/F, supply voltage slide selector 3V/5V, printed Arduino-style pin header sockets, and RF24L01 header footprint. The onboard thumbstick is part of this single shield, not a third standalone HW-0156 module. Radio module is NOT visibly inserted. Power, switching and compatibility untested.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-141"
+      }
+    },
+    {
+      "manufacturer": null,
+      "model": null,
+      "condition": "unknown",
+      "location": null,
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "updated_on": "2026-11-22",
+      "id": "HW-0158",
+      "name": "Red panel-mount pushbutton switch assemblies with green wires",
+      "category": "electronics_material",
+      "quantity": 4,
+      "variant": "Four black-bodied red round pushbuttons with threaded metal mount hardware; green insulated wire leads, partly loose/attached",
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-142"
+      ],
+      "notes": "Four distinct black-housed red pushbutton units counted in photo 1000063289.jpg, one isolated near top and three overlapping near the tied green wire bundle. Round red caps, threaded mounting collars and nuts visible. Some green leads attach to terminal contacts; others lie adjacent with exposed wire ends, so full wired status and internal contact type (NO/NC, momentary/latching) are not verified. Count four pushbutton switch assemblies, not separate extra buttons for the wire coil. Electrical rating and functionality unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-142"
+      }
     }
   ]
 }
