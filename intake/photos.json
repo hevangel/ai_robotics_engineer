@@ -1839,6 +1839,30 @@
         "HW-0169"
       ],
       "notes": "Serial numbers intentionally not transcribed; confirms model, no additional unit. Original uploaded photo is referenced by filename but JPG binary not transferred to GitHub."
+    },
+    {
+      "id": "P-20261122-152",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 023, photo 1/1; uploaded filename 1000063298.jpg: one partially photographed clear compartment organizer with mixed resistors, ceramic capacitors, axial diodes, radial electrolytics, TO-92-like semiconductors, a TO-220 power device, connectors, two glass fuses, unidentified metal piece and two plastic cap-like pieces.",
+      "item_ids": [
+        "HW-0170",
+        "HW-0171",
+        "HW-0172",
+        "HW-0173",
+        "HW-0174",
+        "HW-0175",
+        "HW-0176",
+        "HW-0177",
+        "HW-0178",
+        "HW-0179",
+        "HW-0180",
+        "HW-0181",
+        "HW-0182"
+      ],
+      "notes": "Count only distinguishable bodies, not leads; upper/right compartments partly cropped. The small upper-left capacitor and three-lead device identification are tentative at the model/type level. Partial black connector, angled connector, red/black caps and metal part remain low-confidence. An indistinct additional black piece by TO-220 may be another component; uncounted. Original JPG 1000063298.jpg remains conversation-upload only; no binary committed to repo."
     }
   ]
 }
