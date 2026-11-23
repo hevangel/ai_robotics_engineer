@@ -2,18 +2,28 @@
 
 ## Status at a glance
 
-- **Inventory records:** 218 item/lot/component records (parent assemblies and installed components linked)
-- **Records associated with photographs:** 209
-- **Photo-verified / owner-confirmed hardware:** 183 (some enclosed items owner-confirmed; no working-status implied)
+- **Inventory records:** 219 item/lot/component records (parent assemblies and installed components linked)
+- **Records associated with photographs:** 210
+- **Photo-verified / owner-confirmed hardware:** 184 (some enclosed items owner-confirmed; no working-status implied)
 - **Photo-supported / tentative identifications or packaging only:** 28
 - **Previously reported, not yet photographed:** 7
-- **Photo intake records:** 190
+- **Photo intake records:** 191
 
 These are **record and photo counts**, not counts of verified working devices. A photographed retail box does not establish that electronic contents are present unless separately confirmed.
 
 - **Records lacking direct item photographs:** 9 (some contents independently confirmed by owner)
 
-## Latest batch — 029 (9 photographs, 8 new records; RF pair, sensor-kit modules, two IMUs)
+## Latest batch — 030 (1 photograph, 1 new record; a pair of LiPo pouch cells)
+
+| ID | Item | Quantity | Photo |
+| --- | --- | ---: | --- |
+| HW-0219 | 3.7 V 600 mAh lithium-polymer pouch batteries, 8082540 marking, with 2-pin plugs | 2 | `1000063340.jpg` |
+
+**Confidence notes:** The printed cell's markings (8082540, 3.7 V, 600 mAh, 150224) are legible on a rotated enlargement (high); the second cell's printed side faces away and is counted as the same type from identical size, wrap, tape and connector. Distinct from HW-0123 (1000 mAh, bare leads) and HW-0124 (different print and code). Age, health and charge unknown. The photo binary is stored in the repo (`photos/2026/11/`, EXIF stripped).
+
+[Batch 030 detail](batches/2026-11-22-030.md).
+
+## Earlier batch — 029 (9 photographs, 8 new records; RF pair, sensor-kit modules, two IMUs)
 
 | ID | Item | Quantity | Photo |
 | --- | --- | ---: | --- |

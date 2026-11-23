@@ -2325,6 +2325,18 @@
         "HW-0218"
       ],
       "notes": "Front (chip side) not photographed. Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-191",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-191.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 030: 1000063340.jpg (EXIF date 2026-11-22). Two matching silver LiPo pouch cells with amber top tape and white 2-pin plugs; the right cell is printed 8082540, 3.7V, 600mAh, 150224.",
+      "item_ids": [
+        "HW-0219"
+      ],
+      "notes": "The left cell's printed side faces away; counted as the same type from identical appearance. Binary stored in the repo with EXIF stripped."
     }
   ]
 }

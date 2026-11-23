@@ -6012,6 +6012,33 @@
         "reference": "P-20261122-190"
       },
       "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0219",
+      "category": "power",
+      "name": "3.7 V 600 mAh lithium-polymer pouch batteries, 8082540 marking, with 2-pin plugs",
+      "manufacturer": null,
+      "model": "8082540 (printed cell marking)",
+      "variant": "Two matching silver foil pouch cells with amber top tape, red/black leads and small white 2-pin plugs; the printed cell reads '-8082540 3.7V +600mAh 150224'",
+      "quantity": 2,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-191"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Small white two-pin plug (JST-style; pitch unverified) - one per cell"
+      ],
+      "accessories": [],
+      "notes": "Two cells side by side in 1000063340.jpg. Only the right-hand cell's printing is legible (8082540 code, 3.7 V, 600 mAh, plus 150224, likely a date code); the left cell's printed side faces away, and it is counted as the same type from its identical size, wrap, tape and connector. Distinct from HW-0123 (1000 mAh 523450, bare leads) and from HW-0124 (different printed text and 1ICP4/43/55-style code, black top wrap, single cell). Age, health and charge level unknown; do not charge without assessing the cells and charger compatibility, and keep the plugs from shorting against metal.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-191"
+      },
+      "updated_on": "2026-11-22"
     }
   ]
 }
