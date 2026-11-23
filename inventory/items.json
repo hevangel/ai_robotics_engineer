@@ -5295,6 +5295,204 @@
         "reference": "P-20261122-156"
       },
       "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0194",
+      "category": "interface_module",
+      "name": "HC-SR04 ultrasonic distance sensor module",
+      "manufacturer": null,
+      "model": "HC-SR04",
+      "variant": "One blue module with two silver mesh-front ultrasonic transducers marked T and R, metal-can crystal, and a 4-pin header silkscreened VCC / Trig / Echo / Gnd; model name HC-SR04 printed between the transducers (partly obscured by them)",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-162"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "4-pin header (VCC, Trig, Echo, GND)"
+      ],
+      "accessories": [],
+      "notes": "One module in 1000063311.jpg. The HC-SR04 is a 5 V ultrasonic ranging module; range/accuracy figures are datasheet values and were not tested. No HC-SR04 was previously inventoried. Operational condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-162"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0195",
+      "category": "interface_module",
+      "name": "Tiny RTC DS1307 real-time clock module (I2C)",
+      "manufacturer": null,
+      "model": "Tiny RTC (DS1307)",
+      "variant": "One blue module silkscreened 'Tiny RTC I2C modules' with a DS1307ZN RTC chip, an HK24C32 (24C32) EEPROM chip, a cylindrical watch crystal (X1), and two header rows silkscreened with DS / SCL / SDA / VCC / GND / SQ / BAT pin labels",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-163"
+      ],
+      "connectivity": [
+        "I2C"
+      ],
+      "interfaces": [
+        "Two header rows (SDA, SCL, VCC, GND, DS, SQ, BAT)"
+      ],
+      "accessories": [],
+      "notes": "One module in 1000063312.jpg; both main chip markings are legible (DS1307ZN and HK24C32). The reverse side was not photographed, so the presence or state of a backup coin cell is not established. No RTC module was previously inventoried. Operational condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-163"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0196",
+      "category": "interface_module",
+      "name": "PIR motion sensor module, HC-SR501 type (D-SUN PCB, BISS0001)",
+      "manufacturer": null,
+      "model": "HC-SR501",
+      "variant": "One green module with a white faceted Fresnel dome on the front; reverse carries D-SUN silkscreen, a BISS0001 PIR controller chip, two orange trim potentiometers, electrolytic capacitors, and a yellow 3-pin header silkscreened VCC / OUT / GND",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-164",
+        "P-20261122-165"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "3-pin header (VCC, OUT, GND)"
+      ],
+      "accessories": [],
+      "notes": "Front (1000063313.jpg) and back (1000063314.jpg) are the same single unit, confirmed by the owner. The BISS0001 controller, dual adjustment pots, H/L retrigger pads and Fresnel dome are the standard HC-SR501 layout, but the board carries no HC-SR501 model text, so the exact model designation is medium confidence while the PIR motion-sensor identification itself is certain. No PIR module was previously inventoried. Operational condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-164"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0197",
+      "category": "expansion_board",
+      "name": "Arduino Sensor Shield v5.0",
+      "manufacturer": null,
+      "model": "Sensor Shield v5.0",
+      "variant": "One blue Arduino Uno-form-factor shield silkscreened 'Sensor Shield v5.0' with G/V/S 3-pin headers for digital pins 0-13 and analog A0-A5, COM (TX/RX) and IIC (SCL/SDA) headers, APC220 wireless socket, URF and SD headers, a reset button, and a blue 2-screw power terminal with a green SEL jumper",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-166"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Arduino Uno shield headers",
+        "APC220 socket",
+        "I2C (IIC) header",
+        "UART (COM) header"
+      ],
+      "accessories": [],
+      "notes": "One shield in 1000063315.jpg; model text is printed on the board. Distinct from the previously inventoried Arduino shields HW-0151 (LCD Keypad Shield), HW-0157 (Funduino Joystick Shield) and HW-0065 (BreadShield adapters). Operational condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-166"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0198",
+      "category": "microcontroller_board",
+      "name": "Colorduino-type 8x8 RGB LED matrix driver board (ATmega328P, DM163, M54564)",
+      "manufacturer": null,
+      "model": "Colorduino",
+      "variant": "One blue Arduino-form-factor board with edge headers silkscreened RED / GREEN / BLUE / VCC for an 8x8 RGB matrix, two green screw terminals, a 'Terminal / Header' power-select slide switch, an AMS1117 5.0 regulator, and three legible main chips: Atmel MEGA328P, DM163 LED driver (QFP) and Mitsubishi M54564AFP",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-167"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "RGB matrix edge headers (RED, GREEN, BLUE, VCC)",
+        "Screw-terminal power inputs",
+        "6-pin ISP-style header"
+      ],
+      "accessories": [],
+      "notes": "One board in 1000063316.jpg, photographed upside down; all three defining chip markings are legible when rotated. The DM163 constant-current driver plus M54564 sink driver plus ATmega328P, with RGB edge headers, is the Colorduino / Rainbowduino-family design for driving an 8x8 RGB LED matrix; the board itself carries no product-name silkscreen, so the family identification is medium confidence. No LED matrix panel is attached in the photo and none is counted with this record. Distinct from the 8x8 matrix modules HW-0117/HW-0118/HW-0130/HW-0132. Operational condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-167"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0199",
+      "category": "electronics_material",
+      "name": "Dallas DS18B20 digital temperature sensors, TO-92 (bag of 5)",
+      "manufacturer": "Dallas Semiconductor",
+      "model": "DS18B20",
+      "variant": "Five black 3-lead TO-92 devices loose in a small zip bag; legible markings on three read 'DALLAS 18B20 1827C4 +051AG'; the bag's rear label is hand-annotated 'DS18B20 temp. sensor' in red marker over a printed store label (1100195 / A06-02-01)",
+      "quantity": 5,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-168",
+        "P-20261122-169"
+      ],
+      "connectivity": [
+        "1-Wire"
+      ],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "Front (1000063317.jpg) and back (1000063318.jpg) show the same single bag, confirmed by the owner; the count of 5 is from the front photo (three face-up with legible DALLAS 18B20 markings, two showing their backs, identified by the marked companions and the bag label). The DS18B20 is a 1-Wire digital thermometer. The printed numbers on the bag label are a retail SKU, not device serials. No DS18B20 was previously inventoried. Operational condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-168"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0200",
+      "category": "interface_module",
+      "name": "TCS3200 color sensor module (GY-31 type)",
+      "manufacturer": null,
+      "model": "TCS3200",
+      "variant": "One blue square module with four clear white LEDs angled around a central black aperture holding the sensor chip, and two header rows silkscreened GND / OUT / S2 / S3 / VCC and VCC / S1 / S0 / LED / GND",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-170"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Two 5-pin header rows (VCC, GND, S0, S1, S2, S3, OUT, LED)"
+      ],
+      "accessories": [],
+      "notes": "One module in 1000063319.jpg. The four-LED illuminator ring, central light-to-frequency sensor and S0-S3/OUT pinout are the standard TCS3200 (GY-31) color-recognition module layout; the sensor chip itself carries no legible model text in the photo, so the exact model is medium confidence. No color sensor was previously inventoried. Operational condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-170"
+      },
+      "updated_on": "2026-11-22"
     }
   ]
 }

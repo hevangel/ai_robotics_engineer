@@ -2,18 +2,36 @@
 
 ## Status at a glance
 
-- **Inventory records:** 193 item/lot/component records (parent assemblies and installed components linked)
-- **Records associated with photographs:** 184
-- **Photo-verified / owner-confirmed hardware:** 158 (some enclosed items owner-confirmed; no working-status implied)
+- **Inventory records:** 200 item/lot/component records (parent assemblies and installed components linked)
+- **Records associated with photographs:** 191
+- **Photo-verified / owner-confirmed hardware:** 165 (some enclosed items owner-confirmed; no working-status implied)
 - **Photo-supported / tentative identifications or packaging only:** 28
 - **Previously reported, not yet photographed:** 7
-- **Photo intake records:** 161
+- **Photo intake records:** 170
 
 These are **record and photo counts**, not counts of verified working devices. A photographed retail box does not establish that electronic contents are present unless separately confirmed.
 
 - **Records lacking direct item photographs:** 9 (some contents independently confirmed by owner)
 
-## Latest batch — 025 (2 follow-up photographs, 0 new records; last three unidentified DIP ICs resolved)
+## Latest batch — 026 (9 photographs, 7 new records; sensor and shield modules)
+
+Nine photos, seven new items. Two items were photographed from both sides and are single records, as the owner confirmed: the PIR module (dome front + held reverse) and the DS18B20 bag (devices front + labelled back). None duplicates an existing record.
+
+| ID | Item | Quantity | Photo |
+| --- | --- | ---: | --- |
+| HW-0194 | HC-SR04 ultrasonic distance sensor module | 1 | `1000063311.jpg` |
+| HW-0195 | Tiny RTC DS1307 real-time clock module (I2C), 24C32 EEPROM on board | 1 | `1000063312.jpg` |
+| HW-0196 | PIR motion sensor module, HC-SR501 type (D-SUN PCB, BISS0001) | 1 | `1000063313.jpg`, `1000063314.jpg` |
+| HW-0197 | Arduino Sensor Shield v5.0 | 1 | `1000063315.jpg` |
+| HW-0198 | Colorduino-type 8×8 RGB LED matrix driver board (ATmega328P / DM163 / M54564) | 1 | `1000063316.jpg` |
+| HW-0199 | Dallas DS18B20 digital temperature sensors, TO-92 | 5 | `1000063317.jpg`, `1000063318.jpg` |
+| HW-0200 | TCS3200 color sensor module (GY-31 type) | 1 | `1000063319.jpg` |
+
+**Confidence notes:** HC-SR04, Tiny RTC and Sensor Shield carry legible on-board model text (high). The DS18B20 count of 5 comes from the bag front; three devices show legible `DALLAS 18B20` markings and the bag is hand-labelled "DS18B20 temp. sensor". The PIR's BISS0001 layout is the standard HC-SR501 design but the board prints no model name (medium for the designation, certain for the type). The matrix driver board's three chips (MEGA328P, DM163, M54564AFP) and RED/GREEN/BLUE headers identify the Colorduino family, but it has no product silkscreen and no matrix panel attached (medium). The TCS3200 module's chip carries no legible text; identification rests on its four-LED layout and S0–S3/OUT pinout (medium). The Tiny RTC's reverse was not photographed, so no backup battery is claimed. No working condition claimed. All nine photo binaries are stored in the repo (`photos/2026/11/`, EXIF stripped).
+
+[Batch 026 detail](batches/2026-11-22-026.md).
+
+## Earlier batch — 025 (2 follow-up photographs, 0 new records; last three unidentified DIP ICs resolved)
 
 Two close-ups (`1000063309.jpg`, `1000063310.jpg`) resolve the three black DIP ICs left unidentified in batch 024 photo `1000063301.jpg`. The records keep their existing IDs; nothing was added or double-counted.
 

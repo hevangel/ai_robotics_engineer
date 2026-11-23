@@ -1977,6 +1977,114 @@
         "HW-0191"
       ],
       "notes": "Re-identification of the two previously logged unidentified lower-foam DIPs in P-20261122-155, not additional ICs. Binary stored in the repo with EXIF stripped. Same-unit linkage inferred from package sizes, logos, relative positions and conversational sequence; revise if owner corrects."
+    },
+    {
+      "id": "P-20261122-162",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-162.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 026: 1000063311.jpg (EXIF date 2026-11-22). One blue HC-SR04 ultrasonic distance module, transducers and VCC/Trig/Echo/Gnd header visible.",
+      "item_ids": [
+        "HW-0194"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-163",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-163.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 026: 1000063312.jpg (EXIF date 2026-11-22). One blue 'Tiny RTC I2C modules' board with DS1307ZN RTC and HK24C32 EEPROM chips and watch crystal visible.",
+      "item_ids": [
+        "HW-0195"
+      ],
+      "notes": "Reverse side not photographed; backup battery presence not established. Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-164",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-164.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 026: 1000063313.jpg (EXIF date 2026-11-22). Front of one PIR motion sensor module: white Fresnel dome on a green PCB.",
+      "item_ids": [
+        "HW-0196"
+      ],
+      "notes": "Same single unit as P-20261122-165 (its reverse), confirmed by the owner. Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-165",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-165.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 026: 1000063314.jpg (EXIF date 2026-11-22). Reverse of the same PIR module held in hand: D-SUN silkscreen, BISS0001 chip, two orange trim pots, yellow VCC/OUT/GND header.",
+      "item_ids": [
+        "HW-0196"
+      ],
+      "notes": "Same single unit as P-20261122-164 (its front), confirmed by the owner. Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-166",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-166.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 026: 1000063315.jpg (EXIF date 2026-11-22). One blue Arduino 'Sensor Shield v5.0' expansion board, headers, APC220 socket and power terminal visible.",
+      "item_ids": [
+        "HW-0197"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-167",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-167.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 026: 1000063316.jpg (EXIF date 2026-11-22). One blue RGB LED matrix driver board photographed upside down; MEGA328P, DM163 and M54564AFP chip markings, RED/GREEN/BLUE edge headers and green screw terminals visible.",
+      "item_ids": [
+        "HW-0198"
+      ],
+      "notes": "No LED matrix panel attached or counted. Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-168",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-168.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 026: 1000063317.jpg (EXIF date 2026-11-22). Front of a zip bag holding five TO-92 devices; three legibly marked DALLAS 18B20.",
+      "item_ids": [
+        "HW-0199"
+      ],
+      "notes": "Same single bag as P-20261122-169 (its back), confirmed by the owner. Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-169",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-169.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 026: 1000063318.jpg (EXIF date 2026-11-22). Back of the same zip bag: printed store label hand-annotated 'DS18B20 temp. sensor' in red marker, device leads/bodies visible at the edge.",
+      "item_ids": [
+        "HW-0199"
+      ],
+      "notes": "Same single bag as P-20261122-168 (its front), confirmed by the owner. The label numbers are a retail SKU, not serial numbers. Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-170",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-170.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 026: 1000063319.jpg (EXIF date 2026-11-22). One blue TCS3200-type color sensor module with four clear LEDs around the central sensor and S0-S3/OUT header labels.",
+      "item_ids": [
+        "HW-0200"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
     }
   ]
 }
