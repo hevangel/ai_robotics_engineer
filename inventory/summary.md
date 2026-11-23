@@ -2,18 +2,31 @@
 
 ## Status at a glance
 
-- **Inventory records:** 85 item/lot/component records (parent assemblies and installed components linked)
-- **Records associated with photographs:** 77
-- **Photo-verified / owner-confirmed hardware:** 66 (includes 2 previously owner-confirmed boards not directly photographed)
+- **Inventory records:** 89 item/lot/component records (parent assemblies and installed components linked)
+- **Records associated with photographs:** 81
+- **Photo-verified / owner-confirmed hardware:** 70 (includes 2 previously owner-confirmed boards not directly photographed)
 - **Photo-supported but packaging only / tentative:** 13
 - **Previously reported, not yet photographed:** 6
-- **Photo intake records:** 73
+- **Photo intake records:** 77
 
 These are **record and photo counts**, not counts of verified working devices. A photographed retail box does not establish that electronic contents are present unless separately confirmed.
 
 - **Records lacking direct item photographs:** 8 (including 2 owner-confirmed enclosed/installed components)
 
-## Latest batch — 012 (6 photos)
+## Latest batch — 013 (4 photos)
+
+| ID | Item | Qty | Uploaded photo |
+| --- | --- | ---: | --- |
+| HW-0086 | Unbranded three-button Bluetooth scrolling ring with charging case | 1 | `1000063209.jpg` |
+| HW-0087 | Canon EOS 450D DSLR camera with mounted zoom lens | 1 | `1000063208.jpg` |
+| HW-0088 | Canon PowerShot S100 compact digital camera | 1 | `1000063207.jpg` |
+| HW-0089 | Canon Digital IXUS 700 compact digital camera | 1 | `1000063206.jpg` |
+
+**Ring note:** HW-0086 is a three-button D01 Pro-style ring with a charging case, exact model **not confirmed**; it is distinct from the five-button JX-05 ring HW-0046.
+
+[Batch 013 details](batches/2026-11-22-013.md)
+
+## Earlier batch — 012 (6 photos)
 
 | ID | Item | Qty | Uploaded photo |
 | --- | --- | ---: | --- |

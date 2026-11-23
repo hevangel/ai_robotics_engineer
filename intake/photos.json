@@ -885,6 +885,54 @@
         "HW-0085"
       ],
       "notes": "Quantity four, distinct from the single Nano on traffic-light assembly. Original JPG exists in this conversation; its bytes have not yet been uploaded to GitHub."
+    },
+    {
+      "id": "P-20261122-074",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 013 photo 1/4, uploaded filename 1000063209.jpg: Three-button black Bluetooth ring alongside open square charging case",
+      "item_ids": [
+        "HW-0086"
+      ],
+      "notes": "Distinct from JX-05 five-button remote HW-0046; owner says purchased on AliExpress. D01 Pro-style family suggested by image comparison but no exact model proven. Original JPG remains a conversation attachment; it is not yet copied into GitHub."
+    },
+    {
+      "id": "P-20261122-075",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 013 photo 2/4, uploaded filename 1000063208.jpg: Canon EOS 450D DSLR with Canon strap, lens and front cap",
+      "item_ids": [
+        "HW-0087"
+      ],
+      "notes": "Canon EOS 450D body clearly marked; lens model unreadable. Original JPG remains a conversation attachment; it is not yet copied into GitHub."
+    },
+    {
+      "id": "P-20261122-076",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 013 photo 3/4, uploaded filename 1000063207.jpg: Silver Canon PowerShot S100 compact camera, front view",
+      "item_ids": [
+        "HW-0088"
+      ],
+      "notes": "S100 label and 5× IS 5.2–26.0 mm zoom text visible. Original JPG remains a conversation attachment; it is not yet copied into GitHub."
+    },
+    {
+      "id": "P-20261122-077",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 013 photo 4/4, uploaded filename 1000063206.jpg: Silver Canon Digital IXUS 700 compact digital camera, front view",
+      "item_ids": [
+        "HW-0089"
+      ],
+      "notes": "IXUS 700 and 7.1 megapixels printed on body; three-times zoom. Original JPG remains a conversation attachment; it is not yet copied into GitHub."
     }
   ]
 }

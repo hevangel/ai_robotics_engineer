@@ -2384,6 +2384,125 @@
         "reference": "P-20261122-073"
       },
       "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0086",
+      "category": "controller",
+      "name": "Unbranded three-button Bluetooth scrolling ring with charging case",
+      "manufacturer": "Unknown (AliExpress seller, unbranded)",
+      "model": "Unknown; D01 Pro / Xring 3-button family resemblance only",
+      "variant": "Black wearable ring with three round buttons; matching open black square hinged charging/storage case",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-074"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Bluetooth remote interface (reported; not tested)",
+        "3 physical control buttons"
+      ],
+      "accessories": [
+        "Square hinged charging case"
+      ],
+      "notes": "Photographed in open black charging case with one black three-button wearable ring next to case. Owner reports purchased on AliExpress; model unknown. Comparable product families marketed as 'D01 Pro', 'Xring' and other generic three-button Bluetooth phone scrolling/ebook-page-turning/camera shutter ring remotes. A visually similar D01 Pro-style model is NOT definitive identity, do not claim exact manufacturer, chipset, Bluetooth pairing name, radio version or operating system functions until pairing or a rear sticker confirms. Similar reference: https://manuals.plus/asin/B0CT8YJF6Y ; comparable catalog image https://www.walmart.com/ip/18498073624 . This is DISTINCT from the existing five-button JX-05 ring HW-0046, which had a different control shape and its own packaging. To identify more exactly check Bluetooth device name in Android Settings while ring is discoverable (D01 Pro, JX-03, MOUSE or other).",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-074"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0087",
+      "category": "camera",
+      "name": "Canon EOS 450D DSLR camera with mounted zoom lens",
+      "manufacturer": "Canon",
+      "model": "EOS 450D (EOS Rebel XSi)",
+      "variant": "Black Canon DSLR with lens and EOS/450D body marking",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-075"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Canon EF/EF-S-type interchangeable lens mount (standard model capability; lens variant unconfirmed)"
+      ],
+      "accessories": [
+        "Attached zoom lens, exact model not verified",
+        "Canon lens cap",
+        "Canon neck strap"
+      ],
+      "notes": "One black Canon EOS 450D digital single-lens reflex camera. '450D' and 'EOS' markings are readable on body, with an attached interchangeable Canon lens fitted with a front Canon lens cap; a Canon neck strap also visible. Exact mounted lens model and focal length cannot be reliably determined from this shot; it is an attached accessory, not a second camera body. No assessment of power-on, sensor, optics or condition.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-075"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0088",
+      "category": "camera",
+      "name": "Canon PowerShot S100 compact digital camera",
+      "manufacturer": "Canon",
+      "model": "PowerShot S100",
+      "variant": "Silver pocket camera with 5.2–26.0 mm f/2.0–5.9 5× zoom and closed lens cover",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-076"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Built-in 5× zoom lens"
+      ],
+      "accessories": [
+        "Wrist strap"
+      ],
+      "notes": "One silver Canon PowerShot S100 compact digital camera. Front is printed 'S100'; lens barrel marked 'CANON ZOOM LENS 5x IS', '5.2–26.0 mm 1:2.0–5.9'. Hand/wrist strap attached. Do not confuse with much older Canon PowerShot S100 Digital ELPH: the visible 5× f/2.0–5.9 lens identifies the later S100 series body. No battery, card or working status verified.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-076"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0089",
+      "category": "camera",
+      "name": "Canon Digital IXUS 700 compact digital camera",
+      "manufacturer": "Canon",
+      "model": "Digital IXUS 700 (PowerShot SD500 in some regions)",
+      "variant": "Silver compact with front Canon DIGITAL IXUS 700 label and 7.1 megapixels",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-077"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Built-in 3× zoom lens"
+      ],
+      "accessories": [
+        "Wrist strap"
+      ],
+      "notes": "One silver Canon DIGITAL IXUS 700 point-and-shoot camera. Front label reads 'DIGITAL IXUS 700' and '7.1 MEGA PIXELS'; 'CANON ZOOM LENS 3x' on front lens collar. A wrist strap attached. Comparable to Canon PowerShot SD500 regional naming, but physical unit specifically branded Digital IXUS 700. Untested and no battery/card confirmation.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-077"
+      },
+      "updated_on": "2026-11-22"
     }
   ]
 }

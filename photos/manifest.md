@@ -1,6 +1,6 @@
 # Photo evidence index
 
-**Last updated:** 2026-11-22. **Photos logged: 73.** This file indexes the actual photographs received in the ChatGPT conversation, but **does not contain the JPG images**. Original image assets have not been copied to GitHub. The canonical relationship between photo IDs and hardware IDs is in [the JSON intake log](../intake/photos.json).
+**Last updated:** 2026-11-22. **Photos logged: 77.** This file indexes the actual photographs received in the ChatGPT conversation, but **does not contain the JPG images**. Original image assets have not been copied to GitHub. The canonical relationship between photo IDs and hardware IDs is in [the JSON intake log](../intake/photos.json).
 
 | Photo ID | Conversation image filename | Related hardware ID(s) | Description |
 | --- | --- | --- | --- |
@@ -88,9 +88,14 @@
 | `P-20261122-072` | `1000063201.jpg` | `HW-0084` | blue Nano terminal adapter with green screw terminal blocks |
 | `P-20261122-073` | `1000063200.jpg` | `HW-0085` | four separate blue Arduino Nano-style controller boards |
 
+| `P-20261122-074` | `1000063209.jpg` | `HW-0086` | Three-button black Bluetooth ring alongside open square charging case |
+| `P-20261122-075` | `1000063208.jpg` | `HW-0087` | Canon EOS 450D DSLR with Canon strap, lens and front cap |
+| `P-20261122-076` | `1000063207.jpg` | `HW-0088` | Silver Canon PowerShot S100 compact camera, front view |
+| `P-20261122-077` | `1000063206.jpg` | `HW-0089` | Silver Canon Digital IXUS 700 compact digital camera, front view |
+
 ## Batch notes
 
-[Batch 001](../inventory/batches/2026-11-22-001.md) · [Batch 002](../inventory/batches/2026-11-22-002.md) · [Batch 003](../inventory/batches/2026-11-22-003.md) · [Batch 004](../inventory/batches/2026-11-22-004.md) · [Batch 005](../inventory/batches/2026-11-22-005.md) · [Batch 006](../inventory/batches/2026-11-22-006.md) · [Batch 007](../inventory/batches/2026-11-22-007.md) · [Batch 008](../inventory/batches/2026-11-22-008.md) · [Batch 009](../inventory/batches/2026-11-22-009.md) · [Batch 010](../inventory/batches/2026-11-22-010.md) · [Batch 011](../inventory/batches/2026-11-22-011.md) · [Batch 012](../inventory/batches/2026-11-22-012.md)
+[Batch 001](../inventory/batches/2026-11-22-001.md) · [Batch 002](../inventory/batches/2026-11-22-002.md) · [Batch 003](../inventory/batches/2026-11-22-003.md) · [Batch 004](../inventory/batches/2026-11-22-004.md) · [Batch 005](../inventory/batches/2026-11-22-005.md) · [Batch 006](../inventory/batches/2026-11-22-006.md) · [Batch 007](../inventory/batches/2026-11-22-007.md) · [Batch 008](../inventory/batches/2026-11-22-008.md) · [Batch 009](../inventory/batches/2026-11-22-009.md) · [Batch 010](../inventory/batches/2026-11-22-010.md) · [Batch 011](../inventory/batches/2026-11-22-011.md) · [Batch 012](../inventory/batches/2026-11-22-012.md) · [Batch 013](../inventory/batches/2026-11-22-013.md)
 
 ## Next action to make the catalog self-contained
 
