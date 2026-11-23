@@ -179,25 +179,25 @@
     {
       "id": "HW-0008",
       "category": "controller",
-      "name": "Flight joystick",
+      "name": "Logitech Extreme 3D Pro flight joystick",
       "manufacturer": "Logitech",
-      "model": null,
-      "variant": null,
+      "model": "Extreme 3D Pro",
+      "variant": "Single-stick USB flight joystick with twist rudder, 12 programmable buttons, 8-way hat switch and throttle slider (manufacturer's specification for the model; the owner's unit has not been photographed)",
       "quantity": null,
       "condition": "unknown",
       "location": null,
       "verification_status": "reported_unverified",
-      "identification_confidence": "not_assessed",
+      "identification_confidence": "high",
       "photo_ids": [],
       "connectivity": [],
       "interfaces": [],
       "accessories": [],
-      "notes": "Previously mentioned as owned; model not yet known.",
+      "notes": "Owner identified the model on 2026-11-23 as the Logitech Extreme 3D Pro. Still not photographed - the record remains reported/unverified, and no product or stock image is filed as evidence of the owner's unit.",
       "source": {
         "type": "prior_conversation",
         "reference": null
       },
-      "updated_on": "2026-11-22"
+      "updated_on": "2026-11-23"
     },
     {
       "id": "HW-0009",
