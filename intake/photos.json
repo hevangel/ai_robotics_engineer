@@ -957,6 +957,126 @@
         "HW-0091"
       ],
       "notes": "Count as one wire bundle; individual wire count and exact pitch not yet verified. Original JPG still in this conversation; GitHub has metadata only."
+    },
+    {
+      "id": "P-20261122-080",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 015 photo 1/10, uploaded filename 1000063212.jpg: Bag of four white rectangular ET-505 electrode pads with white lead connectors; one set, no controller",
+      "item_ids": [
+        "HW-0092"
+      ],
+      "notes": "Identification and condition based on photograph only; original JPG remains a conversation attachment and is not stored in GitHub."
+    },
+    {
+      "id": "P-20261122-081",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 015 photo 2/10, uploaded filename 1000063213.jpg: ASUS nexus tablet seen from rear, smooth matte housing and rear camera, likely Nexus 7 2013",
+      "item_ids": [
+        "HW-0093"
+      ],
+      "notes": "Identification and condition based on photograph only; original JPG remains a conversation attachment and is not stored in GitHub."
+    },
+    {
+      "id": "P-20261122-082",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 015 photo 3/10, uploaded filename 1000063214.jpg: Motorola Nexus 6 rear with camera flash ring, Motorola emblem and nexus branding",
+      "item_ids": [
+        "HW-0094"
+      ],
+      "notes": "Identification and condition based on photograph only; original JPG remains a conversation attachment and is not stored in GitHub."
+    },
+    {
+      "id": "P-20261122-083",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 015 photo 4/10, uploaded filename 1000063215.jpg: Glass-backed gold iPhone with cracked rear panel and one rear camera",
+      "item_ids": [
+        "HW-0095"
+      ],
+      "notes": "Same HW-0095 iPhone; Identification and condition based on photograph only; original JPG remains a conversation attachment and is not stored in GitHub."
+    },
+    {
+      "id": "P-20261122-084",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 015 photo 5/10, uploaded filename 1000063216.jpg: Same gold iPhone photographed from front showing severely cracked screen and physical Home button",
+      "item_ids": [
+        "HW-0095"
+      ],
+      "notes": "Same HW-0095 iPhone; Identification and condition based on photograph only; original JPG remains a conversation attachment and is not stored in GitHub."
+    },
+    {
+      "id": "P-20261122-085",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 015 photo 6/10, uploaded filename 1000063217.jpg: Orange ZTE touchscreen handset with centered ring-style Home button, likely original ZTE Open",
+      "item_ids": [
+        "HW-0096"
+      ],
+      "notes": "Identification and condition based on photograph only; original JPG remains a conversation attachment and is not stored in GitHub."
+    },
+    {
+      "id": "P-20261122-086",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 015 photo 7/10, uploaded filename 1000063219.jpg: Dark blue-cased Nexus 5-like phone from rear with prominent top-left camera ring and LED flash",
+      "item_ids": [
+        "HW-0097"
+      ],
+      "notes": "Same HW-0097 phone; Identification and condition based on photograph only; original JPG remains a conversation attachment and is not stored in GitHub."
+    },
+    {
+      "id": "P-20261122-087",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 015 photo 8/10, uploaded filename 1000063220.jpg: Same blue-cased LG Nexus 5-like phone from front with screen off",
+      "item_ids": [
+        "HW-0097"
+      ],
+      "notes": "Same HW-0097 phone; Identification and condition based on photograph only; original JPG remains a conversation attachment and is not stored in GitHub."
+    },
+    {
+      "id": "P-20261122-088",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 015 photo 9/10, uploaded filename 1000063221.jpg: Pandigital digital photo frame rear with mini-USB port and retractable stand",
+      "item_ids": [
+        "HW-0098"
+      ],
+      "notes": "Same HW-0098 photo frame; Identification and condition based on photograph only; original JPG remains a conversation attachment and is not stored in GitHub."
+    },
+    {
+      "id": "P-20261122-089",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 015 photo 10/10, uploaded filename 1000063222.jpg: Same Pandigital digital photo frame from front, dark screen and wide black bezel",
+      "item_ids": [
+        "HW-0098"
+      ],
+      "notes": "Same HW-0098 photo frame; Identification and condition based on photograph only; original JPG remains a conversation attachment and is not stored in GitHub."
     }
   ]
 }

@@ -1,6 +1,6 @@
 # Photo evidence index
 
-**Last updated:** 2026-11-22. **Photos logged: 79.** This file indexes the actual photographs received in the ChatGPT conversation, but **does not contain the JPG images**. Original image assets have not been copied to GitHub. The canonical relationship between photo IDs and hardware IDs is in [the JSON intake log](../intake/photos.json).
+**Last updated:** 2026-11-22. **Photos logged: 89.** This file indexes the actual photographs received in the ChatGPT conversation, but **does not contain the JPG images**. Original image assets have not been copied to GitHub. The canonical relationship between photo IDs and hardware IDs is in [the JSON intake log](../intake/photos.json).
 
 | Photo ID | Conversation image filename | Related hardware ID(s) | Description |
 | --- | --- | --- | --- |
@@ -96,9 +96,20 @@
 | `P-20261122-078` | `1000063210.jpg` | `HW-0090` | Gray flat IDC cable loop with a socket at each end |
 | `P-20261122-079` | `1000063211.jpg` | `HW-0091` | Rainbow Dupont female-to-female jumper wire bundle |
 
+| `P-20261122-080` | `1000063212.jpg` | `HW-0092` | Bag of four white rectangular ET-505 electrode pads with white lead connectors; one set, no controller |
+| `P-20261122-081` | `1000063213.jpg` | `HW-0093` | ASUS nexus tablet seen from rear, smooth matte housing and rear camera, likely Nexus 7 2013 |
+| `P-20261122-082` | `1000063214.jpg` | `HW-0094` | Motorola Nexus 6 rear with camera flash ring, Motorola emblem and nexus branding |
+| `P-20261122-083` | `1000063215.jpg` | `HW-0095` | Glass-backed gold iPhone with cracked rear panel and one rear camera |
+| `P-20261122-084` | `1000063216.jpg` | `HW-0095` | Same gold iPhone photographed from front showing severely cracked screen and physical Home button |
+| `P-20261122-085` | `1000063217.jpg` | `HW-0096` | Orange ZTE touchscreen handset with centered ring-style Home button, likely original ZTE Open |
+| `P-20261122-086` | `1000063219.jpg` | `HW-0097` | Dark blue-cased Nexus 5-like phone from rear with prominent top-left camera ring and LED flash |
+| `P-20261122-087` | `1000063220.jpg` | `HW-0097` | Same blue-cased LG Nexus 5-like phone from front with screen off |
+| `P-20261122-088` | `1000063221.jpg` | `HW-0098` | Pandigital digital photo frame rear with mini-USB port and retractable stand |
+| `P-20261122-089` | `1000063222.jpg` | `HW-0098` | Same Pandigital digital photo frame from front, dark screen and wide black bezel |
+
 ## Batch notes
 
-[Batch 001](../inventory/batches/2026-11-22-001.md) · [Batch 002](../inventory/batches/2026-11-22-002.md) · [Batch 003](../inventory/batches/2026-11-22-003.md) · [Batch 004](../inventory/batches/2026-11-22-004.md) · [Batch 005](../inventory/batches/2026-11-22-005.md) · [Batch 006](../inventory/batches/2026-11-22-006.md) · [Batch 007](../inventory/batches/2026-11-22-007.md) · [Batch 008](../inventory/batches/2026-11-22-008.md) · [Batch 009](../inventory/batches/2026-11-22-009.md) · [Batch 010](../inventory/batches/2026-11-22-010.md) · [Batch 011](../inventory/batches/2026-11-22-011.md) · [Batch 012](../inventory/batches/2026-11-22-012.md) · [Batch 013](../inventory/batches/2026-11-22-013.md) · [Batch 014](../inventory/batches/2026-11-22-014.md)
+[Batch 001](../inventory/batches/2026-11-22-001.md) · [Batch 002](../inventory/batches/2026-11-22-002.md) · [Batch 003](../inventory/batches/2026-11-22-003.md) · [Batch 004](../inventory/batches/2026-11-22-004.md) · [Batch 005](../inventory/batches/2026-11-22-005.md) · [Batch 006](../inventory/batches/2026-11-22-006.md) · [Batch 007](../inventory/batches/2026-11-22-007.md) · [Batch 008](../inventory/batches/2026-11-22-008.md) · [Batch 009](../inventory/batches/2026-11-22-009.md) · [Batch 010](../inventory/batches/2026-11-22-010.md) · [Batch 011](../inventory/batches/2026-11-22-011.md) · [Batch 012](../inventory/batches/2026-11-22-012.md) · [Batch 013](../inventory/batches/2026-11-22-013.md) · [Batch 014](../inventory/batches/2026-11-22-014.md) · [Batch 015](../inventory/batches/2026-11-22-015.md)
 
 ## Next action to make the catalog self-contained
 

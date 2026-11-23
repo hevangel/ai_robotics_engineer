@@ -2,18 +2,34 @@
 
 ## Status at a glance
 
-- **Inventory records:** 91 item/lot/component records (parent assemblies and installed components linked)
-- **Records associated with photographs:** 83
-- **Photo-verified / owner-confirmed hardware:** 72 (includes 2 previously owner-confirmed boards not directly photographed)
+- **Inventory records:** 98 item/lot/component records (parent assemblies and installed components linked)
+- **Records associated with photographs:** 90
+- **Photo-verified / owner-confirmed hardware:** 79 (includes 2 previously owner-confirmed boards not directly photographed)
 - **Photo-supported but packaging only / tentative:** 13
 - **Previously reported, not yet photographed:** 6
-- **Photo intake records:** 79
+- **Photo intake records:** 89
 
 These are **record and photo counts**, not counts of verified working devices. A photographed retail box does not establish that electronic contents are present unless separately confirmed.
 
 - **Records lacking direct item photographs:** 8 (including 2 owner-confirmed enclosed/installed components)
 
-## Latest batch — 014 (2 photos)
+## Latest batch — 015 (10 photos; 7 distinct items)
+
+| ID | Item | Qty | Uploaded photo(s) |
+| --- | --- | --- | --- |
+| HW-0092 | ET-505 four-pad electrode set | 1 set (4 pads) | `1000063212.jpg` |
+| HW-0093 | ASUS Nexus 7 (2013) tablet | 1 | `1000063213.jpg` |
+| HW-0094 | Motorola Nexus 6 smartphone | 1 | `1000063214.jpg` |
+| HW-0095 | Gold iPhone 8 (probable), shattered glass | 1 | `1000063215.jpg`, `1000063216.jpg` |
+| HW-0096 | Orange ZTE Open Firefox OS phone (probable) | 1 | `1000063217.jpg` |
+| HW-0097 | LG Nexus 5 (probable), blue case | 1 | `1000063219.jpg`, `1000063220.jpg` |
+| HW-0098 | Pandigital digital photo frame, model unknown | 1 | `1000063221.jpg`, `1000063222.jpg` |
+
+**Multiple-view groups:** iPhone `3215/3216`, Nexus 5 `3219/3220`, and Pandigital frame `3221/3222` are each one physical device. Model of iPhone, ZTE and Nexus 5 remain photograph-based and may need label confirmation.
+
+[Batch 015 details](batches/2026-11-22-015.md)
+
+## Earlier batch — 014 (2 photos)
 
 | ID | Item | Qty | Uploaded photo |
 | --- | --- | --- | --- |

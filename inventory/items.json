@@ -2558,6 +2558,198 @@
         "reference": "P-20261122-079"
       },
       "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0092",
+      "category": "electronics_material",
+      "name": "ET-505 four-pad TENS/EMS adhesive electrode set",
+      "manufacturer": null,
+      "model": "ET-505 (printed on card)",
+      "variant": "Four white rounded-rectangle mesh-faced stimulation electrode pads arranged in 2×2 on turquoise backing card, with white leads and white connectors",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-080"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "White electrode lead cables with small plug/jack-style connectors; exact connector diameter not measured"
+      ],
+      "accessories": [],
+      "notes": "One sealed/clear-packaged set of FOUR reusable-looking rectangular adhesive electrode pads and attached white wire connectors. Printed card 'Model: ET-505', along with partly obscured text referring to a medical/electrical stimulator. This is an electrode accessory set: no powered TENS/EMS controller is shown and pad function/compatibility are not electrically verified. Count 1 set, 4 pads; do not count pads as four separate devices. Evidence: 1000063212.jpg.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-080"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0093",
+      "category": "single_board_computer",
+      "name": "ASUS Google Nexus 7 (2013) tablet",
+      "manufacturer": "ASUS / Google",
+      "model": "Nexus 7 (2013, second generation)",
+      "variant": "Black approximately 7-inch Android tablet, rear nexus and ASUS markings, corner-mounted rear camera",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-081"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Touchscreen tablet; USB and other interfaces not pictured"
+      ],
+      "accessories": [],
+      "notes": "One black Nexus-branded ASUS tablet seen from its rear only. The smooth black back, ASUS mark, portrait nexus logo and upper-corner rear camera are consistent with the 2013 second-generation Nexus 7 (the 2012 Nexus 7 did not have a rear-facing camera). Storage size, LTE/Wi-Fi configuration, battery and powered-on condition are unknown. Not to be confused with Motorola Nexus 6 HW-0094 or LG Nexus 5 HW-0097. Evidence: 1000063213.jpg.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-081"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0094",
+      "category": "accessory",
+      "name": "Motorola Google Nexus 6 smartphone",
+      "manufacturer": "Motorola / Google",
+      "model": "Nexus 6 (2014)",
+      "variant": "Dark Motorola Nexus 6 with centered nexus marking, circular Motorola logo and central rear camera with surrounding flash ring",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-082"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Android smartphone; rear camera ring and Motorola logo visible"
+      ],
+      "accessories": [],
+      "notes": "One Motorola-made Nexus 6 phone photographed from the rear. The large nexus logo, recessed circular Motorola M and large center top camera/flash-ring assembly differentiate it from the ASUS Nexus 7 tablet and LG Nexus 5. Actual Android version, operating state, battery and storage capacity unknown. Physical surface has wear; exact hardware variant (XT1100/XT1103) not confirmed. Evidence: 1000063214.jpg.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-082"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0095",
+      "category": "accessory",
+      "name": "Apple iPhone 8 smartphone, gold, damaged glass",
+      "manufacturer": "Apple",
+      "model": "iPhone 8 (4.7-inch, photo-based identification)",
+      "variant": "Gold/light rose gold glass-backed iPhone with single rear camera and white front bezel, Touch ID/Home button, severe cracking on both front and back",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-083",
+        "P-20261122-084"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Touchscreen and Home button; rear single camera"
+      ],
+      "accessories": [],
+      "notes": "One and the SAME phone in rear and front photographs. Glass-backed gold iPhone with 'iPhone' rear wordmark, one camera lens, and front white Home-button design strongly suggests iPhone 8 rather than older aluminum-backed iPhone 7. Rear back glass is extensively shattered with material missing/exposed near lower-right corner; front glass has extensive spider cracking near lower left and bottom right. Untested and potentially unsafe to handle or charge until checked for sharp glass, swollen/damaged battery and exposed electronics. Model number on SIM tray/Settings not verified; identification provisional. Evidence: 1000063215.jpg, 1000063216.jpg.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-083"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0096",
+      "category": "accessory",
+      "name": "ZTE Open Firefox OS smartphone, orange",
+      "manufacturer": "ZTE",
+      "model": "ZTE Open (probable original 2013 version)",
+      "variant": "Bright orange rounded frame, glossy black front, ZTE name above screen, centered ring-style capacitive Home key below display",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-085"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Touchscreen smartphone, capacitive circular Home key"
+      ],
+      "accessories": [],
+      "notes": "One orange ZTE handset photographed from its FRONT. The orange soft-edged shell, black front ZTE mark and minimalist single ring Home button match the original ZTE Open, one of the 2013 Firefox OS phones. No model/part-number back sticker or powered-on screen is shown, so ZTE Open identification is strong but provisional; operating system cannot be confirmed installed or functional. No separate orange rubber case counted. Evidence: 1000063217.jpg.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-085"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0097",
+      "category": "accessory",
+      "name": "LG Google Nexus 5 smartphone in blue protective case",
+      "manufacturer": "LG / Google (probable)",
+      "model": "Nexus 5 (2013; photo-based identification)",
+      "variant": "Black touchscreen smartphone in worn dark-blue case, circular protruding rear camera and smaller flash directly underneath",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-086",
+        "P-20261122-087"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Touchscreen phone, front earpiece/camera visible through case"
+      ],
+      "accessories": [],
+      "notes": "Two views show ONE black-screen phone wearing a dark navy/blue protective shell. Back camera opening has a large dark circular lens surround and flash immediately below; front includes top circular earpiece and front camera, features consistent with LG-made Nexus 5 (2013). The protective case obscures Nexus/LG printing and device model number, so identification remains provisional pending case removal or model number. Not counted as a separate blue case item. Device is not powered on or tested. Evidence: 1000063219.jpg, 1000063220.jpg.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-086"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0098",
+      "category": "accessory",
+      "name": "Pandigital digital photo frame",
+      "manufacturer": "Pandigital",
+      "model": null,
+      "variant": "Black rectangular digital picture frame, broad matte front bezel and rear retractable 'Stand Extends' support",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-088",
+        "P-20261122-089"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Rear mini-USB port labelled USB; rear mounting keyhole slots"
+      ],
+      "accessories": [],
+      "notes": "Two photos show front and back of the SAME Pandigital-branded rectangular digital photo frame. Front is dark/blank with broad black bezel. Back has Pandigital printing, four wall-mount keyhole openings, speaker grille, mini-USB port, small vent slots and extendable kickstand marked 'Stand Extends'. Exact model, screen diagonal, storage media support, power supply and operational condition are unknown. Do not assume tablet or working display. Evidence: 1000063221.jpg, 1000063222.jpg.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-088"
+      },
+      "updated_on": "2026-11-22"
     }
   ]
 }
