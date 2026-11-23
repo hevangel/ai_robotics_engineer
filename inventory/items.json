@@ -4639,7 +4639,7 @@
       ],
       "interfaces": [],
       "accessories": [],
-      "updated_on": "2026-11-22",
+      "updated_on": "2026-11-23",
       "id": "HW-0167",
       "name": "CanaKit PiSwitch inline power switch",
       "category": "accessory",
@@ -4648,9 +4648,10 @@
       "verification_status": "photo_verified",
       "identification_confidence": "high",
       "photo_ids": [
-        "P-20261122-148"
+        "P-20261122-148",
+        "P-20261123-030"
       ],
-      "notes": "One compact black wired switch in 1000063294.jpg labelled CANAKIT, ON / OFF, PiSwitch. Appears to be an inline Raspberry Pi power-management/power on-off accessory; cable end visible but exact USB connector type cannot be certified from this angle. Do not assert smart shutdown or low-voltage protection without model datasheet/functional test. Cable is integral part of this one item, not an additional cable inventory count.",
+      "notes": "Two photographs of a CanaKit PiSwitch (P-20261122-148 and P-20261123-030, the second taken 2026-11-23) show the same black module labelled CANAKIT, ON / OFF, PiSwitch with red indicator lens. The second photo is treated as a re-photograph of this same unit; if it is in fact a second unit, the owner can split the record. The captive cable's plug is visible in the second photo but its exact USB type (USB-C vs micro-USB) still cannot be certified at this resolution. Appears to be an inline Raspberry Pi power on-off accessory; do not assert smart shutdown or low-voltage protection without a datasheet or functional test. Cable is integral to this one item, not an additional cable inventory count.",
       "source": {
         "type": "photo",
         "reference": "P-20261122-148"
@@ -7074,6 +7075,234 @@
       "source": {
         "type": "photo",
         "reference": "P-20261123-023"
+      },
+      "updated_on": "2026-11-23"
+    },
+    {
+      "id": "HW-0259",
+      "category": "interface_module",
+      "name": "EasyCAP USB composite/S-Video capture adapter",
+      "manufacturer": null,
+      "model": "EasyCAP",
+      "variant": "One black USB-A capture stick printed 'EasyCAP' with four captive input tails: composite video (yellow RCA female), stereo audio (red and white RCA female) and S-Video (black mini-DIN female)",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261123-024"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "USB-A",
+        "Composite RCA input",
+        "S-Video input",
+        "Stereo RCA audio input"
+      ],
+      "accessories": [],
+      "notes": "One adapter in 1000063421.jpg. The classic EasyCAP analog capture device (many chipset variants exist under this name; the chipset in this unit is not determinable from the photo). Working condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261123-024"
+      },
+      "updated_on": "2026-11-23"
+    },
+    {
+      "id": "HW-0260",
+      "category": "interface_module",
+      "name": "Apricorn USB to SATA drive adapter cable",
+      "manufacturer": "Apricorn",
+      "model": null,
+      "variant": "One white cable: USB-A male plug to a clamshell SATA head printed with the Apricorn logo, combining SATA data and power contacts for a 2.5-inch drive (the DriveWire-style adapter)",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261123-025"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "USB-A male",
+        "SATA data+power"
+      ],
+      "accessories": [],
+      "notes": "One adapter in 1000063422.jpg; Apricorn branding legible on the head. No separate power supply is photographed - the adapter alone is recorded. Working condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261123-025"
+      },
+      "updated_on": "2026-11-23"
+    },
+    {
+      "id": "HW-0261",
+      "category": "cable",
+      "name": "Camcorder AV cable, 2.5 mm jack to composite RCA",
+      "manufacturer": null,
+      "model": null,
+      "variant": "One black cable: right-angle 2.5 mm multi-pole jack plug (with an inline ferrite bead) to a single yellow composite-video RCA male plug; jacket printed with AWM/E52828-DG wire codes",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261123-026"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "2.5 mm jack",
+        "Composite RCA male"
+      ],
+      "accessories": [],
+      "notes": "One cable in 1000063423.jpg. The classic camcorder AV-out lead; only the video tail is fitted on this cable. Working condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261123-026"
+      },
+      "updated_on": "2026-11-23"
+    },
+    {
+      "id": "HW-0262",
+      "category": "accessory",
+      "name": "HDMI to VGA adapter with audio and USB power ports",
+      "manufacturer": null,
+      "model": null,
+      "variant": "One black short-cable active adapter: HDMI male plug to a VGA female body bearing a Rankie-style 'R' logo, with side ports labelled 'Audio' (3.5 mm) and 'DC5V' (micro-USB power input)",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261123-027"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "HDMI male",
+        "VGA female",
+        "3.5 mm audio out",
+        "Micro-USB DC 5V in"
+      ],
+      "accessories": [],
+      "notes": "One adapter in 1000063424.jpg; port labels legible. No audio or power cables are photographed with it. Working condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261123-027"
+      },
+      "updated_on": "2026-11-23"
+    },
+    {
+      "id": "HW-0263",
+      "category": "cable",
+      "name": "VGA monitor cable (blue connectors)",
+      "manufacturer": null,
+      "model": null,
+      "variant": "One black VGA (DE-15) male-to-male monitor cable with blue connector shells, thumbscrews, an inline ferrite bead, and jacket print including 'AWM 2919' style codes",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261123-028"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "VGA male",
+        "VGA male"
+      ],
+      "accessories": [],
+      "notes": "One cable coiled in 1000063425.jpg. Length cannot be measured from the coiled photo and is not recorded. Working condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261123-028"
+      },
+      "updated_on": "2026-11-23"
+    },
+    {
+      "id": "HW-0264",
+      "category": "interface_module",
+      "name": "Dell USB-C to Gigabit Ethernet adapter (D59GG)",
+      "manufacturer": "Dell",
+      "model": "DBQBCBC064",
+      "variant": "One black short-cable adapter: USB-C plug to a Dell-logo RJ45 Ethernet body; the cable tag reads 'DELL D59GG Model# DBQBCBC064'. The tag also carries a MAC address, which is deliberately not recorded",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261123-029"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "USB-C male",
+        "RJ45 Gigabit Ethernet"
+      ],
+      "accessories": [],
+      "notes": "One adapter in 1000063426.jpg; Dell logo and model tag legible. Working condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261123-029"
+      },
+      "updated_on": "2026-11-23"
+    },
+    {
+      "id": "HW-0265",
+      "category": "accessory",
+      "name": "Mini DisplayPort to VGA adapter cable (white, unbranded)",
+      "manufacturer": null,
+      "model": null,
+      "variant": "One white short cable: Mini DisplayPort male plug to a VGA female body; the cable jacket is printed 'DisplayPort Cable E301195 AWM STYLE 20276'; no brand on the body",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261123-031"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Mini DisplayPort male",
+        "VGA female"
+      ],
+      "accessories": [],
+      "notes": "One adapter in 1000063428.jpg. Working condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261123-031"
+      },
+      "updated_on": "2026-11-23"
+    },
+    {
+      "id": "HW-0266",
+      "category": "accessory",
+      "name": "Apple Lightning to USB Camera Adapter",
+      "manufacturer": "Apple",
+      "model": null,
+      "variant": "One white adapter: Lightning male plug on a short cable to a USB-A female body with a camera pictogram printed on it",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261123-032"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Lightning male",
+        "USB-A female"
+      ],
+      "accessories": [],
+      "notes": "One adapter in 1000063429.jpg. The camera pictogram identifies Apple's Lightning to USB Camera Adapter (MD821 form); no model number is printed visibly. Working condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261123-032"
       },
       "updated_on": "2026-11-23"
     }

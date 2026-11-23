@@ -2,18 +2,36 @@
 
 ## Status at a glance
 
-- **Inventory records:** 256 item/lot/component records (parent assemblies and installed components linked)
-- **Records associated with photographs:** 251
-- **Photo-verified / owner-confirmed hardware:** 223 (some enclosed items owner-confirmed; no working-status implied)
+- **Inventory records:** 264 item/lot/component records (parent assemblies and installed components linked)
+- **Records associated with photographs:** 259
+- **Photo-verified / owner-confirmed hardware:** 231 (some enclosed items owner-confirmed; no working-status implied)
 - **Photo-supported / tentative identifications or packaging only:** 28
 - **Previously reported, not yet photographed:** 5
-- **Photo intake records:** 238
+- **Photo intake records:** 247
 
 These are **record and photo counts**, not counts of verified working devices. A photographed retail box does not establish that electronic contents are present unless separately confirmed.
 
 - **Records lacking direct item photographs:** 8 (some contents independently confirmed by owner; HW-0008 carries a labelled web reference image of its model, not a photo of the owner's unit)
 
-## Latest batch — 040 (9 photographs, 9 new records; display adapters and a capture dongle)
+## Latest batch — 041 (9 photographs, 8 new records + 1 re-photograph; more adapters and cables)
+
+| ID | Item | Quantity | Photo |
+| --- | --- | ---: | --- |
+| HW-0259 | EasyCAP USB composite/S-Video capture adapter | 1 | `1000063421.jpg` |
+| HW-0260 | Apricorn USB to SATA drive adapter cable | 1 | `1000063422.jpg` |
+| HW-0261 | Camcorder AV cable, 2.5 mm jack to composite RCA | 1 | `1000063423.jpg` |
+| HW-0262 | HDMI to VGA adapter with audio and USB power ports | 1 | `1000063424.jpg` |
+| HW-0263 | VGA monitor cable (blue connectors) | 1 | `1000063425.jpg` |
+| HW-0264 | Dell USB-C to Gigabit Ethernet adapter (D59GG) | 1 | `1000063426.jpg` |
+| HW-0167 | CanaKit PiSwitch inline power switch — second photograph | 1 | `1000063427.jpg` |
+| HW-0265 | Mini DisplayPort to VGA adapter cable (white, unbranded) | 1 | `1000063428.jpg` |
+| HW-0266 | Apple Lightning to USB Camera Adapter | 1 | `1000063429.jpg` |
+
+**Confidence notes:** Branding/models are legible on the EasyCAP, Apricorn, Dell (D59GG / DBQBCBC064) and Apple (camera pictogram) pieces (high). The Dell tag's MAC address is deliberately not recorded. The PiSwitch photo is filed as a re-photograph of HW-0167 rather than a duplicate record; if it is actually a second unit, the record can be split. The VGA cable's length is not recorded (coiled). No item is claimed tested/working. All nine photo binaries are stored in the repo (`photos/2026/11/`, EXIF stripped).
+
+[Batch 041 detail](batches/2026-11-23-041.md).
+
+## Earlier batch — 040 (9 photographs, 9 new records; display adapters and a capture dongle)
 
 | ID | Item | Quantity | Photo |
 | --- | --- | ---: | --- |

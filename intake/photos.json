@@ -2902,6 +2902,114 @@
         "HW-0258"
       ],
       "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261123-024",
+      "captured_on": "2026-11-23",
+      "processed_on": "2026-11-23",
+      "file": "photos/2026/11/P-20261123-024.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 041: 1000063421.jpg (EXIF date 2026-11-23). EasyCAP USB capture stick with composite, S-Video and stereo RCA input tails.",
+      "item_ids": [
+        "HW-0259"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261123-025",
+      "captured_on": "2026-11-23",
+      "processed_on": "2026-11-23",
+      "file": "photos/2026/11/P-20261123-025.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 041: 1000063422.jpg (EXIF date 2026-11-23). White Apricorn USB-to-SATA adapter cable, logo on the SATA head.",
+      "item_ids": [
+        "HW-0260"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261123-026",
+      "captured_on": "2026-11-23",
+      "processed_on": "2026-11-23",
+      "file": "photos/2026/11/P-20261123-026.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 041: 1000063423.jpg (EXIF date 2026-11-23). Camcorder AV cable: right-angle 2.5 mm jack with ferrite bead to a yellow composite RCA plug.",
+      "item_ids": [
+        "HW-0261"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261123-027",
+      "captured_on": "2026-11-23",
+      "processed_on": "2026-11-23",
+      "file": "photos/2026/11/P-20261123-027.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 041: 1000063424.jpg (EXIF date 2026-11-23). HDMI-to-VGA active adapter with Audio and DC5V side ports.",
+      "item_ids": [
+        "HW-0262"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261123-028",
+      "captured_on": "2026-11-23",
+      "processed_on": "2026-11-23",
+      "file": "photos/2026/11/P-20261123-028.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 041: 1000063425.jpg (EXIF date 2026-11-23). Coiled black VGA monitor cable with blue DE-15 connectors and a ferrite bead.",
+      "item_ids": [
+        "HW-0263"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261123-029",
+      "captured_on": "2026-11-23",
+      "processed_on": "2026-11-23",
+      "file": "photos/2026/11/P-20261123-029.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 041: 1000063426.jpg (EXIF date 2026-11-23). Dell USB-C to Ethernet adapter, tag reads D59GG / DBQBCBC064 (MAC on the tag not recorded).",
+      "item_ids": [
+        "HW-0264"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261123-030",
+      "captured_on": "2026-11-23",
+      "processed_on": "2026-11-23",
+      "file": "photos/2026/11/P-20261123-030.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 041: 1000063427.jpg (EXIF date 2026-11-23). CanaKit PiSwitch, second photograph - treated as a re-photograph of HW-0167.",
+      "item_ids": [
+        "HW-0167"
+      ],
+      "notes": "Second photo of HW-0167 (first: P-20261122-148). Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261123-031",
+      "captured_on": "2026-11-23",
+      "processed_on": "2026-11-23",
+      "file": "photos/2026/11/P-20261123-031.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 041: 1000063428.jpg (EXIF date 2026-11-23). White Mini DisplayPort-to-VGA adapter cable, jacket printed 'DisplayPort Cable E301195'.",
+      "item_ids": [
+        "HW-0265"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261123-032",
+      "captured_on": "2026-11-23",
+      "processed_on": "2026-11-23",
+      "file": "photos/2026/11/P-20261123-032.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 041: 1000063429.jpg (EXIF date 2026-11-23). Apple Lightning to USB Camera Adapter, camera pictogram on the USB-A body.",
+      "item_ids": [
+        "HW-0266"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
     }
   ]
 }
