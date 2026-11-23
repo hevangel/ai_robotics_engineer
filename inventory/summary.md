@@ -2,18 +2,35 @@
 
 ## Status at a glance
 
-- **Inventory records:** 220 item/lot/component records (parent assemblies and installed components linked)
-- **Records associated with photographs:** 212
-- **Photo-verified / owner-confirmed hardware:** 185 (some enclosed items owner-confirmed; no working-status implied)
+- **Inventory records:** 228 item/lot/component records (parent assemblies and installed components linked)
+- **Records associated with photographs:** 220
+- **Photo-verified / owner-confirmed hardware:** 193 (some enclosed items owner-confirmed; no working-status implied)
 - **Photo-supported / tentative identifications or packaging only:** 28
 - **Previously reported, not yet photographed:** 7
-- **Photo intake records:** 192
+- **Photo intake records:** 201
 
 These are **record and photo counts**, not counts of verified working devices. A photographed retail box does not establish that electronic contents are present unless separately confirmed.
 
-- **Records lacking direct item photographs:** 9 (some contents independently confirmed by owner)
+- **Records lacking direct item photographs:** 8 (some contents independently confirmed by owner)
 
-## Latest batch — 032 (photo-binary backfill: the 159 missing images are now stored)
+## Latest batch — 033 (9 photographs, 8 new records; servos, drivers, a stepper and a nano drone)
+
+| ID | Item | Quantity | Photo |
+| --- | --- | ---: | --- |
+| HW-0221 | Nano quadcopter drone kit, light blue (CX-10 style), with transmitter and spares | 1 | `1000063356.jpg` |
+| HW-0222 | L298N dual H-bridge DC motor driver module | 1 | `1000063357.jpg`, `1000063358.jpg` |
+| HW-0223 | PCA9685 16-channel 12-bit PWM servo/LED driver module (I2C) | 1 | `1000063359.jpg` |
+| HW-0224 | SG90 9g micro servo motors (TZT) | 4 | `1000063360.jpg` |
+| HW-0225 | Servo accessory sets: plastic horns with screws, and four tan mounting brackets | — | `1000063361.jpg` |
+| HW-0226 | Round aluminium servo horn discs (flange hubs) with mounting hardware | 2 | `1000063362.jpg` |
+| HW-0227 | MG996R high-torque metal-gear servo motors (Tower Pro) | 2 | `1000063363.jpg` |
+| HW-0228 | 28BYJ-48 5V stepper motor | 1 | `1000063364.jpg` |
+
+**Confidence notes:** High where labels are legible: the L298N module (front and back of one unit), the PCA9685 (silkscreen through its bag), the four TZT SG90s, the two MG996Rs (branding as printed; clones are common), and the 28BYJ-48 (etched marking — it pairs with the ULN2003 driver HW-0116). The nano drone carries no legible brand, so it is recorded by form factor only (medium); the two accessory lots are medium, and the horn/bracket lot's quantity is left unknown because the bags overlap. No working condition claimed. All nine photo binaries are stored in the repo (`photos/2026/11/`, EXIF stripped).
+
+[Batch 033 detail](batches/2026-11-22-033.md).
+
+## Earlier batch — 032 (photo-binary backfill: the 159 missing images are now stored)
 
 The owner supplied the missing binaries for intake photos `P-20261122-001` … `P-20261122-159` as a ZIP package (built with Codex). The package's bundled importer script was **not** run — the package tripped a security check, and with the owner's go-ahead the import was wired by hand: every file's SHA-256 verified against the package map before and after copying, visual spot-checks against the intake descriptions (including batch 010's ten photos, whose filenames were never recorded), EXIF confirmed absent. All 192 intake photos now have binaries in `photos/2026/11/`, so every record shows real photos in the root `index.html` viewer. Side benefit: HW-0124's cell code is now legible in its stored photo and confirmed as 1ICP4/43/55 (confidence raised to high).
 

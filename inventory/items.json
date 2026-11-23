@@ -6072,6 +6072,229 @@
         "reference": "P-20261122-192"
       },
       "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0221",
+      "category": "robotics_drone",
+      "name": "Nano quadcopter drone kit, light blue (CX-10 style), with transmitter and spares",
+      "manufacturer": null,
+      "model": null,
+      "variant": "One light-blue nano quadcopter with four white propellers and a circular logo on the canopy, a white and light-blue two-stick transmitter, a yellow USB charging cable, and a plastic bag of spare white propellers",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-193"
+      ],
+      "connectivity": [
+        "2.4 GHz radio (typical for this class; not printed in photo)"
+      ],
+      "interfaces": [],
+      "accessories": [
+        "Two-stick transmitter",
+        "Yellow USB charging cable",
+        "Bag of spare propellers"
+      ],
+      "notes": "Complete kit in 1000063356.jpg. No brand or model text is legible anywhere in the photo; the form factor is the Cheerson CX-10 style of nano quadcopter sold under many names, so no brand is recorded. Distinct from the Ryze Tello HW-0007. Battery is internal and not visible. Operational condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-193"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0222",
+      "category": "interface_module",
+      "name": "L298N dual H-bridge DC motor driver module",
+      "manufacturer": null,
+      "model": "L298N module",
+      "variant": "One red module with a finned heatsink over the L298N Multiwatt chip, three blue screw-terminal blocks (OUT1/OUT2, power, OUT3/OUT4 positions), two 220 uF 35 V capacitors, and logic pin headers with jumpers; the back is silkscreened 'L298N' with +12V / GND / +5V power labels and OUT1-OUT4",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-194",
+        "P-20261122-195"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Screw terminals for two DC motors (OUT1-OUT4)",
+        "Logic header (IN1-IN4, ENA/ENB with jumpers fitted)",
+        "Power screw terminal (+12V motor supply, GND, +5V)"
+      ],
+      "accessories": [],
+      "notes": "Front in 1000063357.jpg and back in 1000063358.jpg - the same single module photographed on both sides (matching heatsink, terminal layout and solder pattern). The L298N designation is printed on the back. Not to be confused with HW-0190, which is the bare L293D driver IC. Operational condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-194"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0223",
+      "category": "interface_module",
+      "name": "PCA9685 16-channel 12-bit PWM servo/LED driver module (I2C)",
+      "manufacturer": null,
+      "model": "PCA9685 module",
+      "variant": "One blue module in a clear plastic bag, silkscreened 'PCA9685', '16 x 12-bit PWM' and 'I2C Address (Open=0 Closed=1)' with A0-A5 address jumpers, sixteen 3-pin PWM output headers (GND / V+ / PWM), a green screw terminal for servo power, and a 6-pin I2C header (GND, OE, SCL, SDA, VCC, V+)",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-196"
+      ],
+      "connectivity": [
+        "I2C"
+      ],
+      "interfaces": [
+        "16x 3-pin PWM outputs",
+        "6-pin I2C header",
+        "Screw terminal for external servo power"
+      ],
+      "accessories": [],
+      "notes": "One module in 1000063359.jpg, photographed through its bag; all silkscreen is legible. This is the standard PCA9685 breakout used to drive up to 16 servos (such as HW-0224 and HW-0227) from one I2C bus. Operational condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-196"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0224",
+      "category": "electromechanical_component",
+      "name": "SG90 9g micro servo motors (TZT)",
+      "manufacturer": "TZT",
+      "model": "SG90",
+      "variant": "Four blue translucent 9 g micro servos with labels reading 'TZT Micro Servo 9g SG90', each with a 3-wire lead (brown/red/orange) ending in a JR-style connector",
+      "quantity": 4,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-197"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "3-wire servo lead with JR-style connector (one per servo)"
+      ],
+      "accessories": [],
+      "notes": "Four servos in 1000063360.jpg; labels legible on three, the fourth is the same unit type in the same group. No servo horns are fitted in this photo - horns and mounting hardware are in HW-0225. Operational condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-197"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0225",
+      "category": "accessory",
+      "name": "Servo accessory sets: plastic horns with screws, and four tan mounting brackets",
+      "manufacturer": null,
+      "model": null,
+      "variant": "Several small clear bags of white plastic servo horns (single-arm, two-arm and cross styles) with small mounting screws, plus four tan rectangular servo mounting brackets, each bagged with screws and nuts",
+      "quantity": null,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-198"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "One group photo (1000063361.jpg) of bagged accessories matching the SG90 micro servos HW-0224: roughly seven horn/screw bags and four bracket sets are visible, but bags overlap and contents are partly hidden, so no exact count is recorded. The brackets are the flat mounting plates sold for 9 g servos. Operational condition not applicable (passive hardware).",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-198"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0226",
+      "category": "accessory",
+      "name": "Round aluminium servo horn discs (flange hubs) with mounting hardware, pair",
+      "manufacturer": null,
+      "model": null,
+      "variant": "One clear bag containing two grey circular metal discs, each with a raised centre hub, a centre hole and four perimeter holes, together with several machine screws and hex nuts",
+      "quantity": 2,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-199"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "One bag in 1000063362.jpg. The discs are the round (wheel-style) horn/hub fittings for standard servos such as the MG996R HW-0227 - they bolt to the servo spline and give a flanged mounting face. Exact spline size cannot be measured from the photo. Passive hardware.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-199"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0227",
+      "category": "electromechanical_component",
+      "name": "MG996R high-torque metal-gear servo motors (Tower Pro)",
+      "manufacturer": "Tower Pro (label as printed)",
+      "model": "MG996R",
+      "variant": "Two black standard-size servos with purple labels reading 'Tower Pro MG 996R DIGI HI-TORQUE', brass output splines, and 3-wire leads with JR-style connectors",
+      "quantity": 2,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-200"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "3-wire servo lead with JR-style connector (one per servo)"
+      ],
+      "accessories": [],
+      "notes": "Two servos in 1000063363.jpg; labels legible on both (photographed upside down). MG996R is the common ~10 kg-cm metal-gear servo; many units sold under this label are clones, so the Tower Pro branding is recorded as printed, not as a guarantee of origin. Operational condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-200"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0228",
+      "category": "electromechanical_component",
+      "name": "28BYJ-48 5V stepper motor",
+      "manufacturer": null,
+      "model": "28BYJ-48",
+      "variant": "One silver can stepper motor laser-etched 'STEP MOTOR 28BYJ-48 5V DC 190420272' with a ROHS mark, a brass D-shaft, two mounting ears, and a 5-wire lead (blue/pink/yellow/orange/red) ending in a white 5-pin JST connector",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-201"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "5-pin JST connector on 5-wire lead"
+      ],
+      "accessories": [],
+      "notes": "One motor in 1000063364.jpg; the etched marking is fully legible (190420272 is a production code, not recorded as a serial). This is the standard unipolar geared stepper that pairs with the ULN2003 driver board HW-0116 already in the catalog. Operational condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-201"
+      },
+      "updated_on": "2026-11-22"
     }
   ]
 }

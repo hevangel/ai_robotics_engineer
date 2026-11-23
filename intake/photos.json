@@ -2350,6 +2350,114 @@
         "HW-0220"
       ],
       "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-193",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-193.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 033: 1000063356.jpg (EXIF date 2026-11-22). Nano quadcopter kit on a dark table: light-blue drone, white/blue transmitter, yellow USB charge cable, bag of spare propellers.",
+      "item_ids": [
+        "HW-0221"
+      ],
+      "notes": "No brand text legible. Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-194",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-194.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 033: 1000063357.jpg (EXIF date 2026-11-22). Front of a red L298N motor driver module: heatsink, screw terminals, two 220uF capacitors, logic header.",
+      "item_ids": [
+        "HW-0222"
+      ],
+      "notes": "Front of the same module whose back is P-20261122-195. Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-195",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-195.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 033: 1000063358.jpg (EXIF date 2026-11-22). Back of the red L298N module: L298N silkscreen, +12V/GND/+5V labels, OUT1-OUT4.",
+      "item_ids": [
+        "HW-0222"
+      ],
+      "notes": "Back of the module in P-20261122-194. Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-196",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-196.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 033: 1000063359.jpg (EXIF date 2026-11-22). Blue PCA9685 16-channel PWM driver module in a plastic bag: silkscreen, 16 output headers, address jumpers, power terminal.",
+      "item_ids": [
+        "HW-0223"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-197",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-197.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 033: 1000063360.jpg (EXIF date 2026-11-22). Four blue TZT SG90 9g micro servos with 3-wire leads.",
+      "item_ids": [
+        "HW-0224"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-198",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-198.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 033: 1000063361.jpg (EXIF date 2026-11-22). Bagged servo accessories: white plastic horns with screws in several bags, and four tan servo mounting brackets with hardware.",
+      "item_ids": [
+        "HW-0225"
+      ],
+      "notes": "Exact bag contents not fully countable from the photo. Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-199",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-199.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 033: 1000063362.jpg (EXIF date 2026-11-22). One bag with two round aluminium servo horn discs/flange hubs plus screws and nuts.",
+      "item_ids": [
+        "HW-0226"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-200",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-200.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 033: 1000063363.jpg (EXIF date 2026-11-22). Two black Tower Pro MG996R servos with purple labels and brass splines.",
+      "item_ids": [
+        "HW-0227"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-201",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-201.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 033: 1000063364.jpg (EXIF date 2026-11-22). One 28BYJ-48 5V stepper motor: etched marking, brass D-shaft, 5-wire lead with white JST connector.",
+      "item_ids": [
+        "HW-0228"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
     }
   ]
 }
