@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "updated_on": "2026-11-22",
+  "updated_on": "2026-11-23",
   "items": [
     {
       "id": "HW-0001",
@@ -6567,6 +6567,34 @@
         "reference": "P-20261122-213"
       },
       "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0239",
+      "category": "robotics_drone",
+      "name": "Ascend Aeronautics folding quadcopter drone (CT-6333RW)",
+      "manufacturer": "Ascend Aeronautics",
+      "model": "CT-6333RW",
+      "variant": "One black folding-arm quadcopter photographed folded: perforated top shell with a power button, 'ASCEND AERONAUTICS' printed on the folding arms, red Ascend logo on the nose; underside label reads 'Model Number/Numéro de modèle : CT-6333RW', 'IC : 24796-CT6333RW', 'CAN ICES-003(B)/NMB-003(B)'",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-214",
+        "P-20261122-215"
+      ],
+      "connectivity": [
+        "Radio control link (transmitter not photographed)"
+      ],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "One drone in 1000063379.jpg (top, folded) and 1000063380.jpg (underside label, held in hand). The model number and Industry Canada certification ID are printed on the airframe; the IC ID is a regulatory certification number, not a unit serial. No transmitter, battery or charger appears in these photos, so none is recorded as an accessory. Distinct from the Ryze Tello HW-0007 and the nano quadcopter HW-0221. Flight condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-214"
+      },
+      "updated_on": "2026-11-23"
     }
   ]
 }

@@ -1,19 +1,29 @@
-# Hardware inventory — 2026-11-22
+# Hardware inventory — 2026-11-23
 
 ## Status at a glance
 
-- **Inventory records:** 238 item/lot/component records (parent assemblies and installed components linked)
-- **Records associated with photographs:** 230
-- **Photo-verified / owner-confirmed hardware:** 203 (some enclosed items owner-confirmed; no working-status implied)
+- **Inventory records:** 239 item/lot/component records (parent assemblies and installed components linked)
+- **Records associated with photographs:** 231
+- **Photo-verified / owner-confirmed hardware:** 204 (some enclosed items owner-confirmed; no working-status implied)
 - **Photo-supported / tentative identifications or packaging only:** 28
 - **Previously reported, not yet photographed:** 7
-- **Photo intake records:** 213
+- **Photo intake records:** 215
 
 These are **record and photo counts**, not counts of verified working devices. A photographed retail box does not establish that electronic contents are present unless separately confirmed.
 
 - **Records lacking direct item photographs:** 8 (some contents independently confirmed by owner)
 
-## Latest batch — 035 (3 photographs, 3 new records; bench consumables)
+## Latest batch — 036 (2 photographs, 1 new record; a folding drone)
+
+| ID | Item | Quantity | Photo |
+| --- | --- | ---: | --- |
+| HW-0239 | Ascend Aeronautics folding quadcopter drone (CT-6333RW) | 1 | `1000063379.jpg`, `1000063380.jpg` |
+
+**Confidence notes:** High — the brand is printed on the folding arms and the model number CT-6333RW (with its Industry Canada certification ID) is printed on the underside. Only the airframe was photographed: no transmitter, battery or charger is recorded. Flight condition not claimed. Both photo binaries are stored in the repo (`photos/2026/11/`, EXIF stripped).
+
+[Batch 036 detail](batches/2026-11-23-036.md).
+
+## Earlier batch — 035 (3 photographs, 3 new records; bench consumables)
 
 | ID | Item | Quantity | Photo |
 | --- | --- | ---: | --- |

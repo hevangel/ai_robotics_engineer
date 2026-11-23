@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "updated_on": "2026-11-22",
+  "updated_on": "2026-11-23",
   "photos": [
     {
       "id": "P-20261122-001",
@@ -2602,6 +2602,30 @@
         "HW-0238"
       ],
       "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-214",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-23",
+      "file": "photos/2026/11/P-20261122-214.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 036: 1000063379.jpg (EXIF date 2026-11-22). Top view of a folded black Ascend Aeronautics quadcopter: perforated shell, power button, branded folding arms.",
+      "item_ids": [
+        "HW-0239"
+      ],
+      "notes": "Top view of the same drone whose underside label is P-20261122-215. Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-215",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-23",
+      "file": "photos/2026/11/P-20261122-215.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 036: 1000063380.jpg (EXIF date 2026-11-22). Underside of the Ascend drone held in hand: printed model CT-6333RW and IC 24796-CT6333RW label.",
+      "item_ids": [
+        "HW-0239"
+      ],
+      "notes": "Underside of the drone in P-20261122-214. Binary stored in the repo with EXIF stripped."
     }
   ]
 }
