@@ -1727,6 +1727,118 @@
         "HW-0158"
       ],
       "notes": "Four counted with overlap; exact switching function and wire connections untested. Exact original JPG is available in the chat upload but was not transferred to GitHub."
+    },
+    {
+      "id": "P-20261122-143",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 022, uploaded filename 1000063284.jpg: Red-foam parts sheet: three small white-plunger tactile switches and six larger square black-center tactile-switch mechanisms; corner of earlier LCD keypad shield.",
+      "item_ids": [
+        "HW-0159",
+        "HW-0160",
+        "HW-0151"
+      ],
+      "notes": "The partially visible LCD shield at upper right appears to be previously inventoried HW-0151; no new shield counted. Original uploaded photo is referenced by filename but JPG binary not transferred to GitHub."
+    },
+    {
+      "id": "P-20261122-144",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 022, uploaded filename 1000063290.jpg: Flexible black 4×4 sixteen-key membrane keypad with 8-conductor ribbon and black female connector.",
+      "item_ids": [
+        "HW-0161"
+      ],
+      "notes": "One keypad, pinout and condition not tested. Original uploaded photo is referenced by filename but JPG binary not transferred to GitHub."
+    },
+    {
+      "id": "P-20261122-145",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 022, uploaded filename 1000063291.jpg: Transparent bag containing one cartridge glass fuse and printed T3.15A warning label.",
+      "item_ids": [
+        "HW-0162"
+      ],
+      "notes": "Small additional loose slender metal piece visible; function uncertain, no separate inventory count. Bag designation does not independently verify fuse voltage. Original uploaded photo is referenced by filename but JPG binary not transferred to GitHub."
+    },
+    {
+      "id": "P-20261122-146",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 022, uploaded filename 1000063292.jpg: Keyes five-pin KY-040-type rotary encoder breakout board marked CLK DT SW + GND.",
+      "item_ids": [
+        "HW-0163"
+      ],
+      "notes": "One assembled module, not extra switch or detachable component inventory. Original uploaded photo is referenced by filename but JPG binary not transferred to GitHub."
+    },
+    {
+      "id": "P-20261122-147",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 022, uploaded filename 1000063293.jpg: Five rotary potentiometers: B100K ×2, B10K ×2, B50K ×1.",
+      "item_ids": [
+        "HW-0164",
+        "HW-0165",
+        "HW-0166"
+      ],
+      "notes": "Different electrical resistance values retained as three distinct records. Original uploaded photo is referenced by filename but JPG binary not transferred to GitHub."
+    },
+    {
+      "id": "P-20261122-148",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 022, uploaded filename 1000063294.jpg: CanaKit PiSwitch pushbutton power switch with captive short USB-type cable.",
+      "item_ids": [
+        "HW-0167"
+      ],
+      "notes": "Exact cable tip connector and actual function not electrically verified. Original uploaded photo is referenced by filename but JPG binary not transferred to GitHub."
+    },
+    {
+      "id": "P-20261122-149",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 022, uploaded filename 1000063295.jpg: Olympus wired remote control clearly labelled VF-RM7 and REC/PAUSE.",
+      "item_ids": [
+        "HW-0168"
+      ],
+      "notes": "Long captive cable, connector partly hidden. Original uploaded photo is referenced by filename but JPG binary not transferred to GitHub."
+    },
+    {
+      "id": "P-20261122-150",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 022, uploaded filename 1000063296.jpg: Front view of white Apple Remote with MENU and circular navigation buttons.",
+      "item_ids": [
+        "HW-0169"
+      ],
+      "notes": "Same Apple Remote as next back-view photo, not a second item. Original uploaded photo is referenced by filename but JPG binary not transferred to GitHub."
+    },
+    {
+      "id": "P-20261122-151",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 022, uploaded filename 1000063297.jpg: Back view of same white Apple Remote with Apple logo and Model No. A1156.",
+      "item_ids": [
+        "HW-0169"
+      ],
+      "notes": "Serial numbers intentionally not transcribed; confirms model, no additional unit. Original uploaded photo is referenced by filename but JPG binary not transferred to GitHub."
     }
   ]
 }
