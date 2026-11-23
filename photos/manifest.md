@@ -138,9 +138,20 @@
 | `P-20261122-117` | `1000063258.jpg` | `HW-0120` | Black adapter photo; two units confirmed by owner (male and female USB-A variants) but exact matching of photos to units is uncertain. |
 | `P-20261122-118` | `1000063259.jpg` | `HW-0119` | Four unassembled brown laser-cut structural panels and small bag of metal screws and nuts. |
 
+| `P-20261122-119` | `1000063260.jpg` | `HW-0129` | White adhesive square antenna stickers, circular spiral coil visible; at least one loose sticker and two overlapping stacks. |
+| `P-20261122-120` | `1000063261.jpg` | `HW-0130` | Two 8x8 arrays made from visibly separate square LED packages with round white lenses. |
+| `P-20261122-121` | `1000063262.jpg` | `HW-0131` | Two loose black-faced 8x8 dot-matrix LED display packages resting on white foam. |
+| `P-20261122-122` | `1000063263.jpg` | `HW-0132` | One MAX7219-style 8x8 dot matrix display and green 5-pin driver PCB, plus five-wire jumper harness. |
+| `P-20261122-123` | `1000063264.jpg` | `HW-0133` | Ten individual narrow 10-segment LED bar-graph display components arranged in two columns of five. |
+| `P-20261122-124` | `1000063266.jpg` | `HW-0134`, `HW-0135` | Four 4-digit LED display driver boards: two DM/DIY MORE variant and two marked 4-Digit LED Display. |
+| `P-20261122-125` | `1000063268.jpg` | `HW-0131` | One loose bare black-faced 8x8 dot matrix display package photographed individually. |
+| `P-20261122-126` | `1000063269.jpg` | `HW-0137` | Three separate miniature traffic signal LED modules, each red-yellow-green vertical stack. |
+| `P-20261122-127` | `1000063270.jpg` | `HW-0136` | One 4-digit LED display breakout board marked DIY MORE / 4-DigitLED Display, shown with bare pads and no installed pin header. |
+| `P-20261122-128` | `1000063271.jpg` | `HW-0138` | Five bare 4-digit 7-segment LED display packages (no driver boards). |
+
 ## Batch notes
 
-[Batch 001](../inventory/batches/2026-11-22-001.md) · [Batch 002](../inventory/batches/2026-11-22-002.md) · [Batch 003](../inventory/batches/2026-11-22-003.md) · [Batch 004](../inventory/batches/2026-11-22-004.md) · [Batch 005](../inventory/batches/2026-11-22-005.md) · [Batch 006](../inventory/batches/2026-11-22-006.md) · [Batch 007](../inventory/batches/2026-11-22-007.md) · [Batch 008](../inventory/batches/2026-11-22-008.md) · [Batch 009](../inventory/batches/2026-11-22-009.md) · [Batch 010](../inventory/batches/2026-11-22-010.md) · [Batch 011](../inventory/batches/2026-11-22-011.md) · [Batch 012](../inventory/batches/2026-11-22-012.md) · [Batch 013](../inventory/batches/2026-11-22-013.md) · [Batch 014](../inventory/batches/2026-11-22-014.md) · [Batch 015](../inventory/batches/2026-11-22-015.md) · [Batch 016](../inventory/batches/2026-11-22-016.md) · [Batch 017](../inventory/batches/2026-11-22-017.md) · [Batch 018](../inventory/batches/2026-11-22-018.md)
+[Batch 001](../inventory/batches/2026-11-22-001.md) · [Batch 002](../inventory/batches/2026-11-22-002.md) · [Batch 003](../inventory/batches/2026-11-22-003.md) · [Batch 004](../inventory/batches/2026-11-22-004.md) · [Batch 005](../inventory/batches/2026-11-22-005.md) · [Batch 006](../inventory/batches/2026-11-22-006.md) · [Batch 007](../inventory/batches/2026-11-22-007.md) · [Batch 008](../inventory/batches/2026-11-22-008.md) · [Batch 009](../inventory/batches/2026-11-22-009.md) · [Batch 010](../inventory/batches/2026-11-22-010.md) · [Batch 011](../inventory/batches/2026-11-22-011.md) · [Batch 012](../inventory/batches/2026-11-22-012.md) · [Batch 013](../inventory/batches/2026-11-22-013.md) · [Batch 014](../inventory/batches/2026-11-22-014.md) · [Batch 015](../inventory/batches/2026-11-22-015.md) · [Batch 016](../inventory/batches/2026-11-22-016.md) · [Batch 017](../inventory/batches/2026-11-22-017.md) · [Batch 018](../inventory/batches/2026-11-22-018.md) · [Batch 019](../inventory/batches/2026-11-22-019.md)
 
 ## Next action to make the catalog self-contained
 

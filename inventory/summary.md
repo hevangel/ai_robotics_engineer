@@ -2,18 +2,35 @@
 
 ## Status at a glance
 
-- **Inventory records:** 128 item/lot/component records (parent assemblies and installed components linked)
-- **Records associated with photographs:** 119
-- **Photo-verified / owner-confirmed hardware:** 101 (some enclosed items owner-confirmed; no working-status implied)
-- **Photo-supported / tentative identifications or packaging only:** 20
+- **Inventory records:** 138 item/lot/component records (parent assemblies and installed components linked)
+- **Records associated with photographs:** 129
+- **Photo-verified / owner-confirmed hardware:** 110 (some enclosed items owner-confirmed; no working-status implied)
+- **Photo-supported / tentative identifications or packaging only:** 21
 - **Previously reported, not yet photographed:** 7
-- **Photo intake records:** 118
+- **Photo intake records:** 128
 
 These are **record and photo counts**, not counts of verified working devices. A photographed retail box does not establish that electronic contents are present unless separately confirmed.
 
 - **Records lacking direct item photographs:** 9 (some contents independently confirmed by owner)
 
-## Latest batch — 018 (9 photos; 9 original records + 1 owner-corrected adapter variant)
+## Latest batch — 019 (10 photographs; 10 new inventory records)
+
+| ID | Item | Qty | Photograph(s) |
+| --- | --- | ---: | --- |
+| HW-0129 | Adhesive antenna / RFID-NFC-style stickers (unverified technology) | Unknown | `1000063260.jpg` |
+| HW-0130 | 8×8 arrays with individually packaged pixel LEDs — style C | 2 panels | `1000063261.jpg` |
+| HW-0131 | Loose bare 8×8 dot-matrix LED displays | 2 confirmed | `1000063262.jpg`, `1000063268.jpg` |
+| HW-0132 | MAX7219 8×8 matrix driver module with jumper leads | 1 | `1000063263.jpg` |
+| HW-0133 | 10-segment LED bar-graph packages | 10 | `1000063264.jpg` |
+| HW-0134 | DIY MORE / DM 4-digit LED modules, plain silkscreen | 2 | `1000063266.jpg` |
+| HW-0135 | DIY MORE 4-DigitLED Display modules, title silkscreen | 2 | `1000063266.jpg` |
+| HW-0136 | DIY MORE 4-digit breakout with unpopulated header | 1 provisional | `1000063270.jpg` |
+| HW-0137 | Miniature red/yellow/green traffic-light breakout | 3 | `1000063269.jpg` |
+| HW-0138 | Bare 4-digit seven-segment LED packages | 5 | `1000063271.jpg` |
+
+**Count cautions:** RFID-style sticker count hidden (null). Two bare 8×8 modules confirmed with one possibly repeated close-up. A separate headerless 4-digit board is provisionally counted but could be a rephotograph of an existing 4-digit board. The ten bar graphs, three miniature traffic lights, and five bare four-digit displays are visibly countable. Keep all previous style A/B matrix chains unchanged. [Batch 019 details](batches/2026-11-22-019.md).
+
+## Earlier batch — 018 (9 photos; 9 original records + 1 owner-corrected adapter variant)
 
 | ID | Item | Qty | Uploaded photo(s) |
 | --- | --- | --- | --- |

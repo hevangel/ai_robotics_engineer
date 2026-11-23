@@ -3604,6 +3604,275 @@
         "reference": "Owner clarification after batch 018, 2026-11-22"
       },
       "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0129",
+      "category": "electronics_material",
+      "name": "White adhesive circular-coil RFID/NFC-style label tags (lot)",
+      "manufacturer": null,
+      "model": null,
+      "variant": "White square peel-off stickers with round embedded printed spiral antenna; several overlapping sheets",
+      "quantity": null,
+      "verification_status": "photo_tentative",
+      "identification_confidence": "medium",
+      "interfaces": [],
+      "accessories": [],
+      "notes": "One isolated square label reveals concentric circular antenna traces under thin white material, visually consistent with HF RFID/NFC adhesive tag inlays. Two additional stacks of similar labels are visible to the right; individual labels overlap so total number cannot be reliably counted. Frequency, IC, capacity, tag type (NTAG/MIFARE), writability and whether all stacked sheets are electronic tags remain unverified. Keep quantity null until counted; no reader test. Photo 1000063260.jpg.",
+      "condition": "unknown",
+      "location": null,
+      "photo_ids": [
+        "P-20261122-119"
+      ],
+      "connectivity": [],
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-119"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0130",
+      "category": "interface_module",
+      "name": "8×8 LED array panels with individually packaged square pixels (style C)",
+      "manufacturer": null,
+      "model": null,
+      "variant": "Two black 8×8 square panels made of separately bounded LED packages with small round white central lenses",
+      "quantity": 2,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "interfaces": [],
+      "accessories": [],
+      "notes": "Exactly TWO distinct 8×8 panels side by side (128 pixel locations total). Each of 64 positions looks like a separate black square body with a circular pale lens; distinct from smooth continuous front-face bare matrices HW-0131 and existing four-module strip styles A/B (HW-0117/0118). PCB underside, any controller, pinout, LED colors, matrix addressing and power requirements unknown. Do not assume WS2812/NeoPixel or RGB without driver/marking confirmation. Photo 1000063261.jpg.",
+      "condition": "unknown",
+      "location": null,
+      "photo_ids": [
+        "P-20261122-120"
+      ],
+      "connectivity": [],
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-120"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0131",
+      "category": "interface_module",
+      "name": "Loose unmounted 8×8 LED dot-matrix display packages (bare style)",
+      "manufacturer": null,
+      "model": null,
+      "variant": "Black monolithic square 8×8 dot-matrix faces, white circular lenses; no driver electronics visible",
+      "quantity": 2,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "interfaces": [
+        "Raw display package leads / pin count not visible in photos"
+      ],
+      "accessories": [],
+      "notes": "At least TWO physically separate bare 8×8 dot matrix packages are jointly photographed on white foam in 1000063262.jpg. Photo 1000063268.jpg shows another bare-looking 8×8 face on the tabletop, but it could be one of the same two rephotographed: no additional unit added. If confirmed as a third distinct module, raise quantity. Distinguish from installed/display-on-driver module HW-0132, individual-pixel style HW-0130, and previous four-section chained styles HW-0117/0118. Emit color, wiring (common anode/cathode), and actual size unknown. Photos 1000063262.jpg and 1000063268.jpg.",
+      "condition": "unknown",
+      "location": null,
+      "photo_ids": [
+        "P-20261122-121",
+        "P-20261122-125"
+      ],
+      "connectivity": [],
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-121"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0132",
+      "category": "interface_module",
+      "name": "MAX7219 8×8 LED dot-matrix driver module with jumper leads",
+      "manufacturer": null,
+      "model": "MAX7219CNG controller (visible marking)",
+      "variant": "Single 8×8 display mounted to compact green driver breakout PCB with labelled 5-pin header",
+      "quantity": 1,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "interfaces": [
+        "5 pin header marked CLK, CS, DIN, GND, VCC"
+      ],
+      "accessories": [
+        "Five-color female Dupont jumper wire harness shown beside module"
+      ],
+      "notes": "ONE assembled standalone 8×8 LED matrix on small green PCB. Maxim MAX7219CNG IC visibly marked on PCB. Adjacent grouped 5 jumper wires are treated as accessory, not separate inventory devices. Do not also add its installed LED package to bare-matrix quantity HW-0131. Display color, voltage limit, current and functionality not electrically verified. Photo 1000063263.jpg.",
+      "condition": "unknown",
+      "location": null,
+      "photo_ids": [
+        "P-20261122-122"
+      ],
+      "connectivity": [],
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-122"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0133",
+      "category": "display_component",
+      "name": "Ten-segment LED bar-graph display packages",
+      "manufacturer": null,
+      "model": null,
+      "variant": "Long, narrow black 10-bar LED components with white rectangular unlit segments; partially legible side marking similar to KXX-B10G",
+      "quantity": 10,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "interfaces": [
+        "Bare LED package pins not shown"
+      ],
+      "accessories": [],
+      "notes": "Exactly TEN loose bar-graph display packages arranged five rows by two columns. Each has 10 rectangular LED segment windows. Lower cases show pale side-printed K??-B10G text, but exact part number is not confidently verified, so leave model null. Color, forward voltage, pinout, common lead topology, and operating condition unknown. Photo 1000063264.jpg.",
+      "condition": "unknown",
+      "location": null,
+      "photo_ids": [
+        "P-20261122-123"
+      ],
+      "connectivity": [],
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-123"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0134",
+      "category": "interface_module",
+      "name": "DIY MORE / DM four-digit LED display breakout modules (plain-silkscreen style)",
+      "manufacturer": "DIY MORE (PCB logo)",
+      "model": null,
+      "variant": "Two upper photo modules with DM/DIY MORE logo and no large 4-DigitLED Display title",
+      "quantity": 2,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "interfaces": [
+        "4-pin male header"
+      ],
+      "accessories": [],
+      "notes": "Upper TWO 4-digit seven-segment LED display PCBs in photo 1000063266.jpg. Both have DIY MORE / DM branding, 4-pin male side header, and decimals. Distinct PCB silkscreen from the lower two '4-DigitLED Display' modules HW-0135. TM1637 is a common driver for this type but actual controller or wire protocol is not visible, therefore left unverified. Color and working state untested.",
+      "condition": "unknown",
+      "location": null,
+      "photo_ids": [
+        "P-20261122-124"
+      ],
+      "connectivity": [],
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-124"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0135",
+      "category": "interface_module",
+      "name": "DIY MORE 4-DigitLED Display breakout modules (title-silkscreen style)",
+      "manufacturer": "DIY MORE (PCB logo)",
+      "model": null,
+      "variant": "Two lower photo modules, board title '4-DigitLED Display', 4-pin male header",
+      "quantity": 2,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "interfaces": [
+        "4-pin male header"
+      ],
+      "accessories": [],
+      "notes": "Lower TWO PCBs in photo 1000063266.jpg are explicitly marked '4-DigitLED Display' and bear DIY MORE logo. Distinct printed PCB style from upper two HW-0134. One looks yellow-tinted in ambient light, but emitted color not established; no electrical testing. Similarity to TM1637-style display module does not establish an IC or pinout. Different from unpopulated-header 4-digit board HW-0136.",
+      "condition": "unknown",
+      "location": null,
+      "photo_ids": [
+        "P-20261122-124"
+      ],
+      "connectivity": [],
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-124"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0136",
+      "category": "interface_module",
+      "name": "Unpinned DIY MORE four-digit LED display breakout board",
+      "manufacturer": "DIY MORE (PCB logo)",
+      "model": null,
+      "variant": "One '4-DigitLED Display' board without installed 4-pin header on visible pads",
+      "quantity": 1,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "interfaces": [
+        "Bare 4-pad connector footprint at PCB end; no installed male header visible"
+      ],
+      "accessories": [],
+      "notes": "One separate 4-digit 7-segment LED module pictured in 1000063270.jpg, DIY MORE branded and marked '4-DigitLED Display'. This appears closely related to HW-0135 (populated-header style), but this photo visibly shows bare solder pads at connector edge; recorded separately pending owner confirmation whether it is actually a fifth board or a rephotograph of one of HW-0135 with a connector on the other side. Quantity 1 provisional; avoid treating differing photo angle as proof of distinct unit. Driver IC unknown.",
+      "condition": "unknown",
+      "location": null,
+      "photo_ids": [
+        "P-20261122-127"
+      ],
+      "connectivity": [],
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-127"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0137",
+      "category": "interface_module",
+      "name": "Miniature three-color LED traffic light breakout modules",
+      "manufacturer": null,
+      "model": null,
+      "variant": "Black T-shaped modules; vertical red, yellow, green LEDs, four-pin G/Y/R/GND headers",
+      "quantity": 3,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "interfaces": [
+        "4-pin header labelled G, Y, R, GND"
+      ],
+      "accessories": [],
+      "notes": "Exactly THREE separate matching ready-made traffic-light breakout boards in photo 1000063269.jpg. Each has stacked red, yellow and green LED heads and exposed 4-pin male header (printed G/Y/R/GND). Distinct from user's hand-wired Arduino Nano/traffic-light assembly HW-0082, which must remain a separate inventory record; do not confuse with the three bare LEDs on that previous assembly. No power test.",
+      "condition": "unknown",
+      "location": null,
+      "photo_ids": [
+        "P-20261122-126"
+      ],
+      "connectivity": [],
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-126"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0138",
+      "category": "display_component",
+      "name": "Bare four-digit seven-segment LED display packages",
+      "manufacturer": null,
+      "model": null,
+      "variant": "Five loose horizontal 4-digit display components with decimal points, no breakout driver PCBs",
+      "quantity": 5,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "interfaces": [
+        "Raw LED display package; leads/pin configuration not shown"
+      ],
+      "accessories": [],
+      "notes": "Five distinct bare 4-digit seven-segment display packages arranged in a vertical stack, all with four sets of 7 segments and decimal points. One may have decimal points at a different edge due to orientation. No driver PCB included, unlike HW-0134/0135/0136. Electrical configuration, display color and manufacturer unconfirmed. Photo 1000063271.jpg.",
+      "condition": "unknown",
+      "location": null,
+      "photo_ids": [
+        "P-20261122-128"
+      ],
+      "connectivity": [],
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-128"
+      },
+      "updated_on": "2026-11-22"
     }
   ]
 }

@@ -1429,6 +1429,127 @@
         "HW-0119"
       ],
       "notes": "Actual photograph inspected in conversation; image binary has not been uploaded to GitHub. Quantity reflects unique physical items across multiple photos; do not double-count photo views."
+    },
+    {
+      "id": "P-20261122-119",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 019 photo 1/10; uploaded filename 1000063260.jpg: White adhesive square antenna stickers, circular spiral coil visible; at least one loose sticker and two overlapping stacks",
+      "item_ids": [
+        "HW-0129"
+      ],
+      "notes": "Quantity obscured by stacks; RFID/NFC function inferred from visible spiral antenna, not tested. Image received in conversation but not saved to GitHub; physical unit identity/overlap tracked conservatively."
+    },
+    {
+      "id": "P-20261122-120",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 019 photo 2/10; uploaded filename 1000063261.jpg: Two 8x8 arrays made from visibly separate square LED packages with round white lenses",
+      "item_ids": [
+        "HW-0130"
+      ],
+      "notes": "Two complete square arrays in a single frame. Distinct mechanical appearance from solid-face dot-matrix modules. Image received in conversation but not saved to GitHub; physical unit identity/overlap tracked conservatively."
+    },
+    {
+      "id": "P-20261122-121",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 019 photo 3/10; uploaded filename 1000063262.jpg: Two loose black-faced 8x8 dot-matrix LED display packages resting on white foam",
+      "item_ids": [
+        "HW-0131"
+      ],
+      "notes": "Two physical packages. Potential repetition of loose display in photo 1000063268.jpg is unresolved; no extra unit counted for 3268. Image received in conversation but not saved to GitHub; physical unit identity/overlap tracked conservatively."
+    },
+    {
+      "id": "P-20261122-122",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 019 photo 4/10; uploaded filename 1000063263.jpg: One MAX7219-style 8x8 dot matrix display and green 5-pin driver PCB, plus five-wire jumper harness",
+      "item_ids": [
+        "HW-0132"
+      ],
+      "notes": "One assembled module, not a second display counted separately from its driver; actual chip reads MAX7219CNG. Jumper harness treated as included accessory. Image received in conversation but not saved to GitHub; physical unit identity/overlap tracked conservatively."
+    },
+    {
+      "id": "P-20261122-123",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 019 photo 5/10; uploaded filename 1000063264.jpg: Ten individual narrow 10-segment LED bar-graph display components arranged in two columns of five",
+      "item_ids": [
+        "HW-0133"
+      ],
+      "notes": "Quantity ten plainly visible; side marking resembles KXX-B10G (exact letters unverified). No illuminated color observed. Image received in conversation but not saved to GitHub; physical unit identity/overlap tracked conservatively."
+    },
+    {
+      "id": "P-20261122-124",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 019 photo 6/10; uploaded filename 1000063266.jpg: Four 4-digit LED display driver boards: two DM/DIY MORE variant and two marked 4-Digit LED Display",
+      "item_ids": [
+        "HW-0134",
+        "HW-0135"
+      ],
+      "notes": "Two visually distinguishable board silkscreen variants in same photograph; 4-digit LEDs with 4-pin male headers. Image received in conversation but not saved to GitHub; physical unit identity/overlap tracked conservatively."
+    },
+    {
+      "id": "P-20261122-125",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 019 photo 7/10; uploaded filename 1000063268.jpg: One loose bare black-faced 8x8 dot matrix display package photographed individually",
+      "item_ids": [
+        "HW-0131"
+      ],
+      "notes": "Could be one of two packages in 1000063262.jpg; identity not proven. Photo logged without increasing verified ownership count. Image received in conversation but not saved to GitHub; physical unit identity/overlap tracked conservatively."
+    },
+    {
+      "id": "P-20261122-126",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 019 photo 8/10; uploaded filename 1000063269.jpg: Three separate miniature traffic signal LED modules, each red-yellow-green vertical stack",
+      "item_ids": [
+        "HW-0137"
+      ],
+      "notes": "Three units, separate from earlier handcrafted Nano traffic-light board HW-0082. Image received in conversation but not saved to GitHub; physical unit identity/overlap tracked conservatively."
+    },
+    {
+      "id": "P-20261122-127",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 019 photo 9/10; uploaded filename 1000063270.jpg: One 4-digit LED display breakout board marked DIY MORE / 4-DigitLED Display, shown with bare pads and no installed pin header",
+      "item_ids": [
+        "HW-0136"
+      ],
+      "notes": "Count separately from four populated-header boards in 1000063266.jpg; similarity of model family recorded without assuming a known driver. Image received in conversation but not saved to GitHub; physical unit identity/overlap tracked conservatively."
+    },
+    {
+      "id": "P-20261122-128",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 019 photo 10/10; uploaded filename 1000063271.jpg: Five bare 4-digit 7-segment LED display packages (no driver boards)",
+      "item_ids": [
+        "HW-0138"
+      ],
+      "notes": "Five individual loose display components; decimal points visible. Not the same as assembled 4-digit driver boards. Image received in conversation but not saved to GitHub; physical unit identity/overlap tracked conservatively."
     }
   ]
 }
