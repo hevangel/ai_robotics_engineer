@@ -1376,11 +1376,11 @@
       "processed_on": "2026-11-22",
       "file": null,
       "asset_status": "not_stored",
-      "source_description": "Batch 018 photo 5/9; uploaded filename 1000063255.jpg: Black inline USB-family adapter, second view of the same adapter in photo 1000063258.jpg",
+      "source_description": "Batch 018 photo 5/9, uploaded filename 1000063255.jpg: Black compact double-ended USB-family adapter; owner later confirms ownership of two distinct black adapters (USB-A male and female variants to square USB-B), photo-to-variant attribution uncertain.",
       "item_ids": [
         "HW-0120"
       ],
-      "notes": "Actual photograph inspected in conversation; image binary has not been uploaded to GitHub. Quantity reflects unique physical items across multiple photos; do not double-count photo views."
+      "notes": "Source photo available in conversation but not stored on GitHub. Corrected owner count is 2 distinct black adapters, HW-0120 (USB-A male) and HW-0128 (USB-A female). Because these close side views do not verify a female socket and do not uniquely tie photos to units, HW-0128 is owner-reported without photo assignment; this photo remains attached to the previously photographed black-adapter record as tentative evidence."
     },
     {
       "id": "P-20261122-115",
@@ -1412,11 +1412,11 @@
       "processed_on": "2026-11-22",
       "file": null,
       "asset_status": "not_stored",
-      "source_description": "Batch 018 photo 8/9; uploaded filename 1000063258.jpg: Black inline dual-ended male plug adapter, alternate view of same unit as photo 1000063255.jpg",
+      "source_description": "Batch 018 photo 8/9, uploaded filename 1000063258.jpg: Black compact double-ended USB-family adapter; owner later confirms ownership of two distinct black adapters (USB-A male and female variants to square USB-B), photo-to-variant attribution uncertain.",
       "item_ids": [
         "HW-0120"
       ],
-      "notes": "Actual photograph inspected in conversation; image binary has not been uploaded to GitHub. Quantity reflects unique physical items across multiple photos; do not double-count photo views."
+      "notes": "Source photo available in conversation but not stored on GitHub. Corrected owner count is 2 distinct black adapters, HW-0120 (USB-A male) and HW-0128 (USB-A female). Because these close side views do not verify a female socket and do not uniquely tie photos to units, HW-0128 is owner-reported without photo assignment; this photo remains attached to the previously photographed black-adapter record as tentative evidence."
     },
     {
       "id": "P-20261122-118",

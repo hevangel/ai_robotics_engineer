@@ -132,10 +132,10 @@
 | `P-20261122-111` | `1000063252.jpg` | `HW-0126` | Small USB nano dongle with handwritten BT label, likely Bluetooth. |
 | `P-20261122-112` | `1000063253.jpg` | `HW-0125` | Two distinct white cabled contact/clip leads with forked tips. |
 | `P-20261122-113` | `1000063254.jpg` | `HW-0123`, `HW-0124` | Two distinct Li-ion polymer pouch cells; one bare-lead 3.7V 1000mAh 523450, one with connector and unknown capacity. |
-| `P-20261122-114` | `1000063255.jpg` | `HW-0120` | Black inline USB-family adapter, second view of the same adapter in photo 1000063258.jpg. |
+| `P-20261122-114` | `1000063255.jpg` | `HW-0120` | Black adapter photo; owner confirms TWO different USB-A sex variants to square USB-B, but photo-to-variant attribution remains unclear. |
 | `P-20261122-115` | `1000063256.jpg` | `HW-0122` | White inline compact dual-ended metal plug adapter. |
 | `P-20261122-116` | `1000063257.jpg` | `HW-0121` | CanaKit-branded black USB Wi-Fi dongle. |
-| `P-20261122-117` | `1000063258.jpg` | `HW-0120` | Black inline dual-ended male plug adapter, alternate view of same unit as photo 1000063255.jpg. |
+| `P-20261122-117` | `1000063258.jpg` | `HW-0120` | Black adapter photo; two units confirmed by owner (male and female USB-A variants) but exact matching of photos to units is uncertain. |
 | `P-20261122-118` | `1000063259.jpg` | `HW-0119` | Four unassembled brown laser-cut structural panels and small bag of metal screws and nuts. |
 
 ## Batch notes

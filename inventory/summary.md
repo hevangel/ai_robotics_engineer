@@ -2,23 +2,23 @@
 
 ## Status at a glance
 
-- **Inventory records:** 127 item/lot/component records (parent assemblies and installed components linked)
+- **Inventory records:** 128 item/lot/component records (parent assemblies and installed components linked)
 - **Records associated with photographs:** 119
 - **Photo-verified / owner-confirmed hardware:** 101 (some enclosed items owner-confirmed; no working-status implied)
 - **Photo-supported / tentative identifications or packaging only:** 20
-- **Previously reported, not yet photographed:** 6
+- **Previously reported, not yet photographed:** 7
 - **Photo intake records:** 118
 
 These are **record and photo counts**, not counts of verified working devices. A photographed retail box does not establish that electronic contents are present unless separately confirmed.
 
-- **Records lacking direct item photographs:** 8 (some contents independently confirmed by owner)
+- **Records lacking direct item photographs:** 9 (some contents independently confirmed by owner)
 
-## Latest batch — 018 (9 photos; 9 new inventory records)
+## Latest batch — 018 (9 photos; 9 original records + 1 owner-corrected adapter variant)
 
 | ID | Item | Qty | Uploaded photo(s) |
 | --- | --- | --- | --- |
 | HW-0119 | Laser-cut brown fiberboard mechanical enclosure / mounting kit (unassembled) | 1 | `1000063259.jpg` |
-| HW-0120 | Black double-ended compact USB plug adapter (connector types unverified) | 1 | `1000063255.jpg`, `1000063258.jpg` |
+| HW-0120 | Black USB-A male to square USB-B male adapter (owner-identified) | 1 | `1000063255.jpg`, `1000063258.jpg` (variant unclear) |
 | HW-0121 | CanaKit miniature USB Wi-Fi wireless adapter | 1 | `1000063257.jpg` |
 | HW-0122 | White two-ended compact USB-family plug adapter (exact connector standards unknown) | 1 | `1000063256.jpg` |
 | HW-0123 | 3.7 V 1000 mAh lithium-polymer pouch battery, 523450 marking, bare leads | 1 | `1000063254.jpg` |
@@ -26,8 +26,9 @@ These are **record and photo counts**, not counts of verified working devices. A
 | HW-0125 | Two white cabled dual-prong contact / clip assemblies, function unknown | 2 | `1000063253.jpg` |
 | HW-0126 | Unbranded nano USB dongle with handwritten 'BT' label (Bluetooth presumed) | 1 | `1000063252.jpg` |
 | HW-0127 | IrJACK USB infrared IrDA adapter (lavender) | 1 | `1000063251.jpg` |
+| HW-0128 | Black USB-A female to square USB-B male adapter (owner-reported) | 1 | None unambiguously matched |
 
-**Count caveats:** 2 views of one black USB adapter; 2 different Li-ion cells within one photo; 2 white prong leads in one lot. Connector variants and unknown-purpose items explicitly tentative; no functional testing. [Batch 018 details](batches/2026-11-22-018.md).
+**Count caveats (owner correction):** **2 distinct black USB adapters**—USB-A male to square USB-B male (HW-0120) and USB-A female to square USB-B male (HW-0128). The two adapter photos cannot be reliably matched to male vs female from the visible angles. Both variants retained separately; the female variant is owner-reported and lacks uniquely verified photographic evidence. There are also 2 distinct Li-ion cells in one photo and 2 white leads in one lot. No electrical testing. [Batch 018 details](batches/2026-11-22-018.md).
 
 ## Earlier batch — 017 (10 photos; 10 item records; 2 distinct LED matrix styles)
 
