@@ -2,18 +2,30 @@
 
 ## Status at a glance
 
-- **Inventory records:** 268 item/lot/component records (parent assemblies and installed components linked)
-- **Records associated with photographs:** 263
-- **Photo-verified / owner-confirmed hardware:** 234 (some enclosed items owner-confirmed; no working-status implied)
+- **Inventory records:** 269 item/lot/component records (parent assemblies and installed components linked)
+- **Records associated with photographs:** 265
+- **Photo-verified / owner-confirmed hardware:** 236 (some enclosed items owner-confirmed; no working-status implied)
 - **Photo-supported / tentative identifications or packaging only:** 30
-- **Previously reported, not yet photographed:** 4
-- **Photo intake records:** 252
+- **Previously reported, not yet photographed:** 3
+- **Photo intake records:** 254
 
 These are **record and photo counts**, not counts of verified working devices. A photographed retail box does not establish that electronic contents are present unless separately confirmed.
 
-- **Records lacking direct item photographs:** 5 — HW-0002 (Raspberry Pi 5), HW-0003 (Coral USB Accelerator), HW-0005 (AIY Voice Kit), HW-0069 (micro:bit inside its sealed GO kit box HW-0057) and HW-0128 (USB-A to USB-B adapter). (HW-0008's joystick was photographed in batch 042; the earlier count of 8 was stale.)
+- **Records lacking direct item photographs:** 4 — HW-0002 (Raspberry Pi 5), HW-0003 (Coral USB Accelerator), HW-0005 (AIY Voice Kit) and HW-0069 (micro:bit inside its sealed GO kit box HW-0057). (HW-0008's joystick was photographed in batch 042 and HW-0128's adapter in batch 043; the earlier count of 8 was stale.)
 
-## Latest batch — 042 (5 photographs, 4 new records + HW-0008's first real photo)
+## Latest batch — 043 (2 photographs, 1 new record + 2 records upgraded to verified)
+
+| ID | Item | Quantity | Photo |
+| --- | --- | ---: | --- |
+| HW-0271 | TemPolor Melo-D AI smart guitar (boxed) | 1 | `1000063602.jpg` |
+| HW-0120 | Black USB-A male to square USB-B male adapter — now verified | 1 | `1000063621.jpg` |
+| HW-0128 | Black USB-A female to square USB-B male adapter — now verified | 1 | `1000063621.jpg` |
+
+**Confidence notes:** The side-by-side adapter photo is the face-on shot HW-0120 and HW-0128 had been waiting for since batch 018 — both A-end sexes are directly visible, so both records are now photo-verified (high). The TemPolor is a retail box only, so it stays photo_tentative; the brand is legible on the box while the Melo-D model name rests on the owner's identification (medium). Both photo binaries are stored in the repo (`photos/2026/11/`, EXIF stripped).
+
+[Batch 043 detail](batches/2026-11-23-043.md).
+
+## Earlier batch — 042 (5 photographs, 4 new records + HW-0008's first real photo)
 
 | ID | Item | Quantity | Photo |
 | --- | --- | ---: | --- |

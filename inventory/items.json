@@ -3378,28 +3378,29 @@
       "name": "Black USB-A male to square USB-B male adapter",
       "manufacturer": null,
       "model": null,
-      "variant": "One black ridged inline adapter; owner confirms full-size USB-A male at one end and square USB-B connector at the other",
+      "variant": "One black ridged inline adapter, USB-A male at one end and square USB-B male at the other; the left-hand adapter in the face-on side-by-side photo P-20261123-039",
       "quantity": 1,
       "condition": "unknown",
       "location": null,
-      "verification_status": "photo_tentative",
-      "identification_confidence": "medium",
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
       "photo_ids": [
         "P-20261122-114",
-        "P-20261122-117"
+        "P-20261122-117",
+        "P-20261123-039"
       ],
       "connectivity": [],
       "interfaces": [
-        "USB Type-A male (owner-confirmed)",
-        "USB Type-B male, square printer-style (owner description)"
+        "USB Type-A male",
+        "USB Type-B male, square printer-style"
       ],
       "accessories": [],
-      "notes": "Owner corrected prior intake: TWO physically distinct black adapters exist, one USB-A male-to-square-USB-B and one USB-A female-to-square-USB-B (see separate HW-0128). This record represents only the USB-A MALE variant, quantity 1. Earlier two photographs (1000063255.jpg and 1000063258.jpg) resemble each other and do not independently distinguish which view belongs to the male or female USB-A variant; keep both as family photo references pending a face-on side-by-side shot. Do not double-count or infer data/voltage functionality. USB-B square shape is owner-described, not photo-verified.",
+      "notes": "Owner corrected prior intake: TWO physically distinct black adapters exist, one USB-A male-to-square-USB-B (this record) and one USB-A female-to-square-USB-B (HW-0128). The earlier photographs P-20261122-114 and P-20261122-117 could not distinguish the pair, but the face-on side-by-side photo P-20261123-039 (2026-11-23) shows this male variant unambiguously (left adapter: B-male top, A-male bottom), so the record is upgraded to photo_verified. Not electrically tested.",
       "source": {
         "type": "photo",
         "reference": "P-20261122-114"
       },
-      "updated_on": "2026-11-22"
+      "updated_on": "2026-11-23"
     },
     {
       "id": "HW-0121",
@@ -3605,25 +3606,27 @@
       "name": "Black USB-A female to square USB-B male adapter",
       "manufacturer": null,
       "model": null,
-      "variant": "Black compact adapter; owner reports full-size USB-A female receptacle at one end and square USB-B male plug at the other",
+      "variant": "Black compact ridged adapter, square USB-B male at one end and full-size USB-A female receptacle at the other; the right-hand adapter in the face-on side-by-side photo P-20261123-039",
       "quantity": 1,
       "condition": "unknown",
       "location": null,
-      "verification_status": "reported_unverified",
-      "identification_confidence": "medium",
-      "photo_ids": [],
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261123-039"
+      ],
       "connectivity": [],
       "interfaces": [
-        "USB Type-A female (owner-reported)",
-        "USB Type-B male, square printer-style (owner-reported)"
+        "USB Type-A female",
+        "USB Type-B male, square printer-style"
       ],
       "accessories": [],
-      "notes": "Owner explicitly corrected count and connectors: there are TWO black adapters, differing in USB-A sex (one male, one female), both transitioning to the square USB-B form. This is the distinct USB-A FEMALE version, not a duplicate of HW-0120. No photograph unambiguously establishes which previously uploaded black-adapter image, if any, shows the female receptacle; no photo_id assigned until a front-on image confirms it. Not electrically tested; no assumption about operational protocol.",
+      "notes": "One of two physically distinct black adapters (see HW-0120 for the USB-A male version). Previously reported-only because no photo unambiguously showed the female receptacle; the face-on side-by-side photo P-20261123-039 (2026-11-23) shows it directly (right adapter: B-male top, A-female bottom), upgrading this record to photo_verified. Not electrically tested.",
       "source": {
-        "type": "user_report",
-        "reference": "Owner clarification after batch 018, 2026-11-22"
+        "type": "photo",
+        "reference": "P-20261123-039"
       },
-      "updated_on": "2026-11-22"
+      "updated_on": "2026-11-23"
     },
     {
       "id": "HW-0129",
@@ -7418,6 +7421,31 @@
       "source": {
         "type": "photo",
         "reference": "P-20261123-037"
+      },
+      "updated_on": "2026-11-23"
+    },
+    {
+      "id": "HW-0271",
+      "category": "audio",
+      "name": "TemPolor Melo-D AI smart guitar (boxed)",
+      "manufacturer": "TemPolor",
+      "model": "Melo-D",
+      "variant": "Retail box only: white TemPolor box whose artwork shows the guitar with a built-in display, light-up coloured fret markers and a control knob; the photographed box face does not print the model name legibly - 'Melo-D' is the owner's identification, matching his TemPolor Melo-D order",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_tentative",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261123-038"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "Only the retail box is photographed (1000063602.jpg, at the owner's office); the guitar itself has not been photographed, so per the inventory rules the record is photo_tentative - a box does not by itself establish the contents. No specifications are recorded beyond what the box artwork shows.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261123-038"
       },
       "updated_on": "2026-11-23"
     }

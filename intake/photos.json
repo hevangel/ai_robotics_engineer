@@ -3070,6 +3070,31 @@
         "HW-0270"
       ],
       "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261123-038",
+      "captured_on": "2026-11-23",
+      "processed_on": "2026-11-23",
+      "file": "photos/2026/11/P-20261123-038.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 043: 1000063602.jpg (EXIF 2026-11-23 12:25). TemPolor retail box (Melo-D AI smart guitar per owner) standing on office carpet - box only.",
+      "item_ids": [
+        "HW-0271"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261123-039",
+      "captured_on": "2026-11-23",
+      "processed_on": "2026-11-23",
+      "file": "photos/2026/11/P-20261123-039.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 043: 1000063621.jpg (EXIF 2026-11-23 16:00). Face-on side-by-side of the two black USB adapters: left USB-A male to USB-B male (HW-0120), right USB-A female to USB-B male (HW-0128).",
+      "item_ids": [
+        "HW-0120",
+        "HW-0128"
+      ],
+      "notes": "The disambiguating shot both records were waiting for: both A-end sexes and both square B-male ends are directly visible. Binary stored in the repo with EXIF stripped."
     }
   ]
 }
