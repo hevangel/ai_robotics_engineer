@@ -1614,6 +1614,119 @@
         "HW-0142"
       ],
       "notes": "Approximate group counts: clear 6, yellow 3, green 5, red 18; overlapping red components make that count approximate. Actual image inspected from conversation; JPG not committed to GitHub."
+    },
+    {
+      "id": "P-20261122-134",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 021, photo 1/9; uploaded filename 1000063277.jpg: Looped multicolor Dupont jumper-wire bundle, black molded terminations, visible male pins, plain gray tie.",
+      "item_ids": [
+        "HW-0148"
+      ],
+      "notes": "Likely same lower male-to-male bundle appearing in next photo, not a second count; individual leads obscured. Exact original JPG is available in the chat upload but was not transferred to GitHub."
+    },
+    {
+      "id": "P-20261122-135",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 021, photo 2/9; uploaded filename 1000063278.jpg: Two multicolor jumper-wire bundles: lower male-to-male bundle, upper oval-tie mixed-end bundle.",
+      "item_ids": [
+        "HW-0148",
+        "HW-0149"
+      ],
+      "notes": "Two physical bundles in this image; lower rephotographs preceding photo HW-0148. Exact individual wire counts unknown; upper connector genders partly obscured. Exact original JPG is available in the chat upload but was not transferred to GitHub."
+    },
+    {
+      "id": "P-20261122-136",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 021, photo 3/9; uploaded filename 1000063279.jpg: Multicolor miniature spring-hook test probes on loose thin wires.",
+      "item_ids": [
+        "HW-0150"
+      ],
+      "notes": "Colored miniature probe hooks; count of wires unverified. Separate from previous black-hook set unless proven otherwise. Exact original JPG is available in the chat upload but was not transferred to GitHub."
+    },
+    {
+      "id": "P-20261122-137",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 021, photo 4/9; uploaded filename 1000063280.jpg: Arduino-form-factor LCD Keypad Shield, 16×2 character LCD, six black pushbuttons and blue trimpot.",
+      "item_ids": [
+        "HW-0151"
+      ],
+      "notes": "Single complete shield; do not count display and buttons as extra loose hardware. Exact original JPG is available in the chat upload but was not transferred to GitHub."
+    },
+    {
+      "id": "P-20261122-138",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 021, photo 5/9; uploaded filename 1000063285.jpg: Pink/red-foam small parts assortment: CTS 208-4 DIP switch, small metal slide switch, blue Keyes WiiChuck adapter, yellow 4-bar LED and green 7-bar LED.",
+      "item_ids": [
+        "HW-0152",
+        "HW-0153",
+        "HW-0154",
+        "HW-0146",
+        "HW-0147"
+      ],
+      "notes": "LED bars tentatively associated with earlier red-foam lots; physical unit identity unresolved, so counts unchanged. DIP and slide switch are separate parts. Exact original JPG is available in the chat upload but was not transferred to GitHub."
+    },
+    {
+      "id": "P-20261122-139",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 021, photo 6/9; uploaded filename 1000063286.jpg: Fifteen loose joystick/button-style plastic caps in five colors (3 black, 3 green, 3 blue, 3 white and 3 yellow).",
+      "item_ids": [
+        "HW-0155"
+      ],
+      "notes": "Count=15 individual passive caps, not electronics; compatibility unknown. Exact original JPG is available in the chat upload but was not transferred to GitHub."
+    },
+    {
+      "id": "P-20261122-140",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 021, photo 7/9; uploaded filename 1000063288.jpg: Two standalone thumb joystick breakout boards, black joysticks, exposed 5-pin headers.",
+      "item_ids": [
+        "HW-0156"
+      ],
+      "notes": "Two separate physical boards; the integrated joystick on Funduino shield is not one of these. Exact original JPG is available in the chat upload but was not transferred to GitHub."
+    },
+    {
+      "id": "P-20261122-141",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 021, photo 8/9; uploaded filename 1000063287.jpg: Red Funduino Joystick Shield v1.A with thumbstick and multiple face buttons.",
+      "item_ids": [
+        "HW-0157"
+      ],
+      "notes": "One complete expansion board; radio interface marking does not establish installed RF24L01 radio. Exact original JPG is available in the chat upload but was not transferred to GitHub."
+    },
+    {
+      "id": "P-20261122-142",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 021, photo 9/9; uploaded filename 1000063289.jpg: Four red round panel-mount pushbutton assemblies, black housings, green loose/connected leads.",
+      "item_ids": [
+        "HW-0158"
+      ],
+      "notes": "Four counted with overlap; exact switching function and wire connections untested. Exact original JPG is available in the chat upload but was not transferred to GitHub."
     }
   ]
 }
