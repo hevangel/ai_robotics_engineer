@@ -2,18 +2,24 @@
 
 ## Status at a glance
 
-- **Inventory records:** 239 item/lot/component records (parent assemblies and installed components linked)
-- **Records associated with photographs:** 231
+- **Inventory records:** 237 item/lot/component records (parent assemblies and installed components linked)
+- **Records associated with photographs:** 232
 - **Photo-verified / owner-confirmed hardware:** 204 (some enclosed items owner-confirmed; no working-status implied)
 - **Photo-supported / tentative identifications or packaging only:** 28
-- **Previously reported, not yet photographed:** 7
-- **Photo intake records:** 215
+- **Previously reported, not yet photographed:** 5
+- **Photo intake records:** 216
 
 These are **record and photo counts**, not counts of verified working devices. A photographed retail box does not establish that electronic contents are present unless separately confirmed.
 
-- **Records lacking direct item photographs:** 8 (some contents independently confirmed by owner)
+- **Records lacking direct item photographs:** 8 (some contents independently confirmed by owner; HW-0008 carries a labelled web reference image of its model, not a photo of the owner's unit)
 
-## Latest batch — 036 (2 photographs, 1 new record; a folding drone)
+## Latest update — 037 (maintenance: two records removed, one reference image filed)
+
+At the owner's request: the Google Nest doorbell (HW-0009) and Nest Wi-Fi camera (HW-0010) records were removed (both reported-only, never photographed; IDs retired, not reused). HW-0008 was identified by the owner as a **Logitech Extreme 3D Pro** flight joystick, and a retailer product photo was filed as `P-20261123-001`, clearly labelled as a reference image of the model — HW-0008 remains reported/unverified until the owner's own stick is photographed.
+
+[Maintenance 037 detail](batches/2026-11-23-037.md).
+
+## Earlier batch — 036 (2 photographs, 1 new record; a folding drone)
 
 | ID | Item | Quantity | Photo |
 | --- | --- | ---: | --- |
@@ -584,9 +590,7 @@ The existing SUPERPi retro-gaming system HW-0016 is **not** the same case as the
 | HW-0003 | Coral USB Accelerator |
 | HW-0005 | AIY Voice Kit |
 | HW-0007 | Tello drone |
-| HW-0008 | Flight joystick |
-| HW-0009 | Nest doorbell |
-| HW-0010 | Nest Wi-Fi camera |
+| HW-0008 | Logitech Extreme 3D Pro flight joystick (reference image only) |
 
 ## Records and photo references
 

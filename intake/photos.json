@@ -2626,6 +2626,18 @@
         "HW-0239"
       ],
       "notes": "Underside of the drone in P-20261122-214. Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261123-001",
+      "captured_on": null,
+      "processed_on": "2026-11-23",
+      "file": "photos/2026/11/P-20261123-001.jpg",
+      "asset_status": "stored",
+      "source_description": "REFERENCE IMAGE (not the owner's unit): retailer product photograph of the Logitech Extreme 3D Pro joystick, top-down studio shot on white, downloaded from the web on 2026-11-23 at the owner's request (source: merkur-static.si product listing image).",
+      "item_ids": [
+        "HW-0008"
+      ],
+      "notes": "Filed at the owner's request as a labelled reference image for HW-0008. It is a manufacturer's/retailer's product photo of the model, NOT a photograph of the owner's joystick, and it does not change HW-0008's reported/unverified status. Stored as downloaded (converted from WebP to JPEG, 1200x1200); no EXIF."
     }
   ]
 }

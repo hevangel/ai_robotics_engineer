@@ -188,62 +188,18 @@
       "location": null,
       "verification_status": "reported_unverified",
       "identification_confidence": "high",
-      "photo_ids": [],
+      "photo_ids": [
+        "P-20261123-001"
+      ],
       "connectivity": [],
       "interfaces": [],
       "accessories": [],
-      "notes": "Owner identified the model on 2026-11-23 as the Logitech Extreme 3D Pro. Still not photographed - the record remains reported/unverified, and no product or stock image is filed as evidence of the owner's unit.",
+      "notes": "Owner identified the model on 2026-11-23 as the Logitech Extreme 3D Pro. The owner's unit itself has not been photographed, so the record remains reported/unverified; at the owner's request a retailer product photo is filed as P-20261123-001 and clearly labelled as a reference image of the model, not of the owner's unit.",
       "source": {
         "type": "prior_conversation",
         "reference": null
       },
       "updated_on": "2026-11-23"
-    },
-    {
-      "id": "HW-0009",
-      "category": "smart_home",
-      "name": "Nest doorbell",
-      "manufacturer": "Google Nest",
-      "model": null,
-      "variant": null,
-      "quantity": null,
-      "condition": "unknown",
-      "location": null,
-      "verification_status": "reported_unverified",
-      "identification_confidence": "not_assessed",
-      "photo_ids": [],
-      "connectivity": [],
-      "interfaces": [],
-      "accessories": [],
-      "notes": "Previously mentioned as owned; model and generation not yet known.",
-      "source": {
-        "type": "prior_conversation",
-        "reference": null
-      },
-      "updated_on": "2026-11-22"
-    },
-    {
-      "id": "HW-0010",
-      "category": "smart_home",
-      "name": "Nest Wi-Fi camera",
-      "manufacturer": "Google Nest",
-      "model": null,
-      "variant": null,
-      "quantity": null,
-      "condition": "unknown",
-      "location": null,
-      "verification_status": "reported_unverified",
-      "identification_confidence": "not_assessed",
-      "photo_ids": [],
-      "connectivity": [],
-      "interfaces": [],
-      "accessories": [],
-      "notes": "Previously mentioned as owned; model and generation not yet known.",
-      "source": {
-        "type": "prior_conversation",
-        "reference": null
-      },
-      "updated_on": "2026-11-22"
     },
     {
       "id": "HW-0011",
