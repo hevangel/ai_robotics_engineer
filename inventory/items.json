@@ -5145,22 +5145,23 @@
     {
       "id": "HW-0188",
       "category": "electronics_material",
-      "name": "Unidentified black 16-pin DIP integrated circuits, top foam",
-      "manufacturer": null,
-      "model": null,
-      "variant": "Two horizontally oriented black DIP chips on upper small foam strip, each apparently 16 pins",
+      "name": "NXP 74HC595N 8-bit shift-register ICs, DIP-16",
+      "manufacturer": "NXP Semiconductors",
+      "model": "74HC595N",
+      "variant": "Two black 16-pin through-hole DIP ICs with NXP logo and 74HC595N part marking, pictured on upper foam strip and close up in separate image",
       "quantity": 2,
       "condition": "unknown",
       "location": null,
-      "verification_status": "photo_tentative",
-      "identification_confidence": "low",
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
       "photo_ids": [
-        "P-20261122-155"
+        "P-20261122-155",
+        "P-20261122-159"
       ],
       "connectivity": [],
       "interfaces": [],
       "accessories": [],
-      "notes": "Two physical ICs: upper line with multiple printed lines and a logo, lower with very faint marking. Zoom/enhancement still leaves their exact top markings unreadable. Both appear DIP-16 by pins but exact pin count should be rechecked when closeup supplied. Keep distinct from lower group and avoid assigning made-up IC numbers.",
+      "notes": "Two ICs in close-up 1000063308.jpg, both clearly display NXP logo and 74HC595N. DIP-16 with eight leads per side. 8-bit serial-in/parallel-out shift register with output storage latches. Treated as the same two chips provisionally logged in upper foam of photo 1000063301.jpg (HW-0188), based on the request for a better picture immediately afterward; if user indicates otherwise, physical identity must be corrected. Distinct manufacturer and physical lot from TI SN74HC595N ten-chip HW-0193. Additional codes QJ88D4 25 and UnC1403D are package trace codes, not chip models. Operational condition unknown.",
       "source": {
         "type": "photo",
         "reference": "P-20261122-155"
