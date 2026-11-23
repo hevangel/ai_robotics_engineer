@@ -1,6 +1,6 @@
 # Photo evidence index
 
-**Last updated:** 2026-11-22. **Photos logged: 99.** This file indexes the actual photographs received in the ChatGPT conversation, but **does not contain the JPG images**. Original image assets have not been copied to GitHub. The canonical relationship between photo IDs and hardware IDs is in [the JSON intake log](../intake/photos.json).
+**Last updated:** 2026-11-22. **Photos logged: 109.** This file indexes the actual photographs received in the ChatGPT conversation, but **does not contain the JPG images**. Original image assets have not been copied to GitHub. The canonical relationship between photo IDs and hardware IDs is in [the JSON intake log](../intake/photos.json).
 
 | Photo ID | Conversation image filename | Related hardware ID(s) | Description |
 | --- | --- | --- | --- |
@@ -118,9 +118,20 @@
 | `P-20261122-098` | `1000063233.jpg` | `HW-0107` | Bundle of many color-coded insulated alligator clip leads |
 | `P-20261122-099` | `1000063234.jpg` | `HW-0108` | Coiled longer red/black test leads with metal banana-plug-style and mixed terminations |
 
+| `P-20261122-100` | `1000063235.jpg` | `HW-0109` | Black acrylic servo-operated robotic arm assembly with blue translucent microservos and black two-finger gripper |
+| `P-20261122-101` | `1000063242.jpg` | `HW-0110` | Akai Professional MPD218 MIDI pad controller retail carton; printed device only |
+| `P-20261122-102` | `1000063243.jpg` | `HW-0111` | Actual Pyle Pro PMIDI100 DJ MIDI controller with two jog wheels and mixer controls |
+| `P-20261122-103` | `1000063244.jpg` | `HW-0112` | DGT Easy+ game/chess timer box marked 2014 model; product inside not shown |
+| `P-20261122-104` | `1000063245.jpg` | `HW-0113` | FUJING branded USB gooseneck multi-LED clip light, flex neck and mounting clip |
+| `P-20261122-105` | `1000063246.jpg` | `HW-0114` | 18650 Battery Shield V8.3 PCB, two empty battery bays, USB-A port and labelled voltage pads |
+| `P-20261122-106` | `1000063247.jpg` | `HW-0115` | Two blue SPI microSD card reader modules with labelled 7-pin headers |
+| `P-20261122-107` | `1000063248.jpg` | `HW-0116` | Small green ULN2003-style stepper driver board with LEDs, DIP IC and motor connector |
+| `P-20261122-108` | `1000063249.jpg` | `HW-0117` | Rear of four separate 4-matrix LED dot display strips showing interface pin labels and board connections |
+| `P-20261122-109` | `1000063250.jpg` | `HW-0117` | Front of same four 4-matrix LED dot display strips, total sixteen 8x8 matrices |
+
 ## Batch notes
 
-[Batch 001](../inventory/batches/2026-11-22-001.md) · [Batch 002](../inventory/batches/2026-11-22-002.md) · [Batch 003](../inventory/batches/2026-11-22-003.md) · [Batch 004](../inventory/batches/2026-11-22-004.md) · [Batch 005](../inventory/batches/2026-11-22-005.md) · [Batch 006](../inventory/batches/2026-11-22-006.md) · [Batch 007](../inventory/batches/2026-11-22-007.md) · [Batch 008](../inventory/batches/2026-11-22-008.md) · [Batch 009](../inventory/batches/2026-11-22-009.md) · [Batch 010](../inventory/batches/2026-11-22-010.md) · [Batch 011](../inventory/batches/2026-11-22-011.md) · [Batch 012](../inventory/batches/2026-11-22-012.md) · [Batch 013](../inventory/batches/2026-11-22-013.md) · [Batch 014](../inventory/batches/2026-11-22-014.md) · [Batch 015](../inventory/batches/2026-11-22-015.md) · [Batch 016](../inventory/batches/2026-11-22-016.md)
+[Batch 001](../inventory/batches/2026-11-22-001.md) · [Batch 002](../inventory/batches/2026-11-22-002.md) · [Batch 003](../inventory/batches/2026-11-22-003.md) · [Batch 004](../inventory/batches/2026-11-22-004.md) · [Batch 005](../inventory/batches/2026-11-22-005.md) · [Batch 006](../inventory/batches/2026-11-22-006.md) · [Batch 007](../inventory/batches/2026-11-22-007.md) · [Batch 008](../inventory/batches/2026-11-22-008.md) · [Batch 009](../inventory/batches/2026-11-22-009.md) · [Batch 010](../inventory/batches/2026-11-22-010.md) · [Batch 011](../inventory/batches/2026-11-22-011.md) · [Batch 012](../inventory/batches/2026-11-22-012.md) · [Batch 013](../inventory/batches/2026-11-22-013.md) · [Batch 014](../inventory/batches/2026-11-22-014.md) · [Batch 015](../inventory/batches/2026-11-22-015.md) · [Batch 016](../inventory/batches/2026-11-22-016.md) · [Batch 017](../inventory/batches/2026-11-22-017.md)
 
 ## Next action to make the catalog self-contained
 

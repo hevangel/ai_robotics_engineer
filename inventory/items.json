@@ -3036,6 +3036,262 @@
         "reference": "P-20261122-099"
       },
       "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0109",
+      "category": "robotics_platform",
+      "name": "Acrylic multi-servo robot arm with claw gripper and base",
+      "manufacturer": null,
+      "model": null,
+      "variant": "Black open-frame horizontal robotic arm and two-finger claw, microservo actuators with orange/red/brown three-wire PWM leads; loose black stand/base below",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-100"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "3-wire hobby-servo control lead plugs",
+        "Joint and gripper drive via multiple blue translucent microservos"
+      ],
+      "accessories": [],
+      "notes": "One substantially assembled servo-driven robot arm with mounting/platform base, linear-looking black acrylic linkages and two-finger black gripper; several blue translucent microservos and three-wire cables visible (approximately four, individual servo models and actual count unverified). The loose horizontal platform is part of the same assembly, not an extra arm. No control board, power supply or tested motion shown. Manufacturer and exact degrees of freedom cannot be verified from image. Photo evidence: 1000063235.jpg.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-100"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0110",
+      "category": "controller",
+      "name": "Akai Professional MPD218 MIDI pad controller retail box",
+      "manufacturer": "Akai Professional",
+      "model": "MPD218",
+      "variant": "Packaging printed 'MIDI pad controller with 16 MPC pads', Ableton Live Lite and MPC Essentials; physical device not shown",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_tentative",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-101"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "USB MIDI per model's advertised capabilities; no unit/ports inspected"
+      ],
+      "accessories": [],
+      "notes": "One Akai Professional MPD218 printed retail carton photographed with the pad controller illustration, 16 MPC pad claim, software logos and retail price sticker. This is packaging-only evidence. The physical MPD218, USB cable, software licensing and operational status have NOT been confirmed; do not count the illustrated device as physically verified. Exact product name/model confidently read from box. Photo evidence: 1000063242.jpg.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-101"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0111",
+      "category": "controller",
+      "name": "Pyle Pro PMIDI100 dual-jog-wheel DJ MIDI controller",
+      "manufacturer": "Pyle",
+      "model": "PMIDI100",
+      "variant": "Black-and-silver physical DJ MIDI control deck with two large jog wheels, mixer knobs, faders, cue and transport buttons, and headphone/mic controls",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-102"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Physical rotary knobs, sliders and jog wheels",
+        "USB/MIDI connectivity likely for this model but back port not photographed"
+      ],
+      "accessories": [],
+      "notes": "One actual PYLE PRO MIDI DJ MIDI CONTROLLER with model PMIDI100 visibly printed on top surface. Two large jog wheels, crossfader, mixer faders, effects and cue/playback buttons visible. No cable, host computer or electrical test shown; condition remains unknown. Distinct from Akai MPD218 carton and not part of that package. Photo evidence: 1000063243.jpg.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-102"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0112",
+      "category": "accessory",
+      "name": "DGT Easy+ digital chess / game timer retail box",
+      "manufacturer": "DGT",
+      "model": "Easy+ (2014 version shown on box)",
+      "variant": "Retail packaging marked 'GAME TIMER DGT EASY+ NEW & IMPROVED 2014 MODEL'",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_tentative",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-103"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Two-display chess clock as pictured on box; actual device absent from photo"
+      ],
+      "accessories": [],
+      "notes": "One printed DGT Easy+ digital chess/game timer retail box, showing two countdown displays, operating buttons and a top rocker. 'New & Improved 2014 Model' is packaging wording, not an assertion of current release or manufacture date. Only box directly verified; presence and operating condition of timer itself not established. Photo evidence: 1000063244.jpg.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-103"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0113",
+      "category": "accessory",
+      "name": "FUJING flexible gooseneck clip-on LED light",
+      "manufacturer": "FUJING (as marked)",
+      "model": null,
+      "variant": "Black USB-powered LED gooseneck lamp with circular multi-LED head, adjustable flexible neck and spring-style mounting clip; USB-A plug visible",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-104"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "USB Type-A plug for power (connector visible)",
+        "Mechanical clip-on mounting bracket",
+        "Flexible gooseneck"
+      ],
+      "accessories": [],
+      "notes": "One black FUJING-branded clip-on gooseneck lamp shown as a single complete assembly: circular LED head, multiple visible LED elements, coiled USB cable, flexible neck and clip/suction-like clamp body. This is not a second separate lamp despite the separated placement of lamp head and clip in the image. Exact electrical rating and working state not verified; USB-A plug visible. Photo evidence: 1000063245.jpg.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-104"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0114",
+      "category": "power",
+      "name": "Dual 18650 Battery Shield V8.3 power-module PCB",
+      "manufacturer": null,
+      "model": "18650 Battery Shield V8.3",
+      "variant": "Black dual-slot 18650 cell carrier board with USB Type-A output port, slide switch, 5V and 3V/GND solder pads",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-105"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Two 18650 cylindrical Li-ion battery holders, empty",
+        "USB Type-A female output connector",
+        "PCB pads labelled 5V, 3V and GND",
+        "ON switch"
+      ],
+      "accessories": [],
+      "notes": "One '18650 Battery Shield V8.3' PCB photographed from component side. Both visible 18650 battery bays are EMPTY; cells are not included or separately inventoried. White positive polarity signs and reminder 'Becareful + and -' printed on holder; observe polarity. Voltage rails and USB-A hardware labels are visible, but power specifications, charging behavior, battery chemistry compatibility beyond marking and output function remain untested. Do not connect cells until board's charging and protection design has been verified. Photo evidence: 1000063246.jpg.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-105"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0115",
+      "category": "interface_module",
+      "name": "SPI microSD card breakout / reader modules",
+      "manufacturer": null,
+      "model": "Generic SPI microSD breakout (exact IC/revision unknown)",
+      "variant": "Two identical small blue PCB microSD sockets with seven labeled pins 3.3, GND, VCC, MISO, MOSI, SCK and CS",
+      "quantity": 2,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-106"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "microSD slot on each of 2 boards",
+        "7-pin header: 3.3/GND/VCC/MISO/MOSI/SCK/CS"
+      ],
+      "accessories": [],
+      "notes": "TWO physically separate identical blue SPI microSD adapter boards photographed together, recorded in one SKU/lot entry with quantity=2. Metal card sockets and pin labels visible. The 3.3 and VCC pins are separate and should not be assumed interchangeable; confirm proper power/logic compatibility against exact circuit before wiring. No inserted microSD card, data-test or exact regulator/level-shifter configuration verified. Photo evidence: 1000063247.jpg.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-106"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0116",
+      "category": "interface_module",
+      "name": "ULN2003-based unipolar stepper motor driver module",
+      "manufacturer": null,
+      "model": "ULN2003 (DIP driver IC on module)",
+      "variant": "Small green board with DIP-16 driver IC, 4 status LEDs marked A/B/C/D, labeled IN1–IN7, 5-12V and white JST-style motor connector",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-107"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "7 labeled inputs IN1..IN7 via pads/headers",
+        "White multi-pin motor connector",
+        "Board supply range printed 5–12V",
+        "4 visible activity LEDs"
+      ],
+      "accessories": [],
+      "notes": "One green small stepper driver board with DIP IC marking consistent with ULN2003A/ULN2003APG family, four control LEDs marked A,B,C,D, white multi-pin motor connector and 5–12V marking. Commonly paired with 28BYJ-48 unipolar stepper motors, but no motor is photographed or counted. Distinguish PCB input labels IN1 through IN7 from the four LEDs; pin connections and board version to confirm before applying power. Function untested. Photo evidence: 1000063248.jpg.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-107"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0117",
+      "category": "interface_module",
+      "name": "Cascaded 8×8 LED dot-matrix display strips (MAX7219-style)",
+      "manufacturer": null,
+      "model": "Generic SPI-like 8×8 LED dot matrix chain (MAX7219-style driver unverified)",
+      "variant": "Four separate linear chains, each consisting of four 8×8 LED modules (4 strips × 4 matrices = 16 display matrices)",
+      "quantity": 4,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-108",
+        "P-20261122-109"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "5-pin IN/OUT headers labelled CLK, CS, DIN/DOUT, VCC, GND on back",
+        "4 chains of 4 modules; 8×8 pixels per module"
+      ],
+      "accessories": [],
+      "notes": "One photo shows REAR of four visibly separate blue PCB strips each containing four connected dot-matrix display sections; second shows their FRONT black 8×8 pixel matrix panels. Count carefully: 4 separate strips, each 4 matrix modules, for 16 matrices total and 1,024 LED pixel positions. Store inventory quantity 4 assembled strips; don't count 16 complete separate strips. Back labels include IN/OUT and 5-pin serial interfaces; likely MAX7219-based but chips are not exposed and exact IC/LED color cannot be confirmed. No cables or lighting tests shown. Photo evidence: 1000063249.jpg, 1000063250.jpg.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-108"
+      },
+      "updated_on": "2026-11-22"
     }
   ]
 }

@@ -1198,6 +1198,126 @@
         "HW-0108"
       ],
       "notes": "Photographed object/packaging only. Original JPG remains in the conversation and has not been transferred to GitHub. Two Microsemi photos show one assembled platform, and HW-0100 is an installed component of HW-0099."
+    },
+    {
+      "id": "P-20261122-100",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 017 photo 1/10, uploaded filename 1000063235.jpg: Black acrylic servo-operated robotic arm assembly with blue translucent microservos and black two-finger gripper",
+      "item_ids": [
+        "HW-0109"
+      ],
+      "notes": "Photos depict photographed electronics or retail packaging only. Binary JPG remains in conversation, not stored on GitHub. Product presence is unverified for MPD218 and DGT Easy+ boxes. Photos P-20261122-108/109 are two sides of the same 4-strips-of-4 LED matrix collection."
+    },
+    {
+      "id": "P-20261122-101",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 017 photo 2/10, uploaded filename 1000063242.jpg: Akai Professional MPD218 MIDI pad controller retail carton; printed device only",
+      "item_ids": [
+        "HW-0110"
+      ],
+      "notes": "Photos depict photographed electronics or retail packaging only. Binary JPG remains in conversation, not stored on GitHub. Product presence is unverified for MPD218 and DGT Easy+ boxes. Photos P-20261122-108/109 are two sides of the same 4-strips-of-4 LED matrix collection."
+    },
+    {
+      "id": "P-20261122-102",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 017 photo 3/10, uploaded filename 1000063243.jpg: Actual Pyle Pro PMIDI100 DJ MIDI controller with two jog wheels and mixer controls",
+      "item_ids": [
+        "HW-0111"
+      ],
+      "notes": "Photos depict photographed electronics or retail packaging only. Binary JPG remains in conversation, not stored on GitHub. Product presence is unverified for MPD218 and DGT Easy+ boxes. Photos P-20261122-108/109 are two sides of the same 4-strips-of-4 LED matrix collection."
+    },
+    {
+      "id": "P-20261122-103",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 017 photo 4/10, uploaded filename 1000063244.jpg: DGT Easy+ game/chess timer box marked 2014 model; product inside not shown",
+      "item_ids": [
+        "HW-0112"
+      ],
+      "notes": "Photos depict photographed electronics or retail packaging only. Binary JPG remains in conversation, not stored on GitHub. Product presence is unverified for MPD218 and DGT Easy+ boxes. Photos P-20261122-108/109 are two sides of the same 4-strips-of-4 LED matrix collection."
+    },
+    {
+      "id": "P-20261122-104",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 017 photo 5/10, uploaded filename 1000063245.jpg: FUJING branded USB gooseneck multi-LED clip light, flex neck and mounting clip",
+      "item_ids": [
+        "HW-0113"
+      ],
+      "notes": "Photos depict photographed electronics or retail packaging only. Binary JPG remains in conversation, not stored on GitHub. Product presence is unverified for MPD218 and DGT Easy+ boxes. Photos P-20261122-108/109 are two sides of the same 4-strips-of-4 LED matrix collection."
+    },
+    {
+      "id": "P-20261122-105",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 017 photo 6/10, uploaded filename 1000063246.jpg: 18650 Battery Shield V8.3 PCB, two empty battery bays, USB-A port and labelled voltage pads",
+      "item_ids": [
+        "HW-0114"
+      ],
+      "notes": "Photos depict photographed electronics or retail packaging only. Binary JPG remains in conversation, not stored on GitHub. Product presence is unverified for MPD218 and DGT Easy+ boxes. Photos P-20261122-108/109 are two sides of the same 4-strips-of-4 LED matrix collection."
+    },
+    {
+      "id": "P-20261122-106",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 017 photo 7/10, uploaded filename 1000063247.jpg: Two blue SPI microSD card reader modules with labelled 7-pin headers",
+      "item_ids": [
+        "HW-0115"
+      ],
+      "notes": "Photos depict photographed electronics or retail packaging only. Binary JPG remains in conversation, not stored on GitHub. Product presence is unverified for MPD218 and DGT Easy+ boxes. Photos P-20261122-108/109 are two sides of the same 4-strips-of-4 LED matrix collection."
+    },
+    {
+      "id": "P-20261122-107",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 017 photo 8/10, uploaded filename 1000063248.jpg: Small green ULN2003-style stepper driver board with LEDs, DIP IC and motor connector",
+      "item_ids": [
+        "HW-0116"
+      ],
+      "notes": "Photos depict photographed electronics or retail packaging only. Binary JPG remains in conversation, not stored on GitHub. Product presence is unverified for MPD218 and DGT Easy+ boxes. Photos P-20261122-108/109 are two sides of the same 4-strips-of-4 LED matrix collection."
+    },
+    {
+      "id": "P-20261122-108",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 017 photo 9/10, uploaded filename 1000063249.jpg: Rear of four separate 4-matrix LED dot display strips showing interface pin labels and board connections",
+      "item_ids": [
+        "HW-0117"
+      ],
+      "notes": "Photos depict photographed electronics or retail packaging only. Binary JPG remains in conversation, not stored on GitHub. Product presence is unverified for MPD218 and DGT Easy+ boxes. Photos P-20261122-108/109 are two sides of the same 4-strips-of-4 LED matrix collection."
+    },
+    {
+      "id": "P-20261122-109",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 017 photo 10/10, uploaded filename 1000063250.jpg: Front of same four 4-matrix LED dot display strips, total sixteen 8x8 matrices",
+      "item_ids": [
+        "HW-0117"
+      ],
+      "notes": "Photos depict photographed electronics or retail packaging only. Binary JPG remains in conversation, not stored on GitHub. Product presence is unverified for MPD218 and DGT Easy+ boxes. Photos P-20261122-108/109 are two sides of the same 4-strips-of-4 LED matrix collection."
     }
   ]
 }
