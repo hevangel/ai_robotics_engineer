@@ -2,32 +2,33 @@
 
 ## Status at a glance
 
-- **Inventory records:** 117 item/lot/component records (parent assemblies and installed components linked)
-- **Records associated with photographs:** 109
-- **Photo-verified / owner-confirmed hardware:** 95 (includes 2 previously owner-confirmed boards not directly photographed)
-- **Photo-supported but packaging only / tentative:** 16
+- **Inventory records:** 118 item/lot/component records (parent assemblies and installed components linked)
+- **Records associated with photographs:** 110
+- **Photo-verified / owner-confirmed hardware:** 97 (including owner-confirmed items enclosed in photographed boxes)
+- **Photo-supported but packaging only / tentative:** 15
 - **Previously reported, not yet photographed:** 6
 - **Photo intake records:** 109
 
 These are **record and photo counts**, not counts of verified working devices. A photographed retail box does not establish that electronic contents are present unless separately confirmed.
 
-- **Records lacking direct item photographs:** 8 (including 2 owner-confirmed enclosed/installed components)
+- **Records lacking direct item photographs:** 8 (some contents independently confirmed by owner)
 
-## Latest batch — 017 (10 photos; 9 item records)
+## Latest batch — 017 (10 photos; 10 item records; 2 distinct LED matrix styles)
 
 | ID | Item | Qty | Uploaded photo(s) |
 | --- | --- | --- | --- |
 | HW-0109 | Servo-driven acrylic robotic arm and gripper | 1 assembly | `1000063235.jpg` |
 | HW-0110 | Akai MPD218 MIDI pad controller box (contents unverified) | 1 box | `1000063242.jpg` |
 | HW-0111 | Pyle PMIDI100 DJ MIDI controller | 1 device | `1000063243.jpg` |
-| HW-0112 | DGT Easy+ game timer box (contents unverified) | 1 box | `1000063244.jpg` |
+| HW-0112 | DGT Easy+ timer (owner-confirmed inside box) | 1 timer | `1000063244.jpg` |
 | HW-0113 | FUJING USB gooseneck clip-on LED lamp | 1 device | `1000063245.jpg` |
 | HW-0114 | 18650 Battery Shield V8.3 (no cells) | 1 module | `1000063246.jpg` |
 | HW-0115 | SPI microSD card breakout modules | 2 boards | `1000063247.jpg` |
 | HW-0116 | ULN2003 unipolar stepper driver board | 1 board | `1000063248.jpg` |
-| HW-0117 | Cascaded 8×8 LED dot-matrix displays | 4 strips × 4 matrices = 16 | `1000063249.jpg`, `1000063250.jpg` |
+| HW-0117 | 8×8 LED matrix style A — modular PCBs with intermodule connectors | 2 strips × 4 = 8 matrices | `1000063249.jpg`, `1000063250.jpg` |
+| HW-0118 | 8×8 LED matrix style B — continuous-PCB strips | 2 strips × 4 = 8 matrices | `1000063249.jpg`, `1000063250.jpg` |
 
-**Count caveat:** The LED matrices are 4 strips × 4 modules each (16 matrices); two SPI microSD boards share one inventory record. The Akai and DGT products are photographed only via their boxes. No electrical tests performed.
+**Count caveat:** Two distinct LED matrix designs: style A = 2 modular 4-matrix strips (8 matrices), style B = 2 integrated 4-matrix strips (8 matrices). **4 strips and 16 matrices total, unchanged.** Two SPI microSD boards share one inventory record. DGT timer presence in box was confirmed by owner, but not directly photographed; Akai remains packaging-only unconfirmed. No electrical tests performed.
 
 [Batch 017 details](batches/2026-11-22-017.md)
 

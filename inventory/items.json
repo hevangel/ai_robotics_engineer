@@ -3123,24 +3123,24 @@
     {
       "id": "HW-0112",
       "category": "accessory",
-      "name": "DGT Easy+ digital chess / game timer retail box",
+      "name": "DGT Easy+ digital chess / game timer (owner-confirmed inside box)",
       "manufacturer": "DGT",
       "model": "Easy+ (2014 version shown on box)",
-      "variant": "Retail packaging marked 'GAME TIMER DGT EASY+ NEW & IMPROVED 2014 MODEL'",
+      "variant": "Physical DGT Easy+ 2014-version chess/game timer enclosed in photographed retail box; user explicitly confirms contents",
       "quantity": 1,
       "condition": "unknown",
       "location": null,
-      "verification_status": "photo_tentative",
+      "verification_status": "photo_verified",
       "identification_confidence": "high",
       "photo_ids": [
         "P-20261122-103"
       ],
       "connectivity": [],
       "interfaces": [
-        "Two-display chess clock as pictured on box; actual device absent from photo"
+        "Dual timer displays and top control as pictured on retail box; device inside independently confirmed by owner but not directly photographed"
       ],
       "accessories": [],
-      "notes": "One printed DGT Easy+ digital chess/game timer retail box, showing two countdown displays, operating buttons and a top rocker. 'New & Improved 2014 Model' is packaging wording, not an assertion of current release or manufacture date. Only box directly verified; presence and operating condition of timer itself not established. Photo evidence: 1000063244.jpg.",
+      "notes": "Owner explicitly confirms on 2026-11-22 that ONE DGT Easy+ chess/game timer is present inside the photographed box. This confirmation establishes the physical timer exists; no timer was directly photographed outside the closed box, and its accessories, operating condition or electronic functions are untested. The retail carton is printed 'GAME TIMER DGT EASY+ NEW & IMPROVED 2014 MODEL'; 2014 indicates the packaging-marked edition, not verified manufacture date. Do not add a separate item for the same box. Photo evidence: 1000063244.jpg.",
       "source": {
         "type": "photo",
         "reference": "P-20261122-103"
@@ -3267,11 +3267,11 @@
     {
       "id": "HW-0117",
       "category": "interface_module",
-      "name": "Cascaded 8×8 LED dot-matrix display strips (MAX7219-style)",
+      "name": "Modular 8×8 LED matrix chains — separate boards connected by intermodule headers (style A)",
       "manufacturer": null,
       "model": "Generic SPI-like 8×8 LED dot matrix chain (MAX7219-style driver unverified)",
-      "variant": "Four separate linear chains, each consisting of four 8×8 LED modules (4 strips × 4 matrices = 16 display matrices)",
-      "quantity": 4,
+      "variant": "TWO strips (left two columns of the rear/front photos), each with four 8×8 LED display modules on separable PCB sections joined via black multi-pin connectors; total eight LED matrices",
+      "quantity": 2,
       "condition": "unknown",
       "location": null,
       "verification_status": "photo_verified",
@@ -3282,11 +3282,40 @@
       ],
       "connectivity": [],
       "interfaces": [
-        "5-pin IN/OUT headers labelled CLK, CS, DIN/DOUT, VCC, GND on back",
-        "4 chains of 4 modules; 8×8 pixels per module"
+        "5-pin IN/OUT serial headers (printed CLK/CS/DIN/DOUT/VCC/GND)",
+        "Black pin headers visible between each of the 4 individual sections; daisy-chained form"
       ],
       "accessories": [],
-      "notes": "One photo shows REAR of four visibly separate blue PCB strips each containing four connected dot-matrix display sections; second shows their FRONT black 8×8 pixel matrix panels. Count carefully: 4 separate strips, each 4 matrix modules, for 16 matrices total and 1,024 LED pixel positions. Store inventory quantity 4 assembled strips; don't count 16 complete separate strips. Back labels include IN/OUT and 5-pin serial interfaces; likely MAX7219-based but chips are not exposed and exact IC/LED color cannot be confirmed. No cables or lighting tests shown. Photo evidence: 1000063249.jpg, 1000063250.jpg.",
+      "notes": "STYLE A: LEFT TWO vertically arranged groups in images 1000063249.jpg (rear) and 1000063250.jpg (front). Exactly 2 physical 4-module strips, comprising 8 of the 16 total 8×8 matrices. Rear shows separate short blue PCBs with BLACK PIN HEADER INTERCONNECTS between adjacent display modules, plus end headers. Front pixel dots appear somewhat larger than style B, but size or emission color has not been measured. Described as modular/interconnected style without claiming functional detachability until inspected. Do not confuse with the two longer continuous-PCB style-B strips now catalogued as HW-0118. Each module is 8×8; 2×4×64 = 512 visible pixel positions for this group. Driver IC is not accessible/verified, MAX7219-like serial interface is a tentative family identification. One front photo and one back photo show the same physical four-strip collection, not duplicated units.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-108"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0118",
+      "category": "interface_module",
+      "name": "Integrated 8×8 LED matrix chains — continuous four-panel PCBs (style B)",
+      "manufacturer": null,
+      "model": "Generic SPI-like 8×8 LED dot matrix chain (MAX7219-style driver unverified)",
+      "variant": "TWO strips (right two columns of the rear/front photos), each with four 8×8 LED displays mounted along one long uninterrupted blue PCB; total eight LED matrices",
+      "quantity": 2,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-108",
+        "P-20261122-109"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "5-pin IN/OUT serial headers at strip ends labelled CLK/CS/DIN/DOUT/VCC/GND",
+        "No black inter-module header joiners visible; continuous board across four matrices"
+      ],
+      "accessories": [],
+      "notes": "STYLE B: RIGHT TWO vertically arranged groups in images 1000063249.jpg (rear) and 1000063250.jpg (front). Exactly 2 physical four-matrix strips (8 of the 16 total 8×8 matrices). Rear shows long, apparently continuous blue PCB with no black headers between internal display sections, and connector pins at opposite ends. Front pixel dots appear slightly smaller than the modular style A, but dimensions and lit color are unverified. The PCB may have other connections not visible; don't infer pin-to-pin electrical compatibility from appearance alone. Each module is 8×8; 2×4×64 = 512 pixel positions for this group. MAX7219-style interface family tentative only, actual controller chips not seen. Same front/rear photos are used for both styles because each image contains all four strips.",
       "source": {
         "type": "photo",
         "reference": "P-20261122-108"

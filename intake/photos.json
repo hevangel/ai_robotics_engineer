@@ -1241,11 +1241,11 @@
       "processed_on": "2026-11-22",
       "file": null,
       "asset_status": "not_stored",
-      "source_description": "Batch 017 photo 4/10, uploaded filename 1000063244.jpg: DGT Easy+ game/chess timer box marked 2014 model; product inside not shown",
+      "source_description": "Batch 017 photo 4/10, uploaded filename 1000063244.jpg: DGT Easy+ game/chess timer box marked 2014 model; product inside owner-confirmed but not directly photographed",
       "item_ids": [
         "HW-0112"
       ],
-      "notes": "Photos depict photographed electronics or retail packaging only. Binary JPG remains in conversation, not stored on GitHub. Product presence is unverified for MPD218 and DGT Easy+ boxes. Photos P-20261122-108/109 are two sides of the same 4-strips-of-4 LED matrix collection."
+      "notes": "Photographed DGT Easy+ retail box. User explicitly confirmed on 2026-11-22 that one timer is physically inside; the device itself is not visible and functional status remains untested. Original photo remains in conversation only."
     },
     {
       "id": "P-20261122-104",
@@ -1301,11 +1301,12 @@
       "processed_on": "2026-11-22",
       "file": null,
       "asset_status": "not_stored",
-      "source_description": "Batch 017 photo 9/10, uploaded filename 1000063249.jpg: Rear of four separate 4-matrix LED dot display strips showing interface pin labels and board connections",
+      "source_description": "Batch 017 photo 9/10, uploaded filename 1000063249.jpg: Rear of two modular plus two continuous-PCB 4-matrix LED strips showing interface pin labels and board connections",
       "item_ids": [
-        "HW-0117"
+        "HW-0117",
+        "HW-0118"
       ],
-      "notes": "Photos depict photographed electronics or retail packaging only. Binary JPG remains in conversation, not stored on GitHub. Product presence is unverified for MPD218 and DGT Easy+ boxes. Photos P-20261122-108/109 are two sides of the same 4-strips-of-4 LED matrix collection."
+      "notes": "One of two photographs of the SAME four LED matrix strips (two per PCB style). LEFT TWO strips: modular short-PCB design with black intermodule headers (HW-0117). RIGHT TWO strips: continuous long-PCB design with end connectors only (HW-0118). Total remains 4 strips × 4 displays = 16 matrices. Photo binary not stored on GitHub; image is a conversation attachment."
     },
     {
       "id": "P-20261122-109",
@@ -1313,11 +1314,12 @@
       "processed_on": "2026-11-22",
       "file": null,
       "asset_status": "not_stored",
-      "source_description": "Batch 017 photo 10/10, uploaded filename 1000063250.jpg: Front of same four 4-matrix LED dot display strips, total sixteen 8x8 matrices",
+      "source_description": "Batch 017 photo 10/10, uploaded filename 1000063250.jpg: Front of same two modular plus two continuous-PCB 4-matrix LED strips, total sixteen 8x8 matrices",
       "item_ids": [
-        "HW-0117"
+        "HW-0117",
+        "HW-0118"
       ],
-      "notes": "Photos depict photographed electronics or retail packaging only. Binary JPG remains in conversation, not stored on GitHub. Product presence is unverified for MPD218 and DGT Easy+ boxes. Photos P-20261122-108/109 are two sides of the same 4-strips-of-4 LED matrix collection."
+      "notes": "One of two photographs of the SAME four LED matrix strips (two per PCB style). LEFT TWO strips: modular short-PCB design with black intermodule headers (HW-0117). RIGHT TWO strips: continuous long-PCB design with end connectors only (HW-0118). Total remains 4 strips × 4 displays = 16 matrices. Photo binary not stored on GitHub; image is a conversation attachment."
     }
   ]
 }

@@ -4,15 +4,15 @@ A photo-driven catalog for IoT hardware, Arduino-compatible boards, Raspberry Pi
 
 ## Current inventory snapshot (2026-11-22)
 
-- **117** inventory records, including installed modules and kit subcomponents
+- **118** inventory records, including installed modules and kit subcomponents
 - **109** unique photographs inspected and logged
-- **109** catalog entries linked to photographs; **8** items lack a direct photo (including 2 owner-confirmed enclosed/installed components)
-- **Next available hardware ID: `HW-0118`**
-- **Latest update:** servo robot arm/gripper; Akai MPD218 box; Pyle PMIDI100 DJ controller; DGT Easy+ box; FUJING USB clip light; dual 18650 battery shield; 2 SPI microSD readers; ULN2003 motor driver; and 4 cascaded LED matrix strips (16 separate 8×8 modules). Ten photos, nine inventory entries; boxed product contents unverified.
+- **110** catalog entries linked to photographs; **8** items lack a direct photo (some enclosed/installed components owner-confirmed)
+- **Next available hardware ID: `HW-0119`**
+- **Latest update:** DGT Easy+ timer owner-confirmed inside photographed box (not independently photographed). The four 8×8 matrix chains split into two hardware PCB designs: 2 modular/interconnected strips (HW-0117) and 2 continuous-board strips (HW-0118), each strip with 4 matrices. Total 16 matrices unchanged; 109 source photos still indexed.
 
 [Batch 001](inventory/batches/2026-11-22-001.md) · [Batch 002](inventory/batches/2026-11-22-002.md) · [Batch 003](inventory/batches/2026-11-22-003.md) · [Batch 004](inventory/batches/2026-11-22-004.md) · [Batch 005](inventory/batches/2026-11-22-005.md) · [Batch 006](inventory/batches/2026-11-22-006.md) · [Batch 007](inventory/batches/2026-11-22-007.md) · [Batch 008](inventory/batches/2026-11-22-008.md) · [Batch 009](inventory/batches/2026-11-22-009.md) · [Batch 010](inventory/batches/2026-11-22-010.md) · [Batch 011](inventory/batches/2026-11-22-011.md) · [Batch 012](inventory/batches/2026-11-22-012.md) · [Batch 013](inventory/batches/2026-11-22-013.md) · [Batch 014](inventory/batches/2026-11-22-014.md) · [Batch 015](inventory/batches/2026-11-22-015.md) · [Batch 016](inventory/batches/2026-11-22-016.md) · [Batch 017](inventory/batches/2026-11-22-017.md)
 
-**Photo-storage note:** All 99 logged JPGs are still conversation attachments; the repository currently stores their descriptive evidence log, not their original image binaries. Do not treat filenames in the log as GitHub-hosted images.
+**Photo-storage note:** All 109 logged JPGs are still conversation attachments; the repository currently stores their descriptive evidence log, not their original image binaries. Do not treat filenames in the log as GitHub-hosted images.
 
 ## Inventory
 

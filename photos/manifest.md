@@ -126,8 +126,8 @@
 | `P-20261122-105` | `1000063246.jpg` | `HW-0114` | 18650 Battery Shield V8.3 PCB, two empty battery bays, USB-A port and labelled voltage pads |
 | `P-20261122-106` | `1000063247.jpg` | `HW-0115` | Two blue SPI microSD card reader modules with labelled 7-pin headers |
 | `P-20261122-107` | `1000063248.jpg` | `HW-0116` | Small green ULN2003-style stepper driver board with LEDs, DIP IC and motor connector |
-| `P-20261122-108` | `1000063249.jpg` | `HW-0117` | Rear of four separate 4-matrix LED dot display strips showing interface pin labels and board connections |
-| `P-20261122-109` | `1000063250.jpg` | `HW-0117` | Front of same four 4-matrix LED dot display strips, total sixteen 8x8 matrices |
+| `P-20261122-108` | `1000063249.jpg` | `HW-0117`, `HW-0118` | Rear of two modular interlinked and two integrated/continuous-PCB 4×8×8 LED matrix strips (two styles). |
+| `P-20261122-109` | `1000063250.jpg` | `HW-0117`, `HW-0118` | Front of same 4 strips; two LED matrix styles, 16 total 8×8 display tiles. |
 
 ## Batch notes
 
