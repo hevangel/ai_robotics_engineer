@@ -4,15 +4,15 @@ A photo-driven catalog for IoT hardware, Arduino-compatible boards, Raspberry Pi
 
 ## Current inventory snapshot (2026-11-22)
 
-- **70** inventory records, including installed modules and kit subcomponents
-- **59** unique photographs inspected and logged
-- **62** catalog entries linked to photographs; **8** items lack a direct photo (including 2 owner-confirmed enclosed/installed components)
-- **Next available hardware ID: `HW-0071`**
-- **Latest update:** three owned BBC micro:bit boards (one inside GO kit), three Arduino Uno boards, three BreadShields, Optane M10, Waveshare ESP32-S3 AMOLED box, Azure Sphere MT3620, krtkl piSmasher with installed Zynq-7020 FPGA board
+- **78** inventory records, including installed modules and kit subcomponents
+- **67** unique photographs inspected and logged
+- **70** catalog entries linked to photographs; **8** items lack a direct photo (including 2 owner-confirmed enclosed/installed components)
+- **Next available hardware ID: `HW-0079`**
+- **Latest update:** Raspberry Pi Pico W, FT2232H Mini Module, Raspberry Pi Zero 2 W, NE555 waveform generator, ESP32-WROOM-32 dev board, Raspberry Pi GPIO extension board, empty Smraza Pi 4 case and DIYmall micro:bit breakout
 
-[Batch 001](inventory/batches/2026-11-22-001.md) · [Batch 002](inventory/batches/2026-11-22-002.md) · [Batch 003](inventory/batches/2026-11-22-003.md) · [Batch 004](inventory/batches/2026-11-22-004.md) · [Batch 005](inventory/batches/2026-11-22-005.md) · [Batch 006](inventory/batches/2026-11-22-006.md) · [Batch 007](inventory/batches/2026-11-22-007.md) · [Batch 008](inventory/batches/2026-11-22-008.md) · [Batch 009](inventory/batches/2026-11-22-009.md) · [Batch 010](inventory/batches/2026-11-22-010.md)
+[Batch 001](inventory/batches/2026-11-22-001.md) · [Batch 002](inventory/batches/2026-11-22-002.md) · [Batch 003](inventory/batches/2026-11-22-003.md) · [Batch 004](inventory/batches/2026-11-22-004.md) · [Batch 005](inventory/batches/2026-11-22-005.md) · [Batch 006](inventory/batches/2026-11-22-006.md) · [Batch 007](inventory/batches/2026-11-22-007.md) · [Batch 008](inventory/batches/2026-11-22-008.md) · [Batch 009](inventory/batches/2026-11-22-009.md) · [Batch 010](inventory/batches/2026-11-22-010.md) · [Batch 011](inventory/batches/2026-11-22-011.md)
 
-**Photo-storage note:** All 59 logged JPGs are still conversation attachments; the repository currently stores their descriptive evidence log, not their original image binaries. Do not treat filenames in the log as GitHub-hosted images.
+**Photo-storage note:** All 67 logged JPGs are still conversation attachments; the repository currently stores their descriptive evidence log, not their original image binaries. Do not treat filenames in the log as GitHub-hosted images.
 
 ## Inventory
 

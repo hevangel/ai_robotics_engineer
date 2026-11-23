@@ -2,18 +2,35 @@
 
 ## Status at a glance
 
-- **Inventory records:** 70 item/lot/component records (parent assemblies and their installed components are linked)
-- **Records associated with photographs:** 62
-- **Photo-verified / owner-confirmed hardware:** 51 (includes 2 owner-confirmed boards not directly photographed)
+- **Inventory records:** 78 item/lot/component records (parent assemblies and installed components linked)
+- **Records associated with photographs:** 70
+- **Photo-verified / owner-confirmed hardware:** 59 (includes 2 previously owner-confirmed boards not directly photographed)
 - **Photo-supported but packaging only / tentative:** 13
 - **Previously reported, not yet photographed:** 6
-- **Photo intake records:** 59
+- **Photo intake records:** 67
 
 These are **record and photo counts**, not counts of verified working devices. A photographed retail box does not establish that electronic contents are present unless separately confirmed.
 
-- **Records lacking direct item photographs:** 8 (including the two owner-confirmed components inside/attached to other items)
+- **Records lacking direct item photographs:** 8 (including 2 owner-confirmed enclosed/installed components)
 
-## Latest batch — 010 (10 photographs; 2 owner corrections)
+## Latest batch — 011 (8 photos)
+
+| ID | Item | Qty | Uploaded photo |
+| --- | --- | ---: | --- |
+| HW-0071 | Raspberry Pi Pico W | 1 | `1000063199.jpg` |
+| HW-0072 | FTDI FT2232H Mini Module | 1 | `1000063198.jpg` |
+| HW-0073 | Raspberry Pi Zero 2 W | 1 | `1000063197.jpg` |
+| HW-0074 | NE555 multifunction waveform generator module | 1 | `1000063196.jpg` |
+| HW-0075 | ESP32-WROOM-32 development board | 1 | `1000063195.jpg` |
+| HW-0076 | Raspberry Pi 40-pin GPIO T-cobbler breakout adapter | 1 | `1000063194.jpg` |
+| HW-0077 | Smraza Raspberry Pi 4 Model B case kit | 1 | `1000063193.jpg` |
+| HW-0078 | DIYmall BBC micro:bit expansion board / edge connector breakout | 1 | `1000063192.jpg` |
+
+**Important:** HW-0077 is a Smraza **case only**, no Raspberry Pi board. HW-0078 is an expansion board, not an additional BBC micro:bit. Other physical development boards have not been duplicated.
+
+[Batch 011 details](batches/2026-11-22-011.md)
+
+## Earlier batch — 010 (10 photographs; 2 owner corrections)
 
 | ID | Item | Quantity | Evidence |
 | --- | --- | --- | --- |

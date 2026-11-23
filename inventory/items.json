@@ -1928,6 +1928,248 @@
       },
       "updated_on": "2026-11-22",
       "parent_id": "HW-0068"
+    },
+    {
+      "id": "HW-0071",
+      "category": "microcontroller_board",
+      "name": "Raspberry Pi Pico W",
+      "manufacturer": "Raspberry Pi",
+      "model": "Pico W",
+      "variant": "Bare green RP2040 microcontroller board with onboard wireless radio module, no installed GPIO pin headers",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-060"
+      ],
+      "connectivity": [
+        "2.4 GHz Wi-Fi",
+        "Bluetooth hardware capability (firmware support version-dependent)"
+      ],
+      "interfaces": [
+        "Micro-USB data/power",
+        "Castellated GPIO pins (unpopulated)",
+        "BOOTSEL button",
+        "Debug connector"
+      ],
+      "accessories": [],
+      "notes": "Physical Raspberry Pi Pico W board clearly marked 2022 and BOOTSEL, USB port, RP2040 controller, RF-shielded wireless module, castellated GPIO edges and debug socket. The W model is confirmed by RF shield and PCB layout. Unused status unknown; no power-on verification.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-060"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0072",
+      "category": "interface_module",
+      "name": "FTDI FT2232H Mini Module",
+      "manufacturer": "FTDI",
+      "model": "FT2232H Mini Module",
+      "variant": "Green module marked FT2232H Mini Module Rev 1.1, USB Mini-B connector and 2-row headers/through holes",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-061"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "USB Mini-B",
+        "Two rows of I/O through-holes and solder pads"
+      ],
+      "accessories": [],
+      "notes": "Physical FT2232H Mini Module with PCB marked FT2232H Mini Module Rev 1.1, USB Mini-B connector, dual side breakout contacts, FTDI chip, and partially soldered test/connector pin points. USB dual-channel interface / serial-FIFO/JTAG-style adapter; actual enabled modes depend on host setup. Not another microcontroller or FPGA development board. Untested.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-061"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0073",
+      "category": "single_board_computer",
+      "name": "Raspberry Pi Zero 2 W",
+      "manufacturer": "Raspberry Pi",
+      "model": "Zero 2 W",
+      "variant": "Bare green Raspberry Pi with RP3A0-AU SiP, no GPIO headers fitted",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-062"
+      ],
+      "connectivity": [
+        "2.4 GHz Wi-Fi / Bluetooth (model features)"
+      ],
+      "interfaces": [
+        "Mini HDMI",
+        "2 × Micro-USB (USB data and power)",
+        "MicroSD",
+        "CSI camera ribbon connector",
+        "Unpopulated 40-pin GPIO"
+      ],
+      "accessories": [],
+      "notes": "Actual Raspberry Pi Zero 2 W board, evidenced by RP3A0-AU system-in-package and Zero 2 layout; visible microSD slot, mini HDMI, two Micro-USB ports, CSI camera connector and 40-pin unpopulated GPIO footprint. RAM is onboard the module but not individually measured; usual manufacturer specification is 512 MB, not verified via boot. This is distinct from previous Raspberry Pis and is physically present, untested.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-062"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0074",
+      "category": "electronics_kit",
+      "name": "NE555 multifunction waveform generator module",
+      "manufacturer": null,
+      "model": "TJ-56-133 (PCB marking)",
+      "variant": "Blue PCB with NE555P timer, 50k potentiometer, multiple output headers",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-063"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "GND/VCC power pins",
+        "GND/OUT header",
+        "Additional waveform output pin headers",
+        "50 kΩ adjustable potentiometer"
+      ],
+      "accessories": [],
+      "notes": "Actual assembled PCB marked 'NE555多路波形发生器' (NE555 multiple waveform generator), 'TJ-56-133', NE555P DIP, 50K trimmer, power GND/VCC, GND/OUT and waveform icon outputs. Icons depict various waveforms; amplitude, frequencies and waveform quality not measured. No power test. Not an oscilloscope.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-063"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0075",
+      "category": "microcontroller_board",
+      "name": "ESP32-WROOM-32 development board",
+      "manufacturer": "Espressif (ESP32 module; dev-board vendor unknown)",
+      "model": "ESP32-WROOM-32",
+      "variant": "Black ESP32 DevKit / NodeMCU-style board, USB Micro-B, BOOT and EN buttons",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-064"
+      ],
+      "connectivity": [
+        "2.4 GHz Wi-Fi / Bluetooth (ESP32-WROOM-32 family)"
+      ],
+      "interfaces": [
+        "USB Micro-B",
+        "BOOT button",
+        "EN/reset button",
+        "Edge pinhole GPIO positions"
+      ],
+      "accessories": [],
+      "notes": "One ESP32 development PCB with metallic ESP-WROOM-32 shield, micro-USB connector, BOOT and EN buttons, labeled header positions 3V3/GND/D15/D2 etc. GPIO header pins are not populated or show only bare holes in photo. Exact carrier manufacturer, SKU and board revision not established; avoid claiming precise 'DevKit V1' vendor. Operational status untested.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-064"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0076",
+      "category": "expansion_board",
+      "name": "Raspberry Pi 40-pin GPIO T-cobbler breakout adapter",
+      "manufacturer": null,
+      "model": null,
+      "variant": "Red board labeled 'GPIO Extension Board' with 2 × 20 IDC socket and GPIO silk labels",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-065"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "2 × 20 IDC-style female ribbon connector",
+        "Labeled breakout pads / pin headers"
+      ],
+      "accessories": [],
+      "notes": "One red Pi-style 40-pin GPIO extension/breakout 'T' adapter board in clear bag, grey two-row IDC ribbon socket at top, breakout pads/through holes and GPIO/3V3/5V/GND labels. Raspberry Pi pinout mapping inferred from silkscreen, but exact model and whether ribbon cable included are unknown. Do not count as an additional Raspberry Pi computer or an attached 40-pin cable. No connection test.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-065"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0077",
+      "category": "accessory",
+      "name": "Smraza Raspberry Pi 4 Model B case kit",
+      "manufacturer": "Smraza",
+      "model": null,
+      "variant": "Black case parts and mounting hardware with installation guide; no Raspberry Pi PCB present",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-066"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Raspberry Pi 4-compatible cutouts / mounting parts"
+      ],
+      "accessories": [],
+      "notes": "One opened Smraza 'Raspberry Pi 4 Model B Case' carton. Physical black case panel(s), fittings / bagged screws and illustrated installation guide visible. **No Raspberry Pi board is shown in the box; inventory this as an empty case kit, not another Pi 4.** Fan, heatsinks and completeness are not individually verified (guide illustrates heatsinks). Distinct from previously recorded empty Pi cases.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-066"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0078",
+      "category": "expansion_board",
+      "name": "DIYmall BBC micro:bit expansion board / edge connector breakout",
+      "manufacturer": "DIYmall",
+      "model": null,
+      "variant": "Black board with micro:bit card-edge socket, 3-row color-coded GPIO headers and external connectors",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-067"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "micro:bit card-edge receptacle",
+        "Color-coded GPIO breakout rows",
+        "Micro-USB socket",
+        "External supply connector",
+        "Pushbutton"
+      ],
+      "accessories": [],
+      "notes": "One physical black BBC micro:bit breakout / extension board in front of ESD bag with seller label 'DIYmall microbit Ex... Graphic Programming'. Actual PCB has black horizontal micro:bit edge connector, GPIO labels 0–20, analog and serial labels, red/yellow/black multicolor 3-row GPIO pins, external power connector, USB micro port, blue tactile pushbutton, and additional components. Exact commercial model and pin-voltage compatibility not independently validated; no micro:bit board inserted. Do not count this as another owned micro:bit computer.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-067"
+      },
+      "updated_on": "2026-11-22"
     }
   ]
 }

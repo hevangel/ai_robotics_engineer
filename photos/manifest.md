@@ -1,6 +1,6 @@
 # Photo evidence index
 
-**Last updated:** 2026-11-22. **Photos logged: 59.** This file indexes the actual photographs received in the ChatGPT conversation, but **does not contain the JPG images**. Original image assets have not been copied to GitHub. The canonical relationship between photo IDs and hardware IDs is in [the JSON intake log](../intake/photos.json).
+**Last updated:** 2026-11-22. **Photos logged: 67.** This file indexes the actual photographs received in the ChatGPT conversation, but **does not contain the JPG images**. Original image assets have not been copied to GitHub. The canonical relationship between photo IDs and hardware IDs is in [the JSON intake log](../intake/photos.json).
 
 | Photo ID | Conversation image filename | Related hardware ID(s) | Description |
 | --- | --- | --- | --- |
@@ -72,9 +72,18 @@
 
 **Owner-confirmed without a separate close-up:** HW-0069 is the third micro:bit inside HW-0057; HW-0070 is the installed Zynq-7020 FPGA board inside/on HW-0068. Their parent photos do not directly establish board markings.
 
+| `P-20261122-060` | `1000063199.jpg` | `HW-0071` | Raspberry Pi Pico W |
+| `P-20261122-061` | `1000063198.jpg` | `HW-0072` | FTDI FT2232H Mini Module |
+| `P-20261122-062` | `1000063197.jpg` | `HW-0073` | Raspberry Pi Zero 2 W |
+| `P-20261122-063` | `1000063196.jpg` | `HW-0074` | NE555 multifunction waveform generator module |
+| `P-20261122-064` | `1000063195.jpg` | `HW-0075` | ESP32-WROOM-32 development board |
+| `P-20261122-065` | `1000063194.jpg` | `HW-0076` | Raspberry Pi 40-pin GPIO T-cobbler breakout adapter |
+| `P-20261122-066` | `1000063193.jpg` | `HW-0077` | Smraza Raspberry Pi 4 Model B case kit |
+| `P-20261122-067` | `1000063192.jpg` | `HW-0078` | DIYmall BBC micro:bit expansion board / edge connector breakout |
+
 ## Batch notes
 
-[Batch 001](../inventory/batches/2026-11-22-001.md) · [Batch 002](../inventory/batches/2026-11-22-002.md) · [Batch 003](../inventory/batches/2026-11-22-003.md) · [Batch 004](../inventory/batches/2026-11-22-004.md) · [Batch 005](../inventory/batches/2026-11-22-005.md) · [Batch 006](../inventory/batches/2026-11-22-006.md) · [Batch 007](../inventory/batches/2026-11-22-007.md) · [Batch 008](../inventory/batches/2026-11-22-008.md) · [Batch 009](../inventory/batches/2026-11-22-009.md) · [Batch 010](../inventory/batches/2026-11-22-010.md)
+[Batch 001](../inventory/batches/2026-11-22-001.md) · [Batch 002](../inventory/batches/2026-11-22-002.md) · [Batch 003](../inventory/batches/2026-11-22-003.md) · [Batch 004](../inventory/batches/2026-11-22-004.md) · [Batch 005](../inventory/batches/2026-11-22-005.md) · [Batch 006](../inventory/batches/2026-11-22-006.md) · [Batch 007](../inventory/batches/2026-11-22-007.md) · [Batch 008](../inventory/batches/2026-11-22-008.md) · [Batch 009](../inventory/batches/2026-11-22-009.md) · [Batch 010](../inventory/batches/2026-11-22-010.md) · [Batch 011](../inventory/batches/2026-11-22-011.md)
 
 ## Next action to make the catalog self-contained
 

@@ -716,6 +716,102 @@
         "HW-0068"
       ],
       "notes": "Owner confirms Zynq-7020 FPGA daughterboard HW-0070 installed; direct module marking not in photo. Original image binaries not yet transferred to GitHub."
+    },
+    {
+      "id": "P-20261122-060",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Uploaded photo 1000063199.jpg: Raspberry Pi Pico W (Pico W), physically visible one unit.",
+      "item_ids": [
+        "HW-0071"
+      ],
+      "notes": "Evidence is direct photograph. Photo: 1000063199.jpg. Physical Raspberry Pi Pico W board clearly marked 2022 and BOOTSEL, USB port, RP2040 controller, RF-shielded wireless module, castellated GPIO edges and debug socket. The W model is confirmed by RF shield and PCB layout. Unused status unknown; no power-on verification. Original JPG remains conversation upload and is not stored in GitHub."
+    },
+    {
+      "id": "P-20261122-061",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Uploaded photo 1000063198.jpg: FTDI FT2232H Mini Module (FT2232H Mini Module), physically visible one unit.",
+      "item_ids": [
+        "HW-0072"
+      ],
+      "notes": "Evidence is direct photograph. Photo: 1000063198.jpg. Physical FT2232H Mini Module with PCB marked FT2232H Mini Module Rev 1.1, USB Mini-B connector, dual side breakout contacts, FTDI chip, and partially soldered test/connector pin points. USB dual-channel interface / serial-FIFO/JTAG-style adapter; actual enabled modes depend on ho Original JPG remains conversation upload and is not stored in GitHub."
+    },
+    {
+      "id": "P-20261122-062",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Uploaded photo 1000063197.jpg: Raspberry Pi Zero 2 W (Zero 2 W), physically visible one unit.",
+      "item_ids": [
+        "HW-0073"
+      ],
+      "notes": "Evidence is direct photograph. Photo: 1000063197.jpg. Actual Raspberry Pi Zero 2 W board, evidenced by RP3A0-AU system-in-package and Zero 2 layout; visible microSD slot, mini HDMI, two Micro-USB ports, CSI camera connector and 40-pin unpopulated GPIO footprint. RAM is onboard the module but not individually measured; usual manufact Original JPG remains conversation upload and is not stored in GitHub."
+    },
+    {
+      "id": "P-20261122-063",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Uploaded photo 1000063196.jpg: NE555 multifunction waveform generator module (TJ-56-133 (PCB marking)), physically visible one unit.",
+      "item_ids": [
+        "HW-0074"
+      ],
+      "notes": "Evidence is direct photograph. Photo: 1000063196.jpg. Actual assembled PCB marked 'NE555多路波形发生器' (NE555 multiple waveform generator), 'TJ-56-133', NE555P DIP, 50K trimmer, power GND/VCC, GND/OUT and waveform icon outputs. Icons depict various waveforms; amplitude, frequencies and waveform quality not measured. No power test. Not an  Original JPG remains conversation upload and is not stored in GitHub."
+    },
+    {
+      "id": "P-20261122-064",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Uploaded photo 1000063195.jpg: ESP32-WROOM-32 development board (ESP32-WROOM-32), physically visible one unit.",
+      "item_ids": [
+        "HW-0075"
+      ],
+      "notes": "Evidence is direct photograph. Photo: 1000063195.jpg. One ESP32 development PCB with metallic ESP-WROOM-32 shield, micro-USB connector, BOOT and EN buttons, labeled header positions 3V3/GND/D15/D2 etc. GPIO header pins are not populated or show only bare holes in photo. Exact carrier manufacturer, SKU and board revision not establis Original JPG remains conversation upload and is not stored in GitHub."
+    },
+    {
+      "id": "P-20261122-065",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Uploaded photo 1000063194.jpg: Raspberry Pi 40-pin GPIO T-cobbler breakout adapter (model unspecified), physically visible one unit.",
+      "item_ids": [
+        "HW-0076"
+      ],
+      "notes": "Evidence is direct photograph. Photo: 1000063194.jpg. One red Pi-style 40-pin GPIO extension/breakout 'T' adapter board in clear bag, grey two-row IDC ribbon socket at top, breakout pads/through holes and GPIO/3V3/5V/GND labels. Raspberry Pi pinout mapping inferred from silkscreen, but exact model and whether ribbon cable included a Original JPG remains conversation upload and is not stored in GitHub."
+    },
+    {
+      "id": "P-20261122-066",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Uploaded photo 1000063193.jpg: Smraza Raspberry Pi 4 Model B case kit (model unspecified), physically visible one unit.",
+      "item_ids": [
+        "HW-0077"
+      ],
+      "notes": "Evidence is direct photograph. Photo: 1000063193.jpg. One opened Smraza 'Raspberry Pi 4 Model B Case' carton. Physical black case panel(s), fittings / bagged screws and illustrated installation guide visible. **No Raspberry Pi board is shown in the box; inventory this as an empty case kit, not another Pi 4.** Fan, heatsinks and comp Original JPG remains conversation upload and is not stored in GitHub."
+    },
+    {
+      "id": "P-20261122-067",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Uploaded photo 1000063192.jpg: DIYmall BBC micro:bit expansion board / edge connector breakout (model unspecified), physically visible one unit.",
+      "item_ids": [
+        "HW-0078"
+      ],
+      "notes": "Evidence is direct photograph. Photo: 1000063192.jpg. One physical black BBC micro:bit breakout / extension board in front of ESD bag with seller label 'DIYmall microbit Ex... Graphic Programming'. Actual PCB has black horizontal micro:bit edge connector, GPIO labels 0–20, analog and serial labels, red/yellow/black multicolor 3-row  Original JPG remains conversation upload and is not stored in GitHub."
     }
   ]
 }
