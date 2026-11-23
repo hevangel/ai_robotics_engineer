@@ -1,6 +1,6 @@
 # Photo evidence index
 
-**Last updated:** 2026-11-22. **Photos logged: 42.** This file indexes the actual photographs received in the ChatGPT conversation, but **does not contain the JPG images**. Original image assets have not been copied to GitHub. The canonical relationship between photo IDs and hardware IDs is in [the JSON intake log](../intake/photos.json).
+**Last updated:** 2026-11-22. **Photos logged: 49.** This file indexes the actual photographs received in the ChatGPT conversation, but **does not contain the JPG images**. Original image assets have not been copied to GitHub. The canonical relationship between photo IDs and hardware IDs is in [the JSON intake log](../intake/photos.json).
 
 | Photo ID | Conversation image filename | Related hardware ID(s) | Description |
 | --- | --- | --- | --- |
@@ -51,9 +51,17 @@
 | `P-20261122-041` | `1000063173.jpg` | `HW-0048` | Retail box labeled WIRELESS MICROPHONE with 2.4G mark; product images show dual clip-on mics and receiver with mobile connectors |
 | `P-20261122-042` | `1000063174.jpg` | `HW-0049` | ATUVOS retail box with four tracker illustrations and Apple Find My compatible mark, plus button-cell hazard warning |
 
+| `P-20261122-043` | `1000063181.jpg` | `HW-0050` | Desk-edge steel screw C-clamp with T-bar knob, adjustment joint and clamp pad |
+| `P-20261122-044` | `1000063180.jpg` | `HW-0050` | Gooseneck magnifying lens with articulated metal helping-hands clips and black mount |
+| `P-20261122-045` | `1000063179.jpg` | `HW-0051` | Kester HI-TECH ELECTRONIC rosin-core solder tube labeled 60% tin 40% lead, 0.040 in/1mm |
+| `P-20261122-046` | `1000063178.jpg` | `HW-0052` | MG Chemicals spool labeled 4884-227G Sn63/Pb37, RA flux, 23 gauge, 0.025 in, 2.2% flux, nominal 1/2 lb |
+| `P-20261122-047` | `1000063177.jpg` | `HW-0053` | Blue and yellow Hakko soldering station with digital display, UP/ENTER buttons, iron, holder and brass wool |
+| `P-20261122-048` | `1000063176.jpg` | `HW-0054` | Husky 38-PC STUBBY SOCKET SET retail/storage case with ratchet and sockets visible |
+| `P-20261122-049` | `1000063175.jpg` | `HW-0055`, `HW-0056` | Two separate crimping tools in black/blue zip case: HSC8 6-6 ferrule crimper and blue-handled ratchet terminal crimper with bagged accessories |
+
 ## Batch notes
 
-[Batch 001](../inventory/batches/2026-11-22-001.md) · [Batch 002](../inventory/batches/2026-11-22-002.md) · [Batch 003](../inventory/batches/2026-11-22-003.md) · [Batch 004](../inventory/batches/2026-11-22-004.md) · [Batch 005](../inventory/batches/2026-11-22-005.md) · [Batch 006](../inventory/batches/2026-11-22-006.md) · [Batch 007](../inventory/batches/2026-11-22-007.md) · [Batch 008](../inventory/batches/2026-11-22-008.md)
+[Batch 001](../inventory/batches/2026-11-22-001.md) · [Batch 002](../inventory/batches/2026-11-22-002.md) · [Batch 003](../inventory/batches/2026-11-22-003.md) · [Batch 004](../inventory/batches/2026-11-22-004.md) · [Batch 005](../inventory/batches/2026-11-22-005.md) · [Batch 006](../inventory/batches/2026-11-22-006.md) · [Batch 007](../inventory/batches/2026-11-22-007.md) · [Batch 008](../inventory/batches/2026-11-22-008.md) · [Batch 009](../inventory/batches/2026-11-22-009.md)
 
 ## Next action to make the catalog self-contained
 

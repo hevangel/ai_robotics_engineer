@@ -2,16 +2,32 @@
 
 ## Status at a glance
 
-- **Inventory records:** 49 distinct hardware item/lot records
-- **Records associated with photographs:** 43
-- **Photo-verified / owner-confirmed visible hardware:** 31
+- **Inventory records:** 56 distinct hardware item/lot records
+- **Records associated with photographs:** 50
+- **Photo-verified / owner-confirmed visible hardware:** 38
 - **Photo-supported but packaging only / tentative:** 12
 - **Previously reported, not yet photographed:** 6
-- **Photo intake records:** 42
+- **Photo intake records:** 49
 
 These are **record and photo counts**, not counts of verified working devices. A photographed retail box does not establish that electronic contents are present unless separately confirmed.
 
-## Latest batch — 008 (3 photos)
+## Latest batch — 009 (7 photos)
+
+| ID | Item | Quantity | Evidence |
+| --- | --- | --- | --- |
+| HW-0050 | Clamp-mounted helping hands/magnifier | 1 assembly | Two photos of likely same workstation; exact association tentative |
+| HW-0051 | Kester Sn60/Pb40 rosin-core solder, 1 mm | 1 tube | Leaded solder; remaining amount unknown |
+| HW-0052 | MG Chemicals 4884-227G Sn63/Pb37, 23 AWG | 1 spool | RA flux 2.2%, labeled 1/2 lb (original nominal quantity) |
+| HW-0053 | Hakko digital soldering station | 1 station | FX-888D probable; iron and stand visible |
+| HW-0054 | Husky 38-piece stubby socket set | 1 kit | Contents not individually audited |
+| HW-0055 | HSC8 6-6 ferrule crimper | 1 tool | Independently usable crimping tool |
+| HW-0056 | Blue-handled ratcheting terminal crimper | 1 tool kit | Shares carrying case with HW-0055, bagged accessories |
+
+The clamp and magnifier are *provisionally* one assembly (HW-0050). The final image contains **two different crimping tools**, each with its own record. Both Kester and MG Chemicals solder contain lead, with different Sn/Pb ratios. The Hakko model is only **probably** FX-888D, awaiting nameplate verification.
+
+[Batch 009 evidence](batches/2026-11-22-009.md)
+
+## Earlier batch — 008 (3 photos)
 
 | ID | Item | Quantity | Evidence |
 | --- | --- | --- | --- |

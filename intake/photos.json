@@ -509,6 +509,91 @@
         "HW-0049"
       ],
       "notes": "Box only; advertised/illustrated four trackers not verified physically present. Original JPG remains a chat upload and is not stored in the repository."
+    },
+    {
+      "id": "P-20261122-043",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Uploaded photo 1000063181.jpg: Desk-edge steel screw C-clamp with T-bar knob, adjustment joint and clamp pad.",
+      "item_ids": [
+        "HW-0050"
+      ],
+      "notes": "First of two likely views/components of one helping-hands magnifier assembly; actual association needs verification. Original JPG not committed to GitHub; chat upload only."
+    },
+    {
+      "id": "P-20261122-044",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Uploaded photo 1000063180.jpg: Gooseneck magnifying lens with articulated metal helping-hands clips and black mount.",
+      "item_ids": [
+        "HW-0050"
+      ],
+      "notes": "Second view of presumed clamp-mounted same assembly. One magnifier and articulated clips visible. Original JPG not committed to GitHub; chat upload only."
+    },
+    {
+      "id": "P-20261122-045",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Uploaded photo 1000063179.jpg: Kester HI-TECH ELECTRONIC rosin-core solder tube labeled 60% tin 40% lead, 0.040 in/1mm.",
+      "item_ids": [
+        "HW-0051"
+      ],
+      "notes": "One tube; remaining solder amount not measured. Original JPG not committed to GitHub; chat upload only."
+    },
+    {
+      "id": "P-20261122-046",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Uploaded photo 1000063178.jpg: MG Chemicals spool labeled 4884-227G Sn63/Pb37, RA flux, 23 gauge, 0.025 in, 2.2% flux, nominal 1/2 lb.",
+      "item_ids": [
+        "HW-0052"
+      ],
+      "notes": "One spool of leaded solder, not a flux pen. Actual remaining weight not measured. Original JPG not committed to GitHub; chat upload only."
+    },
+    {
+      "id": "P-20261122-047",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Uploaded photo 1000063177.jpg: Blue and yellow Hakko soldering station with digital display, UP/ENTER buttons, iron, holder and brass wool.",
+      "item_ids": [
+        "HW-0053"
+      ],
+      "notes": "Looks like FX-888D, exact model on product label not conclusively visible. Untested. Original JPG not committed to GitHub; chat upload only."
+    },
+    {
+      "id": "P-20261122-048",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Uploaded photo 1000063176.jpg: Husky 38-PC STUBBY SOCKET SET retail/storage case with ratchet and sockets visible.",
+      "item_ids": [
+        "HW-0054"
+      ],
+      "notes": "Packaged item, advertised 38 pieces not individually counted. Original JPG not committed to GitHub; chat upload only."
+    },
+    {
+      "id": "P-20261122-049",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Uploaded photo 1000063175.jpg: Two separate crimping tools in black/blue zip case: HSC8 6-6 ferrule crimper and blue-handled ratchet terminal crimper with bagged accessories.",
+      "item_ids": [
+        "HW-0055",
+        "HW-0056"
+      ],
+      "notes": "Two physical crimpers share one image and carrying case; not duplicates. Original JPG not committed to GitHub; chat upload only."
     }
   ]
 }

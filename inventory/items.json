@@ -1355,6 +1355,221 @@
         "reference": "P-20261122-042"
       },
       "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0050",
+      "category": "tool",
+      "name": "Clamp-on helping-hands magnifier with adjustable arms",
+      "manufacturer": null,
+      "model": null,
+      "variant": "Desk-clamp-mounted magnifying work holder / third-hand soldering aid",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-043",
+        "P-20261122-044"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Screw-adjusted desk-edge C-clamp",
+        "Flexible gooseneck magnifier",
+        "Articulating helping-hand workpiece clips"
+      ],
+      "accessories": [
+        "Black clamp mounting base",
+        "Magnifier lens",
+        "Two apparent articulated clip arms"
+      ],
+      "notes": "Two adjacent photos appear to depict the base C-clamp and upper working assembly of a single clamp-mounted helping-hands magnifier. Photo 043 shows the steel screw C-clamp, circular pressure pad, sliding black clamping body and a lower adjustment knob gripping a desk edge; photo 044 shows a gooseneck magnifying lens and jointed metal helping-hand arms with alligator-style workpiece clips attached to a black mounting piece. These are provisionally one assembly, not separate tools, because likely complementary parts; verify whether the C-clamp and gooseneck/arms belong to the same stand if rearranged. Exact manufacturer, magnification and clamp capacity unknown. Untested.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-043; P-20261122-044"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0051",
+      "category": "electronics_material",
+      "name": "Kester 60/40 rosin-core solder, 0.040 in (1 mm)",
+      "manufacturer": "Kester",
+      "model": null,
+      "variant": "Leaded Sn60/Pb40 hi-tech electronic rosin-core solder, plastic tube",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-045"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "0.040 in (1 mm) rosin-core solder wire"
+      ],
+      "accessories": [
+        "Plastic storage/dispenser tube"
+      ],
+      "notes": "One small transparent Kester dispensing tube with gold label reading 'HI-TECH ELECTRONIC Rosin Core Solder', 'For Electronic Repair', '60% TIN/40% LEAD', and 'Dia. .040 1mm'. The remaining wire quantity, exact flux percentage and lot/part number are not established. Lead-containing solder: avoid eating near use, wash hands after handling, and use adequate solder-fume ventilation. Not the same as the MG Chemicals 63/37 spool HW-0052.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-045"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0052",
+      "category": "electronics_material",
+      "name": "MG Chemicals 4884-227G Sn63/Pb37 solder spool",
+      "manufacturer": "MG Chemicals",
+      "model": "4884-227G",
+      "variant": "Sn63/Pb37 leaded solder, 23 AWG (0.025 in), RA 2.2% flux, labeled 1/2 lb",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-046"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "23 AWG (0.025 in) solder wire"
+      ],
+      "accessories": [
+        "Plastic spool"
+      ],
+      "notes": "One spool with label 'MG Chemicals', 'Sn63/Pb37', 'RA Flux', '0.025 Diam.', '23 Gauge', '2.2% Flux', 'SOLDER', and 'Cat. No. 4884-227G (1/2 lb)'. These are manufacturer's printed product specification/nominal spool weight, NOT a measurement of remaining solder. Lead-containing product: wash hands after handling and use adequate ventilation during soldering. Not a duplicate of Kester Sn60/Pb40 solder HW-0051 or MG Chemicals 835-P rosin flux pen HW-0045.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-046"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0053",
+      "category": "tool",
+      "name": "Hakko digital temperature-controlled soldering station",
+      "manufacturer": "Hakko",
+      "model": "FX-888D (probable, verify rear label)",
+      "variant": "Blue/yellow digital soldering station with UP and ENTER buttons",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-047"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Small digital display",
+        "UP and ENTER controls",
+        "Connected soldering iron"
+      ],
+      "accessories": [
+        "Yellow-gripped soldering handpiece",
+        "Blue iron holder/stand",
+        "Brass cleaning wool",
+        "Cables"
+      ],
+      "notes": "One blue-and-yellow HAKKO-branded electronic soldering station in a plastic storage container, with small LCD readout, UP and ENTER buttons, yellow-handled soldering iron, blue iron holder/stand containing brass tip-cleaning wool, and power/iron cables. Design is consistent with Hakko FX-888D, but the exact model marking in this photo is not completely legible; verify underside/rear product label. Iron and stand are included components of this ONE workstation record, not separately counted. No powered operation or calibration performed.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-047"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0054",
+      "category": "tool",
+      "name": "Husky 38-piece stubby socket set",
+      "manufacturer": "Husky",
+      "model": null,
+      "variant": "38-piece stubby ratchet and sockets, retail/storage case",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-048"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [
+        "Stubby ratchet handle",
+        "Multiple sockets/driver bits",
+        "Red-edged clear storage case"
+      ],
+      "notes": "One red-edged clear-lid Husky kit prominently labeled '38-PC STUBBY SOCKET SET' with stubby ratchet, sockets and bits visible through the case. The label advertises 38 pieces; each separate socket count and whether the complete contents are still present have not been audited. Product/package code partly visible but not confidently transcribed. Count one toolkit/set, not 38 independent new inventory records.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-048"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0055",
+      "category": "tool",
+      "name": "HSC8 6-6 ratcheting ferrule crimping tool",
+      "manufacturer": null,
+      "model": "HSC8 6-6",
+      "variant": "Ferrule/end-sleeve crimper, black handgrips",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-049"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Ferrule crimping jaw / mechanism"
+      ],
+      "accessories": [
+        "Stored in same case as HW-0056"
+      ],
+      "notes": "One physically visible ferrule crimper in a shared blue-and-black zippered toolkit. Metal marking on tool reads HSC8 6-6. The front crimp mechanism and black handles can be seen. Exact compatible conductor cross-section, die shape and wear status must be checked before use. Distinct from the separate blue-handled terminal crimper HW-0056 and automatic wire stripper/crimper HW-0034.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-049"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0056",
+      "category": "tool",
+      "name": "Blue-handled ratcheting terminal crimper with die accessories",
+      "manufacturer": null,
+      "model": null,
+      "variant": "Manual ratchet terminal/contact crimper in black-and-blue kit case",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-049"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Ratcheting crimping jaws",
+        "Blue/black handles"
+      ],
+      "accessories": [
+        "Zippered blue-and-black shared tool case",
+        "Small bagged connector/crimp accessories (count unknown)"
+      ],
+      "notes": "One blue-handled heavy ratcheting crimping tool clearly visible to the right of a different ferrule crimper HW-0055. Multiple small clear bags of connector terminals/interchangeable die-like metal accessories occupy the same zippered case. Exact crimp type, model, dies, crimp range, and number of accessories cannot be confirmed from this photo. Count one crimper kit with included small accessories, not a duplicate of HW-0055 or earlier wire stripper HW-0034. No working test.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-049"
+      },
+      "updated_on": "2026-11-22"
     }
   ]
 }
