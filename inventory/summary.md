@@ -2,18 +2,44 @@
 
 ## Status at a glance
 
-- **Inventory records:** 182 item/lot/component records (parent assemblies and installed components linked)
-- **Records associated with photographs:** 173
-- **Photo-verified / owner-confirmed hardware:** 147 (some enclosed items owner-confirmed; no working-status implied)
-- **Photo-supported / tentative identifications or packaging only:** 28
+- **Inventory records:** 193 item/lot/component records (parent assemblies and installed components linked)
+- **Records associated with photographs:** 184
+- **Photo-verified / owner-confirmed hardware:** 154 (some enclosed items owner-confirmed; no working-status implied)
+- **Photo-supported / tentative identifications or packaging only:** 32
 - **Previously reported, not yet photographed:** 7
-- **Photo intake records:** 152
+- **Photo intake records:** 158
 
 These are **record and photo counts**, not counts of verified working devices. A photographed retail box does not establish that electronic contents are present unless separately confirmed.
 
 - **Records lacking direct item photographs:** 9 (some contents independently confirmed by owner)
 
-## Latest batch — 023 (1 photograph, 13 item-type/organizer records; partial visibility)
+## Latest batch — 024 (6 photographs; 11 new records; exact DIP markings prioritized)
+
+| IDs | Item or lot | Quantity | Photo |
+| --- | --- | ---: | --- |
+| HW-0183 | Slotted optical interrupter / speed detector modules, 3-pin | 10 | `1000063299.jpg` |
+| HW-0184 | Dual-channel TX/RX logic-level interface boards (UART-style) | 2 | `1000063300.jpg` |
+| HW-0185 | Handheld 17-key infrared remote control (numeric and navigation) | 1 | `1000063304.jpg` |
+| HW-0186 | Three-pin infrared remote receiver breakout module with jumper leads | 1 | `1000063304.jpg` |
+| HW-0187 | 4N35 phototransistor optocouplers, DIP-6 white package | 2 | `1000063301.jpg` |
+| HW-0188 | Unidentified black 16-pin DIP integrated circuits, top foam | 2 | `1000063301.jpg` |
+| HW-0189 | Unidentified black DIP integrated circuit, lower foam horizontal | 1 | `1000063301.jpg` |
+| HW-0190 | Unidentified black DIP integrated circuit, lower foam vertical | 1 | `1000063301.jpg` |
+| HW-0191 | Unidentified small black 8-pin DIP integrated circuit, lower foam | 1 | `1000063301.jpg` |
+| HW-0192 | MAX7219CNG LED-matrix driver integrated circuits in two storage tubes | Unknown (2 tubes) | `1000063303.jpg` |
+| HW-0193 | Texas Instruments SN74HC595N 8-bit shift register ICs, DIP-16 | 10 | `1000063302.jpg` |
+
+**Definite part markings:** Ten TI `SN74HC595N` DIP-16 shift registers (HW-0193); two `4N35` optocouplers (HW-0187); and `MAX7219CNG` DIP-24 display-driver chips in two plastic tubes (HW-0192). The exact MAX7219 chip count remains **unknown** because the two tubes conceal/overlap individual chips, so the quantity is null, not two.
+
+**Five unreadable black DIP chips:** two upper-foam ICs (HW-0188), one lower horizontal (HW-0189), one lower long/vertical (HW-0190), and one small DIP-8 (HW-0191). These markings need an improved photo. No speculative chip IDs were entered.
+
+**Other photographic hardware:** ten 3-pin optical slotted modules (HW-0183), two UART-style TX/RX level interface boards (HW-0184), one IR remote (HW-0185), one IR receiver board with adjacent jumper lead accessories (HW-0186).
+
+**Deduplication and caveats:** Loose `MAX7219CNG` chips are not the previously inventoried assembled HW-0132 MAX7219 LED matrix board; loose jumper leads accompanying the IR receiver are accessories rather than another generic jumper-wire lot. No working condition claimed. Photos remain conversation attachments; no binary photo copies uploaded.
+
+[Batch 024 detailed audit](batches/2026-11-22-024.md).
+
+## Earlier batch — 023 (1 photograph, 13 item-type/organizer records; partial visibility)
 
 Photo: `1000063298.jpg`. One clear divided hardware organizer with numerous discrete components, plus partly cropped compartments on top and right.
 
