@@ -6823,6 +6823,259 @@
         "reference": "P-20261123-012"
       },
       "updated_on": "2026-11-23"
+    },
+    {
+      "id": "HW-0250",
+      "category": "accessory",
+      "name": "StarTech DisplayPort to DVI video adapter (DP2DVI2)",
+      "manufacturer": "StarTech.com",
+      "model": "DP2DVI2",
+      "variant": "One black short-cable adapter: DisplayPort male plug to a DVI female body labelled 'StarTech.com DisplayPort to DVI Video Adapter DP2DVI2' with CE/FC/RoHS marks and a 'Scan for specs' QR code",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261123-015"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "DisplayPort male",
+        "DVI female"
+      ],
+      "accessories": [],
+      "notes": "One adapter in 1000063412.jpg; label fully legible. Working condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261123-015"
+      },
+      "updated_on": "2026-11-23"
+    },
+    {
+      "id": "HW-0251",
+      "category": "accessory",
+      "name": "Fosmon Mini DisplayPort to HDMI adapter cable",
+      "manufacturer": "Fosmon",
+      "model": null,
+      "variant": "One white short cable: Mini DisplayPort (Thunderbolt-style) male plug to an HDMI female housing printed 'Fosmon'",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261123-016"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Mini DisplayPort male",
+        "HDMI female"
+      ],
+      "accessories": [],
+      "notes": "One adapter in 1000063413.jpg; brand print legible. Working condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261123-016"
+      },
+      "updated_on": "2026-11-23"
+    },
+    {
+      "id": "HW-0252",
+      "category": "accessory",
+      "name": "DVI-I to VGA adapter dongle",
+      "manufacturer": null,
+      "model": null,
+      "variant": "One black passive dongle: DVI-I male (with the analog blade pins) to a VGA (DE-15) female port, thumbscrews on the VGA side, an embossed logo on the shell that is not legible",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261123-017"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "DVI-I male",
+        "VGA female"
+      ],
+      "accessories": [],
+      "notes": "One dongle in 1000063414.jpg. This passive type only works with DVI-I/analog outputs. Working condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261123-017"
+      },
+      "updated_on": "2026-11-23"
+    },
+    {
+      "id": "HW-0253",
+      "category": "accessory",
+      "name": "DisplayPort to DVI adapter cable (unbranded)",
+      "manufacturer": null,
+      "model": null,
+      "variant": "One black short-cable adapter: gold-plated DisplayPort male plug to a plain DVI female body with a small monitor icon; no brand or model printed",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261123-018"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "DisplayPort male",
+        "DVI female"
+      ],
+      "accessories": [],
+      "notes": "One adapter in 1000063415.jpg. Distinct from the StarTech HW-0250 and HP HW-0257 DP-to-DVI adapters. Working condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261123-018"
+      },
+      "updated_on": "2026-11-23"
+    },
+    {
+      "id": "HW-0254",
+      "category": "cable",
+      "name": "USB-C to DisplayPort cable",
+      "manufacturer": null,
+      "model": null,
+      "variant": "One black cable, still in its sleeve: USB-C male plug at one end and a full-size DisplayPort male housing (DP logo) at the other; the sleeve carries a QR sticker with packaging/recycling text ('Raccolta Plastica') and codes, no brand or length marking legible",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261123-019"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "USB-C male",
+        "DisplayPort male"
+      ],
+      "accessories": [],
+      "notes": "One cable in 1000063416.jpg. A USB-C (DisplayPort alt-mode) to DisplayPort monitor cable; length not measurable while sleeved and not recorded. Working condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261123-019"
+      },
+      "updated_on": "2026-11-23"
+    },
+    {
+      "id": "HW-0255",
+      "category": "accessory",
+      "name": "VGA to S-Video and composite video breakout cable",
+      "manufacturer": null,
+      "model": null,
+      "variant": "One black breakout cable: a VGA (DE-15) male plug splitting to two tails labelled 'VIDEO OUT' - one S-Video (mini-DIN) female and one yellow composite RCA female",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261123-020"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "VGA male",
+        "S-Video female",
+        "Composite RCA female"
+      ],
+      "accessories": [],
+      "notes": "One cable in 1000063417.jpg. This passive breakout only produces TV-out signals from VGA ports that support them. Working condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261123-020"
+      },
+      "updated_on": "2026-11-23"
+    },
+    {
+      "id": "HW-0256",
+      "category": "accessory",
+      "name": "Mini DisplayPort to HDMI adapter cable (Microsoft)",
+      "manufacturer": "Microsoft (embossed, faint)",
+      "model": null,
+      "variant": "One black short cable: Mini DisplayPort male plug (gold) to an HDMI female housing with faint embossed branding that reads 'Microsoft'",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261123-021"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Mini DisplayPort male",
+        "HDMI female"
+      ],
+      "accessories": [],
+      "notes": "One adapter in 1000063418.jpg. The connector types are unambiguous; the embossed brand is faint, so the Microsoft attribution is medium confidence (the form matches Microsoft's Surface Mini DisplayPort to HDMI adapter). Working condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261123-021"
+      },
+      "updated_on": "2026-11-23"
+    },
+    {
+      "id": "HW-0257",
+      "category": "accessory",
+      "name": "HP DisplayPort to DVI adapter cable",
+      "manufacturer": "HP",
+      "model": null,
+      "variant": "One black short-cable adapter: DisplayPort male plug to a DVI female body with an embossed HP logo; the cable label reads 'BizLink' and 'Made in China'",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261123-022"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "DisplayPort male",
+        "DVI female"
+      ],
+      "accessories": [],
+      "notes": "One adapter in 1000063419.jpg; HP logo legible on the housing. Distinct from HW-0250 (StarTech) and HW-0253 (unbranded). Working condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261123-022"
+      },
+      "updated_on": "2026-11-23"
+    },
+    {
+      "id": "HW-0258",
+      "category": "interface_module",
+      "name": "USB HDMI video capture dongle",
+      "manufacturer": null,
+      "model": null,
+      "variant": "One black USB stick printed 'HDMI Video Capture' and 'HIGH-DEFINITION MULTIMEDIA INTERFACE', with 'Input' at the HDMI end and 'Output' at the USB-A plug end",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261123-023"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "HDMI input",
+        "USB-A output (UVC capture)"
+      ],
+      "accessories": [],
+      "notes": "One dongle in 1000063420.jpg. The generic MS2109-class USB capture stick sold under many names; no brand is printed. Capture resolution/firmware not tested; working condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261123-023"
+      },
+      "updated_on": "2026-11-23"
     }
   ]
 }

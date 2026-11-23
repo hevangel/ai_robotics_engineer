@@ -2794,6 +2794,114 @@
         "HW-0246"
       ],
       "notes": "Close-up of one bag from the HW-0246 lot. Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261123-015",
+      "captured_on": "2026-11-23",
+      "processed_on": "2026-11-23",
+      "file": "photos/2026/11/P-20261123-015.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 040: 1000063412.jpg (EXIF date 2026-11-23). StarTech DP2DVI2 DisplayPort-to-DVI adapter, label legible.",
+      "item_ids": [
+        "HW-0250"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261123-016",
+      "captured_on": "2026-11-23",
+      "processed_on": "2026-11-23",
+      "file": "photos/2026/11/P-20261123-016.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 040: 1000063413.jpg (EXIF date 2026-11-23). White Fosmon Mini DisplayPort-to-HDMI adapter cable.",
+      "item_ids": [
+        "HW-0251"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261123-017",
+      "captured_on": "2026-11-23",
+      "processed_on": "2026-11-23",
+      "file": "photos/2026/11/P-20261123-017.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 040: 1000063414.jpg (EXIF date 2026-11-23). Black DVI-I male to VGA female passive adapter dongle.",
+      "item_ids": [
+        "HW-0252"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261123-018",
+      "captured_on": "2026-11-23",
+      "processed_on": "2026-11-23",
+      "file": "photos/2026/11/P-20261123-018.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 040: 1000063415.jpg (EXIF date 2026-11-23). Unbranded black DisplayPort-to-DVI adapter cable, gold DP plug.",
+      "item_ids": [
+        "HW-0253"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261123-019",
+      "captured_on": "2026-11-23",
+      "processed_on": "2026-11-23",
+      "file": "photos/2026/11/P-20261123-019.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 040: 1000063416.jpg (EXIF date 2026-11-23). USB-C to DisplayPort cable coiled in its sleeve with a QR sticker.",
+      "item_ids": [
+        "HW-0254"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261123-020",
+      "captured_on": "2026-11-23",
+      "processed_on": "2026-11-23",
+      "file": "photos/2026/11/P-20261123-020.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 040: 1000063417.jpg (EXIF date 2026-11-23). VGA male breakout cable to S-Video and yellow composite RCA tails labelled VIDEO OUT.",
+      "item_ids": [
+        "HW-0255"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261123-021",
+      "captured_on": "2026-11-23",
+      "processed_on": "2026-11-23",
+      "file": "photos/2026/11/P-20261123-021.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 040: 1000063418.jpg (EXIF date 2026-11-23). Black Mini DisplayPort-to-HDMI adapter cable, faint embossed branding on the HDMI housing.",
+      "item_ids": [
+        "HW-0256"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261123-022",
+      "captured_on": "2026-11-23",
+      "processed_on": "2026-11-23",
+      "file": "photos/2026/11/P-20261123-022.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 040: 1000063419.jpg (EXIF date 2026-11-23). HP DisplayPort-to-DVI adapter cable, HP logo on the DVI housing, BizLink cable label.",
+      "item_ids": [
+        "HW-0257"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261123-023",
+      "captured_on": "2026-11-23",
+      "processed_on": "2026-11-23",
+      "file": "photos/2026/11/P-20261123-023.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 040: 1000063420.jpg (EXIF date 2026-11-23). Black USB HDMI video capture dongle printed 'HDMI Video Capture', Input/Output ends marked.",
+      "item_ids": [
+        "HW-0258"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
     }
   ]
 }

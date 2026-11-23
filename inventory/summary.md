@@ -2,18 +2,36 @@
 
 ## Status at a glance
 
-- **Inventory records:** 247 item/lot/component records (parent assemblies and installed components linked)
-- **Records associated with photographs:** 242
-- **Photo-verified / owner-confirmed hardware:** 214 (some enclosed items owner-confirmed; no working-status implied)
+- **Inventory records:** 256 item/lot/component records (parent assemblies and installed components linked)
+- **Records associated with photographs:** 251
+- **Photo-verified / owner-confirmed hardware:** 223 (some enclosed items owner-confirmed; no working-status implied)
 - **Photo-supported / tentative identifications or packaging only:** 28
 - **Previously reported, not yet photographed:** 5
-- **Photo intake records:** 229
+- **Photo intake records:** 238
 
 These are **record and photo counts**, not counts of verified working devices. A photographed retail box does not establish that electronic contents are present unless separately confirmed.
 
 - **Records lacking direct item photographs:** 8 (some contents independently confirmed by owner; HW-0008 carries a labelled web reference image of its model, not a photo of the owner's unit)
 
-## Latest batch — 039 (9 photographs, 8 records filed, 6 net new after merges; prototyping boards and component stock)
+## Latest batch — 040 (9 photographs, 9 new records; display adapters and a capture dongle)
+
+| ID | Item | Quantity | Photo |
+| --- | --- | ---: | --- |
+| HW-0250 | StarTech DisplayPort to DVI video adapter (DP2DVI2) | 1 | `1000063412.jpg` |
+| HW-0251 | Fosmon Mini DisplayPort to HDMI adapter cable | 1 | `1000063413.jpg` |
+| HW-0252 | DVI-I to VGA adapter dongle | 1 | `1000063414.jpg` |
+| HW-0253 | DisplayPort to DVI adapter cable (unbranded) | 1 | `1000063415.jpg` |
+| HW-0254 | USB-C to DisplayPort cable | 1 | `1000063416.jpg` |
+| HW-0255 | VGA to S-Video and composite video breakout cable | 1 | `1000063417.jpg` |
+| HW-0256 | Mini DisplayPort to HDMI adapter cable (Microsoft) | 1 | `1000063418.jpg` |
+| HW-0257 | HP DisplayPort to DVI adapter cable | 1 | `1000063419.jpg` |
+| HW-0258 | USB HDMI video capture dongle | 1 | `1000063420.jpg` |
+
+**Confidence notes:** Labels and logos are legible on the StarTech (model DP2DVI2), Fosmon and HP adapters (high). Three separate DisplayPort-to-DVI adapters are filed as three records (StarTech, unbranded, HP) — different physical units. The Microsoft attribution on HW-0256 rests on faint embossed branding (medium for the brand; connector types certain). The USB-C to DP cable's sleeve codes are packaging marks, not a model, and its length is not recorded. No adapter is claimed tested/working. All nine photo binaries are stored in the repo (`photos/2026/11/`, EXIF stripped).
+
+[Batch 040 detail](batches/2026-11-23-040.md).
+
+## Earlier batch — 039 (9 photographs, 8 records filed, 6 net new after merges; prototyping boards and component stock)
 
 | ID | Item | Quantity | Photo |
 | --- | --- | ---: | --- |
