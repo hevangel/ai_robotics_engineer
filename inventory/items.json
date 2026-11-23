@@ -1917,11 +1917,13 @@
       "location": null,
       "verification_status": "photo_verified",
       "identification_confidence": "high",
-      "photo_ids": [],
+      "photo_ids": [
+        "P-20261122-059"
+      ],
       "connectivity": [],
       "interfaces": [],
       "accessories": [],
-      "notes": "Owner confirms the FPGA board installed on krtkl piSmasher HW-0068 is the 7020 version (Xilinx Zynq-7020 programmable-logic + Arm processing SoC). The precise krtkl daughterboard brand, SKU, board revision, RAM size and power-on status remain unverified. This is a CHILD component of HW-0068, not another standalone complete piSmasher. Associated assembly photo P-20261122-059 shows carrier; no direct close-up of daughterboard marking.",
+      "notes": "Owner confirms the FPGA board installed on krtkl piSmasher HW-0068 is the 7020 version (Xilinx Zynq-7020 programmable-logic + Arm processing SoC). The precise krtkl daughterboard brand, SKU, board revision, RAM size and power-on status remain unverified. This is a CHILD component of HW-0068, not another standalone complete piSmasher. Assembly photo P-20261122-059 (linked to this record on 2026-11-22 at the owner's decision) shows the module installed on the carrier; there is no direct close-up of the daughterboard marking.",
       "source": {
         "type": "user_report",
         "reference": "Owner corrections to inventory batch 010, 2026-11-22"

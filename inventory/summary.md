@@ -3,7 +3,7 @@
 ## Status at a glance
 
 - **Inventory records:** 220 item/lot/component records (parent assemblies and installed components linked)
-- **Records associated with photographs:** 211
+- **Records associated with photographs:** 212
 - **Photo-verified / owner-confirmed hardware:** 185 (some enclosed items owner-confirmed; no working-status implied)
 - **Photo-supported / tentative identifications or packaging only:** 28
 - **Previously reported, not yet photographed:** 7

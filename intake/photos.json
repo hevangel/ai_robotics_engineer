@@ -713,9 +713,10 @@
       "asset_status": "stored",
       "source_description": "Batch 010, image 10/10: krtkl piSmasher rev 4.1 carrier assembly. Original attachment filename not verified.",
       "item_ids": [
-        "HW-0068"
+        "HW-0068",
+        "HW-0070"
       ],
-      "notes": "Owner confirms Zynq-7020 FPGA daughterboard HW-0070 installed; direct module marking not in photo. Original image binaries not yet transferred to GitHub. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import."
+      "notes": "Owner confirms Zynq-7020 FPGA daughterboard HW-0070 installed; direct module marking not in photo. Original image binaries not yet transferred to GitHub. Binary imported and stored in the repo on 2026-11-22 from the owner-supplied import package (bundled importer script not used; import wired by hand); SHA-256 verified against the package map before import. On 2026-11-22 the owner decided to also link this assembly photo to the installed FPGA module record HW-0070, which is visible mounted on the carrier."
     },
     {
       "id": "P-20261122-060",
