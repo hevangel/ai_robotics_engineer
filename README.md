@@ -8,7 +8,7 @@ A photo-driven catalog for IoT hardware, Arduino-compatible boards, Raspberry Pi
 - **77** unique photographs inspected and logged
 - **81** catalog entries linked to photographs; **8** items lack a direct photo (including 2 owner-confirmed enclosed/installed components)
 - **Next available hardware ID: `HW-0090`**
-- **Latest update:** unbranded 3-button Bluetooth scrolling ring + charging case (D01 Pro-type, exact model unknown), Canon EOS 450D DSLR, Canon PowerShot S100, Canon Digital IXUS 700
+- **Latest update:** D01 3-button Bluetooth scrolling ring + charging case (model owner-confirmed; manufacturer unknown), Canon EOS 450D DSLR, Canon PowerShot S100, Canon Digital IXUS 700
 
 [Batch 001](inventory/batches/2026-11-22-001.md) · [Batch 002](inventory/batches/2026-11-22-002.md) · [Batch 003](inventory/batches/2026-11-22-003.md) · [Batch 004](inventory/batches/2026-11-22-004.md) · [Batch 005](inventory/batches/2026-11-22-005.md) · [Batch 006](inventory/batches/2026-11-22-006.md) · [Batch 007](inventory/batches/2026-11-22-007.md) · [Batch 008](inventory/batches/2026-11-22-008.md) · [Batch 009](inventory/batches/2026-11-22-009.md) · [Batch 010](inventory/batches/2026-11-22-010.md) · [Batch 011](inventory/batches/2026-11-22-011.md) · [Batch 012](inventory/batches/2026-11-22-012.md) · [Batch 013](inventory/batches/2026-11-22-013.md)
 

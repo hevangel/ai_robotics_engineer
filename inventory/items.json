@@ -2388,15 +2388,15 @@
     {
       "id": "HW-0086",
       "category": "controller",
-      "name": "Unbranded three-button Bluetooth scrolling ring with charging case",
+      "name": "D01 three-button Bluetooth scrolling ring with charging case",
       "manufacturer": "Unknown (AliExpress seller, unbranded)",
-      "model": "Unknown; D01 Pro / Xring 3-button family resemblance only",
+      "model": "D01",
       "variant": "Black wearable ring with three round buttons; matching open black square hinged charging/storage case",
       "quantity": 1,
       "condition": "unknown",
       "location": null,
       "verification_status": "photo_verified",
-      "identification_confidence": "medium",
+      "identification_confidence": "high",
       "photo_ids": [
         "P-20261122-074"
       ],
@@ -2408,10 +2408,11 @@
       "accessories": [
         "Square hinged charging case"
       ],
-      "notes": "Photographed in open black charging case with one black three-button wearable ring next to case. Owner reports purchased on AliExpress; model unknown. Comparable product families marketed as 'D01 Pro', 'Xring' and other generic three-button Bluetooth phone scrolling/ebook-page-turning/camera shutter ring remotes. A visually similar D01 Pro-style model is NOT definitive identity, do not claim exact manufacturer, chipset, Bluetooth pairing name, radio version or operating system functions until pairing or a rear sticker confirms. Similar reference: https://manuals.plus/asin/B0CT8YJF6Y ; comparable catalog image https://www.walmart.com/ip/18498073624 . This is DISTINCT from the existing five-button JX-05 ring HW-0046, which had a different control shape and its own packaging. To identify more exactly check Bluetooth device name in Android Settings while ring is discoverable (D01 Pro, JX-03, MOUSE or other).",
+      "notes": "Owner explicitly confirmed model is D01 on 2026-11-22, correcting earlier image-based D01 Pro-style guess. Physical device photographed in open black square hinged charging case: wearable black ring with three round control buttons, purchased from AliExpress. Manufacturer/brand unknown. Do not assume D01 Pro is the exact model or that its manual is fully interchangeable. Functions not tested and Bluetooth advertising/pairing name not independently checked. Keep separate from previously inventoried five-button JX-05 ring HW-0046.",
       "source": {
         "type": "photo",
-        "reference": "P-20261122-074"
+        "reference": "P-20261122-074",
+        "owner_confirmation": "User identified model as D01 (not D01 Pro), 2026-11-22"
       },
       "updated_on": "2026-11-22"
     },

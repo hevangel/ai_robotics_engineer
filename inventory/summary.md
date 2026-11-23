@@ -17,12 +17,12 @@ These are **record and photo counts**, not counts of verified working devices. A
 
 | ID | Item | Qty | Uploaded photo |
 | --- | --- | ---: | --- |
-| HW-0086 | Unbranded three-button Bluetooth scrolling ring with charging case | 1 | `1000063209.jpg` |
+| HW-0086 | D01 three-button Bluetooth scrolling ring with charging case | 1 | `1000063209.jpg` |
 | HW-0087 | Canon EOS 450D DSLR camera with mounted zoom lens | 1 | `1000063208.jpg` |
 | HW-0088 | Canon PowerShot S100 compact digital camera | 1 | `1000063207.jpg` |
 | HW-0089 | Canon Digital IXUS 700 compact digital camera | 1 | `1000063206.jpg` |
 
-**Ring note:** HW-0086 is a three-button D01 Pro-style ring with a charging case, exact model **not confirmed**; it is distinct from the five-button JX-05 ring HW-0046.
+**Ring note:** HW-0086 is an owner-confirmed **D01** three-button Bluetooth ring with charging case (manufacturer still unknown); it is distinct from the five-button JX-05 ring HW-0046.
 
 [Batch 013 details](batches/2026-11-22-013.md)
 
