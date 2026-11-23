@@ -3726,12 +3726,11 @@
         "Bare LED package pins not shown"
       ],
       "accessories": [],
-      "notes": "Exactly TEN loose bar-graph display packages arranged five rows by two columns. Each has 10 rectangular LED segment windows. Lower cases show pale side-printed K??-B10G text, but exact part number is not confidently verified, so leave model null. Color, forward voltage, pinout, common lead topology, and operating condition unknown. Photo 1000063264.jpg. A later photo 1000063272.jpg shows an organized bundle of ten 10-segment bar graphs in two rows of five, with silver side housings and a red protective foam strip. Probably the SAME ten components rephotographed from 1000063264.jpg (same count and style); do NOT add ten more to inventory without physical confirmation. Updated as additional evidence, not added quantity.",
+      "notes": "Exactly TEN loose bar-graph display packages arranged five rows by two columns. Each has 10 rectangular LED segment windows. Lower cases show pale side-printed K??-B10G text, but exact part number is not confidently verified, so leave model null. Color, forward voltage, pinout, common lead topology, and operating condition unknown. Photo 1000063264.jpg. Owner subsequently clarified photo 1000063272.jpg is DIFFERENT: it contains 10 four-segment and 10 seven-segment wide LED bar displays, now recorded separately as HW-0146/HW-0147. Do not associate P-20261122-129 with this 10-segment lot.",
       "condition": "unknown",
       "location": null,
       "photo_ids": [
-        "P-20261122-123",
-        "P-20261122-129"
+        "P-20261122-123"
       ],
       "connectivity": [],
       "source": {
@@ -4062,6 +4061,56 @@
       "source": {
         "type": "photo",
         "reference": "P-20261122-130"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0146",
+      "name": "Four-segment LED bar-graph display modules (red-foam bundle)",
+      "variant": "Four-bar, wide-face LED bar-graph packages; exact model, LED color and electrical pinout unknown",
+      "notes": "TEN four-bar LED bar-graph modules explicitly counted and identified by owner in red-foam bundle photo 1000063272.jpg. This type has a distinct face width and FOUR visible bar segments, not the earlier ten-segment K??-B10G lot HW-0133. Separately count the ten seven-bar displays in same foam bundle as HW-0147. No electrical testing, manufacturer, polarity, segment color or exact part numbers verified.",
+      "category": "display_component",
+      "manufacturer": null,
+      "model": null,
+      "quantity": 10,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-129"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "source": {
+        "type": "user_report",
+        "reference": "Owner explicitly corrected red-foam photograph 1000063272.jpg, distinguishing 10 modules with four bars and 10 with seven bars; photo P-20261122-129"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0147",
+      "name": "Seven-segment LED bar-graph display modules (red-foam bundle)",
+      "variant": "Seven-bar, wide-face LED bar-graph packages; exact model, LED color and electrical pinout unknown",
+      "notes": "TEN seven-bar LED bar-graph modules explicitly counted and identified by owner in red-foam bundle photo 1000063272.jpg. This distinct package width/segment count must not be merged with the ten four-bar displays HW-0146 or the earlier ten-segment bar graph lot HW-0133. No electrical testing, manufacturer, polarity, segment color or exact part numbers verified.",
+      "category": "display_component",
+      "manufacturer": null,
+      "model": null,
+      "quantity": 10,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-129"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "source": {
+        "type": "user_report",
+        "reference": "Owner explicitly corrected red-foam photograph 1000063272.jpg, distinguishing 10 modules with four bars and 10 with seven bars; photo P-20261122-129"
       },
       "updated_on": "2026-11-22"
     }
