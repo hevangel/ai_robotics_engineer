@@ -6295,6 +6295,201 @@
         "reference": "P-20261122-201"
       },
       "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0229",
+      "category": "interface_module",
+      "name": "Mini PWM DC motor speed controller modules (Diymore)",
+      "manufacturer": "Diymore",
+      "model": "Mini PWM Controller",
+      "variant": "Two identical black modules, each with a panel potentiometer and knob, a green terminal block on the pot side, a blue 4-screw terminal block (power in / motor out), an NE555 timer and a KIA50N03 MOSFET; backs silkscreened 'DM DIY MORE www.diymore.cc Mini PWM Controller' with + and - marks",
+      "quantity": 2,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-202",
+        "P-20261122-203"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "4-screw terminal block (power and motor)",
+        "Panel potentiometer with knob"
+      ],
+      "accessories": [],
+      "notes": "Fronts in 1000063365.jpg and backs in 1000063366.jpg - the same two modules on both sides (matching knobs and layout). These are the common Diymore 5-16 V / 10 A class mini PWM controllers for DC motors and LED dimming; the exact rating is not printed on the boards and is not claimed. Operational condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-202"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0230",
+      "category": "electromechanical_component",
+      "name": "130-size toy DC motor",
+      "manufacturer": null,
+      "model": null,
+      "variant": "One small silver flat-sided brushed DC motor with a short round shaft and two copper solder-tab terminals on the white plastic end cap; no markings",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-204"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Two solder-tab terminals"
+      ],
+      "accessories": [],
+      "notes": "One motor in 1000063367.jpg. The flat-sided can, end cap and shaft are the standard 130 toy-motor form factor (as used in the yellow TT gear motors and hobby kits); with no markings, the exact type (e.g. RE-130) and voltage are not claimed. Operational condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-204"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0231",
+      "category": "electromechanical_component",
+      "name": "N20 micro metal gear motor (GA12-N20 type)",
+      "manufacturer": null,
+      "model": null,
+      "variant": "One small DC gear motor in a clear zip bag: silver rectangular motor can with an exposed brass-and-steel multi-stage gearbox and a D-profile output shaft; a barcode sticker on the bag reads 050346 / B09-05-03 (retail label)",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-205",
+        "P-20261122-206"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Two solder terminals on the motor can (inside the bag)"
+      ],
+      "accessories": [],
+      "notes": "One motor photographed in its bag from both sides (1000063368.jpg and 1000063369.jpg, 22 seconds apart; the second shot shows the bag's retail label). The form factor is the GA12-N20 micro gear motor family; gear ratio and rated voltage cannot be determined from the photos. The bag's sticker numbers are a retail label, not recorded as a serial. Operational condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-205"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0232",
+      "category": "accessory",
+      "name": "Two-blade RC propeller, black",
+      "manufacturer": null,
+      "model": null,
+      "variant": "One black two-blade propeller in a clear zip bag, wide paddle-style blades with a centre hub hole; no size or pitch markings visible",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-207"
+      ],
+      "connectivity": [],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "One propeller in 1000063370.jpg. Diameter and pitch cannot be measured from the photo (no scale reference), so no size is recorded; the blade shape suits a small RC aircraft or large drone. It is far bigger than the nano-drone props of HW-0221.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-207"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0233",
+      "category": "electronics_kit",
+      "name": "28BYJ-48 stepper motor with ULN2003 driver board kit (X113647)",
+      "manufacturer": null,
+      "model": "28BYJ-48 + ULN2003 (X113647)",
+      "variant": "One 28BYJ-48 5V stepper motor (top label 'STEP MOTOR 28BYJ-48 5V DC 150673298', ROHS) with a 5-wire lead and white connector, beside one green ULN2003 driver board silkscreened X113647 with a DIP ULN2003 chip, IN1-IN7 header, four phase LEDs (A-D), 5-12V power pins and a white 5-pin motor socket",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-208"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "5-pin JST motor connector",
+        "IN1-IN7 control header on driver board"
+      ],
+      "accessories": [],
+      "notes": "Motor and driver photographed together as a kit in 1000063372.jpg. IDENTITY UNRESOLVED: the driver board is the same type as HW-0116 (green X113647-style ULN2003 board) and may be the same physical board re-photographed with a motor; the motor is the same model as HW-0228 but carries a different production code (150673298 vs 190420272), suggesting a second motor. Kept as a separate kit record pending owner confirmation; if the board is HW-0116's, the records should be merged. Operational condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-208"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0234",
+      "category": "interface_module",
+      "name": "2-channel 5V relay modules (Tongling JQC-3FF-S-Z)",
+      "manufacturer": "Tongling (relays)",
+      "model": null,
+      "variant": "Two identical black 2-channel relay modules, each with two blue Tongling JQC-3FF-S-Z relays marked '5VDC', '10A 250VAC', '15A 125VAC', two 817C optocouplers, JD-VCC/VCC jumper, IN1/IN2/GND/VCC header, status LEDs, and two 3-screw terminal blocks (NO/COM/NC per channel)",
+      "quantity": 2,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-209"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "4-pin control header (VCC, GND, IN1, IN2) with JD-VCC jumper",
+        "2x 3-screw terminal blocks (NO/COM/NC)"
+      ],
+      "accessories": [],
+      "notes": "Two modules side by side in 1000063374.jpg; relay case markings legible on all four relays. These are relay output modules - they switch external loads and are not power supplies. Operational condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-209"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0235",
+      "category": "expansion_board",
+      "name": "L293D motor control shields for Arduino (Adafruit Motor Shield v1 clones)",
+      "manufacturer": null,
+      "model": "Motor Shield v1 (L293D)",
+      "variant": "Two blue Arduino shields silkscreened 'motor control shield for arduino', each with two L293D H-bridge chips, one SN74HC595N shift register, screw terminals for M1-M4 motors, two servo headers (SERVO_1/SERVO_2), EXT_PWR terminal and reset button; the left board is the ladyada.net v1.0 layout, the right is silkscreened 'MH Electronics'",
+      "quantity": 2,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-210"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Arduino Uno shield headers",
+        "Screw terminals M1-M4 (4 DC motors or 2 steppers)",
+        "2x servo headers",
+        "External motor power terminal"
+      ],
+      "accessories": [],
+      "notes": "Two shields in 1000063375.jpg. Both are clones of the Adafruit Motor Shield v1 design (L293D x2 + 74HC595); chip markings L293D and SN74HC595N are legible. One record for the pair, with the two silkscreen brands noted in the variant. Operational condition unknown.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-210"
+      },
+      "updated_on": "2026-11-22"
     }
   ]
 }

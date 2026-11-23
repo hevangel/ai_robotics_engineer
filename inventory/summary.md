@@ -2,18 +2,34 @@
 
 ## Status at a glance
 
-- **Inventory records:** 228 item/lot/component records (parent assemblies and installed components linked)
-- **Records associated with photographs:** 220
-- **Photo-verified / owner-confirmed hardware:** 193 (some enclosed items owner-confirmed; no working-status implied)
+- **Inventory records:** 235 item/lot/component records (parent assemblies and installed components linked)
+- **Records associated with photographs:** 227
+- **Photo-verified / owner-confirmed hardware:** 200 (some enclosed items owner-confirmed; no working-status implied)
 - **Photo-supported / tentative identifications or packaging only:** 28
 - **Previously reported, not yet photographed:** 7
-- **Photo intake records:** 201
+- **Photo intake records:** 210
 
 These are **record and photo counts**, not counts of verified working devices. A photographed retail box does not establish that electronic contents are present unless separately confirmed.
 
 - **Records lacking direct item photographs:** 8 (some contents independently confirmed by owner)
 
-## Latest batch — 033 (9 photographs, 8 new records; servos, drivers, a stepper and a nano drone)
+## Latest batch — 034 (9 photographs, 7 new records; PWM controllers, small motors, relays, motor shields)
+
+| ID | Item | Quantity | Photo |
+| --- | --- | ---: | --- |
+| HW-0229 | Mini PWM DC motor speed controller modules (Diymore) | 2 | `1000063365.jpg`, `1000063366.jpg` |
+| HW-0230 | 130-size toy DC motor | 1 | `1000063367.jpg` |
+| HW-0231 | N20 micro metal gear motor (GA12-N20 type) | 1 | `1000063368.jpg`, `1000063369.jpg` |
+| HW-0232 | Two-blade RC propeller, black | 1 | `1000063370.jpg` |
+| HW-0233 | 28BYJ-48 stepper motor with ULN2003 driver board kit (X113647) | 1 | `1000063372.jpg` |
+| HW-0234 | 2-channel 5V relay modules (Tongling JQC-3FF-S-Z) | 2 | `1000063374.jpg` |
+| HW-0235 | L293D motor control shields for Arduino (Adafruit Motor Shield v1 clones) | 2 | `1000063375.jpg` |
+
+**Confidence notes:** High where print is legible: the Diymore PWM controllers (branded backs), the relay modules (relay case ratings), the motor shields (L293D + 74HC595 chips and silkscreen), and the stepper kit. The 130 motor, N20 gear motor and propeller carry no usable markings, so they are recorded by form factor (medium), with the N20's ratio/voltage and the propeller's size left unrecorded. One open question: HW-0233's driver board is the same type as HW-0116 and may be the same physical board — identity kept unresolved in its notes pending the owner's word. No working condition claimed. All nine photo binaries are stored in the repo (`photos/2026/11/`, EXIF stripped).
+
+[Batch 034 detail](batches/2026-11-22-034.md).
+
+## Earlier batch — 033 (9 photographs, 8 new records; servos, drivers, a stepper and a nano drone)
 
 | ID | Item | Quantity | Photo |
 | --- | --- | ---: | --- |

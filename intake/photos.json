@@ -2458,6 +2458,114 @@
         "HW-0228"
       ],
       "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-202",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-202.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 034: 1000063365.jpg (EXIF date 2026-11-22). Fronts of two black Diymore Mini PWM controller modules: potentiometers with knobs, NE555 and MOSFET visible, blue terminal blocks.",
+      "item_ids": [
+        "HW-0229"
+      ],
+      "notes": "Fronts of the same two modules whose backs are P-20261122-203. Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-203",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-203.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 034: 1000063366.jpg (EXIF date 2026-11-22). Backs of the two PWM controllers: 'DM DIY MORE www.diymore.cc Mini PWM Controller' silkscreen, + and - marks.",
+      "item_ids": [
+        "HW-0229"
+      ],
+      "notes": "Backs of the modules in P-20261122-202. Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-204",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-204.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 034: 1000063367.jpg (EXIF date 2026-11-22). One small silver 130-size toy DC motor, flat-sided can, two solder tabs, no markings.",
+      "item_ids": [
+        "HW-0230"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-205",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-205.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 034: 1000063368.jpg (EXIF date 2026-11-22). One N20 micro metal gear motor in a zip bag: exposed gearbox, D-shaft.",
+      "item_ids": [
+        "HW-0231"
+      ],
+      "notes": "Same bagged motor as P-20261122-206, photographed from the other side. Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-206",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-206.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 034: 1000063369.jpg (EXIF date 2026-11-22). The bagged N20 gear motor from the label side: barcode sticker 050346 / B09-05-03 (retail label).",
+      "item_ids": [
+        "HW-0231"
+      ],
+      "notes": "Same motor as P-20261122-205. Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-207",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-207.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 034: 1000063370.jpg (EXIF date 2026-11-22). One black two-blade RC propeller in a zip bag; no size markings visible.",
+      "item_ids": [
+        "HW-0232"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-208",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-208.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 034: 1000063372.jpg (EXIF date 2026-11-22). A 28BYJ-48 stepper motor beside a green ULN2003 driver board (X113647): motor top label, driver chip, LEDs and connectors legible.",
+      "item_ids": [
+        "HW-0233"
+      ],
+      "notes": "Possible overlap with HW-0116 (driver board) unresolved - see HW-0233 notes. Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-209",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-209.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 034: 1000063374.jpg (EXIF date 2026-11-22). Two black 2-channel 5V relay modules with blue Tongling JQC-3FF-S-Z relays and optocouplers.",
+      "item_ids": [
+        "HW-0234"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
+    },
+    {
+      "id": "P-20261122-210",
+      "captured_on": "2026-11-22",
+      "processed_on": "2026-11-22",
+      "file": "photos/2026/11/P-20261122-210.jpg",
+      "asset_status": "stored",
+      "source_description": "Batch 034: 1000063375.jpg (EXIF date 2026-11-22). Two blue L293D motor control shields for Arduino (ladyada v1.0 layout and MH Electronics), L293D and 74HC595 chips legible.",
+      "item_ids": [
+        "HW-0235"
+      ],
+      "notes": "Binary stored in the repo with EXIF stripped."
     }
   ]
 }
