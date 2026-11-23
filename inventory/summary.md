@@ -4,16 +4,16 @@
 
 - **Inventory records:** 193 item/lot/component records (parent assemblies and installed components linked)
 - **Records associated with photographs:** 184
-- **Photo-verified / owner-confirmed hardware:** 154 (some enclosed items owner-confirmed; no working-status implied)
-- **Photo-supported / tentative identifications or packaging only:** 32
+- **Photo-verified / owner-confirmed hardware:** 155 (some enclosed items owner-confirmed; no working-status implied)
+- **Photo-supported / tentative identifications or packaging only:** 31
 - **Previously reported, not yet photographed:** 7
-- **Photo intake records:** 158
+- **Photo intake records:** 159
 
 These are **record and photo counts**, not counts of verified working devices. A photographed retail box does not establish that electronic contents are present unless separately confirmed.
 
 - **Records lacking direct item photographs:** 9 (some contents independently confirmed by owner)
 
-## Latest batch — 024 (6 photographs; 11 new records; exact DIP markings prioritized)
+## Latest batch — 024 (7 photographs including one follow-up, 11 new records; exact DIP markings prioritized)
 
 | IDs | Item or lot | Quantity | Photo |
 | --- | --- | ---: | --- |
@@ -22,16 +22,16 @@ These are **record and photo counts**, not counts of verified working devices. A
 | HW-0185 | Handheld 17-key infrared remote control (numeric and navigation) | 1 | `1000063304.jpg` |
 | HW-0186 | Three-pin infrared remote receiver breakout module with jumper leads | 1 | `1000063304.jpg` |
 | HW-0187 | 4N35 phototransistor optocouplers, DIP-6 white package | 2 | `1000063301.jpg` |
-| HW-0188 | Unidentified black 16-pin DIP integrated circuits, top foam | 2 | `1000063301.jpg` |
+| HW-0188 | NXP `74HC595N` 8-bit shift-register ICs, DIP-16 | 2 | `1000063301.jpg`, `1000063308.jpg` |
 | HW-0189 | Unidentified black DIP integrated circuit, lower foam horizontal | 1 | `1000063301.jpg` |
 | HW-0190 | Unidentified black DIP integrated circuit, lower foam vertical | 1 | `1000063301.jpg` |
 | HW-0191 | Unidentified small black 8-pin DIP integrated circuit, lower foam | 1 | `1000063301.jpg` |
 | HW-0192 | MAX7219CNG LED-matrix driver integrated circuits in two storage tubes | Unknown (2 tubes) | `1000063303.jpg` |
 | HW-0193 | Texas Instruments SN74HC595N 8-bit shift register ICs, DIP-16 | 10 | `1000063302.jpg` |
 
-**Definite part markings:** Ten TI `SN74HC595N` DIP-16 shift registers (HW-0193); two `4N35` optocouplers (HW-0187); and `MAX7219CNG` DIP-24 display-driver chips in two plastic tubes (HW-0192). The exact MAX7219 chip count remains **unknown** because the two tubes conceal/overlap individual chips, so the quantity is null, not two.
+**Definite part markings:** Two NXP `74HC595N` DIP-16 shift registers (HW-0188); ten TI `SN74HC595N` DIP-16 shift registers (HW-0193); two `4N35` optocouplers (HW-0187); and `MAX7219CNG` DIP-24 display-driver chips in two plastic tubes (HW-0192). The exact MAX7219 chip count remains **unknown** because the two tubes conceal/overlap individual chips, so the quantity is null, not two.
 
-**Five unreadable black DIP chips:** two upper-foam ICs (HW-0188), one lower horizontal (HW-0189), one lower long/vertical (HW-0190), and one small DIP-8 (HW-0191). These markings need an improved photo. No speculative chip IDs were entered.
+**Three remaining unreadable black DIP chips:** one lower horizontal (HW-0189), one lower long/vertical (HW-0190), and one small DIP-8 (HW-0191). The two upper-foam ICs are now verified as NXP `74HC595N` from close-up `1000063308.jpg` (HW-0188). No speculative chip IDs were entered.
 
 **Other photographic hardware:** ten 3-pin optical slotted modules (HW-0183), two UART-style TX/RX level interface boards (HW-0184), one IR remote (HW-0185), one IR receiver board with adjacent jumper lead accessories (HW-0186).
 
