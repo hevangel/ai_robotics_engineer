@@ -4,15 +4,15 @@ A photo-driven catalog for IoT hardware, Arduino-compatible boards, Raspberry Pi
 
 ## Current inventory snapshot (2026-11-22)
 
-- **47** hardware inventory entries, including kits, enclosures, prototyping equipment and power accessories
-- **39** unique photographs inspected and logged (some photos show multiple items; some items appear in multiple photos)
-- **40** catalog entries linked to photographs; **7** previously reported items still await photos
-- **Next available hardware ID: `HW-0048`**
-- **Latest update:** Buddy Paint Art marker, solder sucker, MG Chemicals rosin flux pen, JX-05 Bluetooth ring remote and Google Daydream View retail box
+- **49** hardware inventory entries, including kits, enclosures, prototyping equipment and power accessories
+- **42** unique photographs inspected and logged (some photos show multiple items; some items appear in multiple photos)
+- **43** catalog entries linked to photographs; **6** previously reported items still await photos
+- **Next available hardware ID: `HW-0050`**
+- **Latest update:** photographed existing Ryze Tello drone with prop guards; added boxed 2.4 GHz wireless microphone kit and ATUVOS Apple Find My trackers
 
-[Batch 001](inventory/batches/2026-11-22-001.md) · [Batch 002](inventory/batches/2026-11-22-002.md) · [Batch 003](inventory/batches/2026-11-22-003.md) · [Batch 004](inventory/batches/2026-11-22-004.md) · [Batch 005](inventory/batches/2026-11-22-005.md) · [Batch 006](inventory/batches/2026-11-22-006.md) · [Batch 007](inventory/batches/2026-11-22-007.md)
+[Batch 001](inventory/batches/2026-11-22-001.md) · [Batch 002](inventory/batches/2026-11-22-002.md) · [Batch 003](inventory/batches/2026-11-22-003.md) · [Batch 004](inventory/batches/2026-11-22-004.md) · [Batch 005](inventory/batches/2026-11-22-005.md) · [Batch 006](inventory/batches/2026-11-22-006.md) · [Batch 007](inventory/batches/2026-11-22-007.md) · [Batch 008](inventory/batches/2026-11-22-008.md)
 
-**Photo-storage note:** All 39 unique JPGs are still conversation attachments; the repository currently stores their descriptive evidence log, not their original image binaries. Do not treat filenames in the log as GitHub-hosted images.
+**Photo-storage note:** All 42 unique JPGs are still conversation attachments; the repository currently stores their descriptive evidence log, not their original image binaries. Do not treat filenames in the log as GitHub-hosted images.
 
 ## Inventory
 

@@ -1,6 +1,6 @@
 # Photo evidence index
 
-**Last updated:** 2026-11-22. **Photos logged: 39.** This file indexes the actual photographs received in the ChatGPT conversation, but **does not contain the JPG images**. Original image assets have not been copied to GitHub. The canonical relationship between photo IDs and hardware IDs is in [the JSON intake log](../intake/photos.json).
+**Last updated:** 2026-11-22. **Photos logged: 42.** This file indexes the actual photographs received in the ChatGPT conversation, but **does not contain the JPG images**. Original image assets have not been copied to GitHub. The canonical relationship between photo IDs and hardware IDs is in [the JSON intake log](../intake/photos.json).
 
 | Photo ID | Conversation image filename | Related hardware ID(s) | Description |
 | --- | --- | --- | --- |
@@ -47,9 +47,13 @@
 | `P-20261122-038` | `1000063170.jpg` | `HW-0046` | Black JX-05 wearable Bluetooth ring remote and instruction leaflet beside transparent case |
 | `P-20261122-039` | `1000063171.jpg` | `HW-0047` | Google Daydream View VR Headset retail package, printed headset image |
 
+| `P-20261122-040` | `1000063172.jpg` | `HW-0007` | Ryze Tello white-bodied quadcopter seen from above with four propellers and four semicircular prop guards |
+| `P-20261122-041` | `1000063173.jpg` | `HW-0048` | Retail box labeled WIRELESS MICROPHONE with 2.4G mark; product images show dual clip-on mics and receiver with mobile connectors |
+| `P-20261122-042` | `1000063174.jpg` | `HW-0049` | ATUVOS retail box with four tracker illustrations and Apple Find My compatible mark, plus button-cell hazard warning |
+
 ## Batch notes
 
-[Batch 001](../inventory/batches/2026-11-22-001.md) · [Batch 002](../inventory/batches/2026-11-22-002.md) · [Batch 003](../inventory/batches/2026-11-22-003.md) · [Batch 004](../inventory/batches/2026-11-22-004.md) · [Batch 005](../inventory/batches/2026-11-22-005.md) · [Batch 006](../inventory/batches/2026-11-22-006.md) · [Batch 007](../inventory/batches/2026-11-22-007.md)
+[Batch 001](../inventory/batches/2026-11-22-001.md) · [Batch 002](../inventory/batches/2026-11-22-002.md) · [Batch 003](../inventory/batches/2026-11-22-003.md) · [Batch 004](../inventory/batches/2026-11-22-004.md) · [Batch 005](../inventory/batches/2026-11-22-005.md) · [Batch 006](../inventory/batches/2026-11-22-006.md) · [Batch 007](../inventory/batches/2026-11-22-007.md) · [Batch 008](../inventory/batches/2026-11-22-008.md)
 
 ## Next action to make the catalog self-contained
 

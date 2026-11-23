@@ -2,16 +2,28 @@
 
 ## Status at a glance
 
-- **Inventory records:** 47 distinct hardware item/lot records
-- **Records associated with photographs:** 40
-- **Photo-verified / owner-confirmed visible hardware:** 30
-- **Photo-supported but packaging only / tentative:** 10
-- **Previously reported, not yet photographed:** 7
-- **Photo intake records:** 39
+- **Inventory records:** 49 distinct hardware item/lot records
+- **Records associated with photographs:** 43
+- **Photo-verified / owner-confirmed visible hardware:** 31
+- **Photo-supported but packaging only / tentative:** 12
+- **Previously reported, not yet photographed:** 6
+- **Photo intake records:** 42
 
 These are **record and photo counts**, not counts of verified working devices. A photographed retail box does not establish that electronic contents are present unless separately confirmed.
 
-## Latest batch — 007 (5 photos)
+## Latest batch — 008 (3 photos)
+
+| ID | Item | Quantity | Evidence |
+| --- | --- | --- | --- |
+| HW-0007 | Ryze Tello drone | 1 drone | Existing item; photographed with 4 prop guards |
+| HW-0048 | 2.4 GHz wireless microphone kit | 1 box | Dual-mic package illustration; contents unverified |
+| HW-0049 | ATUVOS Apple Find My trackers | 1 box | 4 trackers depicted; actual contents unverified |
+
+The Tello was already cataloged, so **HW-0007** was updated rather than duplicated. The mic and tracker retail boxes do not establish actual contents or functional status. The ATUVOS box depicts four tags, but the number of trackers inside has not been confirmed.
+
+[Batch 008 evidence](batches/2026-11-22-008.md)
+
+## Earlier batch — 007 (5 photos)
 
 | ID | Item | Quantity | Evidence |
 | --- | --- | --- | --- |

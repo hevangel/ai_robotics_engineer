@@ -473,6 +473,42 @@
         "HW-0047"
       ],
       "notes": "Retail packaging only; physical headset/controller not shown. Original chat JPG not yet stored in GitHub."
+    },
+    {
+      "id": "P-20261122-040",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Uploaded photo 1000063172.jpg: Ryze Tello white-bodied quadcopter seen from above with four propellers and four semicircular prop guards.",
+      "item_ids": [
+        "HW-0007"
+      ],
+      "notes": "Existing Tello record updated, one drone. Battery/condition not visible. Original JPG remains a chat upload and is not stored in the repository."
+    },
+    {
+      "id": "P-20261122-041",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Uploaded photo 1000063173.jpg: Retail box labeled WIRELESS MICROPHONE with 2.4G mark; product images show dual clip-on mics and receiver with mobile connectors.",
+      "item_ids": [
+        "HW-0048"
+      ],
+      "notes": "Box only; exact components inside unverified. Original JPG remains a chat upload and is not stored in the repository."
+    },
+    {
+      "id": "P-20261122-042",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Uploaded photo 1000063174.jpg: ATUVOS retail box with four tracker illustrations and Apple Find My compatible mark, plus button-cell hazard warning.",
+      "item_ids": [
+        "HW-0049"
+      ],
+      "notes": "Box only; advertised/illustrated four trackers not verified physically present. Original JPG remains a chat upload and is not stored in the repository."
     }
   ]
 }

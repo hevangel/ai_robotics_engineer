@@ -149,23 +149,30 @@
     {
       "id": "HW-0007",
       "category": "robotics_drone",
-      "name": "Tello drone",
+      "name": "Ryze Tello quadcopter drone",
       "manufacturer": "Ryze Tech",
       "model": "Tello",
       "variant": null,
-      "quantity": null,
+      "quantity": 1,
       "condition": "unknown",
       "location": null,
-      "verification_status": "reported_unverified",
-      "identification_confidence": "not_assessed",
-      "photo_ids": [],
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-040"
+      ],
       "connectivity": [],
-      "interfaces": [],
-      "accessories": [],
-      "notes": "Previously mentioned as owned; photograph drone, batteries, and charging accessories.",
+      "interfaces": [
+        "4 rotor motors with attached two-blade propellers",
+        "Built-in body camera (Tello product family; not clearly visible in this top view)"
+      ],
+      "accessories": [
+        "4 fitted black propeller guards"
+      ],
+      "notes": "One Ryze Tello quadcopter directly photographed from above with white Tello-branded body, four mounted propellers and four black semi-circular propeller guards. Previously inventoried by owner as HW-0007; this photo confirms the physical drone and updates the same entry, not a duplicate. Battery is not visible and no flight/power test is shown. Owner had earlier mentioned a drained/dead battery after acquiring the Tello; current battery condition and whether any charger/extra batteries are present remain unknown. Do not assert flight readiness.",
       "source": {
-        "type": "prior_conversation",
-        "reference": null
+        "type": "photo",
+        "reference": "P-20261122-040"
       },
       "updated_on": "2026-11-22"
     },
@@ -1292,6 +1299,60 @@
       "source": {
         "type": "photo",
         "reference": "P-20261122-039"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0048",
+      "category": "audio",
+      "name": "2.4 GHz wireless microphone kit (unbranded)",
+      "manufacturer": null,
+      "model": null,
+      "variant": "Box depicts 2 clip-on microphones and a multi-connector receiver; exact kit SKU unverified",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_tentative",
+      "identification_confidence": "medium",
+      "photo_ids": [
+        "P-20261122-041"
+      ],
+      "connectivity": [
+        "2.4 GHz wireless (printed on packaging; not tested)"
+      ],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "One white retail package photographed. Front says 'WIRELESS MICROPHONE', includes '2.4G' logo and printed images of what appear to be two clip-on wireless mic transmitters plus a receiver with multiple mobile-device connector options (USB-C, Lightning and/or 3.5 mm depicted, exact physical ports not verified). Usage pictograms: Live show, Vlog short video, Interview. Brand, model, transmitter count, receiver connector types, actual kit contents, charging accessories and function unknown because box remains unopened in photo. Record one package, NOT two confirmed microphones.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-041"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0049",
+      "category": "smart_tracker",
+      "name": "ATUVOS Apple Find My-compatible item trackers (boxed)",
+      "manufacturer": "ATUVOS",
+      "model": null,
+      "variant": "Packaging depicts 4 key-fob trackers; physical number and exact model unverified",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_tentative",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-042"
+      ],
+      "connectivity": [
+        "Apple Find My-compatible (printed on box; pairing not tested)"
+      ],
+      "interfaces": [],
+      "accessories": [],
+      "notes": "One ATUVOS retail carton photographed with ATUVOS name, four printed tracker illustrations and 'Works with Apple Find My' mark. Warning text states battery/button-cell ingestion hazard. The photo only establishes one package; it suggests a 4-tracker set but does NOT verify the package actually contains four trackers or any batteries. Exact SKU, model, battery type, individual tracker count and working/paired status unknown. Keep out of reach of children if button/coin cells present.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-042"
       },
       "updated_on": "2026-11-22"
     }
