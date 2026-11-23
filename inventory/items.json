@@ -2504,6 +2504,60 @@
         "reference": "P-20261122-077"
       },
       "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0090",
+      "category": "cable",
+      "name": "Gray flat IDC ribbon cable with two female connectors",
+      "manufacturer": null,
+      "model": null,
+      "variant": "Gray flat parallel-conductor ribbon with red conductor-one stripe, folded in a loop and terminated in black IDC-style socket connectors at both ends",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-078"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Female IDC-style multi-position rectangular connector on each end; exact number of contacts, pitch and keying not confirmed"
+      ],
+      "accessories": [],
+      "notes": "One gray flat ribbon-cable assembly folded in an upright loop; the two black IDC-style sockets are opposite ends of the SAME cable, not two separate items. Red edge stripe conventionally denotes conductor one, but connector orientation and pin assignments have not been electrically checked. The exact pin count and suitable application (GPIO, ISP, JTAG etc.) cannot be established safely from the image. Distinct from the long rainbow 40-pin GPIO ribbon cable HW-0036 and the programmer's associated cable HW-0081. Photo 1000063210.jpg.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-078"
+      },
+      "updated_on": "2026-11-22"
+    },
+    {
+      "id": "HW-0091",
+      "category": "cable",
+      "name": "Rainbow female-to-female Dupont jumper wire bundle",
+      "manufacturer": null,
+      "model": null,
+      "variant": "Multicolor loose single-conductor flexible jumpers with black female Dupont-style socket housings at both ends",
+      "quantity": 1,
+      "condition": "unknown",
+      "location": null,
+      "verification_status": "photo_verified",
+      "identification_confidence": "high",
+      "photo_ids": [
+        "P-20261122-079"
+      ],
+      "connectivity": [],
+      "interfaces": [
+        "Single-position female Dupont-style connectors on each end of each jumper; likely 2.54 mm prototyping format, exact pitch not measured"
+      ],
+      "accessories": [],
+      "notes": "One bundle/lot of multiple rainbow-colored female-to-female jumper wires. Both ends appear to have individual black female jumper connector housings; photographed bundled together. The count of individual jumper leads, wire gauge and length were not reliably established; quantity 1 means one bundle, not one wire and not an assumed 40-pack. Distinct from HW-0036's GPIO ribbon assembly, HW-0037's bare single-core wire samples, HW-0041's white multipin plug-to-Dupont lead bundle, and the flying test-probe leads HW-0039. Photo 1000063211.jpg.",
+      "source": {
+        "type": "photo",
+        "reference": "P-20261122-079"
+      },
+      "updated_on": "2026-11-22"
     }
   ]
 }

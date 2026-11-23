@@ -2,18 +2,29 @@
 
 ## Status at a glance
 
-- **Inventory records:** 89 item/lot/component records (parent assemblies and installed components linked)
-- **Records associated with photographs:** 81
-- **Photo-verified / owner-confirmed hardware:** 70 (includes 2 previously owner-confirmed boards not directly photographed)
+- **Inventory records:** 91 item/lot/component records (parent assemblies and installed components linked)
+- **Records associated with photographs:** 83
+- **Photo-verified / owner-confirmed hardware:** 72 (includes 2 previously owner-confirmed boards not directly photographed)
 - **Photo-supported but packaging only / tentative:** 13
 - **Previously reported, not yet photographed:** 6
-- **Photo intake records:** 77
+- **Photo intake records:** 79
 
 These are **record and photo counts**, not counts of verified working devices. A photographed retail box does not establish that electronic contents are present unless separately confirmed.
 
 - **Records lacking direct item photographs:** 8 (including 2 owner-confirmed enclosed/installed components)
 
-## Latest batch — 013 (4 photos)
+## Latest batch — 014 (2 photos)
+
+| ID | Item | Qty | Uploaded photo |
+| --- | --- | --- | --- |
+| HW-0090 | Gray flat IDC ribbon cable, female–female | 1 cable | `1000063210.jpg` |
+| HW-0091 | Rainbow Dupont jumper wire bundle, female–female | 1 bundle (wire count unknown) | `1000063211.jpg` |
+
+**Counting:** HW-0090 is one looped IDC cable; HW-0091 is one bundle of jumper wires, individual wire count unverified.
+
+[Batch 014 details](batches/2026-11-22-014.md)
+
+## Earlier batch — 013 (4 photos)
 
 | ID | Item | Qty | Uploaded photo |
 | --- | --- | ---: | --- |

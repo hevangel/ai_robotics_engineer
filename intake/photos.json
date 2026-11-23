@@ -933,6 +933,30 @@
         "HW-0089"
       ],
       "notes": "IXUS 700 and 7.1 megapixels printed on body; three-times zoom. Original JPG remains a conversation attachment; it is not yet copied into GitHub."
+    },
+    {
+      "id": "P-20261122-078",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 014 photo 1/2, uploaded filename 1000063210.jpg: One gray flat IDC ribbon cable loop with black female connectors at both ends",
+      "item_ids": [
+        "HW-0090"
+      ],
+      "notes": "Count as one folded cable assembly, not two. Exact IDC connector contact count unknown. Original JPG still in this conversation; GitHub has metadata only."
+    },
+    {
+      "id": "P-20261122-079",
+      "captured_on": null,
+      "processed_on": "2026-11-22",
+      "file": null,
+      "asset_status": "not_stored",
+      "source_description": "Batch 014 photo 2/2, uploaded filename 1000063211.jpg: One bundle of rainbow individual female-to-female Dupont jumper leads",
+      "item_ids": [
+        "HW-0091"
+      ],
+      "notes": "Count as one wire bundle; individual wire count and exact pitch not yet verified. Original JPG still in this conversation; GitHub has metadata only."
     }
   ]
 }
